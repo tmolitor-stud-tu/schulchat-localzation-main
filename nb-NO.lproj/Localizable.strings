@@ -151,10 +151,10 @@
 "Access message archives on the server." = "Access message archives on the server.";
 "Active chat but no messages found in history for %@." = "Active chat but no messages found in history for %@.";
 "Add new contacts with the + button above. Your friends will pop up here when they can talk" = "Add new contacts with the + button above. Your friends will pop up here when they can talk";
-"All messages are archived by default." = "All messages are archived by default.";
+"All messages are archived by default." = "Alle meldinger arkiveres som forvalg.";
 "Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject." = "Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject.";
-"Apple Push Service" = "Apple Push Service";
-"Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Apple push service should always be on. If it is off, your device can not talk to Apple's server.";
+"Apple Push Service" = "Apple Push-tjeneste";
+"Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Apple push-tjeneste skal alltid være påslått. Hvis den er av kan ikke enheten din snakke til Apple sin tjener.";
 "Archive only if the contact is in roster" = "Archive only if the contact is in roster";
 "Auto Join" = "Auto Join";
 "Automatically send when you were online" = "Automatically send when you were online";

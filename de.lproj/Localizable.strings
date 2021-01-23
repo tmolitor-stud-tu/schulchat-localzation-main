@@ -411,8 +411,8 @@
 "Clear omemo session" = "OMEMO-Sitzung löschen";
 "Show URL previews" = "URL-Vorschau anzeigen";
 /* shareViewController: recipient */
-"Recipient" = "Recipient";
-"Appserver error" = "Appserver error";
-"Appserver returned invalid data" = "Appserver returned invalid data";
-"Error registering push" = "Error registering push";
-"Images" = "Images";
+"Recipient" = "Empfänger";
+"Appserver error" = "Appserver-Fehler";
+"Appserver returned invalid data" = "Appserver hat ungültige Daten zurückgegeben";
+"Error registering push" = "Fehler beim Registrieren von Push";
+"Images" = "Bilder";

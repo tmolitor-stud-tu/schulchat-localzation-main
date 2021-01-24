@@ -416,3 +416,24 @@
 "Appserver returned invalid data" = "Appserver returned invalid data";
 "Error registering push" = "Error registering push";
 "Images" = "Images";
+"Allow" = "Allow";
+"Block" = "Block";
+"Blocked Users" = "Blocked Users";
+"Blocking is not supported by the server" = "Blocking is not supported by the server";
+"Blocking not supported" = "Blocking not supported";
+"Duplicate Account" = "Duplicate Account";
+"Enter the jid that you want to block" = "Enter the jid that you want to block";
+/* MLJoinGroupViewController - Group Password Form */
+"Group Password" = "Group Password";
+"Group requires a password" = "Group requires a password";
+"Input is not a valid jid" = "Input is not a valid jid";
+/* Join GroupViewController - HUD */
+"Joining Group" = "Joining Group";
+"Monal  uses your location when you send a location message in a conversation." = "Monal  uses your location when you send a location message in a conversation.";
+"OK" = "OK";
+"The server does not support blocking" = "The server does not support blocking";
+"This account already exists on this instance" = "This account already exists on this instance";
+/* Join GroupViewController - Join Group HUD */
+"Trying to join group" = "Trying to join group";
+/* BlockUserTable - blockJidForm */
+"user@example.org/resource" = "user@example.org/resource";

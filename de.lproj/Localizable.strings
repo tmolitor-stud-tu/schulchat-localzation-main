@@ -416,24 +416,24 @@
 "Appserver returned invalid data" = "Appserver hat ungültige Daten zurückgegeben";
 "Error registering push" = "Fehler beim Registrieren von Push";
 "Images" = "Bilder";
-"Allow" = "Allow";
-"Block" = "Block";
-"Blocked Users" = "Blocked Users";
-"Blocking is not supported by the server" = "Blocking is not supported by the server";
-"Blocking not supported" = "Blocking not supported";
-"Duplicate Account" = "Duplicate Account";
-"Enter the jid that you want to block" = "Enter the jid that you want to block";
+"Allow" = "Erlauben";
+"Block" = "Blockieren";
+"Blocked Users" = "Blockierte Benutzer";
+"Blocking is not supported by the server" = "Blockieren wird vom Server nicht unterstützt";
+"Blocking not supported" = "Blockieren wird nicht unterstützt";
+"Duplicate Account" = "Konto duplizieren";
+"Enter the jid that you want to block" = "Gib die JID ein, die du blockieren möchtest";
 /* MLJoinGroupViewController - Group Password Form */
-"Group Password" = "Group Password";
-"Group requires a password" = "Group requires a password";
-"Input is not a valid jid" = "Input is not a valid jid";
+"Group Password" = "Gruppenpasswort";
+"Group requires a password" = "Gruppe erfordert ein Passwort";
+"Input is not a valid jid" = "Eingabe ist keine gültige JID";
 /* Join GroupViewController - HUD */
-"Joining Group" = "Joining Group";
-"Monal  uses your location when you send a location message in a conversation." = "Monal  uses your location when you send a location message in a conversation.";
+"Joining Group" = "Gruppenchat wird beigetreten";
+"Monal  uses your location when you send a location message in a conversation." = "Monal verwendet deinen Standort, wenn du in einer Unterhaltung eine Standortnachricht sendest.";
 "OK" = "OK";
-"The server does not support blocking" = "The server does not support blocking";
-"This account already exists on this instance" = "This account already exists on this instance";
+"The server does not support blocking" = "Der Server unterstützt das Blockieren nicht";
+"This account already exists on this instance" = "Dieses Konto existiert bereits auf dieser Instanz";
 /* Join GroupViewController - Join Group HUD */
-"Trying to join group" = "Trying to join group";
+"Trying to join group" = "Versuchen, der Gruppe beizutreten";
 /* BlockUserTable - blockJidForm */
-"user@example.org/resource" = "user@example.org/resource";
+"user@example.org/resource" = "benutzer@beispiel.org/ressource";

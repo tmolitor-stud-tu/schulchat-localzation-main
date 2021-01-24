@@ -411,29 +411,29 @@
 "Clear omemo session" = "Ștergere sesiune OMEMO";
 "Show URL previews" = "Afișare previzualizări legături";
 /* shareViewController: recipient */
-"Recipient" = "Recipient";
-"Appserver error" = "Appserver error";
-"Appserver returned invalid data" = "Appserver returned invalid data";
-"Error registering push" = "Error registering push";
-"Images" = "Images";
-"Allow" = "Allow";
-"Block" = "Block";
-"Blocked Users" = "Blocked Users";
-"Blocking is not supported by the server" = "Blocking is not supported by the server";
-"Blocking not supported" = "Blocking not supported";
-"Duplicate Account" = "Duplicate Account";
-"Enter the jid that you want to block" = "Enter the jid that you want to block";
+"Recipient" = "Destinatar";
+"Appserver error" = "Eroare a serverului de aplicație";
+"Appserver returned invalid data" = "Serverului de aplicație a returnat date invalide";
+"Error registering push" = "Eroare la înregistrarea push";
+"Images" = "Imagini";
+"Allow" = "Permite";
+"Block" = "Blocare";
+"Blocked Users" = "Utilizatori blocați";
+"Blocking is not supported by the server" = "Blocarea nu este suportată de server";
+"Blocking not supported" = "Blocarea nu este suportată";
+"Duplicate Account" = "Cont duplicat";
+"Enter the jid that you want to block" = "Introduceți adresa XMPP pe care doriți să o blocați";
 /* MLJoinGroupViewController - Group Password Form */
-"Group Password" = "Group Password";
-"Group requires a password" = "Group requires a password";
-"Input is not a valid jid" = "Input is not a valid jid";
+"Group Password" = "Parolă grup";
+"Group requires a password" = "Grupul necesită o parolă";
+"Input is not a valid jid" = "Datele introduse nu sunt o adresa XMPP validă";
 /* Join GroupViewController - HUD */
-"Joining Group" = "Joining Group";
-"Monal  uses your location when you send a location message in a conversation." = "Monal  uses your location when you send a location message in a conversation.";
-"OK" = "OK";
-"The server does not support blocking" = "The server does not support blocking";
-"This account already exists on this instance" = "This account already exists on this instance";
+"Joining Group" = "Alăturare grupului";
+"Monal  uses your location when you send a location message in a conversation." = "Monal vă utilizează locația atunci când trimiteți un mesaj de locație într-o conversație.";
+"OK" = "Bine";
+"The server does not support blocking" = "Serverul nu suportă blocarea";
+"This account already exists on this instance" = "Acest cont există deja în această instanță";
 /* Join GroupViewController - Join Group HUD */
-"Trying to join group" = "Trying to join group";
+"Trying to join group" = "Încercare să vă alăturați grupului";
 /* BlockUserTable - blockJidForm */
-"user@example.org/resource" = "user@example.org/resource";
+"user@example.org/resource" = "utilizator@examplu.ro/resursa";

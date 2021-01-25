@@ -5,23 +5,23 @@
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "29t-GS-Yof"; */
 "29t-GS-Yof.title" = "Lukk";
 /* Class = "UILabel"; text = "yax.im is a public server, not affiliated with Monal. This page is provided for convenience. "; ObjectID = "arw-q8-u8I"; */
-"arw-q8-u8I.text" = "yax.im is a public server, not affiliated with Monal. This page is provided for convenience. ";
+"arw-q8-u8I.text" = "yax.im er en offentlig tjener, som ikke har tilknytning til Monal. Denne siden tilbys i beleilighetsøyemed. ";
 /* Class = "UIButton"; normalTitle = "Start Chatting"; ObjectID = "c04-pS-Uoi"; */
-"c04-pS-Uoi.normalTitle" = "Start Chatting";
+"c04-pS-Uoi.normalTitle" = "Begynn å sludre";
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "c9v-kP-ocC"; */
-"c9v-kP-ocC.normalTitle" = "Register";
+"c9v-kP-ocC.normalTitle" = "Registrer";
 /* Class = "UILabel"; text = "Like email, you can make your account on many sites and talk to anyone. You can use this form to make an account with yax.im.  "; ObjectID = "DfQ-Vo-v2C"; */
-"DfQ-Vo-v2C.text" = "Like email, you can make your account on many sites and talk to anyone. You can use this form to make an account with yax.im.  ";
+"DfQ-Vo-v2C.text" = "Som for e-post, kan du lage en konto på mange sider og snakke med hvem som helst. Du kan bruke dette skjemaet for å lage en konto på yax.im.  ";
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "dpn-up-7bR"; */
 "dpn-up-7bR.normalTitle" = "Register";
 /* Class = "UILabel"; text = "Congratulations!"; ObjectID = "eEG-v1-Mb2"; */
 "eEG-v1-Mb2.text" = "Gratulerer";
 /* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Gth-vl-n15"; */
-"Gth-vl-n15.normalTitle" = "Login";
+"Gth-vl-n15.normalTitle" = "Logg inn";
 /* Class = "UIButton"; normalTitle = "Terms of service"; ObjectID = "hyG-BH-GJV"; */
-"hyG-BH-GJV.normalTitle" = "Terms of service";
+"hyG-BH-GJV.normalTitle" = "Tjenestevilkår";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aD8"; */
-"iLC-4b-aD8.title" = "Item";
+"iLC-4b-aD8.title" = "Element";
 /* Class = "UITextField"; placeholder = "Account@something.com"; ObjectID = "ktr-DL-MYt"; */
 "ktr-DL-MYt.placeholder" = "konto@eksempel.no";
 /* Class = "UITextField"; placeholder = "Password"; ObjectID = "Qrh-pK-XJH"; */

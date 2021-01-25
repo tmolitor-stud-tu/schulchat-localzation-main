@@ -1,0 +1,20 @@
+"Allow %@ to contact you?" = "Ijinkan %@ untuk menghubungi anda?";
+"All messages are archived by default." = "Semua pesan diarsipkan secara otomatis.";
+"Advanced Settings" = "Pengaturan lanjutan";
+"Advanced" = "Lanjutan";
+"Add new contacts with the + button above. Your friends will pop up here when they can talk" = "Tambahkan kontak baru dengan tombol + di atas. Teman Anda akan terlihat di sini saat mereka bisa berbicara";
+"Add New Account" = "Tambah kontak baru";
+"Add %@ to your contacts?" = "Tambah %@ ke kontak anda?";
+"Add Contact" = "Tambah kontak";
+"Active chat but no messages found in history for %@." = "Percakapan aktif tetapi tidak ditemukan pesan dalam riwayat untuk %@.";
+"Accounts With Logs" = "Akun dengan log";
+"Accounts" = "Akun";
+"Account: %@" = "Akun: %@";
+"Account To Use" = "Akun untuk digunakan";
+"Account Exists" = "Akun ada";
+/* ShareViewController: Account */
+"Account" = "Akun";
+"Access message archives on the server." = "Akses arsip pesan di server.";
+"Accept" = "Terima";
+"About" = "Tentang";
+"[This message is OMEMO encrypted]" = "[Pesan ini dienkripsi menggunakan OMEMO]";

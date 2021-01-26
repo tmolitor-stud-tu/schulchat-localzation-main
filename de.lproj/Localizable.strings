@@ -99,7 +99,7 @@
 "Resume a stream when disconnected. Results in faster reconnect and saves battery life." = "Wiederaufnahme eines Streams, wenn die Verbindung getrennt wird. Führt zu einer schnelleren Wiederaufnahme der Verbindung und spart Akkulaufzeit.";
 "Resources" = "Ressourcen";
 "Resource" = "Ressource";
-"ReplyButton" = "Antwort-Button";
+"ReplyButton" = "Antwort-Knopf";
 "Reply" = "Antworten";
 "Remove Contact" = "Kontakt entfernen";
 "Remove %@ from contacts?" = "%@ aus den Kontakten entfernen?";
@@ -130,7 +130,7 @@
 "Password cannot be empty" = "Passwort darf nicht leer sein";
 "Password" = "Passwort";
 "Participants" = "Teilnehmer";
-"Open Source" = "Open Source";
+"Open Source" = "Quelloffen";
 "Online" = "Online";
 "Ok" = "Ok";
 "Offline Contacts" = "Offline-Kontakte";
@@ -256,11 +256,11 @@
 "Backgrounds" = "Hintergründe";
 "Away" = "Abwesend";
 "Automatically send when you were online" = "Automatisch senden, wann du online warst";
-"Auto Join" = "Automatisch Beitreten";
+"Auto Join" = "Automatisch beitreten";
 "Archive only if the contact is in roster" = "Nur archivieren, wenn der Kontakt in der Kontaktliste ist";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Apple Push-Dienst sollte immer aktiviert sein. Wenn er deaktiviert ist, kann dein Gerät nicht mit den Apple-Servern sprechen.";
 "Apple Push Service" = "Apple Push-Dienst";
-"App" = "App";
+"App" = "Anwendung";
 "Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject." = "Wenn du jemandem erlaubst, dich als Kontakt hinzuzufügen, kann er sehen, wann du online bist. Es erlaubt dir auch, verschlüsselte Nachrichten zu senden. Tippen zum Genehmigen. Wischen zum Ablehnen.";
 "Allow %@ to contact you?" = "%@ erlauben dich zu kontaktieren?";
 "All messages are archived by default." = "Alle Nachrichten werden standardmäßig archiviert.";

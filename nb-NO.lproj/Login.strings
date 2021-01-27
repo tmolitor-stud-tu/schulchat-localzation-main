@@ -13,7 +13,7 @@
 /* Class = "UILabel"; text = "Like email, you can make your account on many sites and talk to anyone. You can use this form to make an account with yax.im.  "; ObjectID = "DfQ-Vo-v2C"; */
 "DfQ-Vo-v2C.text" = "Som for e-post, kan du lage en konto på mange sider og snakke med hvem som helst. Du kan bruke dette skjemaet for å lage en konto på yax.im.  ";
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "dpn-up-7bR"; */
-"dpn-up-7bR.normalTitle" = "Register";
+"dpn-up-7bR.normalTitle" = "Registrer";
 /* Class = "UILabel"; text = "Congratulations!"; ObjectID = "eEG-v1-Mb2"; */
 "eEG-v1-Mb2.text" = "Gratulerer";
 /* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Gth-vl-n15"; */

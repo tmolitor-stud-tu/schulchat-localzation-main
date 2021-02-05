@@ -2,8 +2,8 @@
 "%ld (This device)" = "%ld (This device)";
 "(autojoin)" = "(autojoin)";
 "[This message is OMEMO encrypted]" = "[This message is OMEMO encrypted]";
-"About" = "About";
-"Accept" = "Accept";
+"About" = "Σχετικά";
+"Accept" = "Αποδοχή";
 "Access message archives on the server." = "Access message archives on the server.";
 /* ShareViewController: Account */
 "Account" = "Account";
@@ -35,13 +35,13 @@
 "call screen did disappear" = "call screen did disappear";
 "Camera" = "Camera";
 "Can Show Notifications" = "Can Show Notifications";
-"Cancel" = "Cancel";
+"Cancel" = "Ακύρωση";
 "Change Password" = "Change Password";
 "Chat Backgrounds" = "Chat Backgrounds";
 "Chat for free with your friends, colleagues and family!" = "Chat for free with your friends, colleagues and family!";
 "Chat Logs" = "Chat Logs";
 "Choices Galore" = "Choices Galore";
-"Close" = "Close";
+"Close" = "Κλείσιμο";
 "Connected" = "Connected";
 "Connected since: %@" = "Connected since: %@";
 "Connection Details" = "Connection Details";
@@ -74,8 +74,8 @@
 "Favorite" = "Favorite";
 "Favorite Group Chats (MUC). Tap to join. " = "Favorite Group Chats (MUC). Tap to join. ";
 "from" = "from";
-"General" = "General";
-"Got it!" = "Got it!";
+"General" = "Γενικά";
+"Got it!" = "Το 'πιασα!";
 "GPS" = "GPS";
 "Group Chat" = "Group Chat";
 "Group Chat Invite" = "Group Chat Invite";
@@ -157,7 +157,7 @@
 "Please make sure at least one account has connected before trying to message someone." = "Please make sure at least one account has connected before trying to message someone.";
 "Please make sure you are connected before changing your password." = "Please make sure you are connected before changing your password.";
 "Please make sure you have entered a username, password." = "Please make sure you have entered a username, password.";
-"Port" = "Port";
+"Port" = "Θύρα";
 "Port: %@, Is Secure: %@, Prio: %@" = "Port: %1$@, Is Secure: %2$@, Prio: %3$@";
 "Presence" = "Presence";
 "Privacy" = "Privacy";
@@ -262,9 +262,9 @@
 "Use your existing account or make a new one on the many servers around the world" = "Use your existing account or make a new one on the many servers around the world";
 "Using Account: %@" = "Using Account: %@";
 "Validate certificate" = "Validate certificate";
-"Version" = "Version";
-"Version %@ (%@ %@ UTC)" = "Version %1$@ (%2$@ %3$@ UTC)";
-"Version %@ (%@)" = "Version %1$@ (%2$@)";
+"Version" = "Έκδοση";
+"Version %@ (%@ %@ UTC)" = "Έκδοση %1$@ (%2$@ %3$@ UTC)";
+"Version %@ (%@)" = "Έκδοση %1$@ (%2$@)";
 "View Images Received" = "View Images Received";
 "Waiting for GPS signal" = "Waiting for GPS signal";
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet." = "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.";
@@ -299,8 +299,8 @@
 "Name: " = "Name: ";
 "Os: " = "Os: ";
 "Software Version" = "Software Version";
-"Version: " = "Version: ";
-"Could not synchronize" = "Could not synchronize";
+"Version: " = "Έκδοση: ";
+"Could not synchronize" = "Δεν ήταν δυνατός ο συγχρονισμός";
 "Please open the app to retry" = "Please open the app to retry";
 /* mac only string */
 "Scroll down to load more messages" = "Scroll down to load more messages";

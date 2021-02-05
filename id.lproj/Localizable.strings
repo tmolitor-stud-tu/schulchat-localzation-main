@@ -18,16 +18,16 @@
 "Accept" = "Terima";
 "About" = "Tentang";
 "[This message is OMEMO encrypted]" = "[Pesan ini dienkripsi menggunakan OMEMO]";
-"%@ (Pending Approval)" = "%@ (Pending Approval)";
-"%ld (This device)" = "%ld (This device)";
-"(autojoin)" = "(autojoin)";
+"%@ (Pending Approval)" = "%@ (Menunggu persetujuan)";
+"%ld (This device)" = "%ld (Perangkat ini)";
+"(autojoin)" = "(otomatis bergabung)";
 "Account (%@)" = "Account (%@)";
 "Account (new)" = "Account (new)";
 "Allow" = "Allow";
 "Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject." = "Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject.";
 "Already uploading this content, ignoring" = "Already uploading this content, ignoring";
 "Always archive" = "Always archive";
-"App" = "App";
+"App" = "Aplikasi";
 "Apple Push Service" = "Apple Push Service";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Apple push service should always be on. If it is off, your device can not talk to Apple's server.";
 "Appserver error" = "Appserver error";
@@ -35,29 +35,29 @@
 "Archive chat" = "Archive chat";
 "Archive only if the contact is in contact list" = "Archive only if the contact is in contact list";
 "Automatically fetch previews of received links" = "Automatically fetch previews of received links";
-"Automatically send when you were online" = "Automatically send when you were online";
-"Backgrounds" = "Backgrounds";
+"Automatically send when you were online" = "Kirim otomatis saat Anda online";
+"Backgrounds" = "Latarbelakang";
 "Block" = "Block";
-"Block Sender" = "Block Sender";
+"Block Sender" = "Blokir pengirim";
 "Blocked Users" = "Blocked Users";
 "Blocking is not supported by the server" = "Blocking is not supported by the server";
 "Blocking not supported" = "Blocking not supported";
 "call screen did disappear" = "call screen did disappear";
-"Camera" = "Camera";
-"Can Show Notifications" = "Can Show Notifications";
+"Camera" = "Kamera";
+"Can Show Notifications" = "Dapat Menampilkan Notifikasi";
 "Can't convert the image to jpeg format." = "Can't convert the image to jpeg format.";
-"Cancel" = "Cancel";
-"Change Password" = "Change Password";
-"Chat Backgrounds" = "Chat Backgrounds";
-"Chat for free with your friends, colleagues and family!" = "Chat for free with your friends, colleagues and family!";
-"Chat Logs" = "Chat Logs";
-"Choices Galore" = "Choices Galore";
+"Cancel" = "Batalkan";
+"Change Password" = "Ganti kata sandi";
+"Chat Backgrounds" = "Latar belakang percakapan";
+"Chat for free with your friends, colleagues and family!" = "Ngobrol gratis dengan teman, kolega, dan keluarga Anda!";
+"Chat Logs" = "Log percakapan";
+"Choices Galore" = "Banyak pilihan";
 "Clear Chat History" = "Clear Chat History";
 /* DEBUG - ContactDetails */
 "Clear omemo session" = "Clear omemo session";
-"Close" = "Close";
-"Connected since: %@" = "Connected since: %@";
-"Connection Details" = "Connection Details";
+"Close" = "Tutup";
+"Connected since: %@" = "Terhubung sejak: %@";
+"Connection Details" = "Detil sambungan";
 "Contact Jid" = "Contact Jid";
 "Contacts" = "Contacts";
 "Contacts are usually in the format: username@dom.ain" = "Contacts are usually in the format: username@dom.ain";
@@ -73,7 +73,7 @@
 "Could not request registration form. Please check your internet connection and try again." = "Could not request registration form. Please check your internet connection and try again.";
 "Could not synchronize" = "Could not synchronize";
 "Could not upload file" = "Could not upload file";
-"Decline" = "Decline";
+"Decline" = "Tolak";
 "Default chat backgrounds are from the Ubuntu project." = "Default chat backgrounds are from the Ubuntu project.";
 "Delete" = "Delete";
 "Delete Account" = "Delete Account";
@@ -91,8 +91,8 @@
 "Email Support" = "Email Support";
 "Enabled" = "Enabled";
 "Encrypted message was sent in an older format Monal can't decrypt. Please ask them to update their client. (GCM error)" = "Encrypted message was sent in an older format Monal can't decrypt. Please ask them to update their client. (GCM error)";
-"Encryption Keys" = "Encryption Keys";
-"Encryption Not Supported" = "Encryption Not Supported";
+"Encryption Keys" = "Kunci enkripsi";
+"Encryption Not Supported" = "Tidak Mendukung Enkripsi";
 "Enter the jid that you want to block" = "Enter the jid that you want to block";
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies.";
 "Error" = "Error";
@@ -113,7 +113,7 @@
 "GPS" = "GPS";
 "Group Chat" = "Group Chat";
 "Group Chat Invite" = "Group Chat Invite";
-"Group Information" = "Group Information";
+"Group Information" = "Informasi Grup";
 /* MLJoinGroupViewController - Group Password Form */
 "Group Password" = "Group Password";
 "Group requires a password" = "Group requires a password";
@@ -132,7 +132,7 @@
 "Invalid Credentials" = "Invalid Credentials";
 /* QR-Code-Scanner: invalid format */
 "Invalid format" = "Invalid format";
-"Invalid username" = "Invalid username";
+"Invalid username" = "Nama pengguna salah";
 /* QR-Code-Scanner: Camera not found */
 "It does not seem as your device has a camera. Please use a device with a camera for scanning" = "It does not seem as your device has a camera. Please use a device with a camera for scanning";
 "Jabber, Prosody, ejabberd etc.   " = "Jabber, Prosody, ejabberd etc.   ";
@@ -220,8 +220,8 @@
 "Please open the app to retry" = "Please open the app to retry";
 "Port" = "Port";
 "Port: %@, Is Secure: %@, Prio: %@" = "Port: %1$@, Is Secure: %2$@, Prio: %3$@";
-"Privacy" = "Privacy";
-"Privacy Settings" = "Privacy Settings";
+"Privacy" = "Privasi";
+"Privacy Settings" = "Pengaturan Privasi";
 /* MLLoginView: QR-Code Button iOS12 only */
 "QR" = "QR";
 "QR-Code Scanner" = "QR-Code Scanner";
@@ -317,7 +317,7 @@
 "This will clear the whole chat history of this account from this device." = "This will clear the whole chat history of this account from this device.";
 "This will remove this account and the associated data from this device." = "This will remove this account and the associated data from this device.";
 /* Join GroupViewController - Join Group HUD */
-"Trying to join group" = "Trying to join group";
+"Trying to join group" = "Mencoba bergabung dengan grup";
 "Typing..." = "Typing...";
 "Unable to connect to server!" = "Unable to connect to server!";
 "Unblock Sender" = "Unblock Sender";
@@ -331,7 +331,7 @@
 "Uploading file to server" = "Uploading file to server";
 "Use your existing account or make a new one on the many servers around the world" = "Use your existing account or make a new one on the many servers around the world";
 /* BlockUserTable - blockJidForm */
-"user@example.org/resource" = "user@example.org/resource";
+"user@example.org/resource" = "pengguna@contoh.com/sumber";
 "Username missing" = "Username missing";
 "Using Account: %@" = "Using Account: %@";
 "Version" = "Version";
@@ -385,3 +385,27 @@
 "Monal" = "Monal";
 /* shareViewController: recipient */
 "Recipient" = "Recipient";
+"Presence" = "Kehadiran";
+"Please make sure at least one account has connected before trying to message someone." = "Pastikan setidaknya satu akun telah terhubung sebelum mencoba mengirim pesan kepada seseorang.";
+"Offline Contacts" = "Kontak Offline";
+"Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Notifikasi berubah di iOS 13 karena beberapa perubahan iOS. Untuk saat ini Anda hanya akan melihat sesuatu yang mengatakan ada pesan baru dan bukan teks atau siapa pengirimnya. Saya memutuskan untuk melakukan ini sehingga Anda memiliki perpesanan yang andal sementara saya bekerja untuk memperbarui Monal hingga mendapatkan kembali pengalaman lama.";
+"Notification Changes" = "Perubahan notifikasi";
+"Nickname" = "Nama panggilan";
+"Message Preview" = "Pratinjau Pesan";
+"Message can't be empty" = "Pesan tidak boleh kosong";
+"Message" = "Pesan";
+"Log Chats" = "Log percakapan";
+"Jabber ID" = "ID Jabber";
+"Hide Chat" = "Sembunyikan percakapan";
+"Got it!" = "Mengerti!";
+"from" = "Dari";
+"Favorite" = "Favorit";
+"Display Settings" = "Pengaturan layar";
+"Display" = "Tampilan";
+"Contacts are usually in the format: username@domain.something" = "Kontak biasanya dalam format: nama@contoh.com";
+"Contact Name" = "Nama kontak";
+"Connected" = "Terhubung";
+"Block %@ from contacting you?" = "Blokir %@ dari menghubungi Anda?";
+"Away" = "Jauh";
+"Auto Join" = "Otomatis bergabung";
+"Archive only if the contact is in roster" = "Arsipkan hanya jika kontak ada dalam daftar kontak";

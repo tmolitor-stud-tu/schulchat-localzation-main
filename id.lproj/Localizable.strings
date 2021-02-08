@@ -45,7 +45,7 @@
 "call screen did disappear" = "call screen did disappear";
 "Camera" = "Kamera";
 "Can Show Notifications" = "Dapat Menampilkan Notifikasi";
-"Can't convert the image to jpeg format." = "Can't convert the image to jpeg format.";
+"Can't convert the image to jpeg format." = "Tidak dapat mengonversi gambar ke format jpeg.";
 "Cancel" = "Batalkan";
 "Change Password" = "Ganti kata sandi";
 "Chat Backgrounds" = "Latar belakang percakapan";
@@ -80,11 +80,11 @@
 "Direct TLS" = "TLS langsung";
 "Disable Encryption" = "Nonaktifkan Enkripsi";
 "Disconnected" = "Terputus";
-"Display Name" = "Display Name";
-"Display Name And Message" = "Display Name And Message";
-"Display Only Name" = "Display Only Name";
-"Display Only Placeholder" = "Display Only Placeholder";
-"Domain missing" = "Domain missing";
+"Display Name" = "Tampilkan nama";
+"Display Name And Message" = "Tampilkan nama dan pesan";
+"Display Only Name" = "Tampailkan nama saja";
+"Display Only Placeholder" = "Tampilkan Hanya Placeholder";
+"Domain missing" = "Domain hilang";
 "Download error" = "Download error";
 "Draft: %@" = "Konsep: %@";
 "Duplicate Account" = "Duplicate Account";
@@ -135,7 +135,7 @@
 "Invalid username" = "Nama pengguna salah";
 /* QR-Code-Scanner: Camera not found */
 "It does not seem as your device has a camera. Please use a device with a camera for scanning" = "It does not seem as your device has a camera. Please use a device with a camera for scanning";
-"Jabber, Prosody, ejabberd etc.   " = "Jabber, Prosody, ejabberd etc.   ";
+"Jabber, Prosody, ejabberd etc.   " = "Jabber, Prosody, ejabberd dan lain-lain.   ";
 "Join" = "Join";
 /* Join GroupViewController - HUD */
 "Joining Group" = "Joining Group";
@@ -149,8 +149,8 @@
 "Last seen: 1 minute ago" = "Terakhir terlihat: 1 menit lalu";
 "Leave Conversation" = "Meninggalkan percakapan";
 "Leave this converstion?" = "Tinggalkan percakapan?";
-"Loading more Messages from Server" = "Loading more Messages from Server";
-"Loading omemo bundles" = "Loading omemo bundles";
+"Loading more Messages from Server" = "Memuat lebih banyak Pesan dari Server";
+"Loading omemo bundles" = "Memuat bundel omemo";
 "Loading omemo bundles: %@ / %@" = "Loading omemo bundles: %1$@ / %2$@";
 "Location Access Needed" = "Memerlukan akses lokasi";
 "Log" = "Log";
@@ -161,7 +161,7 @@
 "Mark as read" = "Mark as read";
 "Message Archive Pref" = "Message Archive Pref";
 "Message from %@" = "Pesan dari %@";
-"Message was encrypted with omemo and can't be decrypted anymore" = "Message was encrypted with omemo and can't be decrypted anymore";
+"Message was encrypted with omemo and can't be decrypted anymore" = "Pesan telah dienkripsi dengan omemo dan tidak dapat didekripsi lagi";
 "Message was not encrypted for this device. Please make sure the sender trusts deviceid %d and that they have you as a contact." = "Message was not encrypted for this device. Please make sure the sender trusts deviceid %d and that they have you as a contact.";
 "Messages never archived by default." = "Messages never archived by default.";
 "Monal  uses your location when you send a location message in a conversation." = "Monal  uses your location when you send a location message in a conversation.";
@@ -173,7 +173,7 @@
 "My Encryption Keys" = "My Encryption Keys";
 "My Keys" = "My Keys";
 "Name can't be empty" = "Nama tidak boleh kosong";
-"Name: " = "Name: ";
+"Name: " = "Nama: ";
 "Neither can see keys." = "Tidak ada yang bisa melihat kunci.";
 "Never archive" = "Never archive";
 "New Account" = "New Account";
@@ -184,18 +184,18 @@
 "No Contact Selected" = "No Contact Selected";
 "No Empty Values" = "No Empty Values";
 "No enabled account found" = "No enabled account found";
-"No further error description" = "No further error description";
+"No further error description" = "Tidak ada deskripsi kesalahan lebih lanjut";
 "No GPS location received" = "No GPS location received";
 "No groups yet" = "No groups yet";
 "No one is here" = "No one is here";
-"No search result." = "No search result.";
+"No search result." = "Tidak ada hasil pencarian.";
 "no supported auth mechanism, disconnecting!" = "no supported auth mechanism, disconnecting!";
 "Not Authorized. Please check your credentials." = "Not Authorized. Please check your credentials.";
 "Nothing to see" = "Nothing to see";
-"Notification" = "Notification";
+"Notification" = "Notifikasi";
 "Notification Settings" = "Pengaturan Notifikasi";
 "Notifications" = "Notifikasi";
-"now" = "now";
+"now" = "Sekarang";
 "OK" = "OK";
 "Ok" = "Ok";
 "Online" = "Online";
@@ -203,7 +203,7 @@
 "Only shareable for now" = "Only shareable for now";
 "Open app to see more" = "Open app to see more";
 "Open Source" = "Open Source";
-"Os: " = "Os: ";
+"Os: " = "OS: ";
 "Participants" = "Partisipan";
 "Password" = "Kata sandi";
 "Password cannot be empty" = "Kata sandi tidak boleh kosong";
@@ -261,9 +261,9 @@
 "Send Typing Notifications" = "Kirim notifikasi pengetikan";
 "Sending..." = "Sending...";
 "Sent" = "Sent";
-"Sent a File 📁" = "Sent a File 📁";
+"Sent a File 📁" = "Kirim file 📁";
 "Sent a Link 🔗" = "Kirim tautan 🔗";
-"Sent a Location 📍" = "Sent a Location 📍";
+"Sent a Location 📍" = "Kirim lokasi 📍";
 "Sent an Image 📷" = "Kirimkan gambar 📷";
 "Server" = "Server";
 "Server returned invalid xml!" = "Server returned invalid xml!";
@@ -312,7 +312,7 @@
 "This account already exists in Monal." = "This account already exists in Monal.";
 "This account already exists on this instance" = "This account already exists on this instance";
 "This contact does not appear to have any devices that support encryption." = "This contact does not appear to have any devices that support encryption.";
-"This message failed to send (%@): %@" = "This message failed to send (%1$@): %2$@";
+"This message failed to send (%@): %@" = "pesan ini gagal dikirim (%1$@): %2$@";
 "This server does not appear to support HTTP file uploads (XEP-0363). Please ask the administrator to enable it." = "This server does not appear to support HTTP file uploads (XEP-0363). Please ask the administrator to enable it.";
 "This will clear the whole chat history of this account from this device." = "This will clear the whole chat history of this account from this device.";
 "This will remove this account and the associated data from this device." = "This will remove this account and the associated data from this device.";
@@ -332,7 +332,7 @@
 "Use your existing account or make a new one on the many servers around the world" = "Use your existing account or make a new one on the many servers around the world";
 /* BlockUserTable - blockJidForm */
 "user@example.org/resource" = "pengguna@contoh.com/sumber";
-"Username missing" = "Username missing";
+"Username missing" = "Nama pengguna hilang";
 "Using Account: %@" = "Using Account: %@";
 "Version" = "Version";
 "Version %@ (%@ %@ UTC)" = "Version %1$@ (%2$@ %3$@ UTC)";
@@ -358,8 +358,8 @@
 "XMPP Account Info Error" = "XMPP Account Info Error";
 "XMPP Bind Error" = "XMPP Bind Error";
 "XMPP Disco Info Error" = "XMPP Disco Info Error";
-"XMPP ID" = "XMPP ID";
-"XMPP ID missing" = "XMPP ID missing";
+"XMPP ID" = "ID XMPP";
+"XMPP ID missing" = "ID XMPP hilang";
 "XMPP mam preferences error" = "XMPP mam preferences error";
 "XMPP Roster Error" = "XMPP Roster Error";
 "XMPP stream error %@: %@" = "XMPP stream error %1$@: %2$@";
@@ -378,7 +378,7 @@
 "Your entered XMPP ID is missing the domain" = "Your entered XMPP ID is missing the domain";
 "Your entered XMPP ID is missing the username" = "Your entered XMPP ID is missing the username";
 "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup.";
-"📁 A File" = "📁 A File";
+"📁 A File" = "📁 sebuah file";
 "📍 A Location" = "📍 A Location";
 "📷 An Image" = "📷 An Image";
 "🔗 A Link" = "🔗 A Link";
@@ -421,3 +421,19 @@
 "Recipient Name" = "Nama penerima";
 "Recently Seen" = "Baru saja terlihat";
 "Rebuild Tokens" = "Buat Ulang Token";
+"This message failed to send." = "Pesan ini gagal dikirim";
+"Copy" = "Salin";
+"Delete Locally" = "Hapus secara lokal";
+"Edit" = "Sunting";
+"Image encryption error" = "Kesalahan enkripsi gambar";
+"My Name/Nickname" = "Nama/Panggilan";
+"Can't convert the image to png file." = "Tidak dapat mengonversi gambar ke file png.";
+"Software Version" = "Versi perangkat lunak";
+"Skip" = "Lewati";
+"Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old expereince back." = "Notifikasi telah berubah di iOS 13 karena beberapa perubahan iOS. Untuk saat ini Anda hanya akan melihat sesuatu yang mengatakan ada pesan baru dan bukan teks atau siapa yang mengirimnya. Saya memutuskan untuk melakukan ini hingga Anda memiliki perpesanan yang andal sementara saya bekerja untuk memperbarui Monal untuk mendapatkan kembali pengalaman lama.";
+"Validate certificate" = "Validasi sertifikat";
+"Unnamed" = "Tanpa nama";
+"Unable to connect to server" = "Tidak dapat terhubung ke server";
+"This sender will no longer be able to contact you" = "Pengirim ini tidak dapat lagi menghubungi Anda";
+"This sender will be able to send you messages" = "Pengirim ini akan dapat berkirim pesan ke anda";
+"There was an error uploading the file to the server" = "Terjadi kesalahan saat mengunggah file ke server";

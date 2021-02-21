@@ -295,11 +295,11 @@
 "The account has been deleted" = "Akun telah dihapus";
 "The account has been saved" = "Akun telah disimpan";
 "The chat history has been cleared" = "The chat history has been cleared";
-"The new contact will be added to your contacts list when the person you've added has approved your request." = "The new contact will be added to your contacts list when the person you've added has approved your request.";
-"The password has been changed" = "The password has been changed";
+"The new contact will be added to your contacts list when the person you've added has approved your request." = "Kontak baru akan ditambahkan ke daftar kontak Anda ketika orang yang Anda tambahkan menyetujui permintaan Anda.";
+"The password has been changed" = "Kata sandi telah diubah";
 "The server does not support blocking" = "The server does not support blocking";
-"The username does not need to have an @ symbol. Please try again." = "The username does not need to have an @ symbol. Please try again.";
-"There is no configured email account. Please email info@monal.im ." = "There is no configured email account. Please email info@monal.im .";
+"The username does not need to have an @ symbol. Please try again." = "Nama pengguna tidak perlu memiliki simbol @. Silakan coba lagi.";
+"There is no configured email account. Please email info@monal.im ." = "Tidak ada akun email yang dikonfigurasi. Silakan hubungi info@monal.im .";
 "There was a SASL error on the server." = "There was a SASL error on the server.";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person.";
 "These are SRV resource records found for your domain" = "These are SRV resource records found for your domain";

@@ -436,3 +436,24 @@
 "Trying to join group" = "Trying to join group";
 /* BlockUserTable - blockJidForm */
 "user@example.org/resource" = "user@example.org/resource";
+"Account %@" = "Account %@";
+"Auto-Download Media" = "Auto-Download Media";
+"Automatic media download" = "Automatic media download";
+"Changing Password" = "Changing Password";
+"Check type and size on " = "Check type and size on ";
+/* DEBUG - XMPPEdit */
+"Clear own omemo session" = "Clear own omemo session";
+"Download" = "Download";
+"Error entering groupchat" = "Error entering groupchat";
+"Failed to enter groupchat %@" = "Failed to enter groupchat %@";
+"Failed to enter groupchat %@: This is not a groupchat!" = "Failed to enter groupchat %@: This is not a groupchat!";
+"File" = "File";
+"Groupchat error" = "Groupchat error";
+"Loading Data" = "Loading Data";
+"Open" = "Open";
+/* OmemoQrCodeView */
+"To many device keys" = "To many device keys";
+/* OmemoQrCodeView */
+"You have to many enabled devices on this account. You need to remove some devices" = "You have to many enabled devices on this account. You need to remove some devices";
+"Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!" = "Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!";
+"Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!";

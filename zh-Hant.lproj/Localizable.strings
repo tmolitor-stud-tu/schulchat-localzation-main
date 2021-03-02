@@ -416,7 +416,7 @@
 "Appserver returned invalid data" = "Appserver returned invalid data";
 "Error registering push" = "Error registering push";
 "Images" = "Images";
-"Allow" = "Allow";
+"Allow" = "允許";
 "Block" = "Block";
 "Blocked Users" = "Blocked Users";
 "Blocking is not supported by the server" = "Blocking is not supported by the server";

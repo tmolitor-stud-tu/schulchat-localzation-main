@@ -26,7 +26,7 @@
 "Apple Push Service" = "Apple Push Service";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Apple push service should always be on. If it is off, your device can not talk to Apple's server.";
 "Archive only if the contact is in roster" = "Archive only if the contact is in roster";
-"Auto Join" = "Auto Join";
+"Auto Join" = "Автоматическое присоединение";
 "Automatically send when you were online" = "Automatically send when you were online";
 "Away" = "Away";
 "Backgrounds" = "Backgrounds";
@@ -93,7 +93,7 @@
 "Invalid Credentials" = "Invalid Credentails";
 "Invalid username" = "Invalid username";
 "Jabber ID" = "Jabber ID";
-"Join" = "Join";
+"Join" = "Присоединиться";
 "Just seen" = "Just seen";
 "Last seen: %d days ago" = "Last seen: %d days ago";
 "Last seen: %d hours ago" = "Last seen: %d hours ago";
@@ -415,42 +415,42 @@
 "Appserver returned invalid data" = "Appserver returned invalid data";
 "Error registering push" = "Error registering push";
 "Images" = "Images";
-"Allow" = "Allow";
-"Block" = "Block";
-"Blocked Users" = "Blocked Users";
-"Blocking is not supported by the server" = "Blocking is not supported by the server";
-"Blocking not supported" = "Blocking not supported";
-"Duplicate Account" = "Duplicate Account";
+"Allow" = "Разрешить";
+"Block" = "Заблокировать";
+"Blocked Users" = "Заблокированные пользователи";
+"Blocking is not supported by the server" = "Блокировка не поддерживается сервером";
+"Blocking not supported" = "Блокировка не поддерживается";
+"Duplicate Account" = "Дубликат аккаунта";
 "Enter the jid that you want to block" = "Enter the jid that you want to block";
 /* MLJoinGroupViewController - Group Password Form */
-"Group Password" = "Group Password";
+"Group Password" = "Пароль группы";
 "Group requires a password" = "Group requires a password";
 "Input is not a valid jid" = "Input is not a valid jid";
 /* Join GroupViewController - HUD */
-"Joining Group" = "Joining Group";
+"Joining Group" = "Присоединиться к группе";
 "Monal  uses your location when you send a location message in a conversation." = "Monal  uses your location when you send a location message in a conversation.";
-"OK" = "OK";
-"The server does not support blocking" = "The server does not support blocking";
+"OK" = "ОК";
+"The server does not support blocking" = "Сервер не поддерживает блокировку";
 "This account already exists on this instance" = "This account already exists on this instance";
 /* Join GroupViewController - Join Group HUD */
-"Trying to join group" = "Trying to join group";
+"Trying to join group" = "Попытка присоединиться к группе";
 /* BlockUserTable - blockJidForm */
 "user@example.org/resource" = "user@example.org/resource";
-"Account %@" = "Account %@";
+"Account %@" = "Аккаунт %@";
 "Auto-Download Media" = "Auto-Download Media";
-"Automatic media download" = "Automatic media download";
-"Changing Password" = "Changing Password";
+"Automatic media download" = "Автоматическая загрузка мультимедиа";
+"Changing Password" = "Изменить пароль";
 "Check type and size on " = "Check type and size on ";
 /* DEBUG - XMPPEdit */
 "Clear own omemo session" = "Clear own omemo session";
-"Download" = "Download";
+"Download" = "Скачать";
 "Error entering groupchat" = "Error entering groupchat";
 "Failed to enter groupchat %@" = "Failed to enter groupchat %@";
 "Failed to enter groupchat %@: This is not a groupchat!" = "Failed to enter groupchat %@: This is not a groupchat!";
-"File" = "File";
+"File" = "Файл";
 "Groupchat error" = "Groupchat error";
-"Loading Data" = "Loading Data";
-"Open" = "Open";
+"Loading Data" = "Загрузка данных";
+"Open" = "Открыть";
 /* OmemoQrCodeView */
 "To many device keys" = "To many device keys";
 /* OmemoQrCodeView */

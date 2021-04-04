@@ -1,9 +1,11 @@
 "%@ (Pending Approval)" = "%@ (Pending Approval)";
+"%@ says:" = "%@ says:";
 "%ld (This device)" = "%ld (This device)";
 "(autojoin)" = "(autojoin)";
 "About" = "About";
 "Accept" = "Accept";
 "Access message archives on the server." = "Access message archives on the server.";
+"Account %@" = "Account %@";
 "Account (%@)" = "Account (%@)";
 "Account (new)" = "Account (new)";
 "Account Exists" = "Account Exists";
@@ -29,8 +31,14 @@
 "Appserver returned invalid data" = "Appserver returned invalid data";
 "Archive chat" = "Archive chat";
 "Archive only if the contact is in contact list" = "Archive only if the contact is in contact list";
-"Automatically fetch previews of received links" = "Automatically fetch previews of received links";
-"Automatically send when you were online" = "Automatically send when you were online";
+"Audio recoder init fail." = "Audio recoder init fail.";
+"Audio recoder prepareToRecord fail." = "Audio recoder prepareToRecord fail.";
+"Audio Recoder recode fail" = "Audio Recoder recode fail";
+"Audio recoder record fail." = "Audio recoder record fail.";
+"Audio Recoder set active error: %@" = "Audio Recoder set active error: %@";
+"Audio Recoder set category error: %@" = "Audio Recoder set category error: %@";
+"Auto-Download Media" = "Auto-Download Media";
+"Auto-Download Media Settings" = "Auto-Download Media Settings";
 "Backgrounds" = "Backgrounds";
 "Block" = "Block";
 "Block Sender" = "Block Sender";
@@ -43,13 +51,17 @@
 "Can't convert the image to jpeg format." = "Can't convert the image to jpeg format.";
 "Cancel" = "Cancel";
 "Change Password" = "Change Password";
+"Changing Password" = "Changing Password";
 "Chat Backgrounds" = "Chat Backgrounds";
 "Chat for free with your friends, colleagues and family!" = "Chat for free with your friends, colleagues and family!";
 "Chat Logs" = "Chat Logs";
+"Check type and size on " = "Check type and size on ";
 "Choices Galore" = "Choices Galore";
 "Clear Chat History" = "Clear Chat History";
 /* DEBUG - ContactDetails */
 "Clear omemo session" = "Clear omemo session";
+/* DEBUG - XMPPEdit */
+"Clear own omemo session" = "Clear own omemo session";
 "Close" = "Close";
 "Connected since: %@" = "Connected since: %@";
 "Connection Details" = "Connection Details";
@@ -70,6 +82,8 @@
 "Could not upload file" = "Could not upload file";
 "Decline" = "Decline";
 "Default chat backgrounds are from the Ubuntu project." = "Default chat backgrounds are from the Ubuntu project.";
+"Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified.";
+"Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription." = "Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription.";
 "Delete" = "Delete";
 "Delete Account" = "Delete Account";
 "Direct TLS" = "Direct TLS";
@@ -79,7 +93,9 @@
 "Display Name And Message" = "Display Name And Message";
 "Display Only Name" = "Display Only Name";
 "Display Only Placeholder" = "Display Only Placeholder";
+"Do you want to trust the scanned fingerprints from" = "Do you want to trust the scanned fingerprints from";
 "Domain missing" = "Domain missing";
+"Download" = "Download";
 "Download error" = "Download error";
 "Draft: %@" = "Draft: %@";
 "Duplicate Account" = "Duplicate Account";
@@ -89,9 +105,12 @@
 "Encryption Keys" = "Encryption Keys";
 "Encryption Not Supported" = "Encryption Not Supported";
 "Enter the jid that you want to block" = "Enter the jid that you want to block";
+"Enter you password here" = "Enter you password here";
+"Enter you XMPP ID here" = "Enter you XMPP ID here";
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies.";
 "Error" = "Error";
 "Error decrypting message" = "Error decrypting message";
+"Error entering groupchat" = "Error entering groupchat";
 "Error registering push" = "Error registering push";
 "Error while decrypting" = "Error while decrypting";
 "Error while decrypting: iv.length != 12" = "Error while decrypting: iv.length != 12";
@@ -100,26 +119,30 @@
 "Failed to decode download link" = "Failed to decode download link";
 "Failed to decode encrypted link" = "Failed to decode encrypted link";
 "Failed to encrypt file" = "Failed to encrypt file";
+"Failed to enter groupchat %@" = "Failed to enter groupchat %@";
+"Failed to enter groupchat %@: This is not a groupchat!" = "Failed to enter groupchat %@: This is not a groupchat!";
 "Failed to parse URL returned by HTTP upload server" = "Failed to parse URL returned by HTTP upload server";
 "Failed to uploaded file to file cache directory" = "Failed to uploaded file to file cache directory";
 "Failed to write decrypted download into cache directory" = "Failed to write decrypted download into cache directory";
 "Favorite Group Chats (MUC). Tap to join. " = "Favorite Group Chats (MUC). Tap to join. ";
+"File" = "File";
+"Files" = "Files";
 "General" = "General";
+"General File Transfer Settings" = "General File Transfer Settings";
 "GPS" = "GPS";
 "Group Chat" = "Group Chat";
-"Group Chat Invite" = "Group Chat Invite";
 "Group Information" = "Group Information";
 /* MLJoinGroupViewController - Group Password Form */
 "Group Password" = "Group Password";
 "Group requires a password" = "Group requires a password";
-"Hardcoded Hostname" = "Hardcoded Hostname";
+"Groupchat error" = "Groupchat error";
 "Hint" = "Hint";
 "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission.  Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'. " = "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission.  Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'. ";
 "If Monal push is off, your device could not talk to push.monal.im. This should also never be off. It requires Apple push service to work first. " = "If Monal push is off, your device could not talk to push.monal.im. This should also never be off. It requires Apple push service to work first. ";
 "If you like Monal, please let others know and leave a review" = "If you like Monal, please let others know and leave a review";
+"If you want to use audio message you will need to allow access in Settings-> Privacy-> Microphone." = "If you want to use audio message you will need to allow access in Settings-> Privacy-> Microphone.";
 "If you want to use VOIP you will need to allow access in Settings-> Privacy-> Microphone." = "If you want to use VOIP you will need to allow access in Settings-> Privacy-> Microphone.";
 "Ignore" = "Ignore";
-"Images" = "Images";
 "Incoming audio call to %@ from %@ " = "Incoming audio call to %1$@ from %2$@ ";
 "Incoming Call" = "Incoming Call";
 "Indicate when a particular device is active or inactive. Saves battery." = "Indicate when a particular device is active or inactive. Saves battery.";
@@ -131,10 +154,11 @@
 /* QR-Code-Scanner: Camera not found */
 "It does not seem as your device has a camera. Please use a device with a camera for scanning" = "It does not seem as your device has a camera. Please use a device with a camera for scanning";
 "Jabber, Prosody, ejabberd etc.   " = "Jabber, Prosody, ejabberd etc.   ";
-"Join" = "Join";
 /* Join GroupViewController - HUD */
 "Joining Group" = "Joining Group";
 "Just seen" = "Just seen";
+"Kicked, because muc is now members-only: %@" = "Kicked, because muc is now members-only: %@";
+"Kicked, because of system shutdown: %@" = "Kicked, because of system shutdown: %@";
 "Last seen: %@" = "Last seen: %@";
 "Last seen: %d days ago" = "Last seen: %d days ago";
 "Last seen: %d hours ago" = "Last seen: %d hours ago";
@@ -144,6 +168,11 @@
 "Last seen: 1 minute ago" = "Last seen: 1 minute ago";
 "Leave Conversation" = "Leave Conversation";
 "Leave this converstion?" = "Leave this converstion?";
+"Load over cellular upto" = "Load over cellular upto";
+"Load over cellular upto: %.fMB" = "Load over cellular upto: %.fMB";
+"Load over WiFi upto" = "Load over WiFi upto";
+"Load over WiFi upto: %.fMB" = "Load over WiFi upto: %.fMB";
+"Loading Data" = "Loading Data";
 "Loading more Messages from Server" = "Loading more Messages from Server";
 "Loading omemo bundles" = "Loading omemo bundles";
 "Loading omemo bundles: %@ / %@" = "Loading omemo bundles: %1$@ / %2$@";
@@ -154,6 +183,8 @@
 "Login with a QR-Code" = "Login with a QR-Code";
 "Mark all messages as read" = "Mark all messages as read";
 "Mark as read" = "Mark as read";
+"Maximum File Transfer Size" = "Maximum File Transfer Size";
+"Me" = "Me";
 "Message Archive Pref" = "Message Archive Pref";
 "Message from %@" = "Message from %@";
 "Message was encrypted with omemo and can't be decrypted anymore" = "Message was encrypted with omemo and can't be decrypted anymore";
@@ -196,8 +227,11 @@
 "Online" = "Online";
 "Only contacts" = "Only contacts";
 "Only shareable for now" = "Only shareable for now";
+"Open" = "Open";
 "Open app to see more" = "Open app to see more";
 "Open Source" = "Open Source";
+"Optional Hardcoded Hostname" = "Optional Hardcoded Hostname";
+"Optional Port" = "Optional Port";
 "Os: " = "Os: ";
 "Participants" = "Participants";
 "Password" = "Password";
@@ -214,7 +248,7 @@
 "Please make sure you have entered a username, password." = "Please make sure you have entered a username, password.";
 "Please open the app to retry" = "Please open the app to retry";
 "Port" = "Port";
-"Port: %@, Is Secure: %@, Prio: %@" = "Port: %1$@, Is Secure: %2$@, Prio: %3$@";
+"Port: %@, Direct TLS: %@, Priority: %@" = "Port: %1$@, Direct TLS: %2$@, Priority: %3$@";
 "Privacy" = "Privacy";
 "Privacy Settings" = "Privacy Settings";
 /* MLLoginView: QR-Code Button iOS12 only */
@@ -222,13 +256,17 @@
 "QR-Code Scanner" = "QR-Code Scanner";
 /* QR-Code-Scanner */
 "QR-Code video error" = "QR-Code video error";
+"QR-Code: Fingerprints found" = "QR-Code: Fingerprints found";
 "Quick Setup" = "Quick Setup";
 "Rate Monal" = "Rate Monal";
 "Read" = "Read";
 "Rebuilding is useful if you are experiencing problems. This will require an app restart to work." = "Rebuilding is useful if you are experiencing problems. This will require an app restart to work.";
 "Receive push notifications from via Apple even when disconnected. Vastly improves reliability." = "Receive push notifications from via Apple even when disconnected. Vastly improves reliability.";
 "Received" = "Received";
+"Recode Fail:" = "Recode Fail:";
+"Recode Success" = "Recode Success";
 "Reconnecting" = "Reconnecting";
+"Recording audio" = "Recording audio";
 "Remove %@ from contacts?" = "Remove %@ from contacts?";
 "Remove Contact" = "Remove Contact";
 "Reply" = "Reply";
@@ -284,9 +322,6 @@
 "Support" = "Support";
 "Sync Read-Markers" = "Sync Read-Markers";
 "Synchronize your messages on all loggedin devices." = "Synchronize your messages on all loggedin devices.";
-"Tell my contacts if I've read a message" = "Tell my contacts if I've read a message";
-"Tell my contacts if my device received a message" = "Tell my contacts if my device received a message";
-"Tell my contacts when I'm typing" = "Tell my contacts when I'm typing";
 "The account has been deleted" = "The account has been deleted";
 "The account has been saved" = "The account has been saved";
 "The chat history has been cleared" = "The chat history has been cleared";
@@ -309,8 +344,11 @@
 "This contact does not appear to have any devices that support encryption." = "This contact does not appear to have any devices that support encryption.";
 "This message failed to send (%@): %@" = "This message failed to send (%1$@): %2$@";
 "This server does not appear to support HTTP file uploads (XEP-0363). Please ask the administrator to enable it." = "This server does not appear to support HTTP file uploads (XEP-0363). Please ask the administrator to enable it.";
+"This specification defines semantics for using the XMPP publish-subscribe protocol to broadcast state change events associated with an instant messaging and presence account." = "This specification defines semantics for using the XMPP publish-subscribe protocol to broadcast state change events associated with an instant messaging and presence account.";
 "This will clear the whole chat history of this account from this device." = "This will clear the whole chat history of this account from this device.";
 "This will remove this account and the associated data from this device." = "This will remove this account and the associated data from this device.";
+/* OmemoQrCodeView */
+"To many device keys" = "To many device keys";
 /* Join GroupViewController - Join Group HUD */
 "Trying to join group" = "Trying to join group";
 "Typing..." = "Typing...";
@@ -329,10 +367,8 @@
 "user@example.org/resource" = "user@example.org/resource";
 "Username missing" = "Username missing";
 "Using Account: %@" = "Using Account: %@";
-"Validate certificate" = "Validate certificate";
 "Version" = "Version";
 "Version %@ (%@ %@ UTC)" = "Version %1$@ (%2$@ %3$@ UTC)";
-"Version %@ (%@)" = "Version %1$@ (%2$@)";
 "Version: " = "Version: ";
 "View Images Received" = "View Images Received";
 "Waiting for GPS signal" = "Waiting for GPS signal";
@@ -343,13 +379,17 @@
 "When you have some favorite groups, they will be here for you." = "When you have some favorite groups, they will be here for you.";
 "When you start talking to someone,\n they will show up here." = "When you start talking to someone,\n they will show up here.";
 "Will logout and reconnect any connected accounts." = "Will logout and reconnect any connected accounts.";
-"Will make a HTTP HEAD call on all links" = "Will make a HTTP HEAD call on all links";
+"XEP-0163 Personal Eventing Protocol" = "XEP-0163 Personal Eventing Protocol";
+"XEP-0191: Blocking Command" = "XEP-0191: Blocking Command";
 "XEP-0198: Stream Management" = "XEP-0198: Stream Management";
+"XEP-0199: XMPP Ping" = "XEP-0199: XMPP Ping";
+"XEP-0237: Roster Versioning" = "XEP-0237: Roster Versioning";
 "XEP-0280: Message Carbons" = "XEP-0280: Message Carbons";
 "XEP-0313: Message Archive Management" = "XEP-0313: Message Archive Management";
 "XEP-0352: Client State Indication" = "XEP-0352: Client State Indication";
 "XEP-0357: Push Notifications" = "XEP-0357: Push Notifications";
 "XEP-0363: HTTP File Upload" = "XEP-0363: HTTP File Upload";
+"XEP-0379: Pre-Authenticated Roster Subscription" = "XEP-0379: Pre-Authenticated Roster Subscription";
 "XMPP" = "XMPP";
 "XMPP Account Info Error" = "XMPP Account Info Error";
 "XMPP Bind Error" = "XMPP Bind Error";
@@ -357,6 +397,8 @@
 "XMPP ID" = "XMPP ID";
 "XMPP ID missing" = "XMPP ID missing";
 "XMPP mam preferences error" = "XMPP mam preferences error";
+"XMPP protocol extension for communications blocking." = "XMPP protocol extension for communications blocking.";
+"XMPP protocol extension for sending application-level pings over XML streams." = "XMPP protocol extension for sending application-level pings over XML streams.";
 "XMPP Roster Error" = "XMPP Roster Error";
 "XMPP stream error %@: %@" = "XMPP stream error %1$@: %2$@";
 "XMPP stream error: %@" = "XMPP stream error: %@";
@@ -365,16 +407,25 @@
 "You are not trapped in a garden. Talk to anyone else without anyone tracking you." = "You are not trapped in a garden. Talk to anyone else without anyone tracking you.";
 "You are set up and connected." = "You are set up and connected.";
 "You can see their keys. They can't see yours" = "You can see their keys. They can't see yours";
-"You have been invited to a conversation %@?" = "You have been invited to a conversation %@?";
+"You got banned from: %@" = "You got banned from: %@";
+"You got kicked from: %@" = "You got kicked from: %@";
 "You have not entered your XMPP ID yet" = "You have not entered your XMPP ID yet";
 "You have not received any images in this conversation." = "You have not received any images in this conversation.";
+/* OmemoQrCodeView */
+"You have to many enabled devices on this account. You need to remove some devices" = "You have to many enabled devices on this account. You need to remove some devices";
 "You need friends for this ride" = "You need friends for this ride";
 "You should trust a key when you have verified it. Verify by comparing the key below to the one on your contact's screen." = "You should trust a key when you have verified it. Verify by comparing the key below to the one on your contact's screen.";
 "Your answer" = "Your answer";
 "Your entered XMPP ID is missing the domain" = "Your entered XMPP ID is missing the domain";
 "Your entered XMPP ID is missing the username" = "Your entered XMPP ID is missing the username";
+"Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!" = "Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!";
+"Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!";
+"Your status" = "Your status";
 "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup.";
+"🎥 A Video" = "🎥 A Video";
+"🎵 A Audiomessage" = "🎵 A Audiomessage";
 "📁 A File" = "📁 A File";
+"📄 A Document" = "📄 A Document";
 "📍 A Location" = "📍 A Location";
 "📷 An Image" = "📷 An Image";
 "🔗 A Link" = "🔗 A Link";
@@ -383,69 +434,3 @@
 "Monal" = "Monal";
 /* shareViewController: recipient */
 "Recipient" = "Recipient";
-"Account %@" = "Account %@";
-"Auto-Download Media" = "Auto-Download Media";
-"Automatic media download" = "Automatic media download";
-"Changing Password" = "Changing Password";
-"Check type and size on " = "Check type and size on ";
-/* DEBUG - XMPPEdit */
-"Clear own omemo session" = "Clear own omemo session";
-"Download" = "Download";
-"Error entering groupchat" = "Error entering groupchat";
-"Failed to enter groupchat %@" = "Failed to enter groupchat %@";
-"Failed to enter groupchat %@: This is not a groupchat!" = "Failed to enter groupchat %@: This is not a groupchat!";
-"File" = "File";
-"Groupchat error" = "Groupchat error";
-"Loading Data" = "Loading Data";
-"Open" = "Open";
-/* OmemoQrCodeView */
-"To many device keys" = "To many device keys";
-/* OmemoQrCodeView */
-"You have to many enabled devices on this account. You need to remove some devices" = "You have to many enabled devices on this account. You need to remove some devices";
-"Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!" = "Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!";
-"Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!";
-"%@ says:" = "%@ says:";
-"Audio recoder init fail." = "Audio recoder init fail.";
-"Audio recoder prepareToRecord fail." = "Audio recoder prepareToRecord fail.";
-"Audio Recoder recode fail" = "Audio Recoder recode fail";
-"Audio recoder record fail." = "Audio recoder record fail.";
-"Audio Recoder set active error: %@" = "Audio Recoder set active error: %@";
-"Audio Recoder set category error: %@" = "Audio Recoder set category error: %@";
-"Auto-Download Media Settings" = "Auto-Download Media Settings";
-"Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified.";
-"Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription." = "Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription.";
-"Do you want to trust the scanned fingerprints from" = "Do you want to trust the scanned fingerprints from";
-"Enter you password here" = "Enter you password here";
-"Enter you XMPP ID here" = "Enter you XMPP ID here";
-"Files" = "Files";
-"General File Transfer Settings" = "General File Transfer Settings";
-"If you want to use audio message you will need to allow access in Settings-> Privacy-> Microphone." = "If you want to use audio message you will need to allow access in Settings-> Privacy-> Microphone.";
-"Kicked, because muc is now members-only: %@" = "Kicked, because muc is now members-only: %@";
-"Kicked, because of system shutdown: %@" = "Kicked, because of system shutdown: %@";
-"Load over cellular upto" = "Load over cellular upto";
-"Load over cellular upto: %.fMB" = "Load over cellular upto: %.fMB";
-"Load over WiFi upto" = "Load over WiFi upto";
-"Load over WiFi upto: %.fMB" = "Load over WiFi upto: %.fMB";
-"Maximum File Transfer Size" = "Maximum File Transfer Size";
-"Me" = "Me";
-"Optional Hardcoded Hostname" = "Optional Hardcoded Hostname";
-"Optional Port" = "Optional Port";
-"Port: %@, Direct TLS: %@, Priority: %@" = "Port: %1$@, Direct TLS: %2$@, Priority: %3$@";
-"QR-Code: Fingerprints found" = "QR-Code: Fingerprints found";
-"Recode Fail:" = "Recode Fail:";
-"Recode Success" = "Recode Success";
-"Recording audio" = "Recording audio";
-"This specification defines semantics for using the XMPP publish-subscribe protocol to broadcast state change events associated with an instant messaging and presence account." = "This specification defines semantics for using the XMPP publish-subscribe protocol to broadcast state change events associated with an instant messaging and presence account.";
-"XEP-0163 Personal Eventing Protocol" = "XEP-0163 Personal Eventing Protocol";
-"XEP-0191: Blocking Command" = "XEP-0191: Blocking Command";
-"XEP-0199: XMPP Ping" = "XEP-0199: XMPP Ping";
-"XEP-0237: Roster Versioning" = "XEP-0237: Roster Versioning";
-"XEP-0379: Pre-Authenticated Roster Subscription" = "XEP-0379: Pre-Authenticated Roster Subscription";
-"XMPP protocol extension for communications blocking." = "XMPP protocol extension for communications blocking.";
-"XMPP protocol extension for sending application-level pings over XML streams." = "XMPP protocol extension for sending application-level pings over XML streams.";
-"You got banned from: %@" = "You got banned from: %@";
-"You got kicked from: %@" = "You got kicked from: %@";
-"Your status" = "Your status";
-"🎥 A Video" = "🎥 A Video";
-"🎵 A Audiomessage" = "🎵 A Audiomessage";
-"📄 A Document" = "📄 A Document";

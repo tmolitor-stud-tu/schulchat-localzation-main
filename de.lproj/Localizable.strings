@@ -469,8 +469,8 @@
 "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified.";
 "Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription." = "Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription.";
 "Do you want to trust the scanned fingerprints from" = "Möchtest du den eingescannten Fingerabdrücken vertrauen, die von";
-"Enter you password here" = "Gib hier dein Passwort ein";
-"Enter you XMPP ID here" = "Gib hier deine XMPP-ID ein";
+"Enter your password here" = "Gib hier dein Passwort ein";
+"Enter your XMPP ID here" = "Gib hier deine XMPP-ID ein";
 "Files" = "Dateien";
 "General File Transfer Settings" = "Allgemeine Dateiübertragungseinstellungen";
 "If you want to use audio message you will need to allow access in Settings-> Privacy-> Microphone." = "Wenn du Sprachnachrichten verwenden möchtest, musst du den Zugriff unter Einstellungen > Datenschutz > Mikrofon erlauben.";

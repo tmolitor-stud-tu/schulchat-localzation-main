@@ -434,3 +434,5 @@
 "Monal" = "Monal";
 /* shareViewController: recipient */
 "Recipient" = "Recipient";
+"Enter your password here" = "Enter your password here";
+"Enter your XMPP ID here" = "Enter your XMPP ID here";

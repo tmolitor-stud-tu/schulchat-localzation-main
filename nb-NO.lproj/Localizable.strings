@@ -243,7 +243,7 @@
 "Start Using Monal" = "Begynn å bruke Monal";
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "The new contact will be added to your contacts list when the person you've added has approved your request.";
 "The username does not need to have an @ symbol. Please try again." = "Brukernavnet trenger ikke å ha et «@»-symbol. Prøv igjen.";
-"There is no configured email account. Please email info@monal.im ." = "Ingen oppsatt e-postkonto. Send e-post til  info@monal.im .";
+"There is no configured email account. Please email info@monal.im ." = "Ingen oppsatt e-postkonto. Send e-post til info@monal.im";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person.";
 "There was an error uploading the file to the server" = "Kunne ikke laste opp filen til tjeneren";
 "These are SRV resource records found for your domain" = "These are SRV resource records found for your domain";

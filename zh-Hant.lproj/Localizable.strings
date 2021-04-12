@@ -298,7 +298,7 @@
 "Name: " = "Name: ";
 "Os: " = "Os: ";
 "Software Version" = "Software Version";
-"Version: " = "Version: ";
+"Version: " = "版本： ";
 "Loading more Messages from Server" = "從伺服器載入更多消息";
 "Invalid Credentials" = "無效的憑證";
 "Could not synchronize" = "無法同步";
@@ -477,7 +477,7 @@
 "Kicked, because muc is now members-only: %@" = "已被踢出，因為muc現在是會員專用：％@";
 "Kicked, because of system shutdown: %@" = "已被踢出，因為系統關閉：％@";
 "Load over cellular upto" = "Load over cellular upto";
-"Load over cellular upto: %.fMB" = "通過手機網路最大到：％.fMB";
+"Load over cellular upto: %.fMB" = "通過手機網路最大到：%.fMB";
 "Load over WiFi upto" = "通過無線網路載入最大到";
 "Load over WiFi upto: %.fMB" = "通過WiFi載入最大到：%.fMB";
 "Maximum File Transfer Size" = "最大檔案傳輸大小";

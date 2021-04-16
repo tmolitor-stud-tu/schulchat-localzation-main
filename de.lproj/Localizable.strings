@@ -474,8 +474,8 @@
 "Files" = "Dateien";
 "General File Transfer Settings" = "Allgemeine Dateiübertragungseinstellungen";
 "If you want to use audio message you will need to allow access in Settings-> Privacy-> Microphone." = "Wenn du Sprachnachrichten verwenden möchtest, musst du den Zugriff unter Einstellungen > Datenschutz > Mikrofon erlauben.";
-"Kicked, because muc is now members-only: %@" = "Kicked, because muc is now members-only: %@";
-"Kicked, because of system shutdown: %@" = "Kicked, because of system shutdown: %@";
+"Kicked, because muc is now members-only: %@" = "Ausgeschlossen, weil der Gruppenchat jetzt nur noch für Mitglieder zugänglich ist: %@";
+"Kicked, because of system shutdown: %@" = "Ausgeschlossen, weil das System heruntergefahren wurde: %@";
 "Load over cellular upto" = "Laden über Mobilfunk bis zu";
 "Load over cellular upto: %.fMB" = "Laden über Mobilfunk bis zu: %.fMB";
 "Load over WiFi upto" = "Laden über WLAN bis zu";
@@ -497,8 +497,8 @@
 "XEP-0379: Pre-Authenticated Roster Subscription" = "XEP-0379: Vorauthentifiziertes Kontaktlistenabonnement";
 "XMPP protocol extension for communications blocking." = "XMPP protocol extension for communications blocking.";
 "XMPP protocol extension for sending application-level pings over XML streams." = "XMPP protocol extension for sending application-level pings over XML streams.";
-"You got banned from: %@" = "You got banned from: %@";
-"You got kicked from: %@" = "You got kicked from: %@";
+"You got banned from: %@" = "Du wurdest gesperrt von: %@";
+"You got kicked from: %@" = "Du wurdest ausgeschlossen von: %@";
 "Your status" = "Dein Status";
 "🎥 A Video" = "🎥 Ein Video";
 "🎵 A Audiomessage" = "🎵 Eine Sprachnachricht";

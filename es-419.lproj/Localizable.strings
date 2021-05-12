@@ -415,9 +415,9 @@
 "Appserver returned invalid data" = "Appserver returned invalid data";
 "Error registering push" = "Error registering push";
 "Images" = "Images";
-"Allow" = "Allow";
-"Block" = "Block";
-"Blocked Users" = "Blocked Users";
+"Allow" = "Habilitar";
+"Block" = "Bloquear";
+"Blocked Users" = "Usuarios bloqueados";
 "Blocking is not supported by the server" = "Blocking is not supported by the server";
 "Blocking not supported" = "Blocking not supported";
 "Duplicate Account" = "Duplicate Account";
@@ -504,3 +504,4 @@
 "📄 A Document" = "📄 A Document";
 "Enter your password here" = "Enter your password here";
 "Enter your XMPP ID here" = "Enter your XMPP ID here";
+"Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Las notificaciones cambiaron en iOS 13 debido algunos cambios de iOS. Por ahora solo verás algo diciendo que hay un nuevo mensaje y no el texto o quién lo envió. Decidí hacerlo así para que tengas mensajes fiables mientras trabajo en la actualización de Monal para recuperar la antigua experiencia.";

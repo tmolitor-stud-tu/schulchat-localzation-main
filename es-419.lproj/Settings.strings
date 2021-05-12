@@ -1,17 +1,17 @@
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "2FM-6l-v8h"; */
-"2FM-6l-v8h.title" = "Close";
+"2FM-6l-v8h.title" = "Cerrar";
 /* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "d7c-hm-a1K"; */
-"d7c-hm-a1K.normalTitle" = "Change Password";
+"d7c-hm-a1K.normalTitle" = "Cambiar contraseña";
 /* Class = "UISplitViewController"; title = "Settings"; ObjectID = "dgM-uB-Aap"; */
-"dgM-uB-Aap.title" = "Settings";
+"dgM-uB-Aap.title" = "Ajustes";
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "gFd-bu-COM"; */
-"gFd-bu-COM.title" = "Settings";
+"gFd-bu-COM.title" = "Ajustes";
 /* Class = "UINavigationItem"; title = "Accounts"; ObjectID = "GM4-e8-f1D"; */
-"GM4-e8-f1D.title" = "Accounts";
+"GM4-e8-f1D.title" = "Cuentas";
 /* Class = "UITableViewController"; title = "Settings"; ObjectID = "kjF-U7-P8y"; */
-"kjF-U7-P8y.title" = "Settings";
+"kjF-U7-P8y.title" = "Ajustes";
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "mLa-XU-o1Q"; */
-"mLa-XU-o1Q.title" = "Root View Controller";
+"mLa-XU-o1Q.title" = "Controlador de vista raíz";
 /* Class = "UITableViewController"; title = "Notifications"; ObjectID = "nPR-ET-sg3"; */
 "nPR-ET-sg3.title" = "Notifications";
 /* Class = "UINavigationItem"; title = "Account Edit"; ObjectID = "pa7-vQ-Yz3"; */

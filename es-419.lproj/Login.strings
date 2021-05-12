@@ -1,19 +1,19 @@
 /* Class = "UILabel"; text = "someone@yax.im"; ObjectID = "0IG-5n-3XF"; */
 "0IG-5n-3XF.text" = "someone@yax.im";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "0Tx-nj-jHi"; */
-"0Tx-nj-jHi.title" = "Close";
+"0Tx-nj-jHi.title" = "Cerrar";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "29t-GS-Yof"; */
-"29t-GS-Yof.title" = "Close";
+"29t-GS-Yof.title" = "Cerrar";
 /* Class = "UILabel"; text = "yax.im is a public server, not affiliated with Monal. This page is provided for convenience. "; ObjectID = "arw-q8-u8I"; */
-"arw-q8-u8I.text" = "yax.im is a public server, not affiliated with Monal. This page is provided for convenience. ";
+"arw-q8-u8I.text" = "yax.im es un servidor público, no está afiliado con Monal. Se le proporciona esta página para mayor comodidad. ";
 /* Class = "UIButton"; normalTitle = "Start Chatting"; ObjectID = "c04-pS-Uoi"; */
-"c04-pS-Uoi.normalTitle" = "Start Chatting";
+"c04-pS-Uoi.normalTitle" = "Empezar a chatear";
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "c9v-kP-ocC"; */
-"c9v-kP-ocC.normalTitle" = "Register";
+"c9v-kP-ocC.normalTitle" = "Registrarse";
 /* Class = "UILabel"; text = "Like email, you can make your account on many sites and talk to anyone. You can use this form to make an account with yax.im.  "; ObjectID = "DfQ-Vo-v2C"; */
-"DfQ-Vo-v2C.text" = "Like email, you can make your account on many sites and talk to anyone. You can use this form to make an account with yax.im.  ";
+"DfQ-Vo-v2C.text" = "Al igual que el correo electrónico, puede crear tu cuenta en muchos sitios y hablar con cualquier persona. Puedes utilizar este formulario para crear una cuenta con yax.im.  ";
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "dpn-up-7bR"; */
-"dpn-up-7bR.normalTitle" = "Register";
+"dpn-up-7bR.normalTitle" = "Registrarse";
 /* Class = "UILabel"; text = "Congratulations!"; ObjectID = "eEG-v1-Mb2"; */
 "eEG-v1-Mb2.text" = "Congratulations!";
 /* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Gth-vl-n15"; */

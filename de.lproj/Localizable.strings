@@ -1,4 +1,4 @@
-"You are set up and connected." = "Monal ist eingerichtet und verbunden.";
+"You are set up and connected." = "KWO Messenger ist eingerichtet und verbunden.";
 "You are not trapped in a garden. Talk to anyone else without anyone tracking you." = "Du bist nicht in einem goldenen Käfig gefangen. Sprich mit anderen, ohne dass dich jemand verfolgt.";
 "Yes" = "Ja";
 "XMPP" = "XMPP";
@@ -12,7 +12,7 @@
 "Will logout and reconnect any connected accounts." = "Meldet sich ab und verbindet alle verbundenen Konten erneut.";
 "When you start talking to someone,\n they will show up here." = "Wenn du anfängst, mit jemandem zu sprechen,\n werden sie hier auftauchen.";
 "When you have some favorite groups, they will be here for you." = "Wenn du einige Favoritengruppen hast, werden diese für dich da sein.";
-"Welcome to Monal" = "Willkommen bei Monal";
+"Welcome to Monal" = "Willkommen beim KWO Messenger";
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet." = "Wir konnten dein Konto nicht verbinden. Bitte überprüfe deine Anmeldedaten und stelle sicher, dass du mit dem Internet verbunden bist.";
 "Waiting for GPS signal" = "Warte auf GPS-Signal";
 "View Images Received" = "Empfangene Bilder anzeigen";
@@ -38,13 +38,13 @@
 "This sender will be able to send you messages" = "Dieser Absender wird dir Nachrichten senden können";
 "This message failed to send." = "Diese Nachricht konnte nicht gesendet werden.";
 "This contact does not appear to have any devices that support encryption." = "Dieser Kontakt scheint keine Geräte zu haben, die Verschlüsselung unterstützen.";
-"This account already exists in Monal." = "Dieses Konto ist bereits in Monal vorhanden.";
+"This account already exists in Monal." = "Dieses Konto ist bereits vorhanden.";
 "They will see when you are online. They will be able to send you encrypted messages." = "Sie werden sehen, wann du online bist. Sie werden dir verschlüsselte Nachrichten senden können.";
 "They will no longer see when you are online. They may not be able to send you encrypted messages." = "Sie werden nicht mehr sehen, wenn du online bist. Möglicherweise können sie dir keine verschlüsselten Nachrichten senden.";
 "They will no longer see when you are online. They may not be able to access your encryption keys." = "Sie werden nicht mehr sehen, wenn du online bist. Möglicherweise können sie nicht auf deine Schlüssel zugreifen.";
 "They can see your keys. You can't see theirs" = "Sie können deine Schlüssel sehen. Du kannst ihre nicht sehen";
 "These are your encryption keys. Each device is a different place you have logged in. You should trust a key when you have verified it." = "Dies sind deine Schlüssel. Jedes Gerät ist ein anderer Ort, an dem du dich angemeldet hast. Du solltest einem Schlüssel vertrauen, wenn du ihn verifiziert hast.";
-"These are the modern XMPP capabilities Monal detected on your server after you have logged in." = "Dies sind die modernen XMPP-Fähigkeiten, die Monal auf deinem Server entdeckt hat, nachdem du dich eingeloggt hast.";
+"These are the modern XMPP capabilities Monal detected on your server after you have logged in." = "Dies sind die modernen XMPP-Fähigkeiten, die auf deinem Server entdeckt wurden, nachdem du dich eingeloggt hast.";
 "These are SRV resource records found for your domain" = "Dies sind SRV-Ressourceneinträge, die für deine Domain gefunden wurden";
 "There was an error uploading the file to the server" = "Es gab einen Fehler beim Hochladen der Datei auf den Server";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "Bei der Entschlüsselung dieser verschlüsselten Nachricht ist ein Fehler aufgetreten (Signalfehler). Um dies zu beheben, versuche eine verschlüsselte Nachricht an diese Person zu senden.";
@@ -62,7 +62,7 @@
 "Submit A Bug" = "Fehler melden";
 "Status Message" = "Statusnachricht";
 "Status" = "Status";
-"Start Using Monal" = "Starte mit Monal";
+"Start Using Monal" = "Starte mit der Nutzung";
 "SSL Error: Unknown root certificate" = "SSL-Fehler: Unbekanntes Stammzertifikat";
 "SSL Error: Host name mismatch" = "SSL-Fehler: Hostname stimmt nicht";
 "SSL Error: Certificate expired" = "SSL-Fehler: Zertifikat abgelaufen";
@@ -111,7 +111,7 @@
 "Receive push notifications from via Apple even when disconnected. Vastly improves reliability." = "Erhalte Push-Benachrichtigungen über Apple, auch wenn die Verbindung getrennt ist. Verbessert Zuverlässigkeit erheblich.";
 "Rebuilding is useful if you are experiencing problems. This will require an app restart to work." = "Die Neugenerierung ist hilfreich, wenn du Probleme hast. Dies erfordert einen Neustart der App, damit sie funktioniert.";
 "Rebuild Tokens" = "Tokens neugenerieren";
-"Rate Monal" = "Monal bewerten";
+"Rate Monal" = "KWO Messenger  bewerten";
 "Quick Setup" = "Schnelleinrichtung";
 "Privacy Settings" = "Datenschutzeinstellungen";
 "Privacy" = "Datenschutz";
@@ -154,10 +154,10 @@
 "My Encryption Keys" = "Meine Schlüssel";
 "Mute" = "Stummschalten";
 "Monal uses OMEMO encryption to protect your conversations" = "Monal verwendet OMEMO-Verschlüsselung, um deine Unterhaltungen zu schützen";
-"Monal Push Server" = "Monal Push-Server";
-"Monal does not have access to your location. Please update the location access in your device's Privacy Settings." = "Monal hat keinen Zugriff zu deinem Standort. Bitte aktualisiere den Zugriff auf deinen Standort in den Datenschutzeinstellungen deines Geräts.";
-"Monal did not received a gps location. Please try again later." = "Monal hat keinen GPS-Standort erhalten. Versuche es später erneut.";
-"Monal" = "Monal";
+"Monal Push Server" = "KWO Messenger Push-Server";
+"Monal does not have access to your location. Please update the location access in your device's Privacy Settings." = "KWO Messenger hat keinen Zugriff zu deinem Standort. Bitte aktualisiere den Zugriff auf deinen Standort in den Datenschutzeinstellungen deines Geräts.";
+"Monal did not received a gps location. Please try again later." = "KWO Messenger hat keinen GPS-Standort erhalten. Versuche es später erneut.";
+"Monal" = "KWO Messenger";
 "Messages never archived by default." = "Nachrichten werden standardmäßig nicht archiviert.";
 "Message was not encrypted for this device. Please make sure the sender trusts deviceid %d and that they have you as a contact." = "Die Nachricht wurde nicht für dieses Gerät verschlüsselt. Stelle sicher, dass der Absender der Geräte-ID %d vertraut und dich als Kontakt hat.";
 "Message Preview" = "Nachrichtenvorschau";
@@ -189,9 +189,9 @@
 "Incoming audio call to %@ from %@ " = "Eingehender Audioanruf an %1$@ von %2$@ ";
 "Ignore" = "Ignorieren";
 "If you want to use VOIP you will need to allow access in Settings-> Privacy-> Microphone." = "Wenn du VoIP verwenden möchtest, musst du den Zugriff unter Einstellungen > Privatsphäre > Mikrofon erlauben.";
-"If you like Monal, please let others know and leave a review" = "Wenn dir Monal gefällt, sage es bitte anderen und hinterlasse einen Bewertung";
-"If Monal push is off, your device could not talk to push.monal.im. This should also never be off. It requires Apple push service to work first. " = "Wenn der Monal-Push ausgeschaltet ist, kann dein Gerät nicht mit push.monal.im sprechen. Auch dieses sollte niemals ausgeschaltet sein. Es erfordert zuerst den Apple Push-Dienst, damit es funktioniert. ";
-"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission.  Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'. " = "Wenn Monal keine Benachrichtigungen anzeigen kann, wirst du keine Benachrichtigungen sehen, wenn eine Nachricht eintrifft. Dies geschieht, wenn du auf 'Ablehnen' getippt hast, als Monal zum ersten Mal um Erlaubnis gefragt hat. Behebe dies, indem du in den iOS-Einstellungen > Monal > Benachrichtigungen gehst und 'Benachrichtigungen zulassen' wählst. ";
+"If you like Monal, please let others know and leave a review" = "Wenn dir KWO Messenger gefällt, hinterlasse bitte eine positive einen Bewertung";
+"If Monal push is off, your device could not talk to push.monal.im. This should also never be off. It requires Apple push service to work first. " = "Wenn der KWO Messenger Push ausgeschaltet ist, kann dein Gerät nicht mit Kurswahl Oline Server sprechen. Auch dieses sollte niemals ausgeschaltet sein. Es erfordert zuerst den Apple Push-Dienst, damit es funktioniert. ";
+"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission.  Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'. " = "Wenn KWO Messenger keine Benachrichtigungen anzeigen kann, wirst du keine Benachrichtigungen sehen, wenn eine Nachricht eintrifft. Dies geschieht, wenn du auf 'Ablehnen' getippt hast, als KWO Messenger zum ersten Mal um Erlaubnis gefragt hat. Behebe dies, indem du in den iOS-Einstellungen > KWO Messenger > Benachrichtigungen gehst und 'Benachrichtigungen zulassen' wählst. ";
 "Hide Chat" = "Chat verstecken";
 "Hardcoded Hostname" = "Fester Hostname";
 "Group Information" = "Gruppenchat-Informationen";
@@ -429,7 +429,7 @@
 "Input is not a valid jid" = "Eingabe ist keine gültige JID";
 /* Join GroupViewController - HUD */
 "Joining Group" = "Gruppenchat wird beigetreten";
-"Monal  uses your location when you send a location message in a conversation." = "Monal verwendet deinen Standort, wenn du in einer Unterhaltung eine Standortnachricht sendest.";
+"Monal  uses your location when you send a location message in a conversation." = "KWO Messenger verwendet deinen Standort, wenn du in einer Unterhaltung eine Standortnachricht sendest.";
 "OK" = "OK";
 "The server does not support blocking" = "Der Server unterstützt das Blockieren nicht";
 "This account already exists on this instance" = "Dieses Konto existiert bereits auf dieser Instanz";
@@ -531,7 +531,7 @@
 "Failed to query newest stanzaid for groupchat %@" = "Abfrage der neuesten Stanza-ID für den Gruppenchat %@ fehlgeschlagen";
 "Failed to save groupchat bookmarks" = "Speichern der Gruppenchatlesezeichen fehlgeschlagen";
 "Groupchat/channel details" = "Gruppenchat/Channeldetails";
-"Groupchat/channel details are currently not implemented in Monal." = "Gruppenchat/Channeldetails sind derzeit nicht in Monal implementiert.";
+"Groupchat/channel details are currently not implemented in Monal." = "Gruppenchat/Channeldetails sind aktuell noch nicht implementiert. Bitte nutzen Sie die Kurswahl Online Webseite, um zu sehen welche Teilnehmer eine Grppe hat.";
 "Image Quality" = "Bildqualität";
 "Image Quality: %.2f" = "Bildqualität: %.2f";
 "Invalid Password!" = "Ungültiges Passwort!";

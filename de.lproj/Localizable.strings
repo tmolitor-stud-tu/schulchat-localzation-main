@@ -505,3 +505,54 @@
 "📄 A Document" = "📄 Ein Dokument";
 "Enter you XMPP ID here" = "Gib hier deine XMPP-ID ein";
 "Enter you password here" = "Gib hier dein Passwort ein";
+"Add Account" = "Add Account";
+"Add Account (advanced)" = "Add Account (advanced)";
+"Add Contact or Channel" = "Add Contact or Channel";
+"All messages already present in local history!" = "All messages already present in local history!";
+/* addContact - checking HUD */
+"Checking" = "Checking";
+/* addContact - checking HUD */
+"Checking if the jid you provided is correct" = "Checking if the jid you provided is correct";
+"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Contact and Channel Jids  are usually in the format: name@domain.tld";
+"Contact or Channel Jid" = "Contact or Channel Jid";
+"Could not load (all) old messages" = "Could not load (all) old messages";
+"Could not load (all) old messages from your server archive. Please try again later. %@" = "Could not load (all) old messages from your server archive. Please try again later. %@";
+"Current Password" = "Current Password";
+"Encryption Keys (OMEMO)" = "Encryption Keys (OMEMO)";
+"Error: Received message is empty" = "Error: Received message is empty";
+"Failed to decrypt filetransfer" = "Failed to decrypt filetransfer";
+"Failed to delete own avatar on account %@" = "Failed to delete own avatar on account %@";
+"Failed to enable carbons for account %@" = "Failed to enable carbons for account %@";
+"Failed to publish own avatar on account %@" = "Failed to publish own avatar on account %@";
+"Failed to publish own nickname on account %@" = "Failed to publish own nickname on account %@";
+"Failed to query for new messages on account %@" = "Failed to query for new messages on account %@";
+"Failed to query new messages for groupchat %@" = "Failed to query new messages for groupchat %@";
+"Failed to query newest stanzaid for account %@" = "Failed to query newest stanzaid for account %@";
+"Failed to query newest stanzaid for groupchat %@" = "Failed to query newest stanzaid for groupchat %@";
+"Failed to save groupchat bookmarks" = "Failed to save groupchat bookmarks";
+"Groupchat/channel details" = "Groupchat/channel details";
+"Groupchat/channel details are currently not implemented in Monal." = "Groupchat/channel details are currently not implemented in Monal.";
+"Image Quality" = "Image Quality";
+"Image Quality: %.2f" = "Image Quality: %.2f";
+"Invalid Password!" = "Invalid Password!";
+"Jid Invalid" = "Jid Invalid";
+"Message Archive Preferences" = "Message Archive Preferences";
+"Please make sure at least one account has connected before trying to add a contact or channel." = "Please make sure at least one account has connected before trying to add a contact or channel.";
+/* catalina warning */
+"QR-Code scanning is not supported on catalina" = "QR-Code scanning is not supported on catalina";
+/* catalina warning */
+"QR-Code scanning unsupported" = "QR-Code scanning unsupported";
+"Remove Conversation" = "Remove Conversation";
+"SRV entry prohibits XMPP connection for domain %@" = "SRV entry prohibits XMPP connection for domain %@";
+"The current password is not correct." = "The current password is not correct.";
+"The jid has to be in the form 'user@domain.tld' to be correct." = "The jid has to be in the form 'user@domain.tld' to be correct.";
+/* QR-Code-Scanner: jid scan wrong menu */
+"The qrcode contains a jid. Rescan the qrcode in the add user menu" = "The qrcode contains a jid. Rescan the qrcode in the add user menu";
+/* QR-Code-Scanner: account scan wrong menu */
+"The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode";
+"Unexpected error while checking type of jid:" = "Unexpected error while checking type of jid:";
+"Unexpected server response: invalid PEP config form" = "Unexpected server response: invalid PEP config form";
+"Unexpected server response: missing required fields in PEP config form" = "Unexpected server response: missing required fields in PEP config form";
+/* QR-Code-Scanner: account scan wrong menu
+   QR-Code-Scanner: jid scan wrong menu */
+"Wrong menu" = "Wrong menu";

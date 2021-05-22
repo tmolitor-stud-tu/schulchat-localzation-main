@@ -31,7 +31,7 @@
 /* Class = "UITextField"; placeholder = "Password"; ObjectID = "rHr-ew-oBM"; */
 "rHr-ew-oBM.placeholder" = "Passwort";
 /* Class = "UILabel"; text = "Sign in or register an account.  If needed, more advanced options are in Accounts under Settings. "; ObjectID = "Spm-F2-kku"; */
-"Spm-F2-kku.text" = "Melde dich an oder registriere ein Konto. Weitere erweiterte Optionen findest du bei Bedarf in den Einstellungen unter Konten . ";
+"Spm-F2-kku.text" = "Scanne den QR-Code, den Kurswahl Online dir anzeigt, um dich einzuloggen (siehe QR-Code Button unten).";
 /* Class = "UITextField"; placeholder = "Username"; ObjectID = "Tjb-kj-Z5d"; */
 "Tjb-kj-Z5d.placeholder" = "Benutzername";
 /* Class = "UILabel"; text = "You are all ready to chat. People can message you  at:"; ObjectID = "Trj-ps-nO8"; */

@@ -410,24 +410,24 @@
 "Clear omemo session" = "Clear omemo session";
 "Show URL previews" = "Show URL previews";
 /* shareViewController: recipient */
-"Recipient" = "Recipient";
+"Recipient" = "Destinatario/Destinataria";
 "Appserver error" = "Appserver error";
-"Appserver returned invalid data" = "Appserver returned invalid data";
-"Error registering push" = "Error registering push";
-"Images" = "Images";
+"Appserver returned invalid data" = "Appserver devolvió datos no válidos";
+"Error registering push" = "Error al registrar push";
+"Images" = "Imagenes";
 "Allow" = "Habilitar";
 "Block" = "Bloquear";
 "Blocked Users" = "Usuarios bloqueados";
-"Blocking is not supported by the server" = "Blocking is not supported by the server";
-"Blocking not supported" = "Blocking not supported";
-"Duplicate Account" = "Duplicate Account";
-"Enter the jid that you want to block" = "Enter the jid that you want to block";
+"Blocking is not supported by the server" = "El server no admite el bloqueo";
+"Blocking not supported" = "Bloqueo no compatible";
+"Duplicate Account" = "Cuenta duplicada";
+"Enter the jid that you want to block" = "Entra el jid que quieres bloquear";
 /* MLJoinGroupViewController - Group Password Form */
-"Group Password" = "Group Password";
-"Group requires a password" = "Group requires a password";
-"Input is not a valid jid" = "Input is not a valid jid";
+"Group Password" = "Contraseña de grupo";
+"Group requires a password" = "El grupo requiere una contraseña";
+"Input is not a valid jid" = "La entrada no es un jid válido";
 /* Join GroupViewController - HUD */
-"Joining Group" = "Joining Group";
+"Joining Group" = "Unirse al grupo";
 "Monal  uses your location when you send a location message in a conversation." = "Monal  uses your location when you send a location message in a conversation.";
 "OK" = "OK";
 "The server does not support blocking" = "The server does not support blocking";

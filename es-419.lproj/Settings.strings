@@ -13,26 +13,26 @@
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "mLa-XU-o1Q"; */
 "mLa-XU-o1Q.title" = "Controlador de vista raíz";
 /* Class = "UITableViewController"; title = "Notifications"; ObjectID = "nPR-ET-sg3"; */
-"nPR-ET-sg3.title" = "Notifications";
+"nPR-ET-sg3.title" = "Notificaciones";
 /* Class = "UINavigationItem"; title = "Account Edit"; ObjectID = "pa7-vQ-Yz3"; */
-"pa7-vQ-Yz3.title" = "Account Edit";
+"pa7-vQ-Yz3.title" = "Editar Cuenta";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "QTE-cG-3LC"; */
-"QTE-cG-3LC.title" = "Close";
+"QTE-cG-3LC.title" = "Cerrar";
 /* Class = "UIBarButtonItem"; title = "Reconnect All"; ObjectID = "r7s-58-k2m"; */
-"r7s-58-k2m.title" = "Reconnect All";
+"r7s-58-k2m.title" = "Reconectar todo";
 /* Class = "UILabel"; text = "Detail"; ObjectID = "rF7-34-0sc"; */
-"rF7-34-0sc.text" = "Detail";
+"rF7-34-0sc.text" = "Detalles";
 /* Class = "UINavigationItem"; title = "Sounds"; ObjectID = "Rum-Ee-xSZ"; */
-"Rum-Ee-xSZ.title" = "Sounds";
+"Rum-Ee-xSZ.title" = "Sonidos";
 /* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "TJt-Kl-UDV"; */
-"TJt-Kl-UDV.title" = "Save";
+"TJt-Kl-UDV.title" = "Guardar";
 /* Class = "UITableViewController"; title = "Account Edit"; ObjectID = "Tus-3k-aPR"; */
-"Tus-3k-aPR.title" = "Account Edit";
+"Tus-3k-aPR.title" = "Editar cuenta";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "VJW-A6-Zpp"; */
-"VJW-A6-Zpp.title" = "Item";
+"VJW-A6-Zpp.title" = "Artículo";
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "vKm-u5-p5y"; */
-"vKm-u5-p5y.title" = "Root View Controller";
+"vKm-u5-p5y.title" = "Root View Contralor";
 /* Class = "UINavigationItem"; title = "Accounts With Logs"; ObjectID = "wlb-8I-yzZ"; */
-"wlb-8I-yzZ.title" = "Accounts With Logs";
+"wlb-8I-yzZ.title" = "Cuentas con registros";
 /* Class = "UITabBarItem"; title = "Settings"; ObjectID = "YtW-zK-Qze"; */
-"YtW-zK-Qze.title" = "Settings";
+"YtW-zK-Qze.title" = "Ajustes";

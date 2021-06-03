@@ -7,7 +7,7 @@
 "XEP-0352: Client State Indication" = "XEP-0352: Client-Statusanzeige";
 "XEP-0313: Message Archive Management" = "XEP-0313: Nachrichtenarchivverwaltung";
 "XEP-0280: Message Carbons" = "XEP-0280: Nachrichtenkopien";
-"XEP-0198: Stream Management" = "XEP-0198: Stream Management";
+"XEP-0198: Stream Management" = "XEP-0198: Stream-Management";
 "Will make a HTTP HEAD call on all links" = "Macht einen HTTP HEAD-Aufruf bei allen Links";
 "Will logout and reconnect any connected accounts." = "Meldet sich ab und verbindet alle verbundenen Konten erneut.";
 "When you start talking to someone,\n they will show up here." = "Wenn du anfängst, mit jemandem zu sprechen,\n werden sie hier auftauchen.";
@@ -518,17 +518,17 @@
 "Could not load (all) old messages" = "Konnte nicht (alle) alten Nachrichten laden";
 "Could not load (all) old messages from your server archive. Please try again later. %@" = "Konnte nicht (alle) alten Nachrichten aus deinem Serverarchiv laden. Bitte versuche es später noch einmal. %@";
 "Current Password" = "Aktuelles Passwort";
-"Encryption Keys (OMEMO)" = "Encryption Keys (OMEMO)";
+"Encryption Keys (OMEMO)" = "Schlüssel (OMEMO)";
 "Error: Received message is empty" = "Fehler: Empfangene Nachricht ist leer";
 "Failed to decrypt filetransfer" = "Entschlüsselung des Dateitransfers fehlgeschlagen";
 "Failed to delete own avatar on account %@" = "Eigener Avatar auf Konto %@ konnte nicht gelöscht werden";
-"Failed to enable carbons for account %@" = "Failed to enable carbons for account %@";
+"Failed to enable carbons for account %@" = "Nachrichtenkopien für das Konto %@ konnten nicht aktiviert werden";
 "Failed to publish own avatar on account %@" = "Veröffentlichung des eigenen Avatars auf Konto %@ fehlgeschlagen";
 "Failed to publish own nickname on account %@" = "Eigener Nickname auf Konto %@ konnte nicht veröffentlicht werden";
-"Failed to query for new messages on account %@" = "Abfrage nach neuen Nachrichten auf Konto %@ fehlgeschlagen";
-"Failed to query new messages for groupchat %@" = "Abfrage neuer Nachrichten für Gruppenchat %@ fehlgeschlagen";
-"Failed to query newest stanzaid for account %@" = "Failed to query newest stanzaid for account %@";
-"Failed to query newest stanzaid for groupchat %@" = "Failed to query newest stanzaid for groupchat %@";
+"Failed to query for new messages on account %@" = "Abfrage neuer Nachrichten auf dem Konto %@ fehlgeschlagen";
+"Failed to query new messages for groupchat %@" = "Abfrage neuer Nachrichten für den Gruppenchat %@ fehlgeschlagen";
+"Failed to query newest stanzaid for account %@" = "Abfrage der neuesten Stanza-ID für das Konto %@ fehlgeschlagen";
+"Failed to query newest stanzaid for groupchat %@" = "Abfrage der neuesten Stanza-ID für den Gruppenchat %@ fehlgeschlagen";
 "Failed to save groupchat bookmarks" = "Speichern der Gruppenchatlesezeichen fehlgeschlagen";
 "Groupchat/channel details" = "Gruppenchat/Channeldetails";
 "Groupchat/channel details are currently not implemented in Monal." = "Gruppenchat/Channeldetails sind derzeit nicht in Monal implementiert.";
@@ -551,13 +551,13 @@
 /* QR-Code-Scanner: account scan wrong menu */
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "Der QR-Code enthält Anmeldedaten für ein Konto. Gehe zu den Einstellungen und scanne den QR-Code erneut";
 "Unexpected error while checking type of jid:" = "Unerwarteter Fehler bei der Überprüfung des Typs der JID:";
-"Unexpected server response: invalid PEP config form" = "Unexpected server response: invalid PEP config form";
-"Unexpected server response: missing required fields in PEP config form" = "Unexpected server response: missing required fields in PEP config form";
+"Unexpected server response: invalid PEP config form" = "Unerwartete Serverantwort: ungültiges PEP-Konfigurationsformular";
+"Unexpected server response: missing required fields in PEP config form" = "Unerwartete Serverantwort: fehlende Pflichtfelder im PEP-Konfigurationsformular";
 /* QR-Code-Scanner: account scan wrong menu
    QR-Code-Scanner: jid scan wrong menu */
 "Wrong menu" = "Falsches Menü";
-"Could not change password" = "Could not change password";
-"Could not change password: your account is currently not conneced" = "Could not change password: your account is currently not conneced";
-"Unexpected error while checking type of jid, please try again" = "Unexpected error while checking type of jid, please try again";
-"Upload Error" = "Upload Error";
-"Upload Error: your account got disconnected while requesting upload slot" = "Upload Error: your account got disconnected while requesting upload slot";
+"Could not change password" = "Passwort konnte nicht geändert werden";
+"Could not change password: your account is currently not conneced" = "Passwort konnte nicht geändert werden: dein Konto ist derzeit nicht verbunden";
+"Unexpected error while checking type of jid, please try again" = "Unerwarteter Fehler bei der Überprüfung des Typs der JID, bitte versuche es erneut";
+"Upload Error" = "Upload-Fehler";
+"Upload Error: your account got disconnected while requesting upload slot" = "Upload-Fehler: dein Konto wurde während der Anforderung des Upload-Slots getrennt";

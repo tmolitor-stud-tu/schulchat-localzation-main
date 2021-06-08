@@ -456,3 +456,8 @@
 "Monal" = "Monal";
 /* shareViewController: recipient */
 "Recipient" = "Recipient";
+"Could not change password" = "Could not change password";
+"Could not change password: your account is currently not connected" = "Could not change password: your account is currently not connected";
+"Unexpected error while checking type of jid, please try again" = "Unexpected error while checking type of jid, please try again";
+"Upload Error" = "Upload Error";
+"Upload Error: your account got disconnected while requesting upload slot" = "Upload Error: your account got disconnected while requesting upload slot";

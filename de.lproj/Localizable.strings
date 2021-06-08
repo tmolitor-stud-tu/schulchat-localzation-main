@@ -561,4 +561,4 @@
 "Unexpected error while checking type of jid, please try again" = "Unerwarteter Fehler bei der Überprüfung des Typs der JID, bitte versuche es erneut";
 "Upload Error" = "Upload-Fehler";
 "Upload Error: your account got disconnected while requesting upload slot" = "Upload-Fehler: dein Konto wurde während der Anforderung des Upload-Slots getrennt";
-"Could not change password: your account is currently not connected" = "Could not change password: your account is currently not connected";
+"Could not change password: your account is currently not connected" = "Passwort konnte nicht geändert werden: dein Konto ist derzeit nicht verbunden";

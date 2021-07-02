@@ -11,7 +11,7 @@
 /* Class = "UITableViewController"; title = "Settings"; ObjectID = "kjF-U7-P8y"; */
 "kjF-U7-P8y.title" = "Настройки";
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "mLa-XU-o1Q"; */
-"mLa-XU-o1Q.title" = "Root View Controller";
+"mLa-XU-o1Q.title" = "Корневой контроллер";
 /* Class = "UITableViewController"; title = "Notifications"; ObjectID = "nPR-ET-sg3"; */
 "nPR-ET-sg3.title" = "Уведомления";
 /* Class = "UINavigationItem"; title = "Account Edit"; ObjectID = "pa7-vQ-Yz3"; */
@@ -19,7 +19,7 @@
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "QTE-cG-3LC"; */
 "QTE-cG-3LC.title" = "Закрыть";
 /* Class = "UIBarButtonItem"; title = "Reconnect All"; ObjectID = "r7s-58-k2m"; */
-"r7s-58-k2m.title" = "Reconnect All";
+"r7s-58-k2m.title" = "Переподключить все";
 /* Class = "UILabel"; text = "Detail"; ObjectID = "rF7-34-0sc"; */
 "rF7-34-0sc.text" = "Подробности";
 /* Class = "UINavigationItem"; title = "Sounds"; ObjectID = "Rum-Ee-xSZ"; */
@@ -31,8 +31,8 @@
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "VJW-A6-Zpp"; */
 "VJW-A6-Zpp.title" = "Элемент";
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "vKm-u5-p5y"; */
-"vKm-u5-p5y.title" = "Root View Controller";
+"vKm-u5-p5y.title" = "Корневой контроллер";
 /* Class = "UINavigationItem"; title = "Accounts With Logs"; ObjectID = "wlb-8I-yzZ"; */
-"wlb-8I-yzZ.title" = "Accounts With Logs";
+"wlb-8I-yzZ.title" = "Аккаунты с логами";
 /* Class = "UITabBarItem"; title = "Settings"; ObjectID = "YtW-zK-Qze"; */
 "YtW-zK-Qze.title" = "Настройки";

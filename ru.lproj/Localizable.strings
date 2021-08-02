@@ -54,6 +54,7 @@
 "Could not request registration form. Please check your internet connection and try again." = "Could not request registration form. Please check your internet connection and try again.";
 "Decline" = "Decline";
 "Default chat backgrounds are from the Ubuntu project." = "Default chat backgrounds are from the Ubuntu project.";
+/* Chat msg action */
 "Delete" = "Delete";
 "Delete Account" = "Удалить аккаунт";
 "Direct TLS" = "Direct TLS";
@@ -388,6 +389,7 @@
 "Sent a File 📁" = "Sent a File 📁";
 "Sent a Location 📍" = "Sent a Location 📍";
 "📁 A File" = "📁 A File";
+/* Chat msg action */
 "Edit" = "Edit";
 "Delete Locally" = "Delete Locally";
 /* MLLoginView: QR-Code Button iOS12 only */
@@ -401,6 +403,7 @@
 "Failed to parse URL returned by HTTP upload server" = "Failed to parse URL returned by HTTP upload server";
 "Failed to uploaded file to file cache directory" = "Failed to uploaded file to file cache directory";
 "Failed to write decrypted download into cache directory" = "Failed to write decrypted download into cache directory";
+/* Chat msg action */
 "Copy" = "Copy";
 "Hint" = "Hint";
 "Already uploading this content, ignoring" = "Already uploading this content, ignoring";
@@ -561,3 +564,25 @@
 "Upload Error" = "Upload Error";
 "Upload Error: your account got disconnected while requesting upload slot" = "Upload Error: your account got disconnected while requesting upload slot";
 "Could not change password: your account is currently not connected" = "Could not change password: your account is currently not connected";
+"Account disabled" = "Account disabled";
+/* Camera permissions missing warning */
+"Camera permissions missing" = "Camera permissions missing";
+"Connecting..." = "Connecting...";
+"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@";
+"Could not fetch messages" = "Could not fetch messages";
+"Debug" = "Debug";
+"Failed to download file" = "Failed to download file";
+"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'.";
+"If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first.";
+"If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357.";
+"Loading contact list" = "Loading contact list";
+"Missing permission" = "Missing permission";
+/* Camera permissions missing warning */
+"Monal is not allowed to access the camera" = "Monal is not allowed to access the camera";
+"Monal uses your location when you send a location message in a conversation." = "Monal uses your location when you send a location message in a conversation.";
+/* Chat msg action */
+"Quote" = "Quote";
+/* Camera permissions missing warning */
+"Settings" = "Settings";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@";
+"You did not grant Monal to access your location." = "You did not grant Monal to access your location.";

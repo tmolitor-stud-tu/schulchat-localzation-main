@@ -54,6 +54,7 @@
 "Could not request registration form. Please check your internet connection and try again." = "無法發出註冊請求文件。請檢查您的網路連線然後再試一次。";
 "Decline" = "拒絕";
 "Default chat backgrounds are from the Ubuntu project." = "預設的對話背景是從取自於Ubuntu 專案。";
+/* Chat msg action */
 "Delete" = "刪除";
 "Delete Account" = "刪除帳號";
 "Direct TLS" = "直接 TLS";
@@ -389,6 +390,7 @@
 "Sent a File 📁" = "發送一個檔案📁";
 "Sent a Location 📍" = "傳送一個位置 📍";
 "📁 A File" = "📁 一個檔案";
+/* Chat msg action */
 "Edit" = "編輯";
 "Delete Locally" = "在本機刪除";
 /* MLLoginView: QR-Code Button iOS12 only */
@@ -402,6 +404,7 @@
 "Failed to parse URL returned by HTTP upload server" = "解析HTTP上傳伺服器回應的網址失敗";
 "Failed to uploaded file to file cache directory" = "將檔案上傳到檔案快取資料夾失敗";
 "Failed to write decrypted download into cache directory" = "寫入解密下載到快取資料夾失敗";
+/* Chat msg action */
 "Copy" = "複製";
 "Hint" = "提示";
 "Already uploading this content, ignoring" = "已上傳過此內容，忽略中";
@@ -562,3 +565,25 @@
 "Upload Error" = "Upload Error";
 "Upload Error: your account got disconnected while requesting upload slot" = "Upload Error: your account got disconnected while requesting upload slot";
 "Could not change password: your account is currently not connected" = "Could not change password: your account is currently not connected";
+"Account disabled" = "Account disabled";
+/* Camera permissions missing warning */
+"Camera permissions missing" = "Camera permissions missing";
+"Connecting..." = "Connecting...";
+"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@";
+"Could not fetch messages" = "Could not fetch messages";
+"Debug" = "Debug";
+"Failed to download file" = "Failed to download file";
+"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'.";
+"If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first.";
+"If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357.";
+"Loading contact list" = "Loading contact list";
+"Missing permission" = "Missing permission";
+/* Camera permissions missing warning */
+"Monal is not allowed to access the camera" = "Monal is not allowed to access the camera";
+"Monal uses your location when you send a location message in a conversation." = "Monal uses your location when you send a location message in a conversation.";
+/* Chat msg action */
+"Quote" = "Quote";
+/* Camera permissions missing warning */
+"Settings" = "Settings";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@";
+"You did not grant Monal to access your location." = "You did not grant Monal to access your location.";

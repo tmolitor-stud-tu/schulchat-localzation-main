@@ -565,25 +565,25 @@
 "Upload Error" = "Upload-Fehler";
 "Upload Error: your account got disconnected while requesting upload slot" = "Upload-Fehler: dein Konto wurde während der Anforderung des Upload-Slots getrennt";
 "Could not change password: your account is currently not connected" = "Passwort konnte nicht geändert werden: dein Konto ist derzeit nicht verbunden";
-"Account disabled" = "Account disabled";
+"Account disabled" = "Konto deaktiviert";
 /* Camera permissions missing warning */
-"Camera permissions missing" = "Camera permissions missing";
-"Connecting..." = "Connecting...";
-"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@";
-"Could not fetch messages" = "Could not fetch messages";
-"Debug" = "Debug";
-"Failed to download file" = "Failed to download file";
-"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'.";
-"If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first.";
-"If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357.";
-"Loading contact list" = "Loading contact list";
-"Missing permission" = "Missing permission";
+"Camera permissions missing" = "Fehlende Kameraberechtigungen";
+"Connecting..." = "Verbinden...";
+"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Es konnten nicht (alle) alten Nachrichten für diesen Chat aus deinem Serverarchiv geholt werden. Bitte versuche es später noch einmal. %@";
+"Could not fetch messages" = "Nachrichten konnten nicht abgerufen werden";
+"Debug" = "Fehlersuche";
+"Failed to download file" = "Datei kann nicht heruntergeladen werden";
+"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "Wenn Monal keine Benachrichtigungen anzeigen kann, wirst du keine Benachrichtigungen sehen, wenn eine Nachricht eintrifft. Dies geschieht, wenn du auf 'Ablehnen' getippt hast, als Monal zum ersten Mal um Erlaubnis gefragt hat. Behebe dies, indem du zu iOS-Einstellungen > Monal > Benachrichtigungen gehst und 'Benachrichtigungen zulassen' wählst.";
+"If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "Wenn Monal-Push deaktiviert ist, kann dein Gerät nicht über XMPP mit %@ kommunizieren. Dies sollte niemals ausgeschaltet sein. Es erfordert zuerst den Apple Push-Dienst, damit es funktioniert.";
+"If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "Wenn dies ausgeschaltet ist, kann dein Gerät Push auf deinem XMPP-Server nicht aktivieren. Stelle sicher, dass er so konfiguriert ist, dass er XEP-0357 unterstützt.";
+"Loading contact list" = "Kontaktliste wird geladen";
+"Missing permission" = "Fehlende Berechtigung";
 /* Camera permissions missing warning */
-"Monal is not allowed to access the camera" = "Monal is not allowed to access the camera";
-"Monal uses your location when you send a location message in a conversation." = "Monal uses your location when you send a location message in a conversation.";
+"Monal is not allowed to access the camera" = "Monal darf nicht auf die Kamera zugreifen";
+"Monal uses your location when you send a location message in a conversation." = "Monal verwendet deinen Standort, wenn du in einer Unterhaltung eine Standortnachricht sendest.";
 /* Chat msg action */
-"Quote" = "Quote";
+"Quote" = "Zitat";
 /* Camera permissions missing warning */
-"Settings" = "Settings";
-"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@";
-"You did not grant Monal to access your location." = "You did not grant Monal to access your location.";
+"Settings" = "Einstellungen";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "Die Verbindung zum Server wurde unterbrochen und es konnten keine alten Nachrichten für diesen Chat abgerufen werden. Bitte versuche es später noch einmal. %@";
+"You did not grant Monal to access your location." = "Du hast Monal nicht erlaubt, auf deinen Standort zuzugreifen.";

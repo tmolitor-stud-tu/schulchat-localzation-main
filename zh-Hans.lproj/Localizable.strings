@@ -257,7 +257,7 @@
 "QR-Code Scanner" = "扫一扫二维码";
 /* QR-Code-Scanner */
 "QR-Code video error" = "二维码视频错误";
-"QR-Code: Fingerprints found" = "QR-Code: Fingerprints found";
+"QR-Code: Fingerprints found" = "二维码：找到指纹";
 "Quick Setup" = "快速设定";
 "Rate Monal" = "评价Monal";
 "Read" = "已读";
@@ -462,21 +462,21 @@
 "Failed to query newest stanzaid for account %@" = "Failed to query newest stanzaid for account %@";
 "Failed to query newest stanzaid for groupchat %@" = "Failed to query newest stanzaid for groupchat %@";
 "Failed to save groupchat bookmarks" = "Failed to save groupchat bookmarks";
-"Groupchat/channel details" = "Groupchat/channel details";
+"Groupchat/channel details" = "群聊/频道详情";
 "Groupchat/channel details are currently not implemented in Monal." = "Groupchat/channel details are currently not implemented in Monal.";
-"Image Quality" = "Image Quality";
-"Image Quality: %.2f" = "Image Quality: %.2f";
-"Invalid Password!" = "Invalid Password!";
-"Jid Invalid" = "Jid Invalid";
+"Image Quality" = "图像质量";
+"Image Quality: %.2f" = "图像质量: %.2f";
+"Invalid Password!" = "无效密码!";
+"Jid Invalid" = "无效的Jid";
 "Message Archive Preferences" = "Message Archive Preferences";
 "Please make sure at least one account has connected before trying to add a contact or channel." = "Please make sure at least one account has connected before trying to add a contact or channel.";
 /* catalina warning */
 "QR-Code scanning is not supported on catalina" = "QR-Code scanning is not supported on catalina";
 /* catalina warning */
 "QR-Code scanning unsupported" = "QR-Code scanning unsupported";
-"Remove Conversation" = "Remove Conversation";
+"Remove Conversation" = "移除对话";
 "SRV entry prohibits XMPP connection for domain %@" = "SRV entry prohibits XMPP connection for domain %@";
-"The current password is not correct." = "The current password is not correct.";
+"The current password is not correct." = "当前密码不正确。";
 "The jid has to be in the form 'user@domain.tld' to be correct." = "The jid has to be in the form 'user@domain.tld' to be correct.";
 /* QR-Code-Scanner: jid scan wrong menu */
 "The qrcode contains a jid. Rescan the qrcode in the add user menu" = "The qrcode contains a jid. Rescan the qrcode in the add user menu";

@@ -589,5 +589,5 @@
 "You did not grant Monal to access your location." = "Du hast Monal nicht erlaubt, auf deinen Standort zuzugreifen.";
 "Always use direct TLS, not STARTTLS" = "Always use direct TLS, not STARTTLS";
 "Server Support Details" = "Server Support Details";
-"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later.";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "Die Verbindung zum Server wurde unterbrochen, weswegen für diesen Chat keine alten Nachrichten geladen werden konnten. Bitte versuche es später noch einmal.";
 "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)";

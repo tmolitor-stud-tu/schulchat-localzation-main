@@ -587,3 +587,7 @@
 "Will make a HTTP HEAD call on all links" = "将在所有链接上进行HTTP HEAD呼叫";
 "This sender will be able to send you messages" = "此传送者将能够向您传送消息";
 "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old expereince back." = "由于iOS系统的一些改变，iOS 13的通知发生了变化。现在，你只会看到有一条新消息，而不是文字或谁发送的。我们决定这样做，这样你就有可靠的讯息传递，同时我努力更新Monal，让旧的体验回来。";
+"Always use direct TLS, not STARTTLS" = "Always use direct TLS, not STARTTLS";
+"Server Support Details" = "Server Support Details";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later.";
+"Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)";

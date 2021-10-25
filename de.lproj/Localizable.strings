@@ -321,7 +321,7 @@
 "Your answer" = "Deine Antwort";
 "Can't convert the image to png file." = "Das Bild kann nicht in eine PNG-Datei konvertiert werden.";
 "My Name/Nickname" = "Mein Name/Nickname";
-"Display Name" = "Name anzeigen";
+"Display Name" = "Anzeigename";
 "Display Name And Message" = "Name und Nachricht anzeigen";
 "Display Only Name" = "Nur Name anzeigen";
 "Display Only Placeholder" = "Nur Platzhalter anzeigen";
@@ -591,4 +591,4 @@
 "Server Support Details" = "Server Support Details";
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "Die Verbindung zum Server wurde unterbrochen, weswegen für diesen Chat keine alten Nachrichten geladen werden konnten. Bitte versuche es später noch einmal.";
 "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Dateien auf den Server hochladen, um diese mit anderen zu teilen. (Maximal vom Server erlaubte Dateigröße: %@)";
-"Protocol support of your server (XEPs)" = "Protocol support of your server (XEPs)";
+"Protocol support of your server (XEPs)" = "Protokollunterstützung des Servers (XEPs)";

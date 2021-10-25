@@ -587,8 +587,8 @@
 "Settings" = "Einstellungen";
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "Die Verbindung zum Server wurde unterbrochen und es konnten keine alten Nachrichten für diesen Chat abgerufen werden. Bitte versuche es später noch einmal. %@";
 "You did not grant Monal to access your location." = "Du hast Monal nicht erlaubt, auf deinen Standort zuzugreifen.";
-"Always use direct TLS, not STARTTLS" = "Always use direct TLS, not STARTTLS";
+"Always use direct TLS, not STARTTLS" = "Immer explizites TLS nutzen, nie STARTTLS";
 "Server Support Details" = "Server Support Details";
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "Die Verbindung zum Server wurde unterbrochen, weswegen für diesen Chat keine alten Nachrichten geladen werden konnten. Bitte versuche es später noch einmal.";
-"Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)";
+"Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Dateien auf den Server hochladen, um diese mit anderen zu teilen. (Maximal vom Server erlaubte Dateigröße: %@)";
 "Protocol support of your server (XEPs)" = "Protocol support of your server (XEPs)";

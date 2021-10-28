@@ -346,7 +346,7 @@
 "Server returned invalid xml!" = "Server hat ungültige XML zurückgegeben!";
 "SRV entry prohibits XMPP connection for server %@" = "SRV-Eintrag verbietet XMPP-Verbindung für Server %@";
 "Unable to connect to server!" = "Keine Verbindung zum Server möglich!";
-"Unexpected mam preferences result" = "Ergebnis unerwarteter MAM-Präferenzen";
+"Unexpected mam preferences result" = "Unerwartete MAM-Präferenzen erhalten";
 "XMPP Account Info Error" = "XMPP-Kontoinformationsfehler";
 "XMPP Bind Error" = "XMPP-Bindungsfehler";
 "XMPP Disco Info Error" = "XMPP Disco Info Fehler";

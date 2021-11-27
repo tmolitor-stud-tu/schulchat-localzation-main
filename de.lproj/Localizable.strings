@@ -592,3 +592,11 @@
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "Die Verbindung zum Server wurde unterbrochen, weswegen für diesen Chat keine alten Nachrichten geladen werden konnten. Bitte versuche es später noch einmal.";
 "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Dateien auf den Server hochladen, um diese mit anderen zu teilen. (Maximal vom Server erlaubte Dateigröße: %@)";
 "Protocol support of your server (XEPs)" = "Protokollunterstützung des Servers (XEPs)";
+"Draft:" = "Draft:";
+"Failed to delete own avatar" = "Failed to delete own avatar";
+"Failed to delete own nickname" = "Failed to delete own nickname";
+"Failed to publish own avatar" = "Failed to publish own avatar";
+"Failed to publish own nickname" = "Failed to publish own nickname";
+"Message was encrypted with '%@' which isn't supported by Monal" = "Message was encrypted with '%@' which isn't supported by Monal";
+"Message was encrypted with OMEMO but could not be decrypted" = "Message was encrypted with OMEMO but could not be decrypted";
+"Timeout Error" = "Timeout Error";

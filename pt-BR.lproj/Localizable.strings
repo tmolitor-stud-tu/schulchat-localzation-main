@@ -540,3 +540,11 @@
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later.";
 "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)";
 "Protocol support of your server (XEPs)" = "Protocol support of your server (XEPs)";
+"Draft:" = "Draft:";
+"Failed to delete own avatar" = "Failed to delete own avatar";
+"Failed to delete own nickname" = "Failed to delete own nickname";
+"Failed to publish own avatar" = "Failed to publish own avatar";
+"Failed to publish own nickname" = "Failed to publish own nickname";
+"Message was encrypted with '%@' which isn't supported by Monal" = "Message was encrypted with '%@' which isn't supported by Monal";
+"Message was encrypted with OMEMO but could not be decrypted" = "Message was encrypted with OMEMO but could not be decrypted";
+"Timeout Error" = "Timeout Error";

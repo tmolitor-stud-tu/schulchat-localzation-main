@@ -600,3 +600,9 @@
 "Message was encrypted with '%@' which isn't supported by Monal" = "Nachricht wurde mit '%@' verschlüsselt, was von Monal nicht unterstützt wird";
 "Message was encrypted with OMEMO but could not be decrypted" = "Nachricht wurde mit OMEMO verschlüsselt, konnte aber nicht entschlüsselt werden";
 "Timeout Error" = "Zeitüberschreitungsfehler";
+"Autodelete all messages after 3 days" = "Autodelete all messages after 3 days";
+"Devices of %@" = "Devices of %@";
+"Failed to block contact %@" = "Failed to block contact %@";
+"Leave this conversation" = "Leave this conversation";
+"Message was encrypted with OMEMO and can't be decrypted anymore" = "Message was encrypted with OMEMO and can't be decrypted anymore";
+"You will no longer receive messages from this conversation" = "You will no longer receive messages from this conversation";

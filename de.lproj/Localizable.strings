@@ -588,7 +588,7 @@
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "Die Verbindung zum Server wurde unterbrochen und es konnten keine alten Nachrichten für diesen Chat abgerufen werden. Bitte versuche es später noch einmal. %@";
 "You did not grant Monal to access your location." = "Du hast Monal nicht erlaubt, auf deinen Standort zuzugreifen.";
 "Always use direct TLS, not STARTTLS" = "Immer explizites TLS nutzen, nie STARTTLS";
-"Server Support Details" = "Server Support Details";
+"Server Support Details" = "Serverunterstüzung";
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "Die Verbindung zum Server wurde unterbrochen, weswegen für diesen Chat keine alten Nachrichten geladen werden konnten. Bitte versuche es später noch einmal.";
 "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Dateien auf den Server hochladen, um diese mit anderen zu teilen. (Maximal vom Server erlaubte Dateigröße: %@)";
 "Protocol support of your server (XEPs)" = "Protokollunterstützung des Servers (XEPs)";
@@ -602,7 +602,7 @@
 "Timeout Error" = "Zeitüberschreitungsfehler";
 "Autodelete all messages after 3 days" = "Alle Nachrichten automatisch nach 3 Tagen löschen";
 "Devices of %@" = "Geräte von %@";
-"Failed to block contact %@" = "Konnte Kontakt %@ nicht blockieren";
+"Failed to block contact %@" = "Kontakt %@ konnte nicht blockiert werden";
 "Leave this conversation" = "Diese Unterhaltung verlassen";
 "Message was encrypted with OMEMO and can't be decrypted anymore" = "Diese Nachricht wurde mit OMEMO verschlüsselt und kann nicht mehr entschlüsselt werden.";
 "You will no longer receive messages from this conversation" = "Du wirst keine Nachrichten aus dieser Unterhaltung mehr bekommen";

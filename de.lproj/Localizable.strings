@@ -609,3 +609,5 @@
 "Loading registration form" = "Lade Registrierungsformular";
 "Using server '%@' that was provided by the registration link you used." = "Benutze Server '%@', welcher durch den benutzten Registrierungslink ausgewählt wurde.";
 "yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im ist ein öffentlicher Server, der nicht mit Monal in Verbindung steht. Dieses Regstrierungsformular wird nur aus Gründen der Nutzerfreundlichkeit zur Verfügung gestellt.";
+"There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person." = "There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person.";
+"There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)" = "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)";

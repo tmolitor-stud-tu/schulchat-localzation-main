@@ -610,3 +610,13 @@
 "yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im is a public server, not affiliated with Monal. This page is provided for convenience.";
 "There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person." = "There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person.";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)" = "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)";
+"Add Channel to Favorites" = "Add Channel to Favorites";
+"Add Group to Favorites" = "Add Group to Favorites";
+"Clear chat history for this contact" = "Clear chat history for this contact";
+"Clear History" = "Clear History";
+"Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again.";
+"Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!";
+"Leave Channel" = "Leave Channel";
+"Leave Group" = "Leave Group";
+"Reset OMEMO session" = "Reset OMEMO session";
+"You will receive subsequent messages from this conversation" = "You will receive subsequent messages from this conversation";

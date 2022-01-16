@@ -5,13 +5,13 @@
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "29t-GS-Yof"; */
 "29t-GS-Yof.title" = "Закрыть";
 /* Class = "UILabel"; text = "yax.im is a public server, not affiliated with Monal. This page is provided for convenience. "; ObjectID = "arw-q8-u8I"; */
-"arw-q8-u8I.text" = "yax.im is a public server, not affiliated with Monal. This page is provided for convenience. ";
+"arw-q8-u8I.text" = "yax.im - это публичный сервер, не связанный с Monal. Эта страница предоставлена для удобства. ";
 /* Class = "UIButton"; normalTitle = "Start Chatting"; ObjectID = "c04-pS-Uoi"; */
 "c04-pS-Uoi.normalTitle" = "Начать чат";
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "c9v-kP-ocC"; */
 "c9v-kP-ocC.normalTitle" = "Регистрация";
 /* Class = "UILabel"; text = "Like email, you can make your account on many sites and talk to anyone. You can use this form to make an account with yax.im.  "; ObjectID = "DfQ-Vo-v2C"; */
-"DfQ-Vo-v2C.text" = "Like email, you can make your account on many sites and talk to anyone. You can use this form to make an account with yax.im.  ";
+"DfQ-Vo-v2C.text" = "Подобно электронной почте, вы можете создать свой аккаунт на многих сайтах и общаться с кем угодно. Вы можете использовать эту форму для создания аккаунта на yax.im.  ";
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "dpn-up-7bR"; */
 "dpn-up-7bR.normalTitle" = "Регистрация";
 /* Class = "UILabel"; text = "Congratulations!"; ObjectID = "eEG-v1-Mb2"; */

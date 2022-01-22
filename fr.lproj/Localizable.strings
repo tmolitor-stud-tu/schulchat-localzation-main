@@ -296,7 +296,7 @@
 "Unpin Chat" = "Désépingler la conversation";
 "Last seen: %@" = "Vu pour la dernière fois : %@";
 "now" = "maintenant";
-"Jabber, Prosody, ejabberd etc.   " = "Jabber, Prosody, ejabberd etc.   ";
+"Jabber, Prosody, ejabberd etc.   " = "Jabber, Prosody, ejabberd, etc.   ";
 "Loading more Messages from Server" = "Chargement des autres messages à partir du serveur";
 "Name: " = "Nom : ";
 "Os: " = "Système d'exploitation : ";
@@ -312,7 +312,7 @@
 "Open app to see more" = "Ouvrez l'application pour voir plus";
 "Mark as read" = "Marquer comme lu";
 "Saving changes to server" = "Enregistrer les changements sur le serveur";
-"Send" = "Send";
+"Send" = "Envoyer";
 "Send message received state" = "Envoyer une notification de réception des messages";
 "Set a nickname for this contact" = "Définir un surnom pour ce contact";
 "Sync Read-Markers" = "Synchroniser les accusés de lecture";

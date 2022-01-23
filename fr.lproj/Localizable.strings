@@ -334,7 +334,7 @@
 "Loading omemo bundles" = "Chargement des paquets omemo";
 "Domain missing" = "Domaine manquant";
 "Username missing" = "Nom d'utilisateur manquant";
-"XMPP ID" = "XMPP ID";
+"XMPP ID" = "Identifiant XMPP";
 "XMPP ID missing" = "Identifiant XMPP manquant";
 "You have not entered your XMPP ID yet" = "Vous n'avez pas encore saisi votre identifiant XMPP";
 "Your entered XMPP ID is missing the domain" = "Il manque le domaine à votre identifiant XMPP";
@@ -366,7 +366,7 @@
 "Invalid format" = "Format invalide";
 /* QR-Code-Scanner: Camera not found */
 "It does not seem as your device has a camera. Please use a device with a camera for scanning" = "Il semble que votre appareil n'ait pas de caméra. Veuillez utiliser un appareil avec une caméra pour pouvoir scanner";
-"Login with a QR-Code" = "Login with a QR-Code";
+"Login with a QR-Code" = "Se connecter avec un QR-Code";
 "New Account" = "Nouveau compte";
 "QR-Code Scanner" = "Scanneur de QR-Code";
 /* QR-Code-Scanner */
@@ -447,14 +447,14 @@
 "Check type and size on " = "Check type and size on ";
 /* DEBUG - XMPPEdit */
 "Clear own omemo session" = "Clear own omemo session";
-"Download" = "Download";
+"Download" = "Télécharger";
 "Error entering groupchat" = "Error entering groupchat";
 "Failed to enter groupchat %@" = "Failed to enter groupchat %@";
 "Failed to enter groupchat %@: This is not a groupchat!" = "Failed to enter groupchat %@: This is not a groupchat!";
-"File" = "File";
+"File" = "Fichier";
 "Groupchat error" = "Groupchat error";
 "Loading Data" = "Loading Data";
-"Open" = "Open";
+"Open" = "Ouvrir";
 /* OmemoQrCodeView */
 "To many device keys" = "To many device keys";
 /* OmemoQrCodeView */
@@ -474,7 +474,7 @@
 "Do you want to trust the scanned fingerprints from" = "Do you want to trust the scanned fingerprints from";
 "Enter you password here" = "Enter you password here";
 "Enter you XMPP ID here" = "Enter you XMPP ID here";
-"Files" = "Files";
+"Files" = "Fichiers";
 "General File Transfer Settings" = "General File Transfer Settings";
 "If you want to use audio message you will need to allow access in Settings-> Privacy-> Microphone." = "If you want to use audio message you will need to allow access in Settings-> Privacy-> Microphone.";
 "Kicked, because muc is now members-only: %@" = "Kicked, because muc is now members-only: %@";
@@ -484,7 +484,7 @@
 "Load over WiFi upto" = "Load over WiFi upto";
 "Load over WiFi upto: %.fMB" = "Load over WiFi upto: %.fMB";
 "Maximum File Transfer Size" = "Maximum File Transfer Size";
-"Me" = "Me";
+"Me" = "Moi";
 "Optional Hardcoded Hostname" = "Optional Hardcoded Hostname";
 "Optional Port" = "Optional Port";
 "Port: %@, Direct TLS: %@, Priority: %@" = "Port: %1$@, Direct TLS: %2$@, Priority: %3$@";
@@ -535,9 +535,9 @@
 "Failed to save groupchat bookmarks" = "Failed to save groupchat bookmarks";
 "Groupchat/channel details" = "Groupchat/channel details";
 "Groupchat/channel details are currently not implemented in Monal." = "Groupchat/channel details are currently not implemented in Monal.";
-"Image Quality" = "Image Quality";
-"Image Quality: %.2f" = "Image Quality: %.2f";
-"Invalid Password!" = "Invalid Password!";
+"Image Quality" = "Qualité d'image";
+"Image Quality: %.2f" = "Qualité d'image : %.2f";
+"Invalid Password!" = "Mot de passe invalide !";
 "Jid Invalid" = "Jid Invalid";
 "Message Archive Preferences" = "Message Archive Preferences";
 "Please make sure at least one account has connected before trying to add a contact or channel." = "Please make sure at least one account has connected before trying to add a contact or channel.";
@@ -558,9 +558,9 @@
 "Unexpected server response: missing required fields in PEP config form" = "Unexpected server response: missing required fields in PEP config form";
 /* QR-Code-Scanner: account scan wrong menu
    QR-Code-Scanner: jid scan wrong menu */
-"Wrong menu" = "Wrong menu";
-"Could not change password" = "Could not change password";
-"Could not change password: your account is currently not conneced" = "Could not change password: your account is currently not conneced";
+"Wrong menu" = "Mauvais menu";
+"Could not change password" = "Le mot de passe ne peut être changé";
+"Could not change password: your account is currently not conneced" = "Ne mot de passe ne peut être changé : votre compte n'est actuellement pas connecté";
 "Unexpected error while checking type of jid, please try again" = "Unexpected error while checking type of jid, please try again";
 "Upload Error" = "Upload Error";
 "Upload Error: your account got disconnected while requesting upload slot" = "Upload Error: your account got disconnected while requesting upload slot";

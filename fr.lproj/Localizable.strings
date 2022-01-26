@@ -459,8 +459,8 @@
 "To many device keys" = "Trop de clés d'appareils";
 /* OmemoQrCodeView */
 "You have to many enabled devices on this account. You need to remove some devices" = "Vous avez trop d'appareils sur ce compte. Vous devez en retirer quelques uns.";
-"Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!" = "";
-"Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "";
+"Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!" = "Votre serveur ne supporte pas le MAM (XEP-0313). Cela signifie que vous pourrez manquer souvent des messages entrants !! Vous (ou l'administrateur du serveur) devriez revoir la configuration de votre serveur pour l'activer !";
+"Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Votre serveur ne supporte pas la fonction « Stream Management » (XEP-0198). Cela signifie que vous pourrez manquer souvent des messages sortants !! Vous (ou l'administrateur du serveur) devriez revoir la configuration de votre serveur pour l'activer !";
 "%@ says:" = "%@ dit :";
 "Audio recoder init fail." = "Échec du lancement de l'enregistrement audio.";
 "Audio recoder prepareToRecord fail." = "Échec du lancement de l'enregistrement audio.";
@@ -468,16 +468,16 @@
 "Audio recoder record fail." = "Échec du lancement de l'enregistrement audio.";
 "Audio Recoder set active error: %@" = "Échec du lancement de l'enregistrement audio : %@";
 "Audio Recoder set category error: %@" = "Échec du lancement de l'enregistrement audio : %@";
-"Auto-Download Media Settings" = "";
-"Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "";
+"Auto-Download Media Settings" = "Préférences pour le téléchargement auto des médias";
+"Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Défini une proposition de modification du protocole des listes de diffusion XMPP qui active les gestions des versions de ces listes pour qu'elles ne soient pas envoyées si aucun modification n'a été faite.";
 "Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription." = "";
 "Do you want to trust the scanned fingerprints from" = "Avez-vous confiance dans les empreintes digitales scannées depuis";
 "Enter you password here" = "Entrez votre mot de passe ici";
 "Enter you XMPP ID here" = "Entrez votre ID XMPP ici";
 "Files" = "Fichiers";
 "General File Transfer Settings" = "Préférences générales de transfert de fichier";
-"If you want to use audio message you will need to allow access in Settings-> Privacy-> Microphone." = "";
-"Kicked, because muc is now members-only: %@" = "";
+"If you want to use audio message you will need to allow access in Settings-> Privacy-> Microphone." = "Vous devez autoriser l'accès au microphone dans Préférences -> Confidentialité -> Microphone pour activer les messages audio.";
+"Kicked, because muc is now members-only: %@" = "Éjecté, parce que le canal est réservé aux membres : %@";
 "Kicked, because of system shutdown: %@" = "Éjecté, parce que le système a fermé : %@";
 "Load over cellular upto" = "Charger via les données cellulaires jusqu'à";
 "Load over cellular upto: %.fMB" = "Utiliser les données cellulaires jusqu'à : %.fMo";
@@ -496,10 +496,10 @@
 "XEP-0163 Personal Eventing Protocol" = "XEP-0163 Protocole d'événements personnels";
 "XEP-0191: Blocking Command" = "XEP-0191: Bloquer la commande";
 "XEP-0199: XMPP Ping" = "XEP-0199: Ping XMPP";
-"XEP-0237: Roster Versioning" = "XEP-0237: Roster Versioning";
-"XEP-0379: Pre-Authenticated Roster Subscription" = "XEP-0379: Pre-Authenticated Roster Subscription";
-"XMPP protocol extension for communications blocking." = "XMPP protocol extension for communications blocking.";
-"XMPP protocol extension for sending application-level pings over XML streams." = "XMPP protocol extension for sending application-level pings over XML streams.";
+"XEP-0237: Roster Versioning" = "XEP-0237 : Gestion des versions de liste";
+"XEP-0379: Pre-Authenticated Roster Subscription" = "";
+"XMPP protocol extension for communications blocking." = "";
+"XMPP protocol extension for sending application-level pings over XML streams." = "";
 "You got banned from: %@" = "Vous avez été banni de : %@";
 "You got kicked from: %@" = "Vous avez été éjecté de : %@";
 "Your status" = "Votre status";
@@ -516,66 +516,66 @@
 "Checking" = "Vérification";
 /* addContact - checking HUD */
 "Checking if the jid you provided is correct" = "Vérification si votre jid est correct";
-"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Contact and Channel Jids  are usually in the format: name@domain.tld";
+"Contact and Channel Jids  are usually in the format: name@domain.tld" = "";
 "Contact or Channel Jid" = "Contact ou Canal Jid";
 "Could not load (all) old messages" = "Échec de chargement des anciens messages (tous)";
-"Could not load (all) old messages from your server archive. Please try again later. %@" = "Could not load (all) old messages from your server archive. Please try again later. %@";
+"Could not load (all) old messages from your server archive. Please try again later. %@" = "";
 "Current Password" = "Mot de passe actuel";
 "Encryption Keys (OMEMO)" = "Clés de cryptage (OMEMO)";
 "Error: Received message is empty" = "Erreur : Le message reçu est vide";
-"Failed to decrypt filetransfer" = "Failed to decrypt filetransfer";
+"Failed to decrypt filetransfer" = "";
 "Failed to delete own avatar on account %@" = "Échec de la suppression de votre avatar pour le compte %@";
-"Failed to enable carbons for account %@" = "Failed to enable carbons for account %@";
+"Failed to enable carbons for account %@" = "";
 "Failed to publish own avatar on account %@" = "Échec de publication de votre avatar pour le compte %@";
 "Failed to publish own nickname on account %@" = "Échec de publication de votre pseudonyme pour le compte %@";
 "Failed to query for new messages on account %@" = "Échec de la requête pour les nouveaux messages du compte %@";
 "Failed to query new messages for groupchat %@" = "Échec de la requête pour les nouveaux messages du groupe de chat %@";
-"Failed to query newest stanzaid for account %@" = "Failed to query newest stanzaid for account %@";
-"Failed to query newest stanzaid for groupchat %@" = "Failed to query newest stanzaid for groupchat %@";
-"Failed to save groupchat bookmarks" = "Failed to save groupchat bookmarks";
-"Groupchat/channel details" = "Groupchat/channel details";
-"Groupchat/channel details are currently not implemented in Monal." = "Groupchat/channel details are currently not implemented in Monal.";
+"Failed to query newest stanzaid for account %@" = "";
+"Failed to query newest stanzaid for groupchat %@" = "";
+"Failed to save groupchat bookmarks" = "";
+"Groupchat/channel details" = "";
+"Groupchat/channel details are currently not implemented in Monal." = "";
 "Image Quality" = "Qualité d'image";
 "Image Quality: %.2f" = "Qualité d'image : %.2f";
 "Invalid Password!" = "Mot de passe invalide !";
 "Jid Invalid" = "Jid invalide";
 "Message Archive Preferences" = "Préférences d'archivage des messages";
-"Please make sure at least one account has connected before trying to add a contact or channel." = "Please make sure at least one account has connected before trying to add a contact or channel.";
+"Please make sure at least one account has connected before trying to add a contact or channel." = "";
 /* catalina warning */
 "QR-Code scanning is not supported on catalina" = "La récupération des QR-Code n'est pas supporté sur catalina";
 /* catalina warning */
 "QR-Code scanning unsupported" = "L'enregistrement de QR-Code non supporté";
 "Remove Conversation" = "Retirer la conversation";
-"SRV entry prohibits XMPP connection for domain %@" = "SRV entry prohibits XMPP connection for domain %@";
+"SRV entry prohibits XMPP connection for domain %@" = "";
 "The current password is not correct." = "Le mot de passe actuel n'est pas valide.";
-"The jid has to be in the form 'user@domain.tld' to be correct." = "The jid has to be in the form 'user@domain.tld' to be correct.";
+"The jid has to be in the form 'user@domain.tld' to be correct." = "";
 /* QR-Code-Scanner: jid scan wrong menu */
-"The qrcode contains a jid. Rescan the qrcode in the add user menu" = "The qrcode contains a jid. Rescan the qrcode in the add user menu";
+"The qrcode contains a jid. Rescan the qrcode in the add user menu" = "";
 /* QR-Code-Scanner: account scan wrong menu */
-"The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode";
+"The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "";
 "Unexpected error while checking type of jid:" = "Erreur inattendue durant la vérification du type de jid:";
-"Unexpected server response: invalid PEP config form" = "Unexpected server response: invalid PEP config form";
-"Unexpected server response: missing required fields in PEP config form" = "Unexpected server response: missing required fields in PEP config form";
+"Unexpected server response: invalid PEP config form" = "";
+"Unexpected server response: missing required fields in PEP config form" = "";
 /* QR-Code-Scanner: account scan wrong menu
    QR-Code-Scanner: jid scan wrong menu */
 "Wrong menu" = "Mauvais menu";
 "Could not change password" = "Le mot de passe ne peut être changé";
 "Could not change password: your account is currently not conneced" = "Ne mot de passe ne peut être changé : votre compte n'est actuellement pas connecté";
-"Unexpected error while checking type of jid, please try again" = "Unexpected error while checking type of jid, please try again";
+"Unexpected error while checking type of jid, please try again" = "";
 "Upload Error" = "Échec de l'envoi";
-"Upload Error: your account got disconnected while requesting upload slot" = "Upload Error: your account got disconnected while requesting upload slot";
+"Upload Error: your account got disconnected while requesting upload slot" = "";
 "Could not change password: your account is currently not connected" = "Échec du changement de mot de passe : votre compte n'est pas connecté";
 "Account disabled" = "Compte désactivé";
 /* Camera permissions missing warning */
 "Camera permissions missing" = "Permission pour la caméra manquante";
 "Connecting..." = "Connexion...";
-"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@";
+"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "";
 "Could not fetch messages" = "Échec de la récupération des messages";
 "Debug" = "Débogage";
 "Failed to download file" = "Échec du téléchargement du fichier";
-"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'.";
-"If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "";
-"If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "";
+"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "";
+"If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "Si le push de Monal est inactif, votre appareil ne peut même pas communiquer à %@ via XMPP. Ceci ne devrait pas être inactif ; le service de push Apple doit d'abord être fonctionnel.";
+"If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "Si ceci est inactif, votre appareil ne peut pas activer le push sur votre serveur XMPP. Veuillez vérifier que vous l'avez bien configuré pour supporter XEP-0357.";
 "Loading contact list" = "Chargement de la liste des contacts";
 "Missing permission" = "Permission manquante";
 /* Camera permissions missing warning */
@@ -585,13 +585,13 @@
 "Quote" = "Citer";
 /* Camera permissions missing warning */
 "Settings" = "Préférences";
-"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "La connexion avec le serveur a été interrompu et aucun ancien message n'a pu être récupéré pour ce canal. Veuillez réessayer plus tard. %@";
 "You did not grant Monal to access your location." = "Vous n'avez pas autorisé Monal à accéder à votre position.";
 "Always use direct TLS, not STARTTLS" = "Toujours utiliser TLS en direct, et non STARTTLS";
 "Server Support Details" = "Détails du support de serveur";
-"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "";
-"Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "";
-"Protocol support of your server (XEPs)" = "Protocol support of your server (XEPs)";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "La connexion avec le serveur a été interrompu et aucun ancien message n'a pu être récupéré pour ce canal. Veuillez réessayer plus tard.";
+"Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Envoyer des fichier sur le serveur pour les partager avec les autres. (La taille maximale autorisée des fichiers selon le serveur est de : %@)";
+"Protocol support of your server (XEPs)" = "Le support des protocoles sur votre serveur (XEPs)";
 "Draft:" = "Brouillon :";
 "Failed to delete own avatar" = "Échec de suppression de votre avatar";
 "Failed to delete own nickname" = "Échec de la suppression de votre pseudonyme";
@@ -609,14 +609,14 @@
 "Loading registration form" = "Chargement du formulaire d'enregistrement";
 "Using server '%@' that was provided by the registration link you used." = "Using server '%@' that was provided by the registration link you used.";
 "yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im est un serveur public, non affilié avec Monal. Cette page est affiché pour information.";
-"There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person." = "";
-"There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)" = "";
+"There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person." = "Une erreur est survenue en décryptant ce message « KEY TRANSPORT » crypté (erreur de signal). Pour résoudre cela, essayez d'envoyer un message crypté à cette personne.";
+"There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)" = "Une erreur est survenue en décryptant ce message crypté (erreur de signal). Pour résoudre cela, essayez d'envoyer un message crypté à cette personne. (%@)";
 "Add Channel to Favorites" = "Ajouter canal aux favoris";
 "Add Group to Favorites" = "Ajouter groupe aux favoris";
 "Clear chat history for this contact" = "Nettoyer l'historique de chat pour ce contact";
 "Clear History" = "Effacer l'historique";
-"Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "";
-"Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "";
+"Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Voulez-vous vraiment effacer tous les messages échangés dans cette conversation ? Si vous utilisez OMEMO, vous ne devriez plus pouvoir les récupérer à nouveau depuis votre serveur.";
+"Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Voulez-vous vraiment réinitialiser la session OMEMO ? Soyez sûr que vous savez exactement ce que vous faites !";
 "Leave Channel" = "Quitter le canal";
 "Leave Group" = "Quitter le groupe";
 "Reset OMEMO session" = "Rétablir la sessions OMEMO";

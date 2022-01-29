@@ -548,11 +548,11 @@
 "Remove Conversation" = "Retirer la conversation";
 "SRV entry prohibits XMPP connection for domain %@" = "";
 "The current password is not correct." = "Le mot de passe actuel n'est pas valide.";
-"The jid has to be in the form 'user@domain.tld' to be correct." = "";
+"The jid has to be in the form 'user@domain.tld' to be correct." = "Le jid doit être de la forme 'utilisateur@domaine.tld' pour être correct.";
 /* QR-Code-Scanner: jid scan wrong menu */
 "The qrcode contains a jid. Rescan the qrcode in the add user menu" = "";
 /* QR-Code-Scanner: account scan wrong menu */
-"The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "";
+"The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "Ce QRCode contient les informations de connexion d'un compte. Veuillez retourner dans les préférences pour scanner à nouveau un QRCode";
 "Unexpected error while checking type of jid:" = "Erreur inattendue durant la vérification du type de jid:";
 "Unexpected server response: invalid PEP config form" = "";
 "Unexpected server response: missing required fields in PEP config form" = "";
@@ -561,7 +561,7 @@
 "Wrong menu" = "Mauvais menu";
 "Could not change password" = "Le mot de passe ne peut être changé";
 "Could not change password: your account is currently not conneced" = "Ne mot de passe ne peut être changé : votre compte n'est actuellement pas connecté";
-"Unexpected error while checking type of jid, please try again" = "";
+"Unexpected error while checking type of jid, please try again" = "Une erreur inattendue s'est produire durant la vérification du type de jid, veuillez réessayer";
 "Upload Error" = "Échec de l'envoi";
 "Upload Error: your account got disconnected while requesting upload slot" = "";
 "Could not change password: your account is currently not connected" = "Échec du changement de mot de passe : votre compte n'est pas connecté";
@@ -569,7 +569,7 @@
 /* Camera permissions missing warning */
 "Camera permissions missing" = "Permission pour la caméra manquante";
 "Connecting..." = "Connexion...";
-"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "";
+"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Les anciens messages pour ce chat n'ont pu être récupérés depuis l'archive du serveur. Veuillez réessayer plus tard. %@";
 "Could not fetch messages" = "Échec de la récupération des messages";
 "Debug" = "Débogage";
 "Failed to download file" = "Échec du téléchargement du fichier";

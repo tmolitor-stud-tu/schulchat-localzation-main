@@ -11,7 +11,7 @@
 "Backgrounds" = "Arrière-plans";
 "Automatically send when you were online" = "Envoyé automatiquement lorsque vous étiez en ligne";
 "Auto Join" = "Rejoindre automatiquement";
-"Archive only if the contact is in roster" = "Archiver uniquement si le contact est dans le fichier";
+"Archive only if the contact is in roster" = "Archiver uniquement si le contact est dans la liste de diffusion";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Le service Push d'Apple doit toujours être activé. S'il est désactivé, votre appareil ne pourra pas interagir avec le serveur d'Apple.";
 "Apple Push Service" = "Service Push d'Apple";
 "Active chat but no messages found in history for %@." = "La discussion est active mais aucun message trouvé dans l'historique pour %@.";
@@ -287,7 +287,7 @@
 "Choices Galore" = "Des choix en grand nombre";
 "(autojoin)" = "(autojoindre)";
 "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Les notifications ont été modifiées dans l'iOS 13 en raison de certains changements apportés à l'iOS. Pour l'instant, vous ne verrez qu'un message indiquant qu'il s'agit d'un nouveau message et non le texte ou l'expéditeur. J'ai décidé de faire cela pour que vous ayez une messagerie fiable pendant que je travaille à actualiser Monal pour retrouver l'ancienne expérience.";
-"Pin Chat" = "Pin Chat";
+"Pin Chat" = "Épingler le chat";
 "Read" = "Lu";
 "Received" = "Reçu";
 "Sending..." = "Envoi…";
@@ -351,7 +351,7 @@
 "XMPP Bind Error" = "Erreur de liaison XMPP";
 "XMPP Disco Info Error" = "Erreur XMPP";
 "XMPP mam preferences error" = "Erreur de préférences XMPP mam";
-"XMPP Roster Error" = "Erreur XMPP";
+"XMPP Roster Error" = "Erreur XMPP sur les listes de diffusions";
 "XMPP stream error %@: %@" = "Erreur de flux XMPP %1$@ : %2$@";
 "XMPP stream error: %@" = "Erreur de flux XMPP : %@";
 "no supported auth mechanism, disconnecting!" = "Mécanisme de connexion non pris en charge, déconnexion !";
@@ -444,7 +444,7 @@
 "Auto-Download Media" = "Téléchargement auto des médias";
 "Automatic media download" = "Téléchargement auto des médias";
 "Changing Password" = "Changement du mot de passe";
-"Check type and size on " = "";
+"Check type and size on " = "Vérifier le type et la taille de ";
 /* DEBUG - XMPPEdit */
 "Clear own omemo session" = "Effacer la session OMEMO";
 "Download" = "Télécharger";
@@ -470,7 +470,7 @@
 "Audio Recoder set category error: %@" = "Échec du lancement de l'enregistrement audio : %@";
 "Auto-Download Media Settings" = "Préférences pour le téléchargement auto des médias";
 "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Défini une proposition de modification du protocole des listes de diffusion XMPP qui active les gestions des versions de ces listes pour qu'elles ne soient pas envoyées si aucun modification n'a été faite.";
-"Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription." = "";
+"Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription." = "Défini un protocole et un schéma d'URI pour la pré-authentification dans les liens des listes de diffusions, pour autoriser un tiers à obtenir automatiquement les données sur la présence des utilisateurs.";
 "Do you want to trust the scanned fingerprints from" = "Avez-vous confiance dans les empreintes digitales scannées depuis";
 "Enter you password here" = "Entrez votre mot de passe ici";
 "Enter you XMPP ID here" = "Entrez votre ID XMPP ici";
@@ -492,14 +492,14 @@
 "Recode Fail:" = "Échec d'enregistrement :";
 "Recode Success" = "Réussite de l'enregistrement";
 "Recording audio" = "Enregistrement audio";
-"This specification defines semantics for using the XMPP publish-subscribe protocol to broadcast state change events associated with an instant messaging and presence account." = "";
+"This specification defines semantics for using the XMPP publish-subscribe protocol to broadcast state change events associated with an instant messaging and presence account." = "Cela spécifie la sémantique pour le protocole XMPP pour la publication-souscription, afin de publier les événements des changements d'état associés à la messagerie instantanée et à la présence des comptes.";
 "XEP-0163 Personal Eventing Protocol" = "XEP-0163 Protocole d'événements personnels";
 "XEP-0191: Blocking Command" = "XEP-0191: Bloquer la commande";
 "XEP-0199: XMPP Ping" = "XEP-0199: Ping XMPP";
 "XEP-0237: Roster Versioning" = "XEP-0237 : Gestion des versions de liste";
-"XEP-0379: Pre-Authenticated Roster Subscription" = "";
-"XMPP protocol extension for communications blocking." = "";
-"XMPP protocol extension for sending application-level pings over XML streams." = "";
+"XEP-0379: Pre-Authenticated Roster Subscription" = "XEP-0379 : Souscription au liste des diffusions en étant pré-authentifié";
+"XMPP protocol extension for communications blocking." = "L'extension du protocole XMPP pour permettre de bloquer des communications.";
+"XMPP protocol extension for sending application-level pings over XML streams." = "L'extension du protocole XMPP pour envoyer des pings d'applications via les flux XML.";
 "You got banned from: %@" = "Vous avez été banni de : %@";
 "You got kicked from: %@" = "Vous avez été éjecté de : %@";
 "Your status" = "Votre status";
@@ -516,46 +516,46 @@
 "Checking" = "Vérification";
 /* addContact - checking HUD */
 "Checking if the jid you provided is correct" = "Vérification si votre jid est correct";
-"Contact and Channel Jids  are usually in the format: name@domain.tld" = "";
+"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Les contacts et cannaux Jid sont habituellement au format : « nom@domaine.tld »";
 "Contact or Channel Jid" = "Contact ou Canal Jid";
 "Could not load (all) old messages" = "Échec de chargement des anciens messages (tous)";
-"Could not load (all) old messages from your server archive. Please try again later. %@" = "";
+"Could not load (all) old messages from your server archive. Please try again later. %@" = "Les anciens messages sont pu tous être récupérés depuis l'archive du serveur. Veuillez réessayer plus tard. %@";
 "Current Password" = "Mot de passe actuel";
 "Encryption Keys (OMEMO)" = "Clés de cryptage (OMEMO)";
 "Error: Received message is empty" = "Erreur : Le message reçu est vide";
-"Failed to decrypt filetransfer" = "";
+"Failed to decrypt filetransfer" = "Échec du décryptage du fichier transféré";
 "Failed to delete own avatar on account %@" = "Échec de la suppression de votre avatar pour le compte %@";
-"Failed to enable carbons for account %@" = "";
+"Failed to enable carbons for account %@" = "Échec d'activation des carbones pour le compte %@";
 "Failed to publish own avatar on account %@" = "Échec de publication de votre avatar pour le compte %@";
 "Failed to publish own nickname on account %@" = "Échec de publication de votre pseudonyme pour le compte %@";
 "Failed to query for new messages on account %@" = "Échec de la requête pour les nouveaux messages du compte %@";
 "Failed to query new messages for groupchat %@" = "Échec de la requête pour les nouveaux messages du groupe de chat %@";
-"Failed to query newest stanzaid for account %@" = "";
-"Failed to query newest stanzaid for groupchat %@" = "";
-"Failed to save groupchat bookmarks" = "";
-"Groupchat/channel details" = "";
-"Groupchat/channel details are currently not implemented in Monal." = "";
+"Failed to query newest stanzaid for account %@" = "Échec de la requête du dernier Stanza ID pour le compte %@";
+"Failed to query newest stanzaid for groupchat %@" = "Échec de la requête du dernier Stanza ID pour le groupe %@";
+"Failed to save groupchat bookmarks" = "Échec de l'enregistrement des favoris du groupe";
+"Groupchat/channel details" = "Détails sur le groupe ou le canal";
+"Groupchat/channel details are currently not implemented in Monal." = "Les détails sur le groupe/canal n'est pas actuellement implémenté dans Monal.";
 "Image Quality" = "Qualité d'image";
 "Image Quality: %.2f" = "Qualité d'image : %.2f";
 "Invalid Password!" = "Mot de passe invalide !";
 "Jid Invalid" = "Jid invalide";
 "Message Archive Preferences" = "Préférences d'archivage des messages";
-"Please make sure at least one account has connected before trying to add a contact or channel." = "";
+"Please make sure at least one account has connected before trying to add a contact or channel." = "Veuillez vérifier qu'au moins un compte est connecté avant d'ajouter un contact ou un canal.";
 /* catalina warning */
 "QR-Code scanning is not supported on catalina" = "La récupération des QR-Code n'est pas supporté sur catalina";
 /* catalina warning */
 "QR-Code scanning unsupported" = "L'enregistrement de QR-Code non supporté";
 "Remove Conversation" = "Retirer la conversation";
-"SRV entry prohibits XMPP connection for domain %@" = "";
+"SRV entry prohibits XMPP connection for domain %@" = "SRV empêche la connexion de XMPP au domaine %@";
 "The current password is not correct." = "Le mot de passe actuel n'est pas valide.";
 "The jid has to be in the form 'user@domain.tld' to be correct." = "Le jid doit être de la forme 'utilisateur@domaine.tld' pour être correct.";
 /* QR-Code-Scanner: jid scan wrong menu */
-"The qrcode contains a jid. Rescan the qrcode in the add user menu" = "";
+"The qrcode contains a jid. Rescan the qrcode in the add user menu" = "Ce QRCode contient un ID Jabber. Veuillez le re-scanner depuis le menu d'ajout d'utilisateur";
 /* QR-Code-Scanner: account scan wrong menu */
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "Ce QRCode contient les informations de connexion d'un compte. Veuillez retourner dans les préférences pour scanner à nouveau un QRCode";
 "Unexpected error while checking type of jid:" = "Erreur inattendue durant la vérification du type de jid:";
-"Unexpected server response: invalid PEP config form" = "";
-"Unexpected server response: missing required fields in PEP config form" = "";
+"Unexpected server response: invalid PEP config form" = "Réponse du serveur inattendu : configuration PEP invalide";
+"Unexpected server response: missing required fields in PEP config form" = "Réponse du serveur inattendu : champs requis manquants dans la configuration PEP";
 /* QR-Code-Scanner: account scan wrong menu
    QR-Code-Scanner: jid scan wrong menu */
 "Wrong menu" = "Mauvais menu";
@@ -563,7 +563,7 @@
 "Could not change password: your account is currently not conneced" = "Ne mot de passe ne peut être changé : votre compte n'est actuellement pas connecté";
 "Unexpected error while checking type of jid, please try again" = "Une erreur inattendue s'est produire durant la vérification du type de jid, veuillez réessayer";
 "Upload Error" = "Échec de l'envoi";
-"Upload Error: your account got disconnected while requesting upload slot" = "";
+"Upload Error: your account got disconnected while requesting upload slot" = "Échec de l'envoi : votre compte a été déconnecté lors de la demande d'un emplacement pour l'envoi";
 "Could not change password: your account is currently not connected" = "Échec du changement de mot de passe : votre compte n'est pas connecté";
 "Account disabled" = "Compte désactivé";
 /* Camera permissions missing warning */
@@ -573,7 +573,7 @@
 "Could not fetch messages" = "Échec de la récupération des messages";
 "Debug" = "Débogage";
 "Failed to download file" = "Échec du téléchargement du fichier";
-"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "";
+"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "Si Monal ne peut utiliser les notifications, aucun alerte ne sera affichée quand les messages arriverons. Il est possible que vous ayez sélectionné \"Refuser\" lors de la demande de permission de Monal. Vous pouvez activer les notifications depuis Préférences d'iOS -> Monal -> Notifications puis « Autoriser les notifications ».";
 "If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "Si le push de Monal est inactif, votre appareil ne peut même pas communiquer à %@ via XMPP. Ceci ne devrait pas être inactif ; le service de push Apple doit d'abord être fonctionnel.";
 "If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "Si ceci est inactif, votre appareil ne peut pas activer le push sur votre serveur XMPP. Veuillez vérifier que vous l'avez bien configuré pour supporter XEP-0357.";
 "Loading contact list" = "Chargement de la liste des contacts";

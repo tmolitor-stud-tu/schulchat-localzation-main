@@ -349,7 +349,7 @@
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode";
 "The server does not support blocking" = "The server does not support blocking";
 "The username does not need to have an @ symbol. Please try again." = "The username does not need to have an @ symbol. Please try again.";
-"There is no configured email account. Please email info@monal.im ." = "There is no configured email account. Please email info@monal.im .";
+"There is no configured email account. Please email info@monal-im.org ." = "There is no configured email account. Please email info@monal-im.org .";
 "There was a SASL error on the server." = "There was a SASL error on the server.";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person.";
 "These are SRV resource records found for your domain" = "These are SRV resource records found for your domain";

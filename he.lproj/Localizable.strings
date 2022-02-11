@@ -232,7 +232,7 @@
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "The new contact will be added to your contacts list when the person you've added has approved your request.";
 "The password has been changed" = "The password has been changed";
 "The username does not need to have an @ symbol. Please try again." = "The username does not need to have an @ symbol. Please try again.";
-"There is no configured email account. Please email info@monal.im ." = "There is no configured email account. Please email info@monal.im .";
+"There is no configured email account. Please email info@monal-im.org ." = "There is no configured email account. Please email info@monal-im.org .";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person.";
 "There was an error uploading the file to the server" = "There was an error uploading the file to the server";
 "These are SRV resource records found for your domain" = "These are SRV resource records found for your domain";

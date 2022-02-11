@@ -78,7 +78,7 @@
 "These are SRV resource records found for your domain" = "Il y a des enregistrements de ressource SRV pour votre domaine";
 "There was an error uploading the file to the server" = "Une erreur s'est produite lors de la mise en ligne du fichier sur le serveur";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "Une erreur s'est produite lors du déchiffrement de ce message chiffré (erreur de Signal). Pour résoudre ceci, essayez d'envoyer un message chiffré à cette personne.";
-"There is no configured email account. Please email info@monal.im ." = "Il n'y a pas de compte de messagerie configuré. Veuillez envoyer un courriel à info@monal.im .";
+"There is no configured email account. Please email info@monal-im.org ." = "Il n'y a pas de compte de messagerie configuré. Veuillez envoyer un courriel à info@monal-im.org .";
 "The username does not need to have an @ symbol. Please try again." = "Le nom d'utilisateur ne doit pas contenir le symbole @. Veuillez réessayer.";
 "The password has been changed" = "Le mot de passe a été modifié";
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "Le nouveau contact sera ajouté à votre liste de contacts lorsque la personne que vous avez ajoutée aura approuvée votre demande.";

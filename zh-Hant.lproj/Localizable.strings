@@ -225,7 +225,7 @@
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "當您添加的人允許您的請求後，新聯絡人將被添加到您的聯絡人列表中。";
 "The password has been changed" = "密碼已更改";
 "The username does not need to have an @ symbol. Please try again." = "使用者名稱不需要有 @ 符號。請重試。";
-"There is no configured email account. Please email info@monal.im ." = "無設定的電子郵件帳戶。請傳送電子郵件至info@monal.im。";
+"There is no configured email account. Please email info@monal-im.org ." = "無設定的電子郵件帳戶。請傳送電子郵件至info@monal-im.org。";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "解密此加密郵件時出現錯誤（信號錯誤）。若要解決此問題，請嘗試向此人發送加密郵件。";
 "There was an error uploading the file to the server" = "將檔案上傳到伺服器時出現錯誤";
 "These are SRV resource records found for your domain" = "這些是您的域名找到的SRV資源記錄。";

@@ -59,7 +59,7 @@
 "These are SRV resource records found for your domain" = "Acestea sunt setările SRV găsite pentru domeniul dumneavoastră";
 "There was an error uploading the file to the server" = "A apărut o eroare la încărcarea fișierului pe server";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "A apărut o eroare la decriptarea acestui mesaj criptat (eroare Signal). Pentru a rezolva acesta încercați să trimiteți un mesaj criptat acestei persoane.";
-"There is no configured email account. Please email info@monal.im ." = "Nu există nici un cont de e-mail configurat. Vă rugăm să trimiteți un e-mail către info@monal.im .";
+"There is no configured email account. Please email info@monal-im.org ." = "Nu există nici un cont de e-mail configurat. Vă rugăm să trimiteți un e-mail către info@monal-im.org .";
 "The username does not need to have an @ symbol. Please try again." = "Numele de utilizator nu trebuie să aibă un simbol @. Vă rugăm să încercați din nou.";
 "The password has been changed" = "Parola a fost modificată";
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "Noua persoană de contact va fi adăugată în lista dumneavoastră atunci când persoana pe care ați adăugat-o vă aprobă solicitarea.";

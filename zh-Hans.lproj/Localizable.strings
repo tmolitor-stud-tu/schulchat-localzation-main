@@ -330,7 +330,7 @@
 "The password has been changed" = "密码已变更";
 "The server does not support blocking" = "伺服器不支援屏蔽";
 "The username does not need to have an @ symbol. Please try again." = "使用者名称不需要有 @ 符号。请重试。";
-"There is no configured email account. Please email info@monal.im ." = "无设定的电子邮件帐户。请传送电子邮件至info@monal.im。";
+"There is no configured email account. Please email info@monal-im.org ." = "无设定的电子邮件帐户。请传送电子邮件至info@monal-im.org。";
 "There was a SASL error on the server." = "伺服器上出现 SASL 错误。";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "解密此加密邮件时出现错误（信号错误）。若要解决此问题，请尝试向此人发送加密邮件。";
 "These are SRV resource records found for your domain" = "这些是您的域名找到的SRV资源记录";

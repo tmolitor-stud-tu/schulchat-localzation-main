@@ -232,7 +232,7 @@
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "Η νέα επαφή θα προστεθεί στη λίστα επαφών σας όταν το άτομο που έχετε προσθέσει εγκρίνει το αίτημά σας.";
 "The password has been changed" = "Ο κωδικός πρόσβασης έχει αλλάξει";
 "The username does not need to have an @ symbol. Please try again." = "Το όνομα χρήστη δεν χρειάζεται να έχει σύμβολο @. Προσπαθήστε ξανά.";
-"There is no configured email account. Please email info@monal.im ." = "Δεν υπάρχει ρυθμισμένος λογαριασμός ηλεκτρονικού ταχυδρομείου. Παρακαλούμε στείλτε μήνυμα στο info@monal.im .";
+"There is no configured email account. Please email info@monal-im.org ." = "Δεν υπάρχει ρυθμισμένος λογαριασμός ηλεκτρονικού ταχυδρομείου. Παρακαλούμε στείλτε μήνυμα στο info@monal-im.org .";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "Παρουσιάστηκε σφάλμα κατά την αποκρυπτογράφηση αυτού του κρυπτογραφημένου μηνύματος (σφάλμα Signal). Για να το επιλύσετε, δοκιμάστε να στείλετε ένα κρυπτογραφημένο μήνυμα σε αυτό το άτομο.";
 "There was an error uploading the file to the server" = "Παρουσιάστηκε σφάλμα κατά την αποστολή του αρχείου στο διακομιστή";
 "These are SRV resource records found for your domain" = "Αυτές είναι εγγραφές πόρων SRV που βρέθηκαν για τον τομέα σας";

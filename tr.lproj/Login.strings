@@ -1,5 +1,5 @@
 /* Class = "UILabel"; text = "someone@yax.im"; ObjectID = "0IG-5n-3XF"; */
-"0IG-5n-3XF.text" = "biradres@yax.im";
+"0IG-5n-3XF.text" = "birisi@yax.im";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "0Tx-nj-jHi"; */
 "0Tx-nj-jHi.title" = "Kapat";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "29t-GS-Yof"; */
@@ -13,21 +13,21 @@
 /* Class = "UILabel"; text = "Like email, you can make your account on many sites and talk to anyone. You can use this form to make an account with yax.im.  "; ObjectID = "DfQ-Vo-v2C"; */
 "DfQ-Vo-v2C.text" = "E-posta hesabında olduğu gibi, birçok sitede hesabınızı oluşturabilir ve herkesle konuşabilirsiniz. @yax.im uzantılı hesabınızı oluşturmak için bu formu kullanabilirsiniz.  ";
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "dpn-up-7bR"; */
-"dpn-up-7bR.normalTitle" = "Kaydol";
+"dpn-up-7bR.normalTitle" = "Kayıt";
 /* Class = "UILabel"; text = "Congratulations!"; ObjectID = "eEG-v1-Mb2"; */
 "eEG-v1-Mb2.text" = "Tebrikler!";
 /* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Gth-vl-n15"; */
 "Gth-vl-n15.normalTitle" = "Giriş Yap";
 /* Class = "UIButton"; normalTitle = "Terms of service"; ObjectID = "hyG-BH-GJV"; */
-"hyG-BH-GJV.normalTitle" = "Hizmet koşulları";
+"hyG-BH-GJV.normalTitle" = "Hizmet Koşulları";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aD8"; */
 "iLC-4b-aD8.title" = "Parça";
 /* Class = "UITextField"; placeholder = "Account@something.com"; ObjectID = "ktr-DL-MYt"; */
-"ktr-DL-MYt.placeholder" = "hesap@sunucu.com";
+"ktr-DL-MYt.placeholder" = "Hesap@birsey.com";
 /* Class = "UITextField"; placeholder = "Password"; ObjectID = "Qrh-pK-XJH"; */
 "Qrh-pK-XJH.placeholder" = "Şifre";
 /* Class = "UIButton"; normalTitle = "Set up an account later"; ObjectID = "QY7-bW-ufD"; */
-"QY7-bW-ufD.normalTitle" = "Hesabımı sonra aç";
+"QY7-bW-ufD.normalTitle" = "Hesabı sonra aç";
 /* Class = "UITextField"; placeholder = "Password"; ObjectID = "rHr-ew-oBM"; */
 "rHr-ew-oBM.placeholder" = "Şifre";
 /* Class = "UILabel"; text = "Sign in or register an account.  If needed, more advanced options are in Accounts under Settings. "; ObjectID = "Spm-F2-kku"; */

@@ -599,7 +599,7 @@
 "Failed to publish own nickname" = "Échec de publication de votre pseudonyme";
 "Message was encrypted with '%@' which isn't supported by Monal" = "Le message a été crypté avec '%@' qui n'est pas supporté par Monal";
 "Message was encrypted with OMEMO but could not be decrypted" = "Le message a été crypté avec OMEMO mais n'a pu être décrypté";
-"Timeout Error" = "Timeout Error";
+"Timeout Error" = "Erreur de délai d'attente";
 "Autodelete all messages after 3 days" = "Supprimer automatiquement tous les messages après 3 jours";
 "Devices of %@" = "Appareils sur %@";
 "Failed to block contact %@" = "Échec de blocage du contact %@";
@@ -607,7 +607,7 @@
 "Message was encrypted with OMEMO and can't be decrypted anymore" = "Le message a été crypté avec OMEMO et ne peut plus être décrypté maintenant";
 "You will no longer receive messages from this conversation" = "Vous ne recevrez plus les messages de cette conversation";
 "Loading registration form" = "Chargement du formulaire d'enregistrement";
-"Using server '%@' that was provided by the registration link you used." = "Using server '%@' that was provided by the registration link you used.";
+"Using server '%@' that was provided by the registration link you used." = "En utilisant le serveur '%@' ; qui a été fourni par le lien d'enregistrement que vous avez utilisé.";
 "yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im est un serveur public, non affilié avec Monal. Cette page est affiché pour information.";
 "There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person." = "Une erreur est survenue en décryptant ce message « KEY TRANSPORT » crypté (erreur de signal). Pour résoudre cela, essayez d'envoyer un message crypté à cette personne.";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)" = "Une erreur est survenue en décryptant ce message crypté (erreur de signal). Pour résoudre cela, essayez d'envoyer un message crypté à cette personne. (%@)";

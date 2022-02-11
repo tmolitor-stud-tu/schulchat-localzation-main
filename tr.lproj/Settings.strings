@@ -25,14 +25,14 @@
 /* Class = "UINavigationItem"; title = "Sounds"; ObjectID = "Rum-Ee-xSZ"; */
 "Rum-Ee-xSZ.title" = "Sesler";
 /* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "TJt-Kl-UDV"; */
-"TJt-Kl-UDV.title" = "Save";
+"TJt-Kl-UDV.title" = "Kaydet";
 /* Class = "UITableViewController"; title = "Account Edit"; ObjectID = "Tus-3k-aPR"; */
-"Tus-3k-aPR.title" = "Account Edit";
+"Tus-3k-aPR.title" = "Hesap Düzenle";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "VJW-A6-Zpp"; */
-"VJW-A6-Zpp.title" = "Item";
+"VJW-A6-Zpp.title" = "Parça";
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "vKm-u5-p5y"; */
-"vKm-u5-p5y.title" = "Root View Controller";
+"vKm-u5-p5y.title" = "Kök Görüş Denetleyicisi";
 /* Class = "UINavigationItem"; title = "Accounts With Logs"; ObjectID = "wlb-8I-yzZ"; */
-"wlb-8I-yzZ.title" = "Accounts With Logs";
+"wlb-8I-yzZ.title" = "Hesaplar ve Günlük";
 /* Class = "UITabBarItem"; title = "Settings"; ObjectID = "YtW-zK-Qze"; */
-"YtW-zK-Qze.title" = "Settings";
+"YtW-zK-Qze.title" = "Ayarlar";

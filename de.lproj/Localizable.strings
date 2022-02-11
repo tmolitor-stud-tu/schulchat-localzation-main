@@ -604,7 +604,7 @@
 "Devices of %@" = "Geräte von %@";
 "Failed to block contact %@" = "Kontakt %@ konnte nicht blockiert werden";
 "Leave this conversation" = "Diese Unterhaltung verlassen";
-"Message was encrypted with OMEMO and can't be decrypted anymore" = "Diese Nachricht wurde mit OMEMO verschlüsselt und kann nicht mehr entschlüsselt werden.";
+"Message was encrypted with OMEMO and can't be decrypted anymore" = "Diese Nachricht wurde mit OMEMO verschlüsselt und kann nicht mehr entschlüsselt werden";
 "You will no longer receive messages from this conversation" = "Du wirst keine Nachrichten aus dieser Unterhaltung mehr bekommen";
 "Loading registration form" = "Lade Registrierungsformular";
 "Using server '%@' that was provided by the registration link you used." = "Benutze Server '%@', welcher durch den benutzten Registrierungslink ausgewählt wurde.";

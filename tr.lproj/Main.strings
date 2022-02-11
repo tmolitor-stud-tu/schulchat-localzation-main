@@ -51,7 +51,7 @@
 /* Class = "UILabel"; text = "Detail"; ObjectID = "sff-9g-z31"; */
 "sff-9g-z31.text" = "Detaylar";
 /* Class = "UILabel"; text = "View Contact Requests"; ObjectID = "SmS-bT-id6"; */
-"SmS-bT-id6.text" = "Kişi İsteklerini Görüntüle";
+"SmS-bT-id6.text" = "Kişi Taleplerini Görüntüle";
 /* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "TMS-52-ORP"; */
 "TMS-52-ORP.title" = "Tamamlandı";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Vtv-sv-ErG"; */

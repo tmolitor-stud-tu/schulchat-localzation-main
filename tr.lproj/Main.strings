@@ -7,9 +7,9 @@
 /* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */
 "BWH-2I-fSI.title" = "Ayarlar";
 /* Class = "UINavigationItem"; title = "Contact Requests"; ObjectID = "GI8-WI-wYs"; */
-"GI8-WI-wYs.title" = "Kişi İstekleri";
+"GI8-WI-wYs.title" = "Kişi Talepleri";
 /* Class = "UITableViewController"; title = "Join Group Chat"; ObjectID = "GpF-k7-Z6D"; */
-"GpF-k7-Z6D.title" = "Sohbete Katıl";
+"GpF-k7-Z6D.title" = "Grup Sohbete Katıl";
 /* Class = "UINavigationItem"; title = "Select An Account"; ObjectID = "heq-Ls-ieg"; */
 "heq-Ls-ieg.title" = "Hesap Seç";
 /* Class = "UINavigationItem"; title = "Add Contact"; ObjectID = "HYb-u1-ZN3"; */
@@ -25,11 +25,11 @@
 /* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jIW-zk-rUu"; */
 "jIW-zk-rUu.normalTitle" = "Gönder";
 /* Class = "UINavigationItem"; title = "Group Chat"; ObjectID = "k0T-5X-FQu"; */
-"k0T-5X-FQu.title" = "Grup Sohbeti";
+"k0T-5X-FQu.title" = "Grup Sohbet";
 /* Class = "UILabel"; text = "Pull to load more messages"; ObjectID = "K3M-5z-C5O"; */
-"K3M-5z-C5O.text" = "Daha fazla mesaj için aşağı çekin";
+"K3M-5z-C5O.text" = "Daha çok mesaj için aşağı çekin";
 /* Class = "UILabel"; text = "Send Message"; ObjectID = "KUa-bA-cQb"; */
-"KUa-bA-cQb.text" = "Mesaj Gönder";
+"KUa-bA-cQb.text" = "Mesajı Gönder";
 /* Class = "UINavigationItem"; title = "Send A Message "; ObjectID = "MiR-iW-O6e"; */
 "MiR-iW-O6e.title" = "Mesaj Gönder ";
 /* Class = "UINavigationItem"; title = "New"; ObjectID = "Msw-bP-HIu"; */

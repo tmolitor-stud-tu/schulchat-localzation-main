@@ -1,7 +1,7 @@
 /* Class = "UIButton"; normalTitle = "Add Contact"; ObjectID = "21P-WC-8yr"; */
-"21P-WC-8yr.normalTitle" = "Agregar contacto";
+"21P-WC-8yr.normalTitle" = "Agregar contacto o canal";
 /* Class = "UILabel"; text = "Add a New Contact"; ObjectID = "7Cs-k6-7n4"; */
-"7Cs-k6-7n4.text" = "Agregar un nuevo contacto";
+"7Cs-k6-7n4.text" = "Agregar un nuevo contacto o canal";
 /* Class = "UILabel"; text = "Join a Group Chat"; ObjectID = "7dx-xo-wIB"; */
 "7dx-xo-wIB.text" = "Unirse al chat grupal";
 /* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */
@@ -13,7 +13,7 @@
 /* Class = "UINavigationItem"; title = "Select An Account"; ObjectID = "heq-Ls-ieg"; */
 "heq-Ls-ieg.title" = "Seleccionar una cuenta";
 /* Class = "UINavigationItem"; title = "Add Contact"; ObjectID = "HYb-u1-ZN3"; */
-"HYb-u1-ZN3.title" = "Add Contact";
+"HYb-u1-ZN3.title" = "Agregar contacto";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "IGd-kM-9BO"; */
 "IGd-kM-9BO.title" = "Cerrar";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aD9"; */

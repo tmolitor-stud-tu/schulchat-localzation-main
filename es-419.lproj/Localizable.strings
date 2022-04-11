@@ -1,6 +1,6 @@
-"%@ (Pending Approval)" = "%@ (Pending Approval)";
-"%ld (This device)" = "%ld (This device)";
-"(autojoin)" = "(autojoin)";
+"%@ (Pending Approval)" = "%@ (Pendiente de Aprobación)";
+"%ld (This device)" = "%ld (Este Dispositivo)";
+"(autojoin)" = "(autounirse)";
 "[This message is OMEMO encrypted]" = "[This message is OMEMO encrypted]";
 "About" = "About";
 "Accept" = "Accept";

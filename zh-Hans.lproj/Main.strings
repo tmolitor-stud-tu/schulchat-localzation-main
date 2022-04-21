@@ -7,19 +7,19 @@
 /* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */
 "BWH-2I-fSI.title" = "设置";
 /* Class = "UINavigationItem"; title = "Contact Requests"; ObjectID = "GI8-WI-wYs"; */
-"GI8-WI-wYs.title" = "联系请求";
+"GI8-WI-wYs.title" = "联系人请求";
 /* Class = "UITableViewController"; title = "Join Group Chat"; ObjectID = "GpF-k7-Z6D"; */
 "GpF-k7-Z6D.title" = "加入群聊";
 /* Class = "UINavigationItem"; title = "Select An Account"; ObjectID = "heq-Ls-ieg"; */
-"heq-Ls-ieg.title" = "选择账户";
+"heq-Ls-ieg.title" = "选择账号";
 /* Class = "UINavigationItem"; title = "Add Contact"; ObjectID = "HYb-u1-ZN3"; */
 "HYb-u1-ZN3.title" = "添加联系人";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "IGd-kM-9BO"; */
-"IGd-kM-9BO.title" = "关";
+"IGd-kM-9BO.title" = "关闭";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aD9"; */
-"iLC-4b-aD9.title" = "项";
+"iLC-4b-aD9.title" = "项目";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aDr"; */
-"iLC-4b-aDr.title" = "项";
+"iLC-4b-aDr.title" = "项目";
 /* Class = "UITabBarItem"; title = "Chats"; ObjectID = "jh7-be-VPo"; */
 "jh7-be-VPo.title" = "聊天";
 /* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jIW-zk-rUu"; */
@@ -27,15 +27,15 @@
 /* Class = "UINavigationItem"; title = "Group Chat"; ObjectID = "k0T-5X-FQu"; */
 "k0T-5X-FQu.title" = "群聊";
 /* Class = "UILabel"; text = "Pull to load more messages"; ObjectID = "K3M-5z-C5O"; */
-"K3M-5z-C5O.text" = "拉下加更多信息";
+"K3M-5z-C5O.text" = "下拉加载更多信息";
 /* Class = "UILabel"; text = "Send Message"; ObjectID = "KUa-bA-cQb"; */
 "KUa-bA-cQb.text" = "发送信息";
 /* Class = "UINavigationItem"; title = "Send A Message "; ObjectID = "MiR-iW-O6e"; */
 "MiR-iW-O6e.title" = "发送信息 ";
 /* Class = "UINavigationItem"; title = "New"; ObjectID = "Msw-bP-HIu"; */
-"Msw-bP-HIu.title" = "新";
+"Msw-bP-HIu.title" = "新的";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "NyY-WQ-3hC"; */
-"NyY-WQ-3hC.title" = "关";
+"NyY-WQ-3hC.title" = "关闭";
 /* Class = "UIBarButtonItem"; title = "Previous"; ObjectID = "OxW-Yc-5ky"; */
 "OxW-Yc-5ky.title" = "上一个";
 /* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "PI2-N1-aLJ"; */
@@ -55,8 +55,8 @@
 /* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "TMS-52-ORP"; */
 "TMS-52-ORP.title" = "完成";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Vtv-sv-ErG"; */
-"Vtv-sv-ErG.title" = "关";
+"Vtv-sv-ErG.title" = "关闭";
 /* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "wNA-vF-ohQ"; */
 "wNA-vF-ohQ.title" = "添加";
 /* Class = "UINavigationItem"; title = "Join Group Chat"; ObjectID = "yIE-Ub-BAk"; */
-"yIE-Ub-BAk.title" = "加入聊天群";
+"yIE-Ub-BAk.title" = "加入群聊";

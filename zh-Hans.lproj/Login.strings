@@ -35,7 +35,7 @@
 /* Class = "UITextField"; placeholder = "Username"; ObjectID = "Tjb-kj-Z5d"; */
 "Tjb-kj-Z5d.placeholder" = "用户名";
 /* Class = "UILabel"; text = "You are all ready to chat. People can message you  at:"; ObjectID = "Trj-ps-nO8"; */
-"Trj-ps-nO8.text" = "准备好开始聊天。人人可以发送信息给：";
+"Trj-ps-nO8.text" = "你可以开始聊天了。其他人可以发消息给你的账号：";
 /* Class = "UINavigationItem"; title = "Register"; ObjectID = "xCl-CO-aFW"; */
 "xCl-CO-aFW.title" = "注册";
 /* Class = "UINavigationItem"; title = "Welcome"; ObjectID = "yxA-wa-jGH"; */

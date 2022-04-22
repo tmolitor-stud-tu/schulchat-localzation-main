@@ -8,9 +8,6 @@
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "29t-GS-Yof"; */
 "29t-GS-Yof.title" = "Close";
 
-/* Class = "UILabel"; text = "Like email, you can make your account on many sites and talk to anyone. You can use this form to make an account with the selected server."; ObjectID = "EfQ-Vo-v2C"; */
-"EfQ-Vo-v2C.text" = "Like email, you can make your account on many sites and talk to anyone. You can use this form to make an account with the selected server.";
-
 /* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Gth-vl-n15"; */
 "Gth-vl-n15.normalTitle" = "Login";
 
@@ -33,10 +30,10 @@
 "arw-q8-u8I.text" = "The server is public and not affiliated with Monal. This page is provided for convenience.";
 
 /* Class = "UIButton"; normalTitle = "Start Chatting"; ObjectID = "c04-pS-Uoi"; */
-"c04-pS-Uoi.normalTitle" = "Start Chatting";
+"c04-pS-Uoi.normalTitle" = "உரையாடுக";
 
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "c9v-kP-ocC"; */
-"c9v-kP-ocC.normalTitle" = "Register";
+"c9v-kP-ocC.normalTitle" = "பதிவு செய்யவும்";
 
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "dpn-up-7bR"; */
 "dpn-up-7bR.normalTitle" = "Register";

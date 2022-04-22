@@ -100,7 +100,7 @@
 "Download error" = "下载错误";
 "Draft: %@" = "草稿: %@";
 "Duplicate Account" = "帐号重复";
-"Email Support" = "电子邮件支持";
+"Email Support" = "联系电邮";
 "Enabled" = "已启用";
 "Encrypted message was sent in an older format Monal can't decrypt. Please ask them to update their client. (GCM error)" = "加密消息以较旧的格式发送，Monal无法解密。请告诉对方更新客户端。 （GCM错误）";
 "Encryption Keys" = "加密密钥";
@@ -367,7 +367,7 @@
 /* BlockUserTable - blockJidForm */
 "user@example.org/resource" = "user@example.org/resource";
 "Username missing" = "缺少用户名";
-"Using Account: %@" = "试用账号: %@";
+"Using Account: %@" = "使用账号: %@";
 "Version" = "版本";
 "Version %@ (%@ %@ UTC)" = "版本 %1$@ (%2$@ %3$@ UTC)";
 "Version: " = "版本: ";

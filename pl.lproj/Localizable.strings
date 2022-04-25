@@ -1,9 +1,9 @@
-"%@ (Pending Approval)" = "%@ (Pending Approval)";
-"%ld (This device)" = "%ld (This device)";
-"(autojoin)" = "(autojoin)";
-"[This message is OMEMO encrypted]" = "[This message is OMEMO encrypted]";
-"About" = "About";
-"Accept" = "Accept";
+"%@ (Pending Approval)" = "%@ (Oczekuje na zgodę)";
+"%ld (This device)" = "%ld (To urządzenie)";
+"(autojoin)" = "(dolaczajautomatycznie)";
+"[This message is OMEMO encrypted]" = "[Ta wiadomość jest zaszyfrowana OMEMO]";
+"About" = "Informacje";
+"Accept" = "Zaakceptuj";
 "Access message archives on the server." = "Access message archives on the server.";
 /* ShareViewController: Account */
 "Account" = "Account";

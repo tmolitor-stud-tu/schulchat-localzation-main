@@ -7,7 +7,7 @@
 /* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */
 "BWH-2I-fSI.title" = "Configuraciones";
 /* Class = "UINavigationItem"; title = "Contact Requests"; ObjectID = "GI8-WI-wYs"; */
-"GI8-WI-wYs.title" = "Solicitudes de contactos";
+"GI8-WI-wYs.title" = "Solicitudes de contacto";
 /* Class = "UITableViewController"; title = "Join Group Chat"; ObjectID = "GpF-k7-Z6D"; */
 "GpF-k7-Z6D.title" = "Unirse a un chat de grupo";
 /* Class = "UINavigationItem"; title = "Select An Account"; ObjectID = "heq-Ls-ieg"; */

@@ -621,3 +621,15 @@
 "Leave Group" = "Quitter le groupe";
 "Reset OMEMO session" = "Rétablir la sessions OMEMO";
 "You will receive subsequent messages from this conversation" = "Vous allez recevoir les messages ultérieurs de cette conversation";
+"Clear OMEMO session" = "Clear OMEMO session";
+"Failed to publish avatar image for groupchat %@" = "Failed to publish avatar image for groupchat %@";
+"Join Channel" = "Join Channel";
+"Join Group" = "Join Group";
+"No supported auth mechanism found, disconnecting!" = "No supported auth mechanism found, disconnecting!";
+"Refreshing..." = "Refreshing...";
+"This will clear the your own omemo session for debugging purposes" = "This will clear the your own omemo session for debugging purposes";
+"TLS Error: Certificate chain is invalid" = "TLS Error: Certificate chain is invalid";
+"TLS Error: Certificate expired" = "TLS Error: Certificate expired";
+"TLS Error: Host name mismatch" = "TLS Error: Host name mismatch";
+"TLS Error: Unknown root certificate" = "TLS Error: Unknown root certificate";
+"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@";

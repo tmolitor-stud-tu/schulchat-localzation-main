@@ -621,3 +621,15 @@
 "Reset OMEMO session" = "OMEMO-sessie opnieuw instellen";
 "You will receive subsequent messages from this conversation" = "Je zal latere berichten uit dit gesprek ontvangen";
 "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Meldingen zijn veranderd in iOS 13 vanwege aanpassingen aan iOS zelf. Voorlopig kan je hierdoor enkel een melding krijgen dat er een nieuw bericht is, maar niet de inhoud of de afzender. Ik heb beslist dit zo op te lossen zodat het converseren gewaarborgd blijft terwijl ik aan Monal werk om de oude ervaring terug te krijgen.";
+"Clear OMEMO session" = "Clear OMEMO session";
+"Failed to publish avatar image for groupchat %@" = "Failed to publish avatar image for groupchat %@";
+"Join Channel" = "Join Channel";
+"Join Group" = "Join Group";
+"No supported auth mechanism found, disconnecting!" = "No supported auth mechanism found, disconnecting!";
+"Refreshing..." = "Refreshing...";
+"This will clear the your own omemo session for debugging purposes" = "This will clear the your own omemo session for debugging purposes";
+"TLS Error: Certificate chain is invalid" = "TLS Error: Certificate chain is invalid";
+"TLS Error: Certificate expired" = "TLS Error: Certificate expired";
+"TLS Error: Host name mismatch" = "TLS Error: Host name mismatch";
+"TLS Error: Unknown root certificate" = "TLS Error: Unknown root certificate";
+"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@";

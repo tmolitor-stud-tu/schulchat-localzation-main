@@ -1,273 +1,62 @@
-
-/* Class = "UILabel"; text = "Delivered"; ObjectID = "0C4-4V-7mE"; Note = "#bc-ignore!"; */
-"0C4-4V-7mE.text" = "Delivered";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "0rv-s4-5zG"; Note = "#bc-ignore!"; */
-"0rv-s4-5zG.text" = "Day Change";
-
-/* Class = "UILabel"; text = "A Status message would go here. That is correct, a status message. "; ObjectID = "15o-hp-DgI"; Note = "#bc-ignore!"; */
-"15o-hp-DgI.text" = "A Status message would go here. That is correct, a status message. ";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "1N5-DK-906"; */
-"1N5-DK-906.text" = "Label";
-
-/* Class = "UILabel"; text = "Name"; ObjectID = "1wW-PP-jdj"; Note = "#bc-ignore!"; */
-"1wW-PP-jdj.text" = "Name";
-
 /* Class = "UIButton"; normalTitle = "Add Contact or Channel"; ObjectID = "21P-WC-8yr"; */
 "21P-WC-8yr.normalTitle" = "Add Contact or Channel";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "34m-kI-8tA"; */
-"34m-kI-8tA.text" = "Label";
-
-/* Class = "UILabel"; text = "something.com"; ObjectID = "4KG-8d-uoj"; Note = "#bc-ignore!"; */
-"4KG-8d-uoj.text" = "something.com";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "6mV-D5-Rfv"; Note = "#bc-ignore!"; */
-"6mV-D5-Rfv.text" = "Day Change";
-
 /* Class = "UILabel"; text = "Add new Contact or Channel"; ObjectID = "7Cs-k6-7n4"; */
 "7Cs-k6-7n4.text" = "Add new Contact or Channel";
-
-/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8Ef-aL-YHC"; */
-"8Ef-aL-YHC.normalTitle" = "Button";
-
-/* Class = "UILabel"; text = "Date"; ObjectID = "8oX-KS-wOP"; Note = "#bc-ignore!"; */
-"8oX-KS-wOP.text" = "Date";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "BQW-6x-Xs6"; */
-"BQW-6x-Xs6.text" = "Label";
-
 /* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */
 "BWH-2I-fSI.title" = "Settings";
-
-/* Class = "UILabel"; text = "Delivered"; ObjectID = "BY7-In-qxm"; Note = "#bc-ignore!"; */
-"BY7-In-qxm.text" = "Delivered";
-
-/* Class = "UILabel"; text = "Date"; ObjectID = "Ck2-4Y-eBK"; Note = "#bc-ignore!"; */
-"Ck2-4Y-eBK.text" = "Date";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "DUB-27-4j6"; */
-"DUB-27-4j6.text" = "Label";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "Dwm-t5-rxY"; */
-"Dwm-t5-rxY.text" = "Label";
-
-/* Class = "UILabel"; text = "Date"; ObjectID = "F48-Lg-vgK"; Note = "#bc-ignore!"; */
-"F48-Lg-vgK.text" = "Date";
-
-/* Class = "UILabel"; text = "Title"; ObjectID = "F7S-Cl-Xop"; Note = "#bc-ignore!"; */
-"F7S-Cl-Xop.text" = "Title";
-
 /* Class = "UINavigationItem"; title = "Contact Requests"; ObjectID = "GI8-WI-wYs"; */
 "GI8-WI-wYs.title" = "Contact Requests";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "GSP-cu-vS9"; */
-"GSP-cu-vS9.text" = "Label";
-
-/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Gfw-KN-mew"; Note = "#bc-ignore!"; */
-"Gfw-KN-mew.text" = "Subtitle";
-
-/* Class = "UINavigationItem"; title = "Add Contact or Channel"; ObjectID = "HYb-u1-ZN3"; */
-"HYb-u1-ZN3.title" = "Add Contact or Channel";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "IZ4-x0-STm"; */
-"IZ4-x0-STm.text" = "Label";
-
-/* Class = "UILabel"; text = "Title"; ObjectID = "JKC-18-hqA"; Note = "#bc-ignore!"; */
-"JKC-18-hqA.text" = "Title";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "JYn-0e-ayp"; */
-"JYn-0e-ayp.text" = "Label";
-
-/* Class = "UILabel"; text = "Pull to load more messages"; ObjectID = "K3M-5z-C5O"; */
-"K3M-5z-C5O.text" = "Pull to load more messages";
-
-/* Class = "UILabel"; text = "file.name"; ObjectID = "KQi-dq-Tef"; */
-"KQi-dq-Tef.text" = "file.name";
-
-/* Class = "UILabel"; text = "Send Message"; ObjectID = "KUa-bA-cQb"; */
-"KUa-bA-cQb.text" = "Send Message";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "KzJ-4Z-Aaf"; */
-"KzJ-4Z-Aaf.text" = "Label";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "LWq-Lm-gWl"; */
-"LWq-Lm-gWl.text" = "Label";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "Mfb-ez-Yur"; */
-"Mfb-ez-Yur.text" = "Label";
-
-/* Class = "UINavigationItem"; title = "Send A Message "; ObjectID = "MiR-iW-O6e"; */
-"MiR-iW-O6e.title" = "Send A Message ";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "NyA-50-W8i"; */
-"NyA-50-W8i.text" = "Label";
-
-/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "NyY-WQ-3hC"; */
-"NyY-WQ-3hC.title" = "Close";
-
-/* Class = "UIBarButtonItem"; title = "Previous"; ObjectID = "OxW-Yc-5ky"; */
-"OxW-Yc-5ky.title" = "Previous";
-
-/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "PI2-N1-aLJ"; */
-"PI2-N1-aLJ.title" = "Next";
-
-/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Q7T-ue-U1B"; */
-"Q7T-ue-U1B.normalTitle" = "Button";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "QYx-be-it3"; Note = "#bc-ignore!"; */
-"QYx-be-it3.text" = "Day Change";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "Qf8-MU-ayI"; */
-"Qf8-MU-ayI.text" = "Label";
-
-/* Class = "UINavigationItem"; title = "Chats"; ObjectID = "RRa-hC-xrf"; */
-"RRa-hC-xrf.title" = "Chats";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "Ra0-Eo-cAh"; Note = "#bc-ignore!"; */
-"Ra0-Eo-cAh.text" = "Label";
-
-/* Class = "UILabel"; text = "View Contact Requests"; ObjectID = "SmS-bT-id6"; */
-"SmS-bT-id6.text" = "View Contact Requests";
-
-/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "TMS-52-ORP"; */
-"TMS-52-ORP.title" = "Done";
-
-/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TPr-7Q-PwO"; */
-"TPr-7Q-PwO.normalTitle" = "Button";
-
-/* Class = "UILabel"; text = "Name"; ObjectID = "Tdu-SR-34h"; Note = "#bc-ignore!"; */
-"Tdu-SR-34h.text" = "Name";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "UOZ-u2-FJa"; */
-"UOZ-u2-FJa.text" = "Label";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "VFO-tq-wdS"; Note = "#bc-ignore!"; */
-"VFO-tq-wdS.text" = "Label";
-
-/* Class = "UILabel"; text = "Date"; ObjectID = "VTu-Qk-F3L"; Note = "#bc-ignore!"; */
-"VTu-Qk-F3L.text" = "Date";
-
-/* Class = "UILabel"; text = "something.com"; ObjectID = "Vgy-m0-M8n"; Note = "#bc-ignore!"; */
-"Vgy-m0-M8n.text" = "something.com";
-
-/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Vtv-sv-ErG"; */
-"Vtv-sv-ErG.title" = "Close";
-
-/* Class = "UILabel"; text = "Date"; ObjectID = "WlK-KG-Z5M"; Note = "#bc-ignore!"; */
-"WlK-KG-Z5M.text" = "Date";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "Wo9-Mk-3iD"; */
-"Wo9-Mk-3iD.text" = "Label";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "WpX-ou-RXQ"; Note = "#bc-ignore!"; */
-"WpX-ou-RXQ.text" = "Day Change";
-
-/* Class = "UILabel"; text = "Link Title here is something that should be about two lines"; ObjectID = "WyS-w8-jKs"; Note = "#bc-ignore!"; */
-"WyS-w8-jKs.text" = "Link Title here is something that should be about two lines";
-
-/* Class = "UILabel"; text = "Date"; ObjectID = "Xld-jv-Isd"; Note = "#bc-ignore!"; */
-"Xld-jv-Isd.text" = "Date";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "ZQL-lx-CcO"; Note = "#bc-ignore!"; */
-"ZQL-lx-CcO.text" = "Day Change";
-
-/* Class = "UILabel"; text = "Delivered"; ObjectID = "amF-wU-Ltx"; Note = "#bc-ignore!"; */
-"amF-wU-Ltx.text" = "Delivered";
-
-/* Class = "UILabel"; text = "Name"; ObjectID = "b15-Tl-ako"; Note = "#bc-ignore!"; */
-"b15-Tl-ako.text" = "Name";
-
-/* Class = "UIButton"; accessibilityLabel = "Attach"; ObjectID = "c6B-5o-sqL"; Note = "#bc-ignore!"; */
-"c6B-5o-sqL.accessibilityLabel" = "Attach";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "dNE-Hm-yUA"; Note = "#bc-ignore!"; */
-"dNE-Hm-yUA.text" = "Day Change";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "dTd-xX-7Po"; */
-"dTd-xX-7Po.text" = "Label";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "gbc-kE-Mw6"; */
-"gbc-kE-Mw6.text" = "Label";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "h9a-ua-MIo"; Note = "#bc-ignore!"; */
-"h9a-ua-MIo.text" = "Day Change";
-
 /* Class = "UINavigationItem"; title = "Select An Account"; ObjectID = "heq-Ls-ieg"; */
 "heq-Ls-ieg.title" = "Select An Account";
-
+/* Class = "UINavigationItem"; title = "Add Contact or Channel"; ObjectID = "HYb-u1-ZN3"; */
+"HYb-u1-ZN3.title" = "Add Contact or Channel";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aD9"; */
 "iLC-4b-aD9.title" = "Item";
-
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aDr"; */
 "iLC-4b-aDr.title" = "Item";
-
-/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jIW-zk-rUu"; */
-"jIW-zk-rUu.normalTitle" = "Send";
-
 /* Class = "UITabBarItem"; title = "Chats"; ObjectID = "jh7-be-VPo"; */
 "jh7-be-VPo.title" = "Chats";
-
-/* Class = "UILabel"; text = "Title"; ObjectID = "kUT-6q-gUD"; Note = "#bc-ignore!"; */
-"kUT-6q-gUD.text" = "Title";
-
-/* Class = "UIButton"; accessibilityLabel = "Send"; ObjectID = "kYa-y4-X5Z"; Note = "#bc-ignore!"; */
-"kYa-y4-X5Z.accessibilityLabel" = "Send";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "l0N-DX-1jb"; */
-"l0N-DX-1jb.text" = "Label";
-
-/* Class = "UILabel"; text = "Name"; ObjectID = "lUi-Cp-nhg"; Note = "#bc-ignore!"; */
-"lUi-Cp-nhg.text" = "Name";
-
-/* Class = "UILabel"; text = "Name"; ObjectID = "lcM-Ee-iNp"; Note = "#bc-ignore!"; */
-"lcM-Ee-iNp.text" = "Name";
-
-/* Class = "UILabel"; text = "Link Title here is something that should be about two lines"; ObjectID = "loD-fs-EW7"; Note = "#bc-ignore!"; */
-"loD-fs-EW7.text" = "Link Title here is something that should be about two lines";
-
-/* Class = "UILabel"; text = "Delivered"; ObjectID = "mM6-k0-MKY"; Note = "#bc-ignore!"; */
-"mM6-k0-MKY.text" = "Delivered";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "oUy-5K-yIm"; Note = "#bc-ignore!"; */
-"oUy-5K-yIm.text" = "Day Change";
-
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jIW-zk-rUu"; */
+"jIW-zk-rUu.normalTitle" = "Send";
+/* Class = "UILabel"; text = "Pull to load more messages"; ObjectID = "K3M-5z-C5O"; */
+"K3M-5z-C5O.text" = "Pull to load more messages";
+/* Class = "UILabel"; text = "Send Message"; ObjectID = "KUa-bA-cQb"; */
+"KUa-bA-cQb.text" = "Send Message";
+/* Class = "UINavigationItem"; title = "Send A Message "; ObjectID = "MiR-iW-O6e"; */
+"MiR-iW-O6e.title" = "Send A Message ";
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "NyY-WQ-3hC"; */
+"NyY-WQ-3hC.title" = "Close";
+/* Class = "UIBarButtonItem"; title = "Previous"; ObjectID = "OxW-Yc-5ky"; */
+"OxW-Yc-5ky.title" = "Previous";
+/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "PI2-N1-aLJ"; */
+"PI2-N1-aLJ.title" = "Next";
 /* Class = "UIBarButtonItem"; title = "Compose"; ObjectID = "pyP-qb-mfr"; */
 "pyP-qb-mfr.title" = "Compose";
-
 /* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "qsR-dX-TO1"; */
 "qsR-dX-TO1.title" = "Contacts";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "sHs-p2-iF3"; */
-"sHs-p2-iF3.text" = "Label";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "u0o-GR-Ist"; */
-"u0o-GR-Ist.text" = "Label";
-
-/* Class = "UILabel"; text = "Date"; ObjectID = "uDg-Hw-FvA"; Note = "#bc-ignore!"; */
-"uDg-Hw-FvA.text" = "Date";
-
-/* Class = "UILabel"; text = "Date"; ObjectID = "usq-k0-XQf"; Note = "#bc-ignore!"; */
-"usq-k0-XQf.text" = "Date";
-
-/* Class = "UILabel"; text = "Delivered"; ObjectID = "vAj-sV-yOx"; Note = "#bc-ignore!"; */
-"vAj-sV-yOx.text" = "Delivered";
-
-/* Class = "UILabel"; text = "Date"; ObjectID = "vWM-SI-3lf"; Note = "#bc-ignore!"; */
-"vWM-SI-3lf.text" = "Date";
-
-/* Class = "UILabel"; text = "Date"; ObjectID = "wce-ek-LTl"; Note = "#bc-ignore!"; */
-"wce-ek-LTl.text" = "Date";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "x5i-Ok-Bwi"; Note = "#bc-ignore!"; */
-"x5i-Ok-Bwi.text" = "Day Change";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "yvh-av-o1d"; */
-"yvh-av-o1d.text" = "Label";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "zNz-Ec-4g6"; */
-"zNz-Ec-4g6.text" = "Label";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "zsJ-nd-h6v"; Note = "#bc-ignore!"; */
-"zsJ-nd-h6v.text" = "Day Change";
+/* Class = "UINavigationItem"; title = "Chats"; ObjectID = "RRa-hC-xrf"; */
+"RRa-hC-xrf.title" = "Chats";
+/* Class = "UILabel"; text = "View Contact Requests"; ObjectID = "SmS-bT-id6"; */
+"SmS-bT-id6.text" = "View Contact Requests";
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "TMS-52-ORP"; */
+"TMS-52-ORP.title" = "Done";
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Vtv-sv-ErG"; */
+"Vtv-sv-ErG.title" = "Close";
+/* Class = "UILabel"; text = "Join a Group Chat"; ObjectID = "7dx-xo-wIB"; */
+"7dx-xo-wIB.text" = "";
+/* Class = "UITableViewController"; title = "Join Group Chat"; ObjectID = "GpF-k7-Z6D"; */
+"GpF-k7-Z6D.title" = "";
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "IGd-kM-9BO"; */
+"IGd-kM-9BO.title" = "";
+/* Class = "UINavigationItem"; title = "Group Chat"; ObjectID = "k0T-5X-FQu"; */
+"k0T-5X-FQu.title" = "";
+/* Class = "UINavigationItem"; title = "New"; ObjectID = "Msw-bP-HIu"; */
+"Msw-bP-HIu.title" = "";
+/* Class = "UIButton"; normalTitle = "Join Group"; ObjectID = "Q7I-qj-4zk"; */
+"Q7I-qj-4zk.normalTitle" = "";
+/* Class = "UILabel"; text = "Detail"; ObjectID = "sff-9g-z31"; */
+"sff-9g-z31.text" = "";
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "wNA-vF-ohQ"; */
+"wNA-vF-ohQ.title" = "";
+/* Class = "UINavigationItem"; title = "Join Group Chat"; ObjectID = "yIE-Ub-BAk"; */
+"yIE-Ub-BAk.title" = "";

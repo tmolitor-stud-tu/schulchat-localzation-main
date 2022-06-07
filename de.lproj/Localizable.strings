@@ -508,8 +508,8 @@
 "📄 A Document" = "📄 Ein Dokument";
 "Enter you XMPP ID here" = "Gib hier deine XMPP-ID ein";
 "Enter you password here" = "Gib hier dein Passwort ein";
-"Add Account" = "Konto hinzufügen";
-"Add Account (advanced)" = "Konto hinzufügen (erweitert)";
+"Add Account" = "Konto hinzufügen (TEST)";
+"Add Account (advanced)" = "Konto hinzufügen (erweitert) [TEST]";
 "Add Contact or Channel" = "Kontakt oder Channel hinzufügen";
 "All messages already present in local history!" = "Alle Nachrichten sind bereits in der lokalen Historie vorhanden!";
 /* addContact - checking HUD */

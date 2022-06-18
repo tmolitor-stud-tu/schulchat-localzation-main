@@ -634,18 +634,18 @@
 "TLS Error: Unknown root certificate" = "TLS-Fehler: Unbekanntes Root-Zertifikat";
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Wir konnten dein Konto nicht verbinden. Bitte überprüfe deine Anmeldedaten und stelle sicher, dass du mit dem Internet verbunden bist.\n\nTechnische Fehlermeldung: %@";
 /* directory for downloaded audios */
-"Received Audios" = "Received Audios";
+"Received Audios" = "Empfangene Audios";
 /* directory for downloaded files */
-"Received Files" = "Received Files";
+"Received Files" = "Empfangene Dateien";
 /* directory for downloaded images */
-"Received Images" = "Received Images";
+"Received Images" = "Empfangene Bilder";
 /* directory for downloaded videos */
-"Received Videos" = "Received Videos";
+"Received Videos" = "Empfangene Videos";
 /* directory for downloaded audios */
-"Sent Audios" = "Sent Audios";
+"Sent Audios" = "Gesendete Audios";
 /* directory for downloaded files */
-"Sent Files" = "Sent Files";
+"Sent Files" = "Gesendete Dateien";
 /* directory for downloaded images */
-"Sent Images" = "Sent Images";
+"Sent Images" = "Gesendete Bilder";
 /* directory for downloaded videos */
-"Sent Videos" = "Sent Videos";
+"Sent Videos" = "Gesendete Videos";

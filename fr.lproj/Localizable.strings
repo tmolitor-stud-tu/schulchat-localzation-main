@@ -633,3 +633,19 @@
 "TLS Error: Host name mismatch" = "Erreur TLS : Le nom de l'hôte ne correspond pas";
 "TLS Error: Unknown root certificate" = "Erreur TLS : Certificat racine inconnu";
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Nous n'avons pas réussi à vous connecter à votre compte. Veuillez vérifier vos informations et vous assurez que vous êtes bien connecté à internet.\n\nTechnical error message: %@";
+/* directory for downloaded audios */
+"Received Audios" = "Received Audios";
+/* directory for downloaded files */
+"Received Files" = "Received Files";
+/* directory for downloaded images */
+"Received Images" = "Received Images";
+/* directory for downloaded videos */
+"Received Videos" = "Received Videos";
+/* directory for downloaded audios */
+"Sent Audios" = "Sent Audios";
+/* directory for downloaded files */
+"Sent Files" = "Sent Files";
+/* directory for downloaded images */
+"Sent Images" = "Sent Images";
+/* directory for downloaded videos */
+"Sent Videos" = "Sent Videos";

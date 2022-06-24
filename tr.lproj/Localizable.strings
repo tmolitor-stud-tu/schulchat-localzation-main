@@ -634,18 +634,18 @@
 "TLS Error: Unknown root certificate" = "TLS Hatası: Bilinmeyen kök sertifika";
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Hesabınızı bağlayamadık. Lütfen kimlik bilgilerinizi kontrol edin ve internete bağlı olduğunuzdan emin olun.\n\nTeknik hata mesajı: %@";
 /* directory for downloaded audios */
-"Received Audios" = "Received Audios";
+"Received Audios" = "Alınan Sesler";
 /* directory for downloaded files */
-"Received Files" = "Received Files";
+"Received Files" = "Alınan Dosyalar";
 /* directory for downloaded images */
-"Received Images" = "Received Images";
+"Received Images" = "Alınan Görüntüler";
 /* directory for downloaded videos */
-"Received Videos" = "Received Videos";
+"Received Videos" = "Alınan Videolar";
 /* directory for downloaded audios */
-"Sent Audios" = "Sent Audios";
+"Sent Audios" = "Gönderilen Sesler";
 /* directory for downloaded files */
-"Sent Files" = "Sent Files";
+"Sent Files" = "Gönderilen Dosyalar";
 /* directory for downloaded images */
-"Sent Images" = "Sent Images";
+"Sent Images" = "Gönderilen Görüntüler";
 /* directory for downloaded videos */
-"Sent Videos" = "Sent Videos";
+"Sent Videos" = "Gönderilen Videolar";

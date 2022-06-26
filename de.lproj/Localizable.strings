@@ -524,9 +524,9 @@
 "Encryption Keys (OMEMO)" = "Schlüssel (OMEMO)";
 "Error: Received message is empty" = "Fehler: Empfangene Nachricht ist leer";
 "Failed to decrypt filetransfer" = "Entschlüsselung des Dateitransfers fehlgeschlagen";
-"Failed to delete own avatar on account %@" = "Eigener Avatar auf Konto %@ konnte nicht gelöscht werden";
+"Failed to delete own avatar on account %@" = "Eigenes Profilbild auf Konto %@ konnte nicht gelöscht werden";
 "Failed to enable carbons for account %@" = "Nachrichtenkopien für das Konto %@ konnten nicht aktiviert werden";
-"Failed to publish own avatar on account %@" = "Veröffentlichung des eigenen Avatars auf Konto %@ fehlgeschlagen";
+"Failed to publish own avatar on account %@" = "Veröffentlichung des eigenen Profilbilds auf Konto %@ fehlgeschlagen";
 "Failed to publish own nickname on account %@" = "Eigener Nickname auf Konto %@ konnte nicht veröffentlicht werden";
 "Failed to query for new messages on account %@" = "Abfrage neuer Nachrichten auf dem Konto %@ fehlgeschlagen";
 "Failed to query new messages for groupchat %@" = "Abfrage neuer Nachrichten für den Gruppenchat %@ fehlgeschlagen";
@@ -593,9 +593,9 @@
 "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Dateien auf den Server hochladen, um diese mit anderen zu teilen. (Maximal vom Server erlaubte Dateigröße: %@)";
 "Protocol support of your server (XEPs)" = "Protokollunterstützung des Servers (XEPs)";
 "Draft:" = "Entwurf:";
-"Failed to delete own avatar" = "Eigener Avatar konnte nicht gelöscht werden";
+"Failed to delete own avatar" = "Eigenes Profilbild konnte nicht gelöscht werden";
 "Failed to delete own nickname" = "Eigener Nickname konnte nicht gelöscht werden";
-"Failed to publish own avatar" = "Eigener Avatar konnte nicht veröffentlicht werden";
+"Failed to publish own avatar" = "Eigenes Profilbild konnte nicht veröffentlicht werden";
 "Failed to publish own nickname" = "Eigener Nickname konnte nicht veröffentlicht werden";
 "Message was encrypted with '%@' which isn't supported by Monal" = "Nachricht wurde mit '%@' verschlüsselt, was von Monal nicht unterstützt wird";
 "Message was encrypted with OMEMO but could not be decrypted" = "Nachricht wurde mit OMEMO verschlüsselt, konnte aber nicht entschlüsselt werden";
@@ -622,7 +622,7 @@
 "Reset OMEMO session" = "OMEMO-Sitzung zurücksetzen";
 "You will receive subsequent messages from this conversation" = "Du wirst weitere Nachrichten aus dieser Unterhaltung erhalten";
 "Clear OMEMO session" = "OMEMO-Sitzung löschen";
-"Failed to publish avatar image for groupchat %@" = "Avatarbild für Gruppenchat %@ konnte nicht veröffentlicht werden";
+"Failed to publish avatar image for groupchat %@" = "Profilbild für Gruppenchat %@ konnte nicht veröffentlicht werden";
 "Join Channel" = "Channel beitreten";
 "Join Group" = "Gruppe beitreten";
 "No supported auth mechanism found, disconnecting!" = "Kein unterstützter Authentifizierungsmechanismus gefunden, Verbindung wird getrennt!";

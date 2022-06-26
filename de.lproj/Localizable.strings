@@ -75,7 +75,7 @@
 "Signing Up" = "Registriere";
 "Show Inline Images" = "Bilder im Chat anzeigen";
 "Show Inline Geo Location" = "Geo-Position im Chat anzeigen";
-"Set a nickname" = "Spitznamen festlegen";
+"Set a nickname" = "Nickname festlegen";
 "Server: %@" = "Server: %@";
 "Server" = "Server";
 "Sent an Image 📷" = "Bild gesendet 📷";
@@ -146,7 +146,7 @@
 "No Contact Selected" = "Kein Kontakt ausgewählt";
 "No connected accounts" = "Keine verbundenen Konten";
 "No" = "Nein";
-"Nickname" = "Spitzname";
+"Nickname" = "Nickname";
 "New Password" = "Neues Passwort";
 "Neither can see keys." = "Beide können keine Schlüssel sehen.";
 "Name can't be empty" = "Name darf nicht leer sein";
@@ -314,14 +314,14 @@
 "Saving changes to server" = "Speichern von Änderungen auf dem Server";
 "Send" = "Gesendet";
 "Send message received state" = "Status der empfangenen Nachricht senden";
-"Set a nickname for this contact" = "Spitznamen für diesen Kontakt festlegen";
+"Set a nickname for this contact" = "Nickname für diesen Kontakt festlegen";
 "Sync Read-Markers" = "Lesebestätigung synchronisieren";
 "Tell my contacts if I've read a message" = "Meinen Kontakten mitteilen, ob ich eine Nachricht gelesen habe";
 "Tell my contacts if my device received a message" = "Meinen Kontakten mitteilen, ob mein Gerät eine Nachricht erhalten hat";
 "Your answer" = "Deine Antwort";
 "Can't convert the image to png file." = "Das Bild kann nicht in eine PNG-Datei konvertiert werden.";
 "My Name/Nickname" = "Mein Name/Nickname";
-"Display Name" = "Anzeigename";
+"Display Name" = "Angezeigter Name";
 "Display Name And Message" = "Name und Nachricht anzeigen";
 "Display Only Name" = "Nur Name anzeigen";
 "Display Only Placeholder" = "Nur Platzhalter anzeigen";

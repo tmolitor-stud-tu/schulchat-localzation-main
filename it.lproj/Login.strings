@@ -19,7 +19,7 @@
 /* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Gth-vl-n15"; */
 "Gth-vl-n15.normalTitle" = "Accedi";
 /* Class = "UIButton"; normalTitle = "Terms of service"; ObjectID = "hyG-BH-GJV"; */
-"hyG-BH-GJV.normalTitle" = "Termini di servizio";
+"hyG-BH-GJV.normalTitle" = "Termini del servizio";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aD8"; */
 "iLC-4b-aD8.title" = "Elemento";
 /* Class = "UITextField"; placeholder = "Account@something.com"; ObjectID = "ktr-DL-MYt"; */

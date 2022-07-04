@@ -3,13 +3,13 @@
 /* Class = "UILabel"; text = "Add a New Contact"; ObjectID = "7Cs-k6-7n4"; */
 "7Cs-k6-7n4.text" = "Aggiungi un nuovo contatto o un canale";
 /* Class = "UILabel"; text = "Join a Group Chat"; ObjectID = "7dx-xo-wIB"; */
-"7dx-xo-wIB.text" = "Partecipa a una discussione di gruppo";
+"7dx-xo-wIB.text" = "Unisciti a una chat di gruppo";
 /* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */
 "BWH-2I-fSI.title" = "Impostazioni";
 /* Class = "UINavigationItem"; title = "Contact Requests"; ObjectID = "GI8-WI-wYs"; */
 "GI8-WI-wYs.title" = "Richieste di contatto";
 /* Class = "UITableViewController"; title = "Join Group Chat"; ObjectID = "GpF-k7-Z6D"; */
-"GpF-k7-Z6D.title" = "Partecipa alla discussione di gruppo";
+"GpF-k7-Z6D.title" = "Unisciti alla chat di gruppo";
 /* Class = "UINavigationItem"; title = "Select An Account"; ObjectID = "heq-Ls-ieg"; */
 "heq-Ls-ieg.title" = "Seleziona un account";
 /* Class = "UINavigationItem"; title = "Add Contact"; ObjectID = "HYb-u1-ZN3"; */
@@ -21,11 +21,11 @@
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aDr"; */
 "iLC-4b-aDr.title" = "Elemento";
 /* Class = "UITabBarItem"; title = "Chats"; ObjectID = "jh7-be-VPo"; */
-"jh7-be-VPo.title" = "Discussioni";
+"jh7-be-VPo.title" = "Conversazioni";
 /* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jIW-zk-rUu"; */
 "jIW-zk-rUu.normalTitle" = "Invia";
 /* Class = "UINavigationItem"; title = "Group Chat"; ObjectID = "k0T-5X-FQu"; */
-"k0T-5X-FQu.title" = "Discussione di gruppo";
+"k0T-5X-FQu.title" = "Chat di gruppo";
 /* Class = "UILabel"; text = "Pull to load more messages"; ObjectID = "K3M-5z-C5O"; */
 "K3M-5z-C5O.text" = "Tira per caricare più messaggi";
 /* Class = "UILabel"; text = "Send Message"; ObjectID = "KUa-bA-cQb"; */
@@ -59,4 +59,4 @@
 /* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "wNA-vF-ohQ"; */
 "wNA-vF-ohQ.title" = "Aggiungi";
 /* Class = "UINavigationItem"; title = "Join Group Chat"; ObjectID = "yIE-Ub-BAk"; */
-"yIE-Ub-BAk.title" = "Unisciti alla discussione di gruppo";
+"yIE-Ub-BAk.title" = "Unisciti alla chat di gruppo";

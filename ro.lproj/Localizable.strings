@@ -486,12 +486,12 @@
 "Maximum File Transfer Size" = "Maximum File Transfer Size";
 "Me" = "Me";
 "Optional Hardcoded Hostname" = "Optional Hardcoded Hostname";
-"Optional Port" = "Optional Port";
+"Optional Port" = "Port opțional";
 "Port: %@, Direct TLS: %@, Priority: %@" = "Port: %1$@, Direct TLS: %2$@, Priority: %3$@";
 "QR-Code: Fingerprints found" = "QR-Code: Fingerprints found";
-"Recode Fail:" = "Recode Fail:";
-"Recode Success" = "Recode Success";
-"Recording audio" = "Recording audio";
+"Recode Fail:" = "Recodificare eșuată:";
+"Recode Success" = "Recodificare reușită";
+"Recording audio" = "Înregistrare audio";
 "This specification defines semantics for using the XMPP publish-subscribe protocol to broadcast state change events associated with an instant messaging and presence account." = "This specification defines semantics for using the XMPP publish-subscribe protocol to broadcast state change events associated with an instant messaging and presence account.";
 "XEP-0163 Personal Eventing Protocol" = "XEP-0163 Personal Eventing Protocol";
 "XEP-0191: Blocking Command" = "XEP-0191: Blocking Command";
@@ -502,7 +502,7 @@
 "XMPP protocol extension for sending application-level pings over XML streams." = "XMPP protocol extension for sending application-level pings over XML streams.";
 "You got banned from: %@" = "You got banned from: %@";
 "You got kicked from: %@" = "You got kicked from: %@";
-"Your status" = "Your status";
+"Your status" = "Statusul tău";
 "🎥 A Video" = "🎥 A Video";
 "🎵 A Audiomessage" = "🎵 A Audiomessage";
 "📄 A Document" = "📄 A Document";
@@ -513,14 +513,14 @@
 "Add Contact or Channel" = "Add Contact or Channel";
 "All messages already present in local history!" = "All messages already present in local history!";
 /* addContact - checking HUD */
-"Checking" = "Checking";
+"Checking" = "Verificare";
 /* addContact - checking HUD */
 "Checking if the jid you provided is correct" = "Checking if the jid you provided is correct";
 "Contact and Channel Jids  are usually in the format: name@domain.tld" = "Contact and Channel Jids  are usually in the format: name@domain.tld";
 "Contact or Channel Jid" = "Contact or Channel Jid";
 "Could not load (all) old messages" = "Could not load (all) old messages";
 "Could not load (all) old messages from your server archive. Please try again later. %@" = "Could not load (all) old messages from your server archive. Please try again later. %@";
-"Current Password" = "Current Password";
+"Current Password" = "Parola actuală";
 "Encryption Keys (OMEMO)" = "Encryption Keys (OMEMO)";
 "Error: Received message is empty" = "Error: Received message is empty";
 "Failed to decrypt filetransfer" = "Failed to decrypt filetransfer";
@@ -533,7 +533,7 @@
 "Failed to query newest stanzaid for account %@" = "Failed to query newest stanzaid for account %@";
 "Failed to query newest stanzaid for groupchat %@" = "Failed to query newest stanzaid for groupchat %@";
 "Failed to save groupchat bookmarks" = "Failed to save groupchat bookmarks";
-"Groupchat/channel details" = "Groupchat/channel details";
+"Groupchat/channel details" = "Detalii discuție de grup/canal";
 "Groupchat/channel details are currently not implemented in Monal." = "Groupchat/channel details are currently not implemented in Monal.";
 "Image Quality" = "Image Quality";
 "Image Quality: %.2f" = "Image Quality: %.2f";
@@ -568,7 +568,7 @@
 "Account disabled" = "Account disabled";
 /* Camera permissions missing warning */
 "Camera permissions missing" = "Camera permissions missing";
-"Connecting..." = "Connecting...";
+"Connecting..." = "Se conectează...";
 "Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@";
 "Could not fetch messages" = "Could not fetch messages";
 "Debug" = "Debug";
@@ -582,9 +582,9 @@
 "Monal is not allowed to access the camera" = "Monal is not allowed to access the camera";
 "Monal uses your location when you send a location message in a conversation." = "Monal uses your location when you send a location message in a conversation.";
 /* Chat msg action */
-"Quote" = "Quote";
+"Quote" = "Citat";
 /* Camera permissions missing warning */
-"Settings" = "Settings";
+"Settings" = "Setări";
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@";
 "You did not grant Monal to access your location." = "You did not grant Monal to access your location.";
 "Always use direct TLS, not STARTTLS" = "Always use direct TLS, not STARTTLS";
@@ -592,7 +592,7 @@
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later.";
 "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)";
 "Protocol support of your server (XEPs)" = "Protocol support of your server (XEPs)";
-"Draft:" = "Draft:";
+"Draft:" = "Ciornă:";
 "Failed to delete own avatar" = "Failed to delete own avatar";
 "Failed to delete own nickname" = "Failed to delete own nickname";
 "Failed to publish own avatar" = "Failed to publish own avatar";
@@ -626,7 +626,7 @@
 "Join Channel" = "Join Channel";
 "Join Group" = "Join Group";
 "No supported auth mechanism found, disconnecting!" = "No supported auth mechanism found, disconnecting!";
-"Refreshing..." = "Refreshing...";
+"Refreshing..." = "Actualizare...";
 "This will clear the your own omemo session for debugging purposes" = "This will clear the your own omemo session for debugging purposes";
 "TLS Error: Certificate chain is invalid" = "TLS Error: Certificate chain is invalid";
 "TLS Error: Certificate expired" = "TLS Error: Certificate expired";
@@ -646,6 +646,6 @@
 /* directory for downloaded files */
 "Sent Files" = "Sent Files";
 /* directory for downloaded images */
-"Sent Images" = "Sent Images";
+"Sent Images" = "Imagini trimise";
 /* directory for downloaded videos */
-"Sent Videos" = "Sent Videos";
+"Sent Videos" = "Videoclipuri trimise";

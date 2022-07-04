@@ -1,7 +1,7 @@
 "%@ (Pending Approval)" = "%@ (In attesa di approvazione)";
 "%ld (This device)" = "%ld (Questo dispositivo)";
 "(autojoin)" = "(unione automatica)";
-"[This message is OMEMO encrypted]" = "[Questo messaggio è crittografato con OMEMO]";
+"[This message is OMEMO encrypted]" = "[Questo messaggio è cifrato con OMEMO]";
 "About" = "Informazioni";
 "Accept" = "Accetta";
 "Access message archives on the server." = "Accesso agli archivi dei messaggi sul server.";
@@ -16,7 +16,7 @@
 "Add %@ to your contacts?" = "Aggiungere %@ ai tuoi contatti?";
 "Add Contact" = "Aggiungi il contatto";
 "Add New Account" = "Aggiungi un nuovo account";
-"Add new contacts with the + button above. Your friends will pop up here when they can talk" = "Aggiungi nuovi contatti con il pulsante + sopra. I tuoi amici appariranno qui quando potranno parlare";
+"Add new contacts with the + button above. Your friends will pop up here when they can talk" = "Aggiungi nuovi contatti con il pulsante '+' in alto. I tuoi amici appariranno qui quando potranno parlare";
 "Advanced" = "Avanzato";
 "Advanced Settings" = "Impostazioni avanzate";
 "All messages are archived by default." = "Tutti i messaggi vengono archiviati per impostazione predefinita.";
@@ -26,8 +26,8 @@
 "Apple Push Service" = "Servizio Apple Push";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Il servizio push Apple dovrebbe essere sempre attivo. Se è spento, il tuo dispositivo non può parlare con il server Apple.";
 "Archive only if the contact is in roster" = "Archivia solo se il contatto è nell'elenco";
-"Auto Join" = "Partecipazione automatica";
-"Automatically send when you were online" = "Invia automaticamente quando eri in linea";
+"Auto Join" = "Unione automatica";
+"Automatically send when you were online" = "Invia automaticamente quando sei connesso";
 "Away" = "Assente";
 "Backgrounds" = "Sfondi";
 "Block %@ from contacting you?" = "Impedire a %@ di contattarti?";
@@ -44,20 +44,20 @@
 "Close" = "Chiudi";
 "Connected" = "Connesso";
 "Connected since: %@" = "Connesso da: %@";
-"Connection Details" = "Dettagli di connessione";
+"Connection Details" = "Dettagli della connessione";
 "Contact Name" = "Nome del contatto";
 "Contacts" = "Contatti";
 "Contacts are usually in the format: username@domain.something" = "I contatti sono generalmente nel formato: nomeutente@dominio.qualcosa";
 "Could not change the password" = "Impossibile cambiare la password";
 "Could not decrypt message" = "Impossibile decifrare il messaggio";
 "Could not register your username. Please check your code or change the username and try again." = "Impossibile registrare il tuo nome utente. Controlla il tuo codice o cambia il nome utente e riprova.";
-"Could not request registration form. Please check your internet connection and try again." = "Impossibile richiedere il modulo di registrazione. Per favore controlla la tua connessione Internet e prova di nuovo.";
+"Could not request registration form. Please check your internet connection and try again." = "Impossibile richiedere il modulo di registrazione. Per favore controlla la tua connessione a internet e prova di nuovo.";
 "Decline" = "Rifiuta";
 "Default chat backgrounds are from the Ubuntu project." = "Gli sfondi predefiniti della chat provengono dal progetto Ubuntu.";
 /* Chat msg action */
 "Delete" = "Elimina";
 "Delete Account" = "Elimina l'account";
-"Direct TLS" = "TLS diretto";
+"Direct TLS" = "Usa sempre TLS";
 "Disable Encryption" = "Disabilita la cifratura";
 "Disconnected" = "Disconnesso";
 "Display" = "Visualizzazione";
@@ -88,7 +88,7 @@
 "If you like Monal, please let others know and leave a review" = "Se ti piace Monal, fallo sapere agli altri e lascia una recensione, grazie";
 "If you want to use VOIP you will need to allow access in Settings-> Privacy-> Microphone." = "Se vuoi usare il VOIP dovrai consentire l'accesso in Impostazioni-> Privacy-> Microfono.";
 "Ignore" = "Ignora";
-"Incoming audio call to %@ from %@ " = "Chiamata audio in arrivo per %1$@ da %2$@ ";
+"Incoming audio call to %@ from %@ " = "Chiamata vocale in arrivo per %1$@ da %2$@ ";
 "Incoming Call" = "Chiamata in arrivo";
 "Indicate when a particular device is active or inactive. Saves battery." = "Indica quando un dispositivo è attivo o inattivo. Risparmia la batteria.";
 "Invalid Credentials" = "Credenziali non valide";
@@ -118,12 +118,12 @@
 "Message was not encrypted for this device. Please make sure the sender trusts deviceid %d and that they have you as a contact." = "Il messaggio non è stato cifrato per questo dispositivo. Per favore assicurati che il mittente si fidi del dispositivo %d e che ti abbia tra i suoi contatti.";
 "Messages never archived by default." = "Messaggi mai archiviati di default.";
 "Monal" = "Monal";
-"Monal did not received a gps location. Please try again later." = "Monal non ha ricevuto una posizione GPS. Riprova più tardi.";
+"Monal did not received a gps location. Please try again later." = "Monal non ha ricevuto alcuna posizione GPS. Riprova più tardi.";
 "Monal does not have access to your location. Please update the location access in your device's Privacy Settings." = "Monal non ha accesso alla tua posizione. Consenti l'accesso alla posizione nelle impostazioni della Privacy del tuo dispositivo.";
-"Monal Push Server" = "Push server di Monal";
+"Monal Push Server" = "Server push di Monal";
 "Monal uses OMEMO encryption to protect your conversations" = "Monal utilizza la cifratura OMEMO per proteggere le tue conversazioni";
 "Mute" = "Silenzia";
-"My Encryption Keys" = "Le mie chiavi crittografiche";
+"My Encryption Keys" = "Le mie chiavi di cifratura";
 "My Keys" = "Le mie chiavi";
 "Name can't be empty" = "Il nome non può essere vuoto";
 "Neither can see keys." = "Nessuno dei due può vedere le chiavi.";
@@ -144,7 +144,7 @@
 "Offline Contacts" = "Contatti offline";
 "Ok" = "OK";
 "Online" = "In linea";
-"Open Source" = "Codice aperto";
+"Open Source" = "Codice sorgente aperto";
 "Participants" = "Partecipanti";
 "Password" = "Password";
 "Password cannot be empty" = "La password non può essere vuota";
@@ -153,7 +153,7 @@
 "Pin Chat" = "Fissa la chat";
 "Play Sounds" = "Riproduci suoni";
 "Please Allow Audio Access" = "Consenti l'accesso all'audio";
-"Please enter a password." = "Si prega di inserire una password.";
+"Please enter a password." = "Inserisci una password.";
 "Please make sure at least one account has connected before trying to add a contact." = "Assicurati che almeno un account sia connesso prima di provare ad aggiungere un contatto.";
 "Please make sure at least one account has connected before trying to message someone." = "Assicurati che almeno un account sia connesso prima di provare a inviare un messaggio a qualcuno.";
 "Please make sure you are connected before changing your password." = "Assicurati di essere connesso prima di cambiare la password.";
@@ -161,8 +161,8 @@
 "Port" = "Porta";
 "Port: %@, Is Secure: %@, Prio: %@" = "Porta: %1$@, È sicuro: %2$@, Prio: %3$@";
 "Presence" = "Presenza";
-"Privacy" = "Riservatezza";
-"Privacy Settings" = "Impostazioni della riservatezza";
+"Privacy" = "Privacy";
+"Privacy Settings" = "Impostazioni della privacy";
 "Quick Setup" = "Configurazione rapida";
 "Rate Monal" = "Valuta Monal";
 "Read" = "Leggi";
@@ -181,7 +181,7 @@
 "ReplyButton" = "Pulsante di risposta";
 "Resource" = "Risorsa";
 "Resources" = "Risorse";
-"Resume a stream when disconnected. Results in faster reconnect and saves battery life." = "Riprendi un flusso quando disconnesso. Consente una riconnessione più rapida e consente di risparmiare la durata della batteria.";
+"Resume a stream when disconnected. Results in faster reconnect and saves battery life." = "Riprendi un flusso quando disconnesso. Consente una riconnessione più rapida e risparmia la durata della batteria.";
 "Retry" = "Riprova";
 "Retry sending message?" = "Riprovare a inviare il messaggio?";
 "Room" = "Stanza";
@@ -196,7 +196,7 @@
 "Send A Message" = "Invia un messaggio";
 "Send Last Interaction Time" = "Invia l'ora dell'ultima interazione";
 "Send Location" = "Invia la posizione";
-"Send Typing Notifications" = "Invia notifiche di digitazione";
+"Send Typing Notifications" = "Invia notifiche di scrittura";
 "Sending..." = "Invio...";
 "Sent" = "Inviato";
 "Sent a Link 🔗" = "Collegamento inviato 🔗";
@@ -211,9 +211,9 @@
 "Skip" = "Salta";
 "Sort By Status" = "Ordina per stato";
 "Sounds" = "Suoni";
-"Sounds courtesy Emrah" = "Suoni sono cortesia di Emrah";
-"Spread The Word" = "Spargi la voce";
-"SRV entry prohibits XMPP connection" = "Il valore SRV non consente la connessione XMPP";
+"Sounds courtesy Emrah" = "I suoni sono cortesia di Emrah";
+"Spread The Word" = "Spargi la parola";
+"SRV entry prohibits XMPP connection" = "Il record SRV non consente la connessione XMPP";
 "SSL Error: Certificate chain is invalid" = "Errore SSL: la catena di certificati non è valida";
 "SSL Error: Certificate expired" = "Errore SSL: certificato scaduto";
 "SSL Error: Host name mismatch" = "Errore SSL: il nome dell'host non corrisponde";
@@ -221,7 +221,7 @@
 "Start Using Monal" = "Inizia a usare Monal";
 "Status" = "Stato";
 "Status Message" = "Messaggio di stato";
-"Submit A Bug" = "Segnala un errore";
+"Submit A Bug" = "Segnala un problema";
 "Success" = "Successo";
 "Success!" = "Successo!";
 "Support" = "Supporto";
@@ -235,7 +235,7 @@
 "There is no configured email account. Please email info@monal-im.org ." = "Non esiste un account di posta elettronica configurato. Si prega di inviare un'e-mail a info@monal-im.org.";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "Si è verificato un errore durante la decifrazione di questo messaggio cifrato (errore di segnale). Per risolvere questo problema, prova a inviare un messaggio cifrato a questa persona.";
 "There was an error uploading the file to the server" = "Si è verificato un errore durante il caricamento del file sul server";
-"These are SRV resource records found for your domain" = "Questi sono i valori SRV trovati per il tuo dominio";
+"These are SRV resource records found for your domain" = "Questi sono i record SRV trovati per il tuo dominio";
 "These are the modern XMPP capabilities Monal detected on your server after you have logged in." = "Queste sono le moderne funzionalità XMPP che Monal ha rilevato sul tuo server dopo che ti sei connesso.";
 "These are your encryption keys. Each device is a different place you have logged in. You should trust a key when you have verified it." = "Queste sono le tue chiavi di cifratura. Ogni dispositivo è un luogo diverso in cui hai effettuato l'accesso. Dovresti fidarti di una chiave solo dopo averla verificata.";
 "They can see your keys. You can't see theirs" = "Loro possono vedere le tue chiavi. Tu non puoi vedere le loro";
@@ -248,7 +248,7 @@
 "This sender will be able to send you messages" = "Questo mittente potrà inviarti messaggi";
 "This sender will no longer be able to contact you" = "Questo mittente non sarà più in grado di contattarti";
 "This server does not appear to support HTTP file uploads (XEP-0363). Please ask the administrator to enable it." = "Questo server sembra non supportare l'upload di files tramite HTTP (XEP-0363). Richiedi all'amministratore di abilitarlo.";
-"This will remove this account and the associated data from this device." = "Questo rimuoverà questo account e i dati associati da questo dispositivo.";
+"This will remove this account and the associated data from this device." = "L'azione rimuoverà questo account e i dati associati da questo dispositivo.";
 "Typing..." = "Sta scrivendo…";
 "Unable to connect to server" = "Impossibile connettersi al server";
 "Unblock Sender" = "Sblocca il mittente";
@@ -268,10 +268,10 @@
 "Version %@ (%@)" = "Versione %1$@ (%2$@)";
 "View Images Received" = "Visualizza le immagini ricevute";
 "Waiting for GPS signal" = "In attesa del segnale GPS";
-"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet." = "Non siamo stati in grado di connettere il tuo account. Verifica le credenziali ed assicurati di essere connesso ad internet.";
+"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet." = "Non siamo stati in grado di connettere il tuo account. Verifica le credenziali e assicurati di essere connesso a internet.";
 "Welcome to Monal" = "Benvenuto/a su Monal";
 "When you have some favorite groups, they will be here for you." = "Quando hai dei gruppi preferiti, saranno qui per te.";
-"When you start talking to someone,\n they will show up here." = "Quando inizierai a parlare con qualcuno,\n lo vedrai apparire qui.";
+"When you start talking to someone,\n they will show up here." = "Quando inizi a parlare con qualcuno,\n lo vedrai apparire qui.";
 "Will logout and reconnect any connected accounts." = "Verrà riconnesso qualsiasi account attualmente connesso.";
 "Will make a HTTP HEAD call on all links" = "Sarà effettuata una chiamata HTTP HEAD su tutti i links";
 "XEP-0198: Stream Management" = "XEP-0198: Stream Management";
@@ -295,7 +295,7 @@
 "🔗 A Link" = "🔗 Un link";
 "Last seen: %@" = "Last seen: %@";
 "now" = "adesso";
-"Jabber, Prosody, ejabberd etc.   " = "Jabber, Prosody, ejabberd etc.   ";
+"Jabber, Prosody, ejabberd etc.   " = "Jabber, Prosody, ejabberd, etc.   ";
 "Loading more Messages from Server" = "Carico più messaggi dal server";
 "Name: " = "Nome: ";
 "Os: " = "Os: ";
@@ -312,14 +312,14 @@
 "Mark as read" = "Segna come letto";
 "Saving changes to server" = "Salvataggio delle modifiche sul server";
 "Send" = "Invia";
-"Send message received state" = "Invia lo stato di ricezione del messaggio";
+"Send message received state" = "Invia la conferma di ricezione del messaggio";
 "Set a nickname for this contact" = "Imposta un soprannome per questo contatto";
 "Sync Read-Markers" = "Sincronizza gli stati di lettura";
 "Tell my contacts if I've read a message" = "Fai sapere ai miei contatti se ho letto il messaggio";
 "Tell my contacts if my device received a message" = "Fai sapere ai miei contatti se il mio dispositivo ha ricevuto il messaggio";
 "Your answer" = "La tua risposta";
 "Can't convert the image to png file." = "Impossibile convertire l'immagine nel formato png.";
-"My Name/Nickname" = "Il mio nome/soprannome";
+"My Name/Nickname" = "Il mio nome o soprannome";
 "Display Name" = "Mostra il nome";
 "Display Name And Message" = "Mostra il nome e il messaggio";
 "Display Only Name" = "Mostra solo il nome";
@@ -343,7 +343,7 @@
 "Never archive" = "Non archiviare mai";
 "Only contacts" = "Solo contatti";
 "Server returned invalid xml!" = "Il server ha risposto con un xml non valido!";
-"SRV entry prohibits XMPP connection for server %@" = "SRV entry prohibits XMPP connection for server %@";
+"SRV entry prohibits XMPP connection for server %@" = "Il record SRV non permette la connessione XMPP al server %@";
 "Unable to connect to server!" = "Impossibile connettersi al server!";
 "Unexpected mam preferences result" = "Unexpected mam preferences result";
 "XMPP Account Info Error" = "XMPP Account Info Error";
@@ -367,9 +367,9 @@
 "It does not seem as your device has a camera. Please use a device with a camera for scanning" = "Sembra che il tuo dispositivo non abbia una fotocamera. Per favore, usa un dispositivo con una fotocamera per scansionare";
 "Login with a QR-Code" = "Accedi con un QR-Code";
 "New Account" = "Nuovo account";
-"QR-Code Scanner" = "QR-Code Scanner";
+"QR-Code Scanner" = "Scanner QR-Code";
 /* QR-Code-Scanner */
-"QR-Code video error" = "QR-Code video error";
+"QR-Code video error" = "Errore video QR-Code";
 /* QR-Code-Scanner: invalid format */
 "We could not find a xmpp related QR-Code" = "Non abbiamo trovato un QR-Code relativo a XMPP";
 "XMPP: QR-Code" = "XMPP: QR-Code";
@@ -377,7 +377,7 @@
 "There was a SASL error on the server." = "Si è verificato un errore SASL sul server.";
 "Contact Jid" = "Contatto Jid";
 "Contacts are usually in the format: username@dom.ain" = "I contatti sono solitamente nel formato: nomeutente@dominio";
-"Only shareable for now" = "Condivisibile solo per adesso";
+"Only shareable for now" = "Condivisibile solo temporaneamente";
 "Account (%@)" = "Account (%@)";
 "Account (new)" = "Account (nuovo)";
 "Clear Chat History" = "Elimina la cronologia della chat";
@@ -385,7 +385,7 @@
 "Error while decrypting: iv.length != 12" = "Errore durante la decifrazione: iv.length != 12";
 "Image encryption error" = "Errore durante la cifratura dell'immagine";
 "The chat history has been cleared" = "La cronologia della chat è stata eliminata";
-"This will clear the whole chat history of this account from this device." = "Questo cancellerà l'intera cronologia della chat di questo account da questo dispositivo.";
+"This will clear the whole chat history of this account from this device." = "L'azione cancellerà l'intera cronologia della chat di questo account da questo dispositivo.";
 "Sent a File 📁" = "Sent a File 📁";
 "Sent a Location 📍" = "Sent a Location 📍";
 "📁 A File" = "📁 A File";
@@ -406,7 +406,7 @@
 /* Chat msg action */
 "Copy" = "Copia";
 "Hint" = "Suggerimento";
-"Already uploading this content, ignoring" = "Already uploading this content, ignoring";
+"Already uploading this content, ignoring" = "Questo contenuto sta già venendo caricato, richiesta ignorata";
 "Archive chat" = "Archivia la chat";
 "Automatically fetch previews of received links" = "Scarica automaticamente le anteprime dei link ricevuti";
 /* DEBUG - ContactDetails */
@@ -414,8 +414,8 @@
 "Show URL previews" = "Mostra l'anteprima degli URL";
 /* shareViewController: recipient */
 "Recipient" = "Destinatario";
-"Appserver error" = "Errore del server applicazioni";
-"Appserver returned invalid data" = "Appserver returned invalid data";
+"Appserver error" = "Errore Application Server";
+"Appserver returned invalid data" = "L'Application Server ha risposto con dati non validi";
 "Error registering push" = "Errore di registrazione delle notifiche push";
 "Images" = "Immagini";
 "Allow" = "Permetti";
@@ -424,29 +424,29 @@
 "Blocking is not supported by the server" = "Il blocco non è supportato dal server";
 "Blocking not supported" = "Blocco non supportato";
 "Duplicate Account" = "Duplica l'account";
-"Enter the jid that you want to block" = "Inserisci il jid che vuoi bloccare";
+"Enter the jid that you want to block" = "Inserisci il Jid che vuoi bloccare";
 /* MLJoinGroupViewController - Group Password Form */
 "Group Password" = "Password del gruppo";
 "Group requires a password" = "Il gruppo richiede una password";
 "Input is not a valid jid" = "L'inserimento non è un jid valido";
 /* Join GroupViewController - HUD */
 "Joining Group" = "Unione al gruppo";
-"Monal  uses your location when you send a location message in a conversation." = "Monal utilizza la tua posizione quando invii un messaggio di posizione in una conversazione.";
+"Monal  uses your location when you send a location message in a conversation." = "Monal utilizza le tue coordinate GPS quando invii un messaggio con la posizione in una conversazione.";
 "OK" = "OK";
 "The server does not support blocking" = "Il server non supporta il blocco";
 "This account already exists on this instance" = "Questo account esiste già in questa istanza";
 /* Join GroupViewController - Join Group HUD */
-"Trying to join group" = "Tentativo di unirsi al gruppo";
+"Trying to join group" = "Tentativo di unione al gruppo";
 /* BlockUserTable - blockJidForm */
 "user@example.org/resource" = "utente@esempio.org/risorsa";
 "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Le notifiche sono cambiate in iOS 13 a causa di alcune modifiche ad iOS. Per ora vedrai solo qualcosa che dice che c'è un nuovo messaggio ma non il testo o chi lo ha inviato. Ho deciso di farlo in modo da darti una messaggistica affidabile mentre lavoro per aggiornare Monal e ripristinare la precedente funzionalità.";
 "Account %@" = "Account %@";
-"Auto-Download Media" = "Auto-Download dei contenuti";
+"Auto-Download Media" = "Auto download dei contenuti";
 "Automatic media download" = "Download automatico dei contenuti";
 "Changing Password" = "Aggiornamento password";
 "Check type and size on " = "Verifica tipo e dimensione su ";
 /* DEBUG - XMPPEdit */
-"Clear own omemo session" = "Inizializza la propria sessione OMEMO";
+"Clear own omemo session" = "Pulisci la tua sessione OMEMO";
 "Download" = "Download";
 "Error entering groupchat" = "Errore di accesso alla chat di gruppo";
 "Failed to enter groupchat %@" = "Impossibile entrare nella chat di gruppo %@";
@@ -458,7 +458,7 @@
 /* OmemoQrCodeView */
 "To many device keys" = "Troppe chiavi per questo dispositivo";
 /* OmemoQrCodeView */
-"You have to many enabled devices on this account. You need to remove some devices" = "Hai troppi dispositivi abilitati su questo account. Devi rimuoverne alcuni";
+"You have to many enabled devices on this account. You need to remove some devices" = "Hai troppi dispositivi abilitati su questo account. Devi rimuoverne qualcuno";
 "Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!" = "Il tuo server non supporta la funzione MAM (XEP-0313). Questo significa che potresti avere frequenti perdite di messaggi in arrivo! Dovresti cambiare server o chiedere all'amministratore di abilitare la funzione!";
 "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Il tuo server non supporta la funzione di Stream Management (XEP-0198). Questo significa che potresti avere frequenti perdite di messaggi inviati! Dovresti cambiare server o chiedere all'amministratore di abilitare la funzione!";
 "%@ says:" = "%@ dice:";
@@ -469,8 +469,8 @@
 "Audio Recoder set active error: %@" = "Audio Recoder set active error: %@";
 "Audio Recoder set category error: %@" = "Audio Recoder set category error: %@";
 "Auto-Download Media Settings" = "Auto-Download Media Settings";
-"Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified.";
-"Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription." = "Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription.";
+"Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Definisce una proposta di modifica per il protocollo dell'elenco XMPP che ne abilita il versionamento, in modo tale che il server non invii l'elenco al client se questo non è stato modificato.";
+"Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription." = "Definisce un protocollo e uno scherma URI per i collegamenti pre-autenticati alle liste che permettono a terze parti di ottenere automaticamente la sottoscrizione della presenza dell'utente.";
 "Do you want to trust the scanned fingerprints from" = "Vuoi fidarti delle impronte scansionate da";
 "Enter you password here" = "Inserisci la tua password qui";
 "Enter you XMPP ID here" = "Inserisci il tuo XMPP ID qui";
@@ -515,8 +515,8 @@
 /* addContact - checking HUD */
 "Checking" = "Verifico";
 /* addContact - checking HUD */
-"Checking if the jid you provided is correct" = "Verifica che il JID che hai fornito sia corretto";
-"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Un contatto o un canale Jids  sono solitamente nel formato: nomeutente@dominio";
+"Checking if the jid you provided is correct" = "Verifica che il Jid che hai fornito sia corretto";
+"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Un contatto o un canale Jid  sono solitamente nel formato: nomeutente@dominio";
 "Contact or Channel Jid" = "Contatto o canale Jid";
 "Could not load (all) old messages" = "Impossibile caricare (tutti) i vecchi messaggi";
 "Could not load (all) old messages from your server archive. Please try again later. %@" = "Impossibile caricare (tutti) i vecchi messaggi dall'archivio del server. Per favore riprova più tardi. %@";
@@ -525,16 +525,16 @@
 "Error: Received message is empty" = "Errore: il messaggio ricevuto è vuoto";
 "Failed to decrypt filetransfer" = "Impossibile decifrare il file trasferito";
 "Failed to delete own avatar on account %@" = "Impossibile eliminare il proprio avatar dall'account %@";
-"Failed to enable carbons for account %@" = "Failed to enable carbons for account %@";
+"Failed to enable carbons for account %@" = "Impossibile abilitare il carbon-copy per l'account %@";
 "Failed to publish own avatar on account %@" = "Impossibile pubblicare il proprio avatar sull'account %@";
-"Failed to publish own nickname on account %@" = "Impossibile pubblicare il proprio nickname sull'account %@";
+"Failed to publish own nickname on account %@" = "Impossibile pubblicare il proprio soprannome sull'account %@";
 "Failed to query for new messages on account %@" = "Impossibile richiedere i nuovi messaggi per l'account %@";
 "Failed to query new messages for groupchat %@" = "Impossibile richiedere i nuovi messaggi per la chat di gruppo %@";
-"Failed to query newest stanzaid for account %@" = "Failed to query newest stanzaid for account %@";
-"Failed to query newest stanzaid for groupchat %@" = "Failed to query newest stanzaid for groupchat %@";
+"Failed to query newest stanzaid for account %@" = "Impossibile recuperare lo stanza-id più recente per l'account %@";
+"Failed to query newest stanzaid for groupchat %@" = "Impossibile recuperare lo stanza-id più recente per la chat di gruppo %@";
 "Failed to save groupchat bookmarks" = "Impossibile salvare i segnalibri della chat di gruppo";
-"Groupchat/channel details" = "Dettagli chat di gruppo / canale";
-"Groupchat/channel details are currently not implemented in Monal." = "I dettagli della chat di gruppo / canale non sono al momento disponibili in Monal.";
+"Groupchat/channel details" = "Dettagli della chat di gruppo o del canale";
+"Groupchat/channel details are currently not implemented in Monal." = "I dettagli della chat di gruppo o del canale non sono al momento disponibili in Monal.";
 "Image Quality" = "Qualità dell'immagine";
 "Image Quality: %.2f" = "Qualità dell'immagine: %.2f";
 "Invalid Password!" = "Password errata!";
@@ -546,7 +546,7 @@
 /* catalina warning */
 "QR-Code scanning unsupported" = "La scansione del QR-Code non è supportata";
 "Remove Conversation" = "Elimina conversazione";
-"SRV entry prohibits XMPP connection for domain %@" = "SRV entry prohibits XMPP connection for domain %@";
+"SRV entry prohibits XMPP connection for domain %@" = "Il record SRV non permette la connessione XMPP al dominio %@";
 "The current password is not correct." = "La password corrente non è corretta.";
 "The jid has to be in the form 'user@domain.tld' to be correct." = "Il Jid deve essere nella forma 'utente@dominio' per essere corretto.";
 /* QR-Code-Scanner: jid scan wrong menu */
@@ -585,13 +585,13 @@
 "Quote" = "Cita";
 /* Camera permissions missing warning */
 "Settings" = "Impostazioni";
-"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "La connessione al server è stata interrotta e nessun vecchio messaggio potrebbe essere recuperato per questa conversazione. Per favore riprova più tardi. %@";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "La connessione al server è stata interrotta e nessun vecchio messaggio può essere recuperato per questa conversazione. Per favore riprova più tardi. %@";
 "You did not grant Monal to access your location." = "Non hai consentito a Monal l'accesso alla tua posizione.";
-"Always use direct TLS, not STARTTLS" = "Always use direct TLS, not STARTTLS";
-"Server Support Details" = "Server Support Details";
-"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "La connessione al server è stata interrotta e nessun vecchio messaggio potrebbe essere recuperato per questa conversazione. Per favore riprova più tardi.";
-"Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)";
-"Protocol support of your server (XEPs)" = "Protocol support of your server (XEPs)";
+"Always use direct TLS, not STARTTLS" = "Usa sempre TLS invece di STARTTLS";
+"Server Support Details" = "Funzionalità supportate dal server";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "La connessione al server è stata interrotta e nessun vecchio messaggio può essere recuperato per questa conversazione. Per favore riprova più tardi.";
+"Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Carica i file sul server per condividerli con altri. (Dimensione massima consentita dei file indicata dal server: %@)";
+"Protocol support of your server (XEPs)" = "Protocolli supportati dal tuo server (XEPs)";
 "Draft:" = "Bozza:";
 "Failed to delete own avatar" = "Impossibile eliminare il proprio avatar";
 "Failed to delete own nickname" = "Impossibile eliminare il proprio soprannome";
@@ -608,15 +608,15 @@
 "You will no longer receive messages from this conversation" = "Non riceverai più messaggi da questa conversazione";
 "Loading registration form" = "Caricamento campo di registrazione";
 "Using server '%@' that was provided by the registration link you used." = "Utilizzo il server '%@' che è stato fornito dal link di registrazione che hai usato.";
-"yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im è un server pubblico, con affiliato con Monal. Questa pagina è fornita per convenienza.";
-"There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person." = "There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person.";
-"There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)" = "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)";
+"yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im è un server pubblico, non affiliato con Monal. Questa pagina è fornita per convenienza.";
+"There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person." = "Si è verificato un errore nella decifrazione di questo messaggio ENCRYPTED KEY TRANSPORT (errore segnale). Per risolverlo, prova a inviare un messaggio cifrato a questo contatto.";
+"There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)" = "Si è verificato un errore nella decifrazione di questo messaggio cifrato (errore segnale). Per risolverlo, prova a inviare un messaggio cifrato a questo contatto. (%@)";
 "Add Channel to Favorites" = "Aggiungi il canale ai preferiti";
 "Add Group to Favorites" = "Aggiungi il gruppo ai preferiti";
 "Clear chat history for this contact" = "Elimina la cronologia della chat per questo contatto";
 "Clear History" = "Elimina la cronologia";
 "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Vuoi davvero eliminare tutti i messaggi scambiati in questa conversazione? Se è stato usato OMEMO non sarai nemmeno più in grado di caricarli nuovamente dal server.";
-"Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Vuoi davvero inizializzare la sessione di OMEMO? Dovresti inizializzare la connessione solamente se sai cosa stai facendo!";
+"Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Vuoi davvero inizializzare la sessione di OMEMO? Dovresti solamente inizializzare la connessione se sai cosa stai facendo!";
 "Leave Channel" = "Abbandona il canale";
 "Leave Group" = "Abbandona il gruppo";
 "Reset OMEMO session" = "Inizializza la sessione di OMEMO";
@@ -632,11 +632,11 @@
 "TLS Error: Certificate expired" = "Errore TLS: certificato scaduto";
 "TLS Error: Host name mismatch" = "Errore TLS: il nome dell'host non corrisponde";
 "TLS Error: Unknown root certificate" = "Errore TLS: certificato di root sconosciuto";
-"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Non siamo stati in grado di connettere il tuo account. Per favore verifica le tue credenziali ed assicurati di essere connesso a internet.\n\nmessaggio tecnico di errore: %@";
+"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Non siamo stati in grado di connettere il tuo account. Per favore verifica le tue credenziali ed assicurati di essere connesso a internet.\n\nMessaggio tecnico di errore: %@";
 /* directory for downloaded audios */
 "Received Audios" = "Audio ricevuti";
 /* directory for downloaded files */
-"Received Files" = "Files ricevuti";
+"Received Files" = "File ricevuti";
 /* directory for downloaded images */
 "Received Images" = "Immagini ricevute";
 /* directory for downloaded videos */
@@ -644,7 +644,7 @@
 /* directory for downloaded audios */
 "Sent Audios" = "Audio inviati";
 /* directory for downloaded files */
-"Sent Files" = "Files inviati";
+"Sent Files" = "File inviati";
 /* directory for downloaded images */
 "Sent Images" = "Immagini inviate";
 /* directory for downloaded videos */

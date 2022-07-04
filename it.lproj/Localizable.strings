@@ -4,7 +4,7 @@
 "[This message is OMEMO encrypted]" = "[Questo messaggio è cifrato con OMEMO]";
 "About" = "Informazioni";
 "Accept" = "Accetta";
-"Access message archives on the server." = "Accesso agli archivi dei messaggi sul server.";
+"Access message archives on the server." = "Accesso all'archivio dei messaggi sul server.";
 /* ShareViewController: Account */
 "Account" = "Account";
 "Account Exists" = "L'account esiste";
@@ -181,7 +181,7 @@
 "ReplyButton" = "Pulsante di risposta";
 "Resource" = "Risorsa";
 "Resources" = "Risorse";
-"Resume a stream when disconnected. Results in faster reconnect and saves battery life." = "Riprendi un flusso quando disconnesso. Consente una riconnessione più rapida e risparmia la durata della batteria.";
+"Resume a stream when disconnected. Results in faster reconnect and saves battery life." = "Riprende un flusso quando disconnesso. Consente una riconnessione più rapida e risparmia la batteria.";
 "Retry" = "Riprova";
 "Retry sending message?" = "Riprovare a inviare il messaggio?";
 "Room" = "Stanza";
@@ -225,7 +225,7 @@
 "Success" = "Successo";
 "Success!" = "Successo!";
 "Support" = "Supporto";
-"Synchronize your messages on all loggedin devices." = "Sincronizza i tuoi messaggi su tutti i dispositivi collegati.";
+"Synchronize your messages on all loggedin devices." = "Sincronizza i messaggi su tutti i dispositivi collegati.";
 "Tell my contacts when I'm typing" = "Fai sapere ai miei contatti quando sto digitando";
 "The account has been deleted" = "L'account è stato cancellato";
 "The account has been saved" = "L'account è stato salvato";
@@ -274,12 +274,12 @@
 "When you start talking to someone,\n they will show up here." = "Quando inizi a parlare con qualcuno,\n lo vedrai apparire qui.";
 "Will logout and reconnect any connected accounts." = "Verrà riconnesso qualsiasi account attualmente connesso.";
 "Will make a HTTP HEAD call on all links" = "Sarà effettuata una chiamata HTTP HEAD su tutti i links";
-"XEP-0198: Stream Management" = "XEP-0198: Stream Management";
-"XEP-0280: Message Carbons" = "XEP-0280: Message Carbons";
-"XEP-0313: Message Archive Management" = "XEP-0313: Message Archive Management";
-"XEP-0352: Client State Indication" = "XEP-0352: Client State Indication";
-"XEP-0357: Push Notifications" = "XEP-0357: Push Notifications";
-"XEP-0363: HTTP File Upload" = "XEP-0363: HTTP File Upload";
+"XEP-0198: Stream Management" = "XEP-0198: Gestione flusso";
+"XEP-0280: Message Carbons" = "XEP-0280: Copia carbone messaggi";
+"XEP-0313: Message Archive Management" = "XEP-0313: Gestione dell'archivio messaggi";
+"XEP-0352: Client State Indication" = "XEP-0352: Indicazione di stato del client";
+"XEP-0357: Push Notifications" = "XEP-0357: Notifiche push";
+"XEP-0363: HTTP File Upload" = "XEP-0363: Upload file tramite HTTP";
 "XMPP" = "XMPP";
 "Yes" = "Si";
 "You are not trapped in a garden. Talk to anyone else without anyone tracking you." = "Non sei intrappolato in un giardino. Parla con chiunque altro senza che nessuno ti tracci.";
@@ -393,7 +393,7 @@
 "Edit" = "Modifica";
 "Delete Locally" = "Elimina localmente";
 /* MLLoginView: QR-Code Button iOS12 only */
-"QR" = "QR";
+"QR" = "QR-Code";
 "Could not upload file" = "Impossibile caricare il file";
 "Download error" = "Errore nel download";
 "Failed to copy downloaded file into cache directory" = "Impossibile copiare il file scaricato nella cartella della cache";
@@ -493,13 +493,13 @@
 "Recode Success" = "Ricodifica riuscita";
 "Recording audio" = "Registrazione audio";
 "This specification defines semantics for using the XMPP publish-subscribe protocol to broadcast state change events associated with an instant messaging and presence account." = "Questa specifica definisce la semantica per usare il protocollo XMPP publish-subscribe per propagare eventi di cambio di stato associati a un account di messaggeria istantanea e presenza.";
-"XEP-0163 Personal Eventing Protocol" = "XEP-0163 Personal Eventing Protocol";
-"XEP-0191: Blocking Command" = "XEP-0191: Blocking Command";
-"XEP-0199: XMPP Ping" = "XEP-0199: XMPP Ping";
-"XEP-0237: Roster Versioning" = "XEP-0237: Roster Versioning";
-"XEP-0379: Pre-Authenticated Roster Subscription" = "XEP-0379: Pre-Authenticated Roster Subscription";
-"XMPP protocol extension for communications blocking." = "XMPP protocol extension for communications blocking.";
-"XMPP protocol extension for sending application-level pings over XML streams." = "XMPP protocol extension for sending application-level pings over XML streams.";
+"XEP-0163 Personal Eventing Protocol" = "XEP-0163: Protocollo eventi personali";
+"XEP-0191: Blocking Command" = "XEP-0191: Comando di blocco";
+"XEP-0199: XMPP Ping" = "XEP-0199: Ping XMPP";
+"XEP-0237: Roster Versioning" = "XEP-0237: Versionamento elenco";
+"XEP-0379: Pre-Authenticated Roster Subscription" = "XEP-0379: Sottoscrizione pre-autenticata elenco";
+"XMPP protocol extension for communications blocking." = "Estensione del protocollo XMPP per il blocco delle comunicazioni.";
+"XMPP protocol extension for sending application-level pings over XML streams." = "Estensione del protocollo XMPP per l'invio di ping a livello applicativo tramite flusso XML.";
 "You got banned from: %@" = "Sei stato bannato da: %@";
 "You got kicked from: %@" = "Sei stato espulso da: %@";
 "Your status" = "Il tuo stato";
@@ -525,7 +525,7 @@
 "Error: Received message is empty" = "Errore: il messaggio ricevuto è vuoto";
 "Failed to decrypt filetransfer" = "Impossibile decifrare il file trasferito";
 "Failed to delete own avatar on account %@" = "Impossibile eliminare il proprio avatar dall'account %@";
-"Failed to enable carbons for account %@" = "Impossibile abilitare il carbon-copy per l'account %@";
+"Failed to enable carbons for account %@" = "Impossibile abilitare la copia carbone per l'account %@";
 "Failed to publish own avatar on account %@" = "Impossibile pubblicare il proprio avatar sull'account %@";
 "Failed to publish own nickname on account %@" = "Impossibile pubblicare il proprio soprannome sull'account %@";
 "Failed to query for new messages on account %@" = "Impossibile richiedere i nuovi messaggi per l'account %@";

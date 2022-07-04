@@ -81,7 +81,7 @@
 "Group Chat" = "Conversazione di gruppo";
 "Group Chat Invite" = "Invito alla conversazione di gruppo";
 "Group Information" = "Informazioni sul gruppo";
-"Hardcoded Hostname" = "Hardcoded Hostname";
+"Hardcoded Hostname" = "Hostname specifico";
 "Hide Chat" = "Nascondi la conversazione";
 "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission.  Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'. " = "Se Monal non può mostrare le notifiche, non vedrai avvisi quando arriva un messaggio. Questo succede se hai scelto 'Rifiuta' quando Monal ha chiesto il permesso la prima volta.  Puoi cambiare la scelta andando su Impostazioni -> Monal -> Notifiche e abilitare 'Consenti notifiche'. ";
 "If Monal push is off, your device could not talk to push.monal.im. This should also never be off. It requires Apple push service to work first. " = "Se le notifiche push di Monal sono disattivate, il tuo dispositivo non può connettersi con push.monal.im. Queste inoltre non dovrebbero mai essere disattivate. Richiede che il servizio push di Apple sia innanzitutto funzionante. ";
@@ -293,7 +293,7 @@
 "📍 A Location" = "📍 Una posizione";
 "📷 An Image" = "📷 Un'immagine";
 "🔗 A Link" = "🔗 Un link";
-"Last seen: %@" = "Last seen: %@";
+"Last seen: %@" = "Ultimo accesso: %@";
 "now" = "adesso";
 "Jabber, Prosody, ejabberd etc.   " = "Jabber, Prosody, ejabberd, etc.   ";
 "Loading more Messages from Server" = "Carico più messaggi dal server";
@@ -330,7 +330,7 @@
 "Message was encrypted with omemo and can't be decrypted anymore" = "Il messaggio è stato cifrato con OMEMO e non può più essere decifrato";
 "No further error description" = "Nessuna ulteriore descrizione dell'errore";
 "This message failed to send (%@): %@" = "L'invio del messaggio non è riuscito (%1$@): %2$@";
-"Loading omemo bundles" = "Loading omemo bundles";
+"Loading omemo bundles" = "Carico l'OMEMO bundle";
 "Domain missing" = "Dominio mancante";
 "Username missing" = "Nome utente mancante";
 "XMPP ID" = "XMPP ID";
@@ -345,16 +345,16 @@
 "Server returned invalid xml!" = "Il server ha risposto con un xml non valido!";
 "SRV entry prohibits XMPP connection for server %@" = "Il record SRV non permette la connessione XMPP al server %@";
 "Unable to connect to server!" = "Impossibile connettersi al server!";
-"Unexpected mam preferences result" = "Unexpected mam preferences result";
-"XMPP Account Info Error" = "XMPP Account Info Error";
-"XMPP Bind Error" = "XMPP Bind Error";
+"Unexpected mam preferences result" = "Risultato inatteso delle preferenze MAM";
+"XMPP Account Info Error" = "Errore nelle informazioni dell'account XMPP";
+"XMPP Bind Error" = "Errore bind XMPP";
 "XMPP Disco Info Error" = "XMPP Disco Info Error";
-"XMPP mam preferences error" = "XMPP mam preferences error";
-"XMPP Roster Error" = "XMPP Roster Error";
-"XMPP stream error %@: %@" = "XMPP stream error %1$@: %2$@";
-"XMPP stream error: %@" = "XMPP stream error: %@";
+"XMPP mam preferences error" = "Errore nelle preferenze MAM di XMPP";
+"XMPP Roster Error" = "Errore elenco XMPP";
+"XMPP stream error %@: %@" = "Errore flusso XMPP %1$@: %2$@";
+"XMPP stream error: %@" = "Errore flusso XMPP: %@";
 "no supported auth mechanism, disconnecting!" = "Sistema di autenticazione non supportato, disconnetto!";
-"Loading omemo bundles: %@ / %@" = "Loading omemo bundles: %1$@ / %2$@";
+"Loading omemo bundles: %@ / %@" = "Carico l'OMEMO bundle: %1$@ / %2$@";
 /* QR-Code-Scanner: camera not found */
 "Could not access camera" = "Impossibile accedere alla fotocamera";
 /* QR-Code-Scanner */
@@ -386,9 +386,9 @@
 "Image encryption error" = "Errore durante la cifratura dell'immagine";
 "The chat history has been cleared" = "La cronologia della chat è stata eliminata";
 "This will clear the whole chat history of this account from this device." = "L'azione cancellerà l'intera cronologia della chat di questo account da questo dispositivo.";
-"Sent a File 📁" = "Sent a File 📁";
-"Sent a Location 📍" = "Sent a Location 📍";
-"📁 A File" = "📁 A File";
+"Sent a File 📁" = "File inviato 📁";
+"Sent a Location 📍" = "Posizione inviata 📍";
+"📁 A File" = "📁 Un file";
 /* Chat msg action */
 "Edit" = "Modifica";
 "Delete Locally" = "Elimina localmente";
@@ -396,13 +396,13 @@
 "QR" = "QR";
 "Could not upload file" = "Impossibile caricare il file";
 "Download error" = "Errore nel download";
-"Failed to copy downloaded file into cache directory" = "Impossibile copiare il file scaricato nella cache della cartella";
+"Failed to copy downloaded file into cache directory" = "Impossibile copiare il file scaricato nella cartella della cache";
 "Failed to decode download link" = "Impossibile decifrare il link per il download";
 "Failed to decode encrypted link" = "Impossibile decifrare il link cifrato";
 "Failed to encrypt file" = "Impossibile cifrare il file";
-"Failed to parse URL returned by HTTP upload server" = "Failed to parse URL returned by HTTP upload server";
-"Failed to uploaded file to file cache directory" = "Failed to uploaded file to file cache directory";
-"Failed to write decrypted download into cache directory" = "Failed to write decrypted download into cache directory";
+"Failed to parse URL returned by HTTP upload server" = "Impossibile analizzare l'URL restituito dal server di caricamento HTTP";
+"Failed to uploaded file to file cache directory" = "Impossibile caricare il file nella cartella della cache";
+"Failed to write decrypted download into cache directory" = "Impossibile scrivere il download decifrato nella cartella della cache";
 /* Chat msg action */
 "Copy" = "Copia";
 "Hint" = "Suggerimento";
@@ -441,8 +441,8 @@
 "user@example.org/resource" = "utente@esempio.org/risorsa";
 "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Le notifiche sono cambiate in iOS 13 a causa di alcune modifiche ad iOS. Per ora vedrai solo qualcosa che dice che c'è un nuovo messaggio ma non il testo o chi lo ha inviato. Ho deciso di farlo in modo da darti una messaggistica affidabile mentre lavoro per aggiornare Monal e ripristinare la precedente funzionalità.";
 "Account %@" = "Account %@";
-"Auto-Download Media" = "Auto download dei contenuti";
-"Automatic media download" = "Download automatico dei contenuti";
+"Auto-Download Media" = "Auto download dei media";
+"Automatic media download" = "Download automatico dei media";
 "Changing Password" = "Aggiornamento password";
 "Check type and size on " = "Verifica tipo e dimensione su ";
 /* DEBUG - XMPPEdit */
@@ -462,13 +462,13 @@
 "Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!" = "Il tuo server non supporta la funzione MAM (XEP-0313). Questo significa che potresti avere frequenti perdite di messaggi in arrivo! Dovresti cambiare server o chiedere all'amministratore di abilitare la funzione!";
 "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Il tuo server non supporta la funzione di Stream Management (XEP-0198). Questo significa che potresti avere frequenti perdite di messaggi inviati! Dovresti cambiare server o chiedere all'amministratore di abilitare la funzione!";
 "%@ says:" = "%@ dice:";
-"Audio recoder init fail." = "Audio recoder init fail.";
-"Audio recoder prepareToRecord fail." = "Audio recoder prepareToRecord fail.";
-"Audio Recoder recode fail" = "Audio Recoder recode fail";
-"Audio recoder record fail." = "Audio recoder record fail.";
-"Audio Recoder set active error: %@" = "Audio Recoder set active error: %@";
-"Audio Recoder set category error: %@" = "Audio Recoder set category error: %@";
-"Auto-Download Media Settings" = "Auto-Download Media Settings";
+"Audio recoder init fail." = "Inizializzazione della registrazione audio fallita.";
+"Audio recoder prepareToRecord fail." = "Preparazione alla registrazione audio fallita.";
+"Audio Recoder recode fail" = "Ricodifica della registrazione audio fallita";
+"Audio recoder record fail." = "Registrazione audio fallita.";
+"Audio Recoder set active error: %@" = "La registrazione audio ha impostato l'errore attivo: %@";
+"Audio Recoder set category error: %@" = "La registrazione audio ha impostato l'errore di categoria: %@";
+"Auto-Download Media Settings" = "Impostazioni di download automatico dei media";
 "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Definisce una proposta di modifica per il protocollo dell'elenco XMPP che ne abilita il versionamento, in modo tale che il server non invii l'elenco al client se questo non è stato modificato.";
 "Defines a protocol and URI scheme for pre-authenticated roster links that allow a third party to automatically obtain the user's presence subscription." = "Definisce un protocollo e uno scherma URI per i collegamenti pre-autenticati alle liste che permettono a terze parti di ottenere automaticamente la sottoscrizione della presenza dell'utente.";
 "Do you want to trust the scanned fingerprints from" = "Vuoi fidarti delle impronte scansionate da";

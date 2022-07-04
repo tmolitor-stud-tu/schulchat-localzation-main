@@ -1,7 +1,7 @@
 /* Class = "UIButton"; normalTitle = "Add Contact"; ObjectID = "21P-WC-8yr"; */
-"21P-WC-8yr.normalTitle" = "Adaugă contact";
+"21P-WC-8yr.normalTitle" = "Adaugă contact sau canal";
 /* Class = "UILabel"; text = "Add a New Contact"; ObjectID = "7Cs-k6-7n4"; */
-"7Cs-k6-7n4.text" = "Adăugă un nou contact";
+"7Cs-k6-7n4.text" = "Adăugă un nou contact sau canal";
 /* Class = "UILabel"; text = "Join a Group Chat"; ObjectID = "7dx-xo-wIB"; */
 "7dx-xo-wIB.text" = "Alăturați-vă unei discuții de grup";
 /* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */

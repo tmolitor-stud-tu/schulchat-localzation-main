@@ -498,7 +498,7 @@
 "XEP-0199: XMPP Ping" = "XEP-0199: XMPP Ping";
 "XEP-0237: Roster Versioning" = "XEP-0237: Versiunea listei de contacte";
 "XEP-0379: Pre-Authenticated Roster Subscription" = "XEP-0379: Abonarea la o listă pre-autentificată";
-"XMPP protocol extension for communications blocking." = "XMPP protocol extension for communications blocking.";
+"XMPP protocol extension for communications blocking." = "Extensie a protocolului XMPP pentru blocarea comunicațiilor.";
 "XMPP protocol extension for sending application-level pings over XML streams." = "XMPP protocol extension for sending application-level pings over XML streams.";
 "You got banned from: %@" = "Ați fost excluși din: %@";
 "You got kicked from: %@" = "Ați fost dați afară din: %@";
@@ -511,30 +511,30 @@
 "Add Account" = "Adăugare cont";
 "Add Account (advanced)" = "Adăugare cont (avansat)";
 "Add Contact or Channel" = "Adăugați un contact sau un canal";
-"All messages already present in local history!" = "All messages already present in local history!";
+"All messages already present in local history!" = "Toate mesajele sunt deja prezente în istoria locală!";
 /* addContact - checking HUD */
 "Checking" = "Verificare";
 /* addContact - checking HUD */
-"Checking if the jid you provided is correct" = "Checking if the jid you provided is correct";
+"Checking if the jid you provided is correct" = "Se verifică dacă adresa XMPP pe care ați furnizat-o este corectă";
 "Contact and Channel Jids  are usually in the format: name@domain.tld" = "Contact and Channel Jids  are usually in the format: name@domain.tld";
 "Contact or Channel Jid" = "Adresa XMPP pentru contact sau canal";
-"Could not load (all) old messages" = "Could not load (all) old messages";
+"Could not load (all) old messages" = "Nu s-au putut încărca (toate) mesajele vechi";
 "Could not load (all) old messages from your server archive. Please try again later. %@" = "Could not load (all) old messages from your server archive. Please try again later. %@";
 "Current Password" = "Parola actuală";
 "Encryption Keys (OMEMO)" = "Chei de criptare (OMEMO)";
 "Error: Received message is empty" = "Eroare: Mesajul primit este gol";
 "Failed to decrypt filetransfer" = "Nu s-a putut decripta transferul de fișiere";
-"Failed to delete own avatar on account %@" = "Failed to delete own avatar on account %@";
-"Failed to enable carbons for account %@" = "Failed to enable carbons for account %@";
-"Failed to publish own avatar on account %@" = "Failed to publish own avatar on account %@";
-"Failed to publish own nickname on account %@" = "Failed to publish own nickname on account %@";
+"Failed to delete own avatar on account %@" = "Nu s-a reușit ștergerea propriului avatar pe contul %@";
+"Failed to enable carbons for account %@" = "Nu s-a reușit activarea copiilor la indigo pentru contul %@";
+"Failed to publish own avatar on account %@" = "Nu s-a reușit publicarea propriului avatar pe contul %@";
+"Failed to publish own nickname on account %@" = "Nu s-a reușit publicarea propriului nume pe contul %@";
 "Failed to query for new messages on account %@" = "Failed to query for new messages on account %@";
-"Failed to query new messages for groupchat %@" = "Failed to query new messages for groupchat %@";
-"Failed to query newest stanzaid for account %@" = "Failed to query newest stanzaid for account %@";
-"Failed to query newest stanzaid for groupchat %@" = "Failed to query newest stanzaid for groupchat %@";
+"Failed to query new messages for groupchat %@" = "Nu s-a reușit interogarea mesajelor noi pentru discuția de grup %@";
+"Failed to query newest stanzaid for account %@" = "Nu s-a reușit interogarea celui mai nou ID stanza pentru contul %@";
+"Failed to query newest stanzaid for groupchat %@" = "Nu s-a reușit interogarea celui mai nou ID stanza pentru discuția de grup %@";
 "Failed to save groupchat bookmarks" = "Nu s-a reușit salvarea discuției de grup în semne de carte";
 "Groupchat/channel details" = "Detalii discuție de grup/canal";
-"Groupchat/channel details are currently not implemented in Monal." = "Groupchat/channel details are currently not implemented in Monal.";
+"Groupchat/channel details are currently not implemented in Monal." = "Detaliile grupului/canalului nu sunt implementate momentan în Monal.";
 "Image Quality" = "Calitatea imaginii";
 "Image Quality: %.2f" = "Calitatea imaginii: %.2f";
 "Invalid Password!" = "Parolă invalidă!";
@@ -542,19 +542,19 @@
 "Message Archive Preferences" = "Preferințe pentru arhiva de mesaje";
 "Please make sure at least one account has connected before trying to add a contact or channel." = "Please make sure at least one account has connected before trying to add a contact or channel.";
 /* catalina warning */
-"QR-Code scanning is not supported on catalina" = "QR-Code scanning is not supported on catalina";
+"QR-Code scanning is not supported on catalina" = "Scanarea codurilor QR nu este suportată pe Catalina";
 /* catalina warning */
 "QR-Code scanning unsupported" = "Scanarea codurilor QR nu este suportată";
 "Remove Conversation" = "Eliminați conversația";
-"SRV entry prohibits XMPP connection for domain %@" = "SRV entry prohibits XMPP connection for domain %@";
-"The current password is not correct." = "The current password is not correct.";
+"SRV entry prohibits XMPP connection for domain %@" = "Intrarea SRV interzice conexiunea XMPP pentru domeniu %@";
+"The current password is not correct." = "Parola curentă nu este corectă.";
 "The jid has to be in the form 'user@domain.tld' to be correct." = "The jid has to be in the form 'user@domain.tld' to be correct.";
 /* QR-Code-Scanner: jid scan wrong menu */
 "The qrcode contains a jid. Rescan the qrcode in the add user menu" = "The qrcode contains a jid. Rescan the qrcode in the add user menu";
 /* QR-Code-Scanner: account scan wrong menu */
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode";
-"Unexpected error while checking type of jid:" = "Unexpected error while checking type of jid:";
-"Unexpected server response: invalid PEP config form" = "Unexpected server response: invalid PEP config form";
+"Unexpected error while checking type of jid:" = "Eroare neașteptată la verificarea tipului de adresa XMPP:";
+"Unexpected server response: invalid PEP config form" = "Răspuns neașteptat al serverului: formular de configurare PEP invalid";
 "Unexpected server response: missing required fields in PEP config form" = "Unexpected server response: missing required fields in PEP config form";
 /* QR-Code-Scanner: account scan wrong menu
    QR-Code-Scanner: jid scan wrong menu */
@@ -579,7 +579,7 @@
 "Loading contact list" = "Se încarcă lista de contacte";
 "Missing permission" = "Permisiune lipsă";
 /* Camera permissions missing warning */
-"Monal is not allowed to access the camera" = "Monal is not allowed to access the camera";
+"Monal is not allowed to access the camera" = "Monal nu are voie să acceseze camera";
 "Monal uses your location when you send a location message in a conversation." = "Monal uses your location when you send a location message in a conversation.";
 /* Chat msg action */
 "Quote" = "Citat";
@@ -587,11 +587,11 @@
 "Settings" = "Setări";
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@";
 "You did not grant Monal to access your location." = "You did not grant Monal to access your location.";
-"Always use direct TLS, not STARTTLS" = "Always use direct TLS, not STARTTLS";
+"Always use direct TLS, not STARTTLS" = "Utilizați întotdeauna Direct TLS, nu STARTTLS";
 "Server Support Details" = "Detalii caracteristici server";
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later.";
 "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)";
-"Protocol support of your server (XEPs)" = "Protocol support of your server (XEPs)";
+"Protocol support of your server (XEPs)" = "Suportul de protocol al serverului dumneavoastră (XEP)";
 "Draft:" = "Ciornă:";
 "Failed to delete own avatar" = "Nu s-a reușit ștergerea propriului avatar";
 "Failed to delete own nickname" = "Nu s-a reușit ștergerea propriului nume";
@@ -600,7 +600,7 @@
 "Message was encrypted with '%@' which isn't supported by Monal" = "Message was encrypted with '%@' which isn't supported by Monal";
 "Message was encrypted with OMEMO but could not be decrypted" = "Message was encrypted with OMEMO but could not be decrypted";
 "Timeout Error" = "Timp de așteptare expirat";
-"Autodelete all messages after 3 days" = "Autodelete all messages after 3 days";
+"Autodelete all messages after 3 days" = "Ștergerea automată a tuturor mesajelor după 3 zile";
 "Devices of %@" = "Dispozitivele %@";
 "Failed to block contact %@" = "Nu s-a reușit blocarea contactului %@";
 "Leave this conversation" = "Părăsiți această conversație";
@@ -613,22 +613,22 @@
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)" = "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)";
 "Add Channel to Favorites" = "Adăugați canalul la favorite";
 "Add Group to Favorites" = "Adăugați grupul la favorite";
-"Clear chat history for this contact" = "Clear chat history for this contact";
+"Clear chat history for this contact" = "Ștergeți istoricul conversațiilor pentru acest contact";
 "Clear History" = "Șterge istoricul";
 "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again.";
 "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!";
 "Leave Channel" = "Părăsiți canalul";
 "Leave Group" = "Părăsește grupul";
 "Reset OMEMO session" = "Resetare sesiune OMEMO";
-"You will receive subsequent messages from this conversation" = "You will receive subsequent messages from this conversation";
+"You will receive subsequent messages from this conversation" = "Veți primi mesaje ulterioare din această conversație";
 "Clear OMEMO session" = "Ștergere sesiune OMEMO";
 "Failed to publish avatar image for groupchat %@" = "Failed to publish avatar image for groupchat %@";
 "Join Channel" = "Alăturați-vă canalului";
 "Join Group" = "Alăturați-vă grupului";
-"No supported auth mechanism found, disconnecting!" = "No supported auth mechanism found, disconnecting!";
+"No supported auth mechanism found, disconnecting!" = "Nu s-a găsit niciun mecanism de autentificare acceptat, deconectare!";
 "Refreshing..." = "Actualizare...";
 "This will clear the your own omemo session for debugging purposes" = "This will clear the your own omemo session for debugging purposes";
-"TLS Error: Certificate chain is invalid" = "TLS Error: Certificate chain is invalid";
+"TLS Error: Certificate chain is invalid" = "Eroare TLS: Lanțul de certificate nu este valid";
 "TLS Error: Certificate expired" = "Eroare TLS: Certificat expirat";
 "TLS Error: Host name mismatch" = "Eroare TLS: Nepotrivire nume gazdă";
 "TLS Error: Unknown root certificate" = "Eroare TLS: certificat rădăcină necunoscut";

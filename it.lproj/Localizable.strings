@@ -348,7 +348,7 @@
 "Unexpected mam preferences result" = "Risultato inatteso delle preferenze MAM";
 "XMPP Account Info Error" = "Errore nelle informazioni dell'account XMPP";
 "XMPP Bind Error" = "Errore bind XMPP";
-"XMPP Disco Info Error" = "XMPP Disco Info Error";
+"XMPP Disco Info Error" = "Errore nel recupero delle informazioni dei servizi XMPP";
 "XMPP mam preferences error" = "Errore nelle preferenze MAM di XMPP";
 "XMPP Roster Error" = "Errore elenco XMPP";
 "XMPP stream error %@: %@" = "Errore flusso XMPP %1$@: %2$@";

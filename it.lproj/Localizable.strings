@@ -24,7 +24,7 @@
 "Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject." = "Consentire a qualcuno di aggiungerti come contatto consente loro di vedere quando sei in linea. Consente inoltre di inviare messaggi crittografati. Tocca per approvare. Scorri per rifiutare.";
 "App" = "Applicazione";
 "Apple Push Service" = "Servizio Apple Push";
-"Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Il servizio push Apple dovrebbe essere sempre attivo. Se è spento, il tuo dispositivo non può parlare con il server Apple.";
+"Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Il servizio push Apple dovrebbe essere sempre attivo. Se disattivato, il tuo dispositivo non potrà collegarsi con il server Apple.";
 "Archive only if the contact is in roster" = "Archivia solo se il contatto è nell'elenco";
 "Auto Join" = "Unione automatica";
 "Automatically send when you were online" = "Invia automaticamente quando sei connesso";
@@ -47,7 +47,7 @@
 "Connection Details" = "Dettagli della connessione";
 "Contact Name" = "Nome del contatto";
 "Contacts" = "Contatti";
-"Contacts are usually in the format: username@domain.something" = "I contatti sono generalmente nel formato: nomeutente@dominio.qualcosa";
+"Contacts are usually in the format: username@domain.something" = "I contatti sono generalmente nel formato 'nomeutente@dominio'";
 "Could not change the password" = "Impossibile cambiare la password";
 "Could not decrypt message" = "Impossibile decifrare il messaggio";
 "Could not register your username. Please check your code or change the username and try again." = "Impossibile registrare il tuo nome utente. Controlla il tuo codice o cambia il nome utente e riprova.";
@@ -173,7 +173,7 @@
 "Recently Seen" = "Visto/a di recente";
 "Recipient Name" = "Nome del destinatario";
 "Recipient name can't be empty" = "Il nome del destinatario non può essere vuoto";
-"Recipients are usually in the format: username@domain.something" = "I destinatari sono generalmente nel formato: nomeutente@dominio.qualcosa";
+"Recipients are usually in the format: username@domain.something" = "I destinatari sono generalmente nel formato 'nomeutente@dominio'";
 "Reconnecting" = "Riconnessione";
 "Remove %@ from contacts?" = "Rimuovere %@ dai contatti?";
 "Remove Contact" = "Rimuovi il contatto";
@@ -181,7 +181,7 @@
 "ReplyButton" = "Pulsante di risposta";
 "Resource" = "Risorsa";
 "Resources" = "Risorse";
-"Resume a stream when disconnected. Results in faster reconnect and saves battery life." = "Riprende un flusso quando disconnesso. Consente una riconnessione più rapida e risparmia la batteria.";
+"Resume a stream when disconnected. Results in faster reconnect and saves battery life." = "Riprende un flusso dati quando disconnesso. Consente una riconnessione più rapida e risparmia la batteria.";
 "Retry" = "Riprova";
 "Retry sending message?" = "Riprovare a inviare il messaggio?";
 "Room" = "Stanza";
@@ -222,8 +222,8 @@
 "Status" = "Stato";
 "Status Message" = "Messaggio di stato";
 "Submit A Bug" = "Segnala un problema";
-"Success" = "Successo";
-"Success!" = "Successo!";
+"Success" = "Riuscito";
+"Success!" = "Riuscito!";
 "Support" = "Supporto";
 "Synchronize your messages on all loggedin devices." = "Sincronizza i messaggi su tutti i dispositivi collegati.";
 "Tell my contacts when I'm typing" = "Fai sapere ai miei contatti quando sto digitando";
@@ -274,7 +274,7 @@
 "When you start talking to someone,\n they will show up here." = "Quando inizi a parlare con qualcuno,\n lo vedrai apparire qui.";
 "Will logout and reconnect any connected accounts." = "Verrà riconnesso qualsiasi account attualmente connesso.";
 "Will make a HTTP HEAD call on all links" = "Sarà effettuata una chiamata HTTP HEAD su tutti i links";
-"XEP-0198: Stream Management" = "XEP-0198: Gestione flusso";
+"XEP-0198: Stream Management" = "XEP-0198: Gestione flusso dati";
 "XEP-0280: Message Carbons" = "XEP-0280: Copia carbone messaggi";
 "XEP-0313: Message Archive Management" = "XEP-0313: Gestione dell'archivio messaggi";
 "XEP-0352: Client State Indication" = "XEP-0352: Indicazione di stato del client";
@@ -289,7 +289,7 @@
 "You have not received any images in this conversation." = "Non hai ricevuto immagini in questa conversazione.";
 "You need friends for this ride" = "Hai bisogno di amici per questa avventura";
 "You should trust a key when you have verified it. Verify by comparing the key below to the one on your contact's screen." = "Dovresti fidarti di una chiave solo dopo averla verificata. Verificala comparando la chiave sottostante con quella che appare sullo schermo del tuo contatto.";
-"Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Il tuo account XMPP dovrebbe essere nel formato utente@dominio. Per configurazioni avanzate, usa il settaggio manuale.";
+"Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Il tuo account XMPP dovrebbe essere nel formato 'nomeutente@dominio'. Per configurazioni avanzate, usa il settaggio manuale.";
 "📍 A Location" = "📍 Una posizione";
 "📷 An Image" = "📷 Un'immagine";
 "🔗 A Link" = "🔗 Un link";
@@ -351,8 +351,8 @@
 "XMPP Disco Info Error" = "Errore nel recupero delle informazioni dei servizi XMPP";
 "XMPP mam preferences error" = "Errore nelle preferenze MAM di XMPP";
 "XMPP Roster Error" = "Errore elenco XMPP";
-"XMPP stream error %@: %@" = "Errore flusso XMPP %1$@: %2$@";
-"XMPP stream error: %@" = "Errore flusso XMPP: %@";
+"XMPP stream error %@: %@" = "Errore flusso dati XMPP %1$@: %2$@";
+"XMPP stream error: %@" = "Errore flusso dati XMPP: %@";
 "no supported auth mechanism, disconnecting!" = "Sistema di autenticazione non supportato, disconnetto!";
 "Loading omemo bundles: %@ / %@" = "Carico l'OMEMO bundle: %1$@ / %2$@";
 /* QR-Code-Scanner: camera not found */
@@ -375,7 +375,7 @@
 "XMPP: QR-Code" = "XMPP: QR-Code";
 "Not Authorized. Please check your credentials." = "Non autorizzato. Per favore verifica le tue credenziali.";
 "There was a SASL error on the server." = "Si è verificato un errore SASL sul server.";
-"Contact Jid" = "Contatto Jid";
+"Contact Jid" = "Jabber ID del contatto";
 "Contacts are usually in the format: username@dom.ain" = "I contatti sono solitamente nel formato: nomeutente@dominio";
 "Only shareable for now" = "Condivisibile solo temporaneamente";
 "Account (%@)" = "Account (%@)";
@@ -424,11 +424,11 @@
 "Blocking is not supported by the server" = "Il blocco non è supportato dal server";
 "Blocking not supported" = "Blocco non supportato";
 "Duplicate Account" = "Duplica l'account";
-"Enter the jid that you want to block" = "Inserisci il Jid che vuoi bloccare";
+"Enter the jid that you want to block" = "Inserisci il Jabber ID che vuoi bloccare";
 /* MLJoinGroupViewController - Group Password Form */
 "Group Password" = "Password del gruppo";
 "Group requires a password" = "Il gruppo richiede una password";
-"Input is not a valid jid" = "L'inserimento non è un jid valido";
+"Input is not a valid jid" = "Il dato inserito non è un Jabber ID valido";
 /* Join GroupViewController - HUD */
 "Joining Group" = "Unione al gruppo";
 "Monal  uses your location when you send a location message in a conversation." = "Monal utilizza le tue coordinate GPS quando invii un messaggio con la posizione in una conversazione.";
@@ -499,7 +499,7 @@
 "XEP-0237: Roster Versioning" = "XEP-0237: Versionamento elenco";
 "XEP-0379: Pre-Authenticated Roster Subscription" = "XEP-0379: Sottoscrizione pre-autenticata elenco";
 "XMPP protocol extension for communications blocking." = "Estensione del protocollo XMPP per il blocco delle comunicazioni.";
-"XMPP protocol extension for sending application-level pings over XML streams." = "Estensione del protocollo XMPP per l'invio di ping a livello applicativo tramite flusso XML.";
+"XMPP protocol extension for sending application-level pings over XML streams." = "Estensione del protocollo XMPP per l'invio di ping a livello applicativo tramite flusso dati XML.";
 "You got banned from: %@" = "Sei stato bannato da: %@";
 "You got kicked from: %@" = "Sei stato espulso da: %@";
 "Your status" = "Il tuo stato";
@@ -515,9 +515,9 @@
 /* addContact - checking HUD */
 "Checking" = "Verifico";
 /* addContact - checking HUD */
-"Checking if the jid you provided is correct" = "Verifica che il Jid che hai fornito sia corretto";
-"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Un contatto o un canale Jid  sono solitamente nel formato: nomeutente@dominio";
-"Contact or Channel Jid" = "Contatto o canale Jid";
+"Checking if the jid you provided is correct" = "Verifica che il Jabber ID che hai fornito sia corretto";
+"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Il Jabber ID di un contatto o canale sono solitamente nel formato 'nomeutente@dominio'";
+"Contact or Channel Jid" = "Jabber ID del contatto o canale";
 "Could not load (all) old messages" = "Impossibile caricare (tutti) i vecchi messaggi";
 "Could not load (all) old messages from your server archive. Please try again later. %@" = "Impossibile caricare (tutti) i vecchi messaggi dall'archivio del server. Per favore riprova più tardi. %@";
 "Current Password" = "Password corrente";
@@ -530,15 +530,15 @@
 "Failed to publish own nickname on account %@" = "Impossibile pubblicare il proprio soprannome sull'account %@";
 "Failed to query for new messages on account %@" = "Impossibile richiedere i nuovi messaggi per l'account %@";
 "Failed to query new messages for groupchat %@" = "Impossibile richiedere i nuovi messaggi per la chat di gruppo %@";
-"Failed to query newest stanzaid for account %@" = "Impossibile recuperare lo stanza-id più recente per l'account %@";
-"Failed to query newest stanzaid for groupchat %@" = "Impossibile recuperare lo stanza-id più recente per la chat di gruppo %@";
+"Failed to query newest stanzaid for account %@" = "Impossibile recuperare lo Stanza ID più recente per l'account %@";
+"Failed to query newest stanzaid for groupchat %@" = "Impossibile recuperare lo Stanza ID più recente per la chat di gruppo %@";
 "Failed to save groupchat bookmarks" = "Impossibile salvare i segnalibri della chat di gruppo";
 "Groupchat/channel details" = "Dettagli della chat di gruppo o del canale";
 "Groupchat/channel details are currently not implemented in Monal." = "I dettagli della chat di gruppo o del canale non sono al momento disponibili in Monal.";
 "Image Quality" = "Qualità dell'immagine";
 "Image Quality: %.2f" = "Qualità dell'immagine: %.2f";
 "Invalid Password!" = "Password errata!";
-"Jid Invalid" = "Jid non valido";
+"Jid Invalid" = "Jabber ID non valido";
 "Message Archive Preferences" = "Preferenze di archiviazione messaggi";
 "Please make sure at least one account has connected before trying to add a contact or channel." = "Per favore, assicurati che almeno un account sia connesso prima di aggiungere contatti o canali.";
 /* catalina warning */
@@ -548,12 +548,12 @@
 "Remove Conversation" = "Elimina conversazione";
 "SRV entry prohibits XMPP connection for domain %@" = "Il record SRV non permette la connessione XMPP al dominio %@";
 "The current password is not correct." = "La password corrente non è corretta.";
-"The jid has to be in the form 'user@domain.tld' to be correct." = "Il Jid deve essere nella forma 'utente@dominio' per essere corretto.";
+"The jid has to be in the form 'user@domain.tld' to be correct." = "Il Jabber ID deve essere nella forma 'nomeutente@dominio' per essere corretto.";
 /* QR-Code-Scanner: jid scan wrong menu */
-"The qrcode contains a jid. Rescan the qrcode in the add user menu" = "Il QR-Code contiene un Jid. Scansiona nuovamente il QR-Code dal menù 'aggiungi utente'";
+"The qrcode contains a jid. Rescan the qrcode in the add user menu" = "Il QR-Code contiene un Jabber ID. Scansiona nuovamente il QR-Code dal menù 'aggiungi utente'";
 /* QR-Code-Scanner: account scan wrong menu */
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "Il QR-Code contiene credenziali di accesso per un'account. Vai nelle preferenze per scansionarlo nuovamente";
-"Unexpected error while checking type of jid:" = "Errore inatteso durante la verifica del tipo di Jid:";
+"Unexpected error while checking type of jid:" = "Errore inatteso durante la verifica del tipo di Jabber ID:";
 "Unexpected server response: invalid PEP config form" = "Risposta inaspettata del server: PEP config form invalido";
 "Unexpected server response: missing required fields in PEP config form" = "Errore inaspettato del server: campo richiesto nel PEP config form mancante";
 /* QR-Code-Scanner: account scan wrong menu
@@ -561,7 +561,7 @@
 "Wrong menu" = "Menù errato";
 "Could not change password" = "Impossibile cambiare la password";
 "Could not change password: your account is currently not conneced" = "Impossibile cambiare la password: il tuo account al momento non è connesso";
-"Unexpected error while checking type of jid, please try again" = "Errore inatteso durante la verifica del tipo di Jid, per favore prova di nuovo";
+"Unexpected error while checking type of jid, please try again" = "Errore inatteso durante la verifica del tipo di Jabber ID, per favore prova di nuovo";
 "Upload Error" = "Errore durante il caricamento";
 "Upload Error: your account got disconnected while requesting upload slot" = "Errore durante il caricamento: il tuo account è stato disconnesso durante la richiesta di uno slot di caricamento";
 "Could not change password: your account is currently not connected" = "Impossibile cambiare la password: il tuo account non è al momento connesso";

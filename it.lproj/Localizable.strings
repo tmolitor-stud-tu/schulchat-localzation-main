@@ -21,7 +21,7 @@
 "Advanced Settings" = "Impostazioni avanzate";
 "All messages are archived by default." = "Tutti i messaggi vengono archiviati per impostazione predefinita.";
 "Allow %@ to contact you?" = "Consentire a %@ di contattarti?";
-"Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject." = "Consentire a qualcuno di aggiungerti come contatto consente loro di vedere quando sei in linea. Consente inoltre di inviare messaggi crittografati. Tocca per approvare. Scorri per rifiutare.";
+"Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject." = "Consentire a qualcuno di aggiungerti come contatto gli permette di vedere quando sei in linea. Consente inoltre di inviare messaggi crittografati. Tocca per approvare o scorri per rifiutare.";
 "App" = "Applicazione";
 "Apple Push Service" = "Servizio Apple Push";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Il servizio push Apple dovrebbe essere sempre attivo. Se disattivato, il tuo dispositivo non potrà collegarsi con il server Apple.";
@@ -76,17 +76,17 @@
 "Favorite Group Chats (MUC). Tap to join. " = "Conversazioni di gruppo preferite (MUC). Tocca per unirti. ";
 "from" = "da";
 "General" = "Generale";
-"Got it!" = "Capito!";
+"Got it!" = "Ho capito!";
 "GPS" = "GPS";
 "Group Chat" = "Conversazione di gruppo";
 "Group Chat Invite" = "Invito alla conversazione di gruppo";
 "Group Information" = "Informazioni sul gruppo";
-"Hardcoded Hostname" = "Hostname specifico";
+"Hardcoded Hostname" = "Nome host specifico";
 "Hide Chat" = "Nascondi la conversazione";
 "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission.  Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'. " = "Se Monal non può mostrare le notifiche, non vedrai avvisi quando arriva un messaggio. Questo succede se hai scelto 'Rifiuta' quando Monal ha chiesto il permesso la prima volta.  Puoi cambiare la scelta andando su Impostazioni -> Monal -> Notifiche e abilitare 'Consenti notifiche'. ";
 "If Monal push is off, your device could not talk to push.monal.im. This should also never be off. It requires Apple push service to work first. " = "Se le notifiche push di Monal sono disattivate, il tuo dispositivo non può connettersi con push.monal.im. Queste inoltre non dovrebbero mai essere disattivate. Richiede che il servizio push di Apple sia innanzitutto funzionante. ";
 "If you like Monal, please let others know and leave a review" = "Se ti piace Monal, fallo sapere agli altri e lascia una recensione, grazie";
-"If you want to use VOIP you will need to allow access in Settings-> Privacy-> Microphone." = "Se vuoi usare il VOIP dovrai consentire l'accesso in Impostazioni-> Privacy-> Microfono.";
+"If you want to use VOIP you will need to allow access in Settings-> Privacy-> Microphone." = "Se vuoi usare il VOIP devi consentire l'accesso in Impostazioni-> Privacy-> Microfono.";
 "Ignore" = "Ignora";
 "Incoming audio call to %@ from %@ " = "Chiamata vocale in arrivo per %1$@ da %2$@ ";
 "Incoming Call" = "Chiamata in arrivo";
@@ -106,12 +106,12 @@
 "Leave this converstion?" = "Lasciare questa conversazione?";
 "Location Access Needed" = "Accesso alla posizione necessario";
 "Log" = "Registro";
-"Log Chats" = "Registra le discussioni";
+"Log Chats" = "Registra le conversazioni";
 "Log Date" = "Data di registrazione";
 "Logging in" = "Accesso in corso";
 "Mark all messages as read" = "Contrassegna tutti i messaggi come letti";
 "Message" = "Messaggio";
-"Message Archive Pref" = "Preferenze di archiviazione messaggi";
+"Message Archive Pref" = "Preferenze di archiviazione dei messaggi";
 "Message can't be empty" = "Il messaggio non può essere vuoto";
 "Message from %@" = "Messaggio da %@";
 "Message Preview" = "Anteprima del messaggio";
@@ -137,10 +137,10 @@
 "No groups yet" = "Ancora nessun gruppo";
 "No one is here" = "Non c'è nessuno qui";
 "Nothing to see" = "Niente da vedere";
-"Notification Changes" = "Modifiche di notifica";
+"Notification Changes" = "Cambio di notifica";
 "Notification Settings" = "Impostazioni di notifica";
 "Notifications" = "Notifiche";
-"Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old expereince back." = "Le notifiche sono cambiate in iOS 13 a causa di alcune modifiche a iOS. Per adesso vedrai solamente qualcosa dire che c'è un nuovo messaggio ma non il contenuto o il mittente. Ho deciso di fare così per darti una messaggistica affidabile mentre aggiorno Monal per ripristinare la funzionalità precedente.";
+"Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old expereince back." = "Le notifiche sono cambiate in iOS 13 a causa di alcune modifiche a iOS. Per adesso vedrai solamente qualcosa dire che c'è un nuovo messaggio ma non il contenuto o il mittente. Ho deciso questo per darti una messaggistica affidabile mentre aggiorno Monal per ripristinare la funzionalità precedente.";
 "Offline Contacts" = "Contatti offline";
 "Ok" = "OK";
 "Online" = "In linea";
@@ -159,7 +159,7 @@
 "Please make sure you are connected before changing your password." = "Assicurati di essere connesso prima di cambiare la password.";
 "Please make sure you have entered a username, password." = "Assicurati di aver inserito un nome utente e una password.";
 "Port" = "Porta";
-"Port: %@, Is Secure: %@, Prio: %@" = "Porta: %1$@, È sicuro: %2$@, Prio: %3$@";
+"Port: %@, Is Secure: %@, Prio: %@" = "Porta: %1$@, Sicurezza: %2$@, Priorità: %3$@";
 "Presence" = "Presenza";
 "Privacy" = "Privacy";
 "Privacy Settings" = "Impostazioni della privacy";
@@ -186,7 +186,7 @@
 "Retry sending message?" = "Riprovare a inviare il messaggio?";
 "Room" = "Stanza";
 "Select a Background" = "Seleziona uno sfondo";
-"Select a background to display behind conversations" = "Seleziona uno sfondo da visualizzare dietro le conversazioni";
+"Select a background to display behind conversations" = "Seleziona uno sfondo per le conversazioni";
 "Select Action" = "Seleziona un'azione";
 "Select Background" = "Seleziona uno sfondo";
 "Select File" = "Seleziona un file";
@@ -229,7 +229,7 @@
 "Tell my contacts when I'm typing" = "Fai sapere ai miei contatti quando sto digitando";
 "The account has been deleted" = "L'account è stato cancellato";
 "The account has been saved" = "L'account è stato salvato";
-"The new contact will be added to your contacts list when the person you've added has approved your request." = "Il nuovo contatto verrà aggiunto al tuo elenco di contatti quando la persona che hai aggiunto avrà approvato la tua richiesta.";
+"The new contact will be added to your contacts list when the person you've added has approved your request." = "Il nuovo contatto verrà aggiunto all'elenco dei contatti quando la persona avrà approvato la tua richiesta.";
 "The password has been changed" = "La password è stata cambiata";
 "The username does not need to have an @ symbol. Please try again." = "Il nome utente non deve avere un simbolo @. Per favore riprova.";
 "There is no configured email account. Please email info@monal-im.org ." = "Non esiste un account di posta elettronica configurato. Si prega di inviare un'e-mail a info@monal-im.org.";
@@ -247,7 +247,7 @@
 "This message failed to send." = "Questo messaggio non è stato inviato.";
 "This sender will be able to send you messages" = "Questo mittente potrà inviarti messaggi";
 "This sender will no longer be able to contact you" = "Questo mittente non sarà più in grado di contattarti";
-"This server does not appear to support HTTP file uploads (XEP-0363). Please ask the administrator to enable it." = "Questo server sembra non supportare l'upload di files tramite HTTP (XEP-0363). Richiedi all'amministratore di abilitarlo.";
+"This server does not appear to support HTTP file uploads (XEP-0363). Please ask the administrator to enable it." = "Questo server sembra non supportare l'upload di file tramite HTTP (XEP-0363). Richiedi all'amministratore di abilitarlo.";
 "This will remove this account and the associated data from this device." = "L'azione rimuoverà questo account e i dati associati da questo dispositivo.";
 "Typing..." = "Sta scrivendo…";
 "Unable to connect to server" = "Impossibile connettersi al server";
@@ -257,7 +257,7 @@
 "Unnamed" = "Senza nome";
 "Unpin Chat" = "Sblocca la chat";
 "Unread Messages Below" = "Messaggi non letti in basso";
-"Upload files to the server to share with others." = "Carica i files sul server per condividerli con altri.";
+"Upload files to the server to share with others." = "Carica i file sul server per condividerli con altri.";
 "Uploading" = "Caricamento";
 "Uploading file to server" = "Caricamento file sul server";
 "Use your existing account or make a new one on the many servers around the world" = "Usa il tuo account esistente o creane uno nuovo sui tanti server sparsi nel mondo";
@@ -268,12 +268,12 @@
 "Version %@ (%@)" = "Versione %1$@ (%2$@)";
 "View Images Received" = "Visualizza le immagini ricevute";
 "Waiting for GPS signal" = "In attesa del segnale GPS";
-"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet." = "Non siamo stati in grado di connettere il tuo account. Verifica le credenziali e assicurati di essere connesso a internet.";
+"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet." = "Impossibile connettere il tuo account. Verifica le credenziali e assicurati di essere connesso a internet.";
 "Welcome to Monal" = "Benvenuto/a su Monal";
 "When you have some favorite groups, they will be here for you." = "Quando hai dei gruppi preferiti, saranno qui per te.";
 "When you start talking to someone,\n they will show up here." = "Quando inizi a parlare con qualcuno,\n lo vedrai apparire qui.";
 "Will logout and reconnect any connected accounts." = "Verrà riconnesso qualsiasi account attualmente connesso.";
-"Will make a HTTP HEAD call on all links" = "Sarà effettuata una chiamata HTTP HEAD su tutti i links";
+"Will make a HTTP HEAD call on all links" = "Sarà effettuata una chiamata HTTP HEAD su tutti i link";
 "XEP-0198: Stream Management" = "XEP-0198: Gestione flusso dati";
 "XEP-0280: Message Carbons" = "XEP-0280: Copia carbone messaggi";
 "XEP-0313: Message Archive Management" = "XEP-0313: Gestione dell'archivio messaggi";
@@ -289,7 +289,7 @@
 "You have not received any images in this conversation." = "Non hai ricevuto immagini in questa conversazione.";
 "You need friends for this ride" = "Hai bisogno di amici per questa avventura";
 "You should trust a key when you have verified it. Verify by comparing the key below to the one on your contact's screen." = "Dovresti fidarti di una chiave solo dopo averla verificata. Verificala comparando la chiave sottostante con quella che appare sullo schermo del tuo contatto.";
-"Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Il tuo account XMPP dovrebbe essere nel formato 'nomeutente@dominio'. Per configurazioni avanzate, usa il settaggio manuale.";
+"Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Il tuo account XMPP dovrebbe essere nel formato 'nomeutente@dominio'. Per configurazioni avanzate, usa la configurazione manuale.";
 "📍 A Location" = "📍 Una posizione";
 "📷 An Image" = "📷 Un'immagine";
 "🔗 A Link" = "🔗 Un link";
@@ -350,7 +350,7 @@
 "XMPP Bind Error" = "Errore bind XMPP";
 "XMPP Disco Info Error" = "Errore nel recupero delle informazioni dei servizi XMPP";
 "XMPP mam preferences error" = "Errore nelle preferenze MAM di XMPP";
-"XMPP Roster Error" = "Errore elenco XMPP";
+"XMPP Roster Error" = "Errore elenco contatti XMPP";
 "XMPP stream error %@: %@" = "Errore flusso dati XMPP %1$@: %2$@";
 "XMPP stream error: %@" = "Errore flusso dati XMPP: %@";
 "no supported auth mechanism, disconnecting!" = "Sistema di autenticazione non supportato, disconnetto!";
@@ -373,10 +373,10 @@
 /* QR-Code-Scanner: invalid format */
 "We could not find a xmpp related QR-Code" = "Non abbiamo trovato un QR-Code relativo a XMPP";
 "XMPP: QR-Code" = "XMPP: QR-Code";
-"Not Authorized. Please check your credentials." = "Non autorizzato. Per favore verifica le tue credenziali.";
+"Not Authorized. Please check your credentials." = "Non autorizzato. Per favore verifica le credenziali.";
 "There was a SASL error on the server." = "Si è verificato un errore SASL sul server.";
 "Contact Jid" = "Jabber ID del contatto";
-"Contacts are usually in the format: username@dom.ain" = "I contatti sono solitamente nel formato: nomeutente@dominio";
+"Contacts are usually in the format: username@dom.ain" = "I contatti sono solitamente nel formato 'nomeutente@dominio'";
 "Only shareable for now" = "Condivisibile solo temporaneamente";
 "Account (%@)" = "Account (%@)";
 "Account (new)" = "Account (nuovo)";
@@ -414,11 +414,11 @@
 "Show URL previews" = "Mostra l'anteprima degli URL";
 /* shareViewController: recipient */
 "Recipient" = "Destinatario";
-"Appserver error" = "Errore Application Server";
+"Appserver error" = "Errore dell'Application Server";
 "Appserver returned invalid data" = "L'Application Server ha risposto con dati non validi";
 "Error registering push" = "Errore di registrazione delle notifiche push";
 "Images" = "Immagini";
-"Allow" = "Permetti";
+"Allow" = "Consenti";
 "Block" = "Blocca";
 "Blocked Users" = "Utenti bloccati";
 "Blocking is not supported by the server" = "Il blocco non è supportato dal server";
@@ -438,8 +438,8 @@
 /* Join GroupViewController - Join Group HUD */
 "Trying to join group" = "Tentativo di unione al gruppo";
 /* BlockUserTable - blockJidForm */
-"user@example.org/resource" = "utente@esempio.org/risorsa";
-"Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Le notifiche sono cambiate in iOS 13 a causa di alcune modifiche ad iOS. Per ora vedrai solo qualcosa che dice che c'è un nuovo messaggio ma non il testo o chi lo ha inviato. Ho deciso di farlo in modo da darti una messaggistica affidabile mentre lavoro per aggiornare Monal e ripristinare la precedente funzionalità.";
+"user@example.org/resource" = "utente@dominio/risorsa";
+"Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Le notifiche sono cambiate in iOS 13 a causa di alcune modifiche ad iOS. Per ora vedrai solo qualcosa che dice che c'è un nuovo messaggio ma non il testo o chi lo ha inviato. Ho deciso questo in modo da darti una messaggistica affidabile mentre lavoro per aggiornare Monal e ripristinare la precedente funzionalità.";
 "Account %@" = "Account %@";
 "Auto-Download Media" = "Auto download dei media";
 "Automatic media download" = "Download automatico dei media";
@@ -487,7 +487,7 @@
 "Me" = "Io";
 "Optional Hardcoded Hostname" = "Nome host opzionale";
 "Optional Port" = "Porta opzionale";
-"Port: %@, Direct TLS: %@, Priority: %@" = "Porta: %1$@, TLS diretto: %2$@, Priorità: %3$@";
+"Port: %@, Direct TLS: %@, Priority: %@" = "Porta: %1$@, Forza TLS: %2$@, Priorità: %3$@";
 "QR-Code: Fingerprints found" = "QR-Code: trovate impronte";
 "Recode Fail:" = "Ricodifica fallita:";
 "Recode Success" = "Ricodifica riuscita";
@@ -632,7 +632,7 @@
 "TLS Error: Certificate expired" = "Errore TLS: certificato scaduto";
 "TLS Error: Host name mismatch" = "Errore TLS: il nome dell'host non corrisponde";
 "TLS Error: Unknown root certificate" = "Errore TLS: certificato di root sconosciuto";
-"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Non siamo stati in grado di connettere il tuo account. Per favore verifica le tue credenziali ed assicurati di essere connesso a internet.\n\nMessaggio tecnico di errore: %@";
+"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Impossibile connettere il tuo account. Per favore verifica le credenziali ed assicurati di essere connesso a internet.\n\nMessaggio tecnico di errore: %@";
 /* directory for downloaded audios */
 "Received Audios" = "Audio ricevuti";
 /* directory for downloaded files */

@@ -609,7 +609,7 @@
 "Loading registration form" = "Caricamento campo di registrazione";
 "Using server '%@' that was provided by the registration link you used." = "Utilizzo il server '%@' che è stato fornito dal link di registrazione che hai usato.";
 "yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im è un server pubblico, non affiliato con Monal. Questa pagina è fornita per convenienza.";
-"There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person." = "Si è verificato un errore nella decifrazione di questo messaggio ENCRYPTED KEY TRANSPORT (errore segnale). Per risolverlo, prova a inviare un messaggio cifrato a questo contatto.";
+"There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person." = "Si è verificato un errore nella decifrazione di questo messaggio cifrato KEY TRANSPORT (errore segnale). Per risolverlo, prova a inviare un messaggio cifrato a questo contatto.";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)" = "Si è verificato un errore nella decifrazione di questo messaggio cifrato (errore segnale). Per risolverlo, prova a inviare un messaggio cifrato a questo contatto. (%@)";
 "Add Channel to Favorites" = "Aggiungi il canale ai preferiti";
 "Add Group to Favorites" = "Aggiungi il gruppo ai preferiti";

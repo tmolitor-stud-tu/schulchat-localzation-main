@@ -21,7 +21,7 @@
 /* Class = "UIBarButtonItem"; title = "Reconnect All"; ObjectID = "r7s-58-k2m"; */
 "r7s-58-k2m.title" = "Obnovit všechna připojení";
 /* Class = "UILabel"; text = "Detail"; ObjectID = "rF7-34-0sc"; */
-"rF7-34-0sc.text" = "Detail";
+"rF7-34-0sc.text" = "Podrobnosti";
 /* Class = "UINavigationItem"; title = "Sounds"; ObjectID = "Rum-Ee-xSZ"; */
 "Rum-Ee-xSZ.title" = "Zvuky";
 /* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "TJt-Kl-UDV"; */

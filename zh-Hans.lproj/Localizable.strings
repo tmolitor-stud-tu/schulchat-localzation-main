@@ -621,49 +621,49 @@
 "Leave Group" = "离开群组";
 "Reset OMEMO session" = "重置 OMEMO 会话";
 "You will receive subsequent messages from this conversation" = "您将收到来自此对话的后续消息";
-"Clear OMEMO session" = "Clear OMEMO session";
-"Failed to publish avatar image for groupchat %@" = "Failed to publish avatar image for groupchat %@";
-"Join Channel" = "Join Channel";
-"Join Group" = "Join Group";
-"No supported auth mechanism found, disconnecting!" = "No supported auth mechanism found, disconnecting!";
-"Refreshing..." = "Refreshing...";
-"This will clear the your own omemo session for debugging purposes" = "This will clear the your own omemo session for debugging purposes";
-"TLS Error: Certificate chain is invalid" = "TLS Error: Certificate chain is invalid";
-"TLS Error: Certificate expired" = "TLS Error: Certificate expired";
-"TLS Error: Host name mismatch" = "TLS Error: Host name mismatch";
-"TLS Error: Unknown root certificate" = "TLS Error: Unknown root certificate";
-"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@";
+"Clear OMEMO session" = "清除 OMEMO 会话";
+"Failed to publish avatar image for groupchat %@" = "群聊 %@头像发布失败";
+"Join Channel" = "加入频道";
+"Join Group" = "加入群组";
+"No supported auth mechanism found, disconnecting!" = "没有找到支持的身份验证机制，正在断开连接！";
+"Refreshing..." = "正在刷新...";
+"This will clear the your own omemo session for debugging purposes" = "将清除您的 omemo 会话并进行调试";
+"TLS Error: Certificate chain is invalid" = "TLS 错误：证书链无效";
+"TLS Error: Certificate expired" = "TLS 错误：证书已过期";
+"TLS Error: Host name mismatch" = "TLS 错误：主机名不匹配";
+"TLS Error: Unknown root certificate" = "TLS 错误：未知的根证书";
+"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "我们无法连接您的帐户。 请检查您的凭据并确保您已连接到互联网。\n\n技术错误信息: %@";
 /* directory for downloaded audios */
-"Received Audios" = "Received Audios";
+"Received Audios" = "接收的音频";
 /* directory for downloaded files */
-"Received Files" = "Received Files";
+"Received Files" = "接收的文件";
 /* directory for downloaded images */
-"Received Images" = "Received Images";
+"Received Images" = "接收的图片";
 /* directory for downloaded videos */
-"Received Videos" = "Received Videos";
+"Received Videos" = "接收的视频";
 /* directory for downloaded audios */
-"Sent Audios" = "Sent Audios";
+"Sent Audios" = "发送的音频";
 /* directory for downloaded files */
-"Sent Files" = "Sent Files";
+"Sent Files" = "发送的文件";
 /* directory for downloaded images */
-"Sent Images" = "Sent Images";
+"Sent Images" = "发送的图片";
 /* directory for downloaded videos */
-"Sent Videos" = "Sent Videos";
+"Sent Videos" = "发送的视频";
 /* hello bartycrouch */
-"Dummy string for triggering bartycrouch" = "Dummy string for triggering bartycrouch";
-"Account already configured in Monal!" = "Account already configured in Monal!";
-"Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Cannot share something with disabled/deleted account, destination: %1$@, internal account id: %2$@";
-"Could not read captcha!" = "Could not read captcha!";
-"Enable OMEMO per default" = "Enable OMEMO per default";
-"Error: %@" = "Error: %@";
-"Failed to share file" = "Failed to share file";
-"Failed to upload file: account was removed" = "Failed to upload file: account was removed";
-"Fetching registration form..." = "Fetching registration form...";
-"No OMEMO keys found" = "No OMEMO keys found";
-"Password missing" = "Password missing";
-"Please enter a password below before activating this account." = "Please enter a password below before activating this account.";
-"Registering account..." = "Registering account...";
-"Server for domain '%@' not responding!" = "Server for domain '%@' not responding!";
-"Sharing failed" = "Sharing failed";
-"This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "This contact may not support OMEMO encrypted messages. Please try again in a few seconds.";
-"You restored an iCloud backup of Monal, please open the app to reenable this account." = "You restored an iCloud backup of Monal, please open the app to reenable this account.";
+"Dummy string for triggering bartycrouch" = "用于触发 bartycouch 的虚拟字符串";
+"Account already configured in Monal!" = "Monal 配置帐户完成！";
+"Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "无法与被禁用/删除的帐户共享某些内容，目标: %1$@, 内部帐户 id: %2$@";
+"Could not read captcha!" = "无法读取验证码！";
+"Enable OMEMO per default" = "默认启用 OMEMO";
+"Error: %@" = "错误: %@";
+"Failed to share file" = "共享文件失败";
+"Failed to upload file: account was removed" = "上传文件失败：账号已被删除";
+"Fetching registration form..." = "正在获取注册信息...";
+"No OMEMO keys found" = "没有找到 OMEMO 密钥";
+"Password missing" = "密码丢失";
+"Please enter a password below before activating this account." = "在激活此帐户之前，请在下面输入密码。";
+"Registering account..." = "注册账号中...";
+"Server for domain '%@' not responding!" = "域服务器 '%@' 没有响应！";
+"Sharing failed" = "分享失败";
+"This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "此联系人可能不支持 OMEMO 加密消息。 请稍后再试。";
+"You restored an iCloud backup of Monal, please open the app to reenable this account." = "您已恢复了 Monal 的 iCloud 备份，请重新打开应用并启用此帐户。";

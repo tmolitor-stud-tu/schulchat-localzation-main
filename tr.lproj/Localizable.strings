@@ -650,20 +650,20 @@
 /* directory for downloaded videos */
 "Sent Videos" = "Gönderilen Videolar";
 /* hello bartycrouch */
-"Dummy string for triggering bartycrouch" = "Dummy string for triggering bartycrouch";
-"Account already configured in Monal!" = "Account already configured in Monal!";
-"Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Cannot share something with disabled/deleted account, destination: %1$@, internal account id: %2$@";
-"Could not read captcha!" = "Could not read captcha!";
-"Enable OMEMO per default" = "Enable OMEMO per default";
-"Error: %@" = "Error: %@";
-"Failed to share file" = "Failed to share file";
-"Failed to upload file: account was removed" = "Failed to upload file: account was removed";
-"Fetching registration form..." = "Fetching registration form...";
-"No OMEMO keys found" = "No OMEMO keys found";
-"Password missing" = "Password missing";
-"Please enter a password below before activating this account." = "Please enter a password below before activating this account.";
-"Registering account..." = "Registering account...";
-"Server for domain '%@' not responding!" = "Server for domain '%@' not responding!";
-"Sharing failed" = "Sharing failed";
-"This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "This contact may not support OMEMO encrypted messages. Please try again in a few seconds.";
-"You restored an iCloud backup of Monal, please open the app to reenable this account." = "You restored an iCloud backup of Monal, please open the app to reenable this account.";
+"Dummy string for triggering bartycrouch" = "Bartycrouch tetiklemek için sahte dize";
+"Account already configured in Monal!" = "Hesap Monal'da zaten yapılandırılmış!";
+"Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Devre dışı bırakılan/silinen hesapla bir şey paylaşılamıyor, hedef: %1$@, dahili hesap kimliği: %2$ @";
+"Could not read captcha!" = "Captcha okunamadı!";
+"Enable OMEMO per default" = "Varsayılan olarak OMEMO'yu etkinleştirin";
+"Error: %@" = "Hata: %@";
+"Failed to share file" = "Dosya paylaşılamadı";
+"Failed to upload file: account was removed" = "Dosya yüklenemedi: hesap kaldırıldı";
+"Fetching registration form..." = "Kayıt formu getiriliyor...";
+"No OMEMO keys found" = "OMEMO anahtarı bulunamadı";
+"Password missing" = "Parola eksik";
+"Please enter a password below before activating this account." = "Lütfen bu hesabı etkinleştirmeden önce aşağıya bir şifre girin.";
+"Registering account..." = "Hesap kaydediliyor...";
+"Server for domain '%@' not responding!" = "'%@' etki alanı için sunucu yanıt vermiyor!";
+"Sharing failed" = "Paylaşım başarısız oldu";
+"This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "Bu kişi OMEMO şifreli mesajları desteklemiyor olabilir. Lütfen birkaç saniye sonra tekrar deneyin.";
+"You restored an iCloud backup of Monal, please open the app to reenable this account." = "Monal'ın bir iCloud yedeklemesini geri yüklediniz, lütfen bu hesabı yeniden etkinleştirmek için uygulamayı açın.";

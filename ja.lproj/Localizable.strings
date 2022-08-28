@@ -1,16 +1,16 @@
 "%@ (Pending Approval)" = "%@ (Pending Approval)";
-"%ld (This device)" = "%ld (This device)";
+"%ld (This device)" = "%ld (この素子)";
 "(autojoin)" = "(autojoin)";
 "[This message is OMEMO encrypted]" = "[This message is OMEMO encrypted]";
-"About" = "About";
+"About" = "Monalについて";
 "Accept" = "Accept";
 "Access message archives on the server." = "Access message archives on the server.";
 /* ShareViewController: Account */
-"Account" = "Account";
+"Account" = "アカウント";
 "Account Exists" = "Account Exists";
 "Account To Use" = "Account To Use";
-"Account: %@" = "Account: %@";
-"Accounts" = "Accounts";
+"Account: %@" = "アカウント: %@";
+"Accounts" = "アカウント";
 "Accounts With Logs" = "Accounts With Logs";
 "Active chat but no messages found in history for %@." = "Active chat but no messages found in history for %@.";
 "Add %@ to your contacts?" = "Add %@ to your contacts?";

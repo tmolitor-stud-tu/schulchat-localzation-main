@@ -13,7 +13,7 @@
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "mLa-XU-o1Q"; */
 "mLa-XU-o1Q.title" = "Rotvisningskontroller";
 /* Class = "UITableViewController"; title = "Notifications"; ObjectID = "nPR-ET-sg3"; */
-"nPR-ET-sg3.title" = "Merknader";
+"nPR-ET-sg3.title" = "Varslinger";
 /* Class = "UINavigationItem"; title = "Account Edit"; ObjectID = "pa7-vQ-Yz3"; */
 "pa7-vQ-Yz3.title" = "Kontoredigering";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "QTE-cG-3LC"; */

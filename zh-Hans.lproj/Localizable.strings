@@ -661,7 +661,7 @@
 "Fetching registration form..." = "正在获取注册信息...";
 "No OMEMO keys found" = "没有找到 OMEMO 密钥";
 "Password missing" = "密码丢失";
-"Please enter a password below before activating this account." = "在激活此帐户之前，请在下面输入密码。";
+"Please enter a password below before activating this account." = "在激活此帐号之前，请在下面输入密码。";
 "Registering account..." = "注册账号中...";
 "Server for domain '%@' not responding!" = "域服务器 '%@' 没有响应！";
 "Sharing failed" = "分享失败";

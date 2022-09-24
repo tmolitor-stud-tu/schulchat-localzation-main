@@ -2,14 +2,8 @@
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "2FM-6l-v8h"; */
 "2FM-6l-v8h.title" = "Itxi";
 
-/* Class = "UITextField"; accessibilityHint = "UDP Log AES Key"; ObjectID = "C84-JQ-3RM"; Note = "#bc-ignore!"; */
-"C84-JQ-3RM.accessibilityHint" = "UDP Log AES Key";
-
 /* Class = "UITextField"; accessibilityHint = "UDP Log Port"; ObjectID = "IVO-3g-xoO"; Note = "#bc-ignore!"; */
 "IVO-3g-xoO.accessibilityHint" = "UDP Log Port";
-
-/* Class = "UITextView"; text = "log_placeholder"; ObjectID = "JYm-gw-Mhc"; Note = "#bc-ignore!"; */
-"JYm-gw-Mhc.text" = "log_placeholder";
 
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "QTE-cG-3LC"; */
 "QTE-cG-3LC.title" = "Itxi";
@@ -28,9 +22,6 @@
 
 /* Class = "UITabBarItem"; title = "Settings"; ObjectID = "YtW-zK-Qze"; */
 "YtW-zK-Qze.title" = "Ezarpenak";
-
-/* Class = "UITextField"; placeholder = "Hostname/IP of Logserver"; ObjectID = "ZMn-v1-NOh"; Note = "#bc-ignore!"; */
-"ZMn-v1-NOh.placeholder" = "Hostname/IP of Logserver";
 
 /* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "d7c-hm-a1K"; */
 "d7c-hm-a1K.normalTitle" = "Aldatu pasahitza";
@@ -60,3 +51,5 @@
 "wlb-8I-yzZ.title" = "Historia duten kontuak";
 /* Class = "UIBarButtonItem"; title = "Reconnect All"; ObjectID = "r7s-58-k2m"; */
 "r7s-58-k2m.title" = "Birkonektatu guztiak";
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "mLa-XU-o1Q"; */
+"mLa-XU-o1Q.title" = "Root View Controller";

@@ -634,7 +634,7 @@
 "TLS Error: Unknown root certificate" = "TLS-Fehler: Unbekanntes Root-Zertifikat";
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Wir konnten dein Konto nicht verbinden. Bitte überprüfe deine Anmeldedaten und stelle sicher, dass du mit dem Internet verbunden bist.\n\nTechnische Fehlermeldung: %@";
 /* directory for downloaded audios */
-"Received Audios" = "Empfangene Audios";
+"Received Audios" = "Empfangene Sprachaufnahmen";
 /* directory for downloaded files */
 "Received Files" = "Empfangene Dateien";
 /* directory for downloaded images */
@@ -642,7 +642,7 @@
 /* directory for downloaded videos */
 "Received Videos" = "Empfangene Videos";
 /* directory for downloaded audios */
-"Sent Audios" = "Gesendete Audios";
+"Sent Audios" = "Gesendete Sprachaufnahmen";
 /* directory for downloaded files */
 "Sent Files" = "Gesendete Dateien";
 /* directory for downloaded images */
@@ -667,23 +667,23 @@
 "Sharing failed" = "Teilen fehlgeschlagen";
 "This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "Dieser Kontakt unterstützt möglicherweise keine OMEMO-verschlüsselten Nachrichten. Bitte versuche es in ein paar Sekunden erneut.";
 "You restored an iCloud backup of Monal, please open the app to reenable this account." = "Du hast ein iCloud-Backup von Monal wiederhergestellt. Bitte öffne die App, um dieses Konto wieder zu aktivieren.";
-"%02d:%02d (long press to abort)" = "";
-"Abort" = "";
-"Aborted recording audio" = "";
-"Could not access Finder item!" = "";
-"Could not send" = "";
-"Delete Account on Server" = "";
-"Error Removing Account" = "";
-"Monal was not able to send your attachment!" = "";
-"Monal was not able to send your attachment: %@" = "";
+"%02d:%02d (long press to abort)" = "%02d:%02d (zum Abbrechen lang drücken)";
+"Abort" = "Abbrechen";
+"Aborted recording audio" = "Abgebrochene Sprachaufnahme";
+"Could not access Finder item!" = "Zugriff auf Finder-Element nicht möglich!";
+"Could not send" = "Konnte nicht gesendet werden";
+"Delete Account on Server" = "Konto auf dem Server löschen";
+"Error Removing Account" = "Fehler beim Löschen des Kontos";
+"Monal was not able to send your attachment!" = "Monal konnte deinen Anhang nicht senden!";
+"Monal was not able to send your attachment: %@" = "Monal konnte deinen Anhang %@ nicht senden";
 "Muc got destroyed: %@" = "";
 "Muc not available anymore: %@" = "";
-"Please update!" = "";
-"Remove Account from this Device" = "";
-"Server does not support account removal" = "";
-"Temporary failure to enter groupchat: %@" = "";
-"The account has been removed" = "";
-"This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "";
-"This will delete this account and the associated data from the server and this device. Data might still be retained on other devices, though." = "";
-"Very old app version" = "";
-"Your account must be enabled and connected, to be removed from the server!" = "";
+"Please update!" = "Bitte aktualisieren!";
+"Remove Account from this Device" = "Konto von diesem Gerät entfernen";
+"Server does not support account removal" = "Server unterstützt keine Kontolöschung";
+"Temporary failure to enter groupchat: %@" = "Temporärer Fehler bei der Teilnahme am Gruppenchat: %@";
+"The account has been removed" = "Das Konto wurde gelöscht";
+"This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "Diese App ist zu alt und kann Sicherheitslücken enthalten oder plötzlich nicht mehr funktionieren. Bitte Aktualisieren!";
+"This will delete this account and the associated data from the server and this device. Data might still be retained on other devices, though." = "Dadurch werden dieses Konto und die zugehörigen Daten vom Server und diesem Gerät gelöscht. Die Daten können jedoch auf anderen Geräten erhalten bleiben.";
+"Very old app version" = "Sehr alte App-Version";
+"Your account must be enabled and connected, to be removed from the server!" = "Dein Konto muss aktiviert und verbunden sein, um vom Server gelöscht zu werden!";

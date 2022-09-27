@@ -166,7 +166,7 @@
 "Rate Monal" = "Baloratu Monal";
 "Rebuild Tokens" = "Berregin tokenak";
 "Rebuilding is useful if you are experiencing problems. This will require an app restart to work." = "Berregitea egokia izan daiteke arazoak izaten ari bazara. Aplikazioa berrabiarazi beharko duzu.";
-"Receive push notifications from via Apple even when disconnected. Vastly improves reliability." = "Jaso push jakinarazpenak Appleren bidez, deskonektatuta zaudenean ere. Izugarri hobetzen du fidagarritasuna";
+"Receive push notifications from via Apple even when disconnected. Vastly improves reliability." = "Jaso push jakinarazpenak Appleren bidez, deskonektatuta zaudenean ere. Izugarri hobetzen du fidagarritasuna.";
 "Recently Seen" = "Duela gutxi ikusia";
 "Recipient Name" = "Hartzailearen izena";
 "Recipient name can't be empty" = "Hartzailearen izena ezin da hutsik utzi";
@@ -232,7 +232,7 @@
 "These are SRV resource records found for your domain" = "SRV resource erregistroak aurkitu dira zure domeinurako";
 "These are the modern XMPP capabilities Monal detected on your server after you have logged in." = "Hauek dira Monalek saioa hasi duzun zerbitzarian topatu dituen XMPP ezaugarri modernoak.";
 "These are your encryption keys. Each device is a different place you have logged in. You should trust a key when you have verified it." = "Hauek dira zure zifraketa gakoak. Gailu bakoitza saioa hasi duzun toki desberdin bat da. Egiaztatu duzunean izan beharko zinateke gako batekin fio.";
-"They can see your keys. You can't see theirs" = "Beraiek zure gakoak ikus ditzakete; zuk ezin dituzu beraienak ikusi.";
+"They can see your keys. You can't see theirs" = "Beraiek zure gakoak ikus ditzakete; zuk ezin dituzu beraienak ikusi";
 "They will no longer see when you are online. They may not be able to access your encryption keys." = "Aurrerantzean ez dute ikusiko noiz zauden linean. Litekeena da zure zifraketa gakoak ikusi ezin izatea.";
 "They will no longer see when you are online. They may not be able to send you encrypted messages." = "Aurrerantzean ez dute ikusiko noiz zauden linean. Litekeena da mezu zifratuak zuri bidali ezin izatea.";
 "They will see when you are online. They will be able to send you encrypted messages." = "Linean noiz zauden ikusi ahal izango dute. Mezu zifratuak bidali ahal izango dizkizute.";
@@ -374,7 +374,7 @@
 /* QR-Code-Scanner: invalid format */
 "We could not find a xmpp related QR-Code" = "Ezin izan dugu XMPPari lotutako QR koderik aurkitu";
 "XMPP: QR-Code" = "XMPP: QR kodea";
-"Not Authorized. Please check your credentials." = "Baimenik ez. Mesedez, egiaztatu idatzitako datuak";
+"Not Authorized. Please check your credentials." = "Baimenik ez. Mesedez, egiaztatu idatzitako datuak.";
 "There was a SASL error on the server." = "SASL errore bat gertatu da zerbitzarian.";
 "Contact Jid" = "Kontaktuaren Jid-a";
 "Contacts are usually in the format: username@dom.ain" = "Kontaktuek ondorengo formatua izan ohi dute: erabiltzailea@domeinua.eus";
@@ -401,7 +401,7 @@
 "Failed to decode download link" = "Ezin izan da deskarga esteka dekodetu";
 "Failed to decode encrypted link" = "Ezin izan da zifratutako esteka dekodetu";
 "Failed to encrypt file" = "Ezin izan da fitxategia zifratu";
-"Failed to parse URL returned by HTTP upload server" = "Failed to parse URL returned by HTTP upload server";
+"Failed to parse URL returned by HTTP upload server" = "Ezin izan da HTTP igoera zerbitzariak itzuli duen URLa aztertu";
 "Failed to uploaded file to file cache directory" = "Ezin izan da fitxategia fitxategien cache direktoriora igo";
 "Failed to write decrypted download into cache directory" = "Ezin izan da deskargatutako dezifratutakoa cache direktorioan idatzi";
 /* Chat msg action */
@@ -463,7 +463,7 @@
 "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Zure zerbitzaria ez da Stream Management (XEP-0198)-ekin bateragarria. Honek esan nahi du maiz gal daitezkela bidaltzen dituzun mezuak!! Zerbitzaria aldatu edo administrariarekin hitz egin beharko zenuke funtzioa gaitu dezan!";
 "%@ says:" = "%@(e)k dio:";
 "Audio recoder init fail." = "Ezin izan da audio grabagailua abiarazi.";
-"Audio recoder prepareToRecord fail." = "Audio recoder prepareToRecord fail.";
+"Audio recoder prepareToRecord fail." = "Audio grabagailuak prepareToRecord kale egin du.";
 "Audio Recoder recode fail" = "Audio grabagailua rekodetzeak kale egin du";
 "Audio recoder record fail." = "Audio grabagailua grbaketak kale egin du.";
 "Audio Recoder set active error: %@" = "Audio grabagailua errorea: %@";
@@ -574,7 +574,7 @@
 "Debug" = "Araztu";
 "Failed to download file" = "Ezin izan da fitxategia jaitsi";
 "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "Monalek jakinarazpenak erakutsi ezin baditu, ez duzu abisurik jasoko mezuak jasotzerakoan. Hau gertatzen da 'Ukatu' aukeratu zenuelako Monalek baimena eskatu zizunean. Aldatu dezakezu iOSen ezarpenetara joanez eta > Monal > Jakinarazpenak atalean 'baimendu jakinarazpenak' hautatuz.";
-"If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first.";
+"If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "Monal push itzalita badago, gailua ezingo da %@(r)ekin harremanetan jarri XMPP bidez. Ez litzateke inoiz itzali beharko. Apple push service behar du funtzionatzeko.";
 "If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "Itzalita badago, zure gailuak ezingo du push aktibatu zure XMPP zerbitzarian; egiaztatu XEP-0357-ekin bateragarria izateko ezarri duzula.";
 "Loading contact list" = "Kontaktuen zerrenda ekartzen";
 "Missing permission" = "Baimena falta da";
@@ -681,7 +681,7 @@
 "Please update!" = "Mesedez, eguneratu!";
 "Remove Account from this Device" = "Kendu kontua gailu honetatik";
 "Server does not support account removal" = "Zerbitzariak ez dauka kontua kentzeko aukera gaituta";
-"Temporary failure to enter groupchat: %@" = "";
+"Temporary failure to enter groupchat: %@" = "Ezin izan da %@ taldeko txatera sartu behin-behinean.";
 "The account has been removed" = "Kontua kendu da";
 "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "Aplikazioa hau zaharregia da eta segurtasun arazoak izan ditzake edo erabilgarri egoteari utzi. Mesedez, eguneratu!";
 "This will delete this account and the associated data from the server and this device. Data might still be retained on other devices, though." = "Honek kontua ezabatuko du zerbitzaritik eta gailutik. Baina litekeena da datuak oraindik beste gailuren batean egotea.";

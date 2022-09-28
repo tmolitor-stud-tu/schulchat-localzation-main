@@ -675,7 +675,7 @@
 "Delete Account on Server" = "Konto auf dem Server löschen";
 "Error Removing Account" = "Fehler beim Löschen des Kontos";
 "Monal was not able to send your attachment!" = "Monal konnte deinen Anhang nicht senden!";
-"Monal was not able to send your attachment: %@" = "Monal konnte deinen Anhang %@ nicht senden";
+"Monal was not able to send your attachment: %@" = "Monal konnte deinen Anhang nicht senden: %@";
 "Muc got destroyed: %@" = "";
 "Muc not available anymore: %@" = "";
 "Please update!" = "Bitte aktualisieren!";

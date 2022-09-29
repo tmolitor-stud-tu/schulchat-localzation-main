@@ -1,114 +1,62 @@
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "1N5-DK-906"; */
-"1N5-DK-906.text" = "Label";
-
 /* Class = "UIButton"; normalTitle = "Add Contact or Channel"; ObjectID = "21P-WC-8yr"; */
 "21P-WC-8yr.normalTitle" = "Gehitu kontaktua edo kanala";
-
 /* Class = "UILabel"; text = "Add new Contact or Channel"; ObjectID = "7Cs-k6-7n4"; */
 "7Cs-k6-7n4.text" = "Gehitu kontaktu berria edo kanala";
-
-/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */
-"BWH-2I-fSI.title" = "Ezarpenak";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "Dwm-t5-rxY"; */
-"Dwm-t5-rxY.text" = "Label";
-
-/* Class = "UINavigationItem"; title = "Contact Requests"; ObjectID = "GI8-WI-wYs"; */
-"GI8-WI-wYs.title" = "Kontaktu eskakizuna";
-
-/* Class = "UINavigationItem"; title = "Add Contact or Channel"; ObjectID = "HYb-u1-ZN3"; */
-"HYb-u1-ZN3.title" = "Add Contact or Channel";
-
-/* Class = "UILabel"; text = "Pull to load more messages"; ObjectID = "K3M-5z-C5O"; */
-"K3M-5z-C5O.text" = "Tira beheruntz mezu gehiago kargatzeko";
-
-/* Class = "UILabel"; text = "Send Message"; ObjectID = "KUa-bA-cQb"; */
-"KUa-bA-cQb.text" = "Bidali mezua";
-
-/* Class = "UINavigationItem"; title = "Send A Message "; ObjectID = "MiR-iW-O6e"; */
-"MiR-iW-O6e.title" = "Bidali mezu bat ";
-
-/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "NyY-WQ-3hC"; */
-"NyY-WQ-3hC.title" = "Itxi";
-
-/* Class = "UIBarButtonItem"; title = "Previous"; ObjectID = "OxW-Yc-5ky"; */
-"OxW-Yc-5ky.title" = "Aurrekoa";
-
-/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "PI2-N1-aLJ"; */
-"PI2-N1-aLJ.title" = "Hurrengoa";
-
-/* Class = "UINavigationItem"; title = "Chats"; ObjectID = "RRa-hC-xrf"; */
-"RRa-hC-xrf.title" = "Txatak";
-
-/* Class = "UILabel"; text = "View Contact Requests"; ObjectID = "SmS-bT-id6"; */
-"SmS-bT-id6.text" = "Ikusi kontaktuen eskaerak";
-
-/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "TMS-52-ORP"; */
-"TMS-52-ORP.title" = "Egina";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "VFO-tq-wdS"; Note = "#bc-ignore!"; */
-"VFO-tq-wdS.text" = "Label";
-
-/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Vtv-sv-ErG"; */
-"Vtv-sv-ErG.title" = "Itxi";
-
-/* Class = "UILabel"; text = "Link Title here is something that should be about two lines"; ObjectID = "WyS-w8-jKs"; Note = "#bc-ignore!"; */
-"WyS-w8-jKs.text" = "Link Title here is something that should be about two lines";
-
-/* Class = "UILabel"; text = "Name"; ObjectID = "b15-Tl-ako"; Note = "#bc-ignore!"; */
-"b15-Tl-ako.text" = "Name";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "gbc-kE-Mw6"; */
-"gbc-kE-Mw6.text" = "Label";
-
-/* Class = "UINavigationItem"; title = "Select An Account"; ObjectID = "heq-Ls-ieg"; */
-"heq-Ls-ieg.title" = "Hautatu kontu bat";
-
-/* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aD9"; */
-"iLC-4b-aD9.title" = "Elementu";
-
-/* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aDr"; */
-"iLC-4b-aDr.title" = "Item";
-
-/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jIW-zk-rUu"; */
-"jIW-zk-rUu.normalTitle" = "Bidali";
-
-/* Class = "UITabBarItem"; title = "Chats"; ObjectID = "jh7-be-VPo"; */
-"jh7-be-VPo.title" = "Txatak";
-
-/* Class = "UILabel"; text = "Name"; ObjectID = "lUi-Cp-nhg"; Note = "#bc-ignore!"; */
-"lUi-Cp-nhg.text" = "Name";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "oUy-5K-yIm"; Note = "#bc-ignore!"; */
-"oUy-5K-yIm.text" = "Day Change";
-
-/* Class = "UIBarButtonItem"; title = "Compose"; ObjectID = "pyP-qb-mfr"; */
-"pyP-qb-mfr.title" = "Idatzi";
-
-/* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "qsR-dX-TO1"; */
-"qsR-dX-TO1.title" = "Kontaktuak";
-
-/* Class = "UILabel"; text = "Date"; ObjectID = "usq-k0-XQf"; Note = "#bc-ignore!"; */
-"usq-k0-XQf.text" = "Date";
-
-/* Class = "UILabel"; text = "Day Change"; ObjectID = "x5i-Ok-Bwi"; Note = "#bc-ignore!"; */
-"x5i-Ok-Bwi.text" = "Day Change";
-/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "IGd-kM-9BO"; */
-"IGd-kM-9BO.title" = "Itxi";
-/* Class = "UINavigationItem"; title = "New"; ObjectID = "Msw-bP-HIu"; */
-"Msw-bP-HIu.title" = "Berria";
-/* Class = "UINavigationItem"; title = "Group Chat"; ObjectID = "k0T-5X-FQu"; */
-"k0T-5X-FQu.title" = "Taldeko txata";
-/* Class = "UILabel"; text = "Detail"; ObjectID = "sff-9g-z31"; */
-"sff-9g-z31.text" = "Xehetasuna";
-/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "wNA-vF-ohQ"; */
-"wNA-vF-ohQ.title" = "Gehitu";
 /* Class = "UILabel"; text = "Join a Group Chat"; ObjectID = "7dx-xo-wIB"; */
 "7dx-xo-wIB.text" = "Bat egin talde-txat batekin";
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */
+"BWH-2I-fSI.title" = "Ezarpenak";
+/* Class = "UINavigationItem"; title = "Contact Requests"; ObjectID = "GI8-WI-wYs"; */
+"GI8-WI-wYs.title" = "Kontaktu eskakizuna";
 /* Class = "UITableViewController"; title = "Join Group Chat"; ObjectID = "GpF-k7-Z6D"; */
 "GpF-k7-Z6D.title" = "Bat egin taldeko txatarekin";
+/* Class = "UINavigationItem"; title = "Select An Account"; ObjectID = "heq-Ls-ieg"; */
+"heq-Ls-ieg.title" = "Hautatu kontu bat";
+/* Class = "UINavigationItem"; title = "Add Contact or Channel"; ObjectID = "HYb-u1-ZN3"; */
+"HYb-u1-ZN3.title" = "Add Contact or Channel";
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "IGd-kM-9BO"; */
+"IGd-kM-9BO.title" = "Itxi";
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aD9"; */
+"iLC-4b-aD9.title" = "Elementu";
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aDr"; */
+"iLC-4b-aDr.title" = "Item";
+/* Class = "UITabBarItem"; title = "Chats"; ObjectID = "jh7-be-VPo"; */
+"jh7-be-VPo.title" = "Txatak";
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jIW-zk-rUu"; */
+"jIW-zk-rUu.normalTitle" = "Bidali";
+/* Class = "UINavigationItem"; title = "Group Chat"; ObjectID = "k0T-5X-FQu"; */
+"k0T-5X-FQu.title" = "Taldeko txata";
+/* Class = "UILabel"; text = "Pull to load more messages"; ObjectID = "K3M-5z-C5O"; */
+"K3M-5z-C5O.text" = "Tira beheruntz mezu gehiago kargatzeko";
+/* Class = "UILabel"; text = "Send Message"; ObjectID = "KUa-bA-cQb"; */
+"KUa-bA-cQb.text" = "Bidali mezua";
+/* Class = "UINavigationItem"; title = "Send A Message "; ObjectID = "MiR-iW-O6e"; */
+"MiR-iW-O6e.title" = "Bidali mezu bat ";
+/* Class = "UINavigationItem"; title = "New"; ObjectID = "Msw-bP-HIu"; */
+"Msw-bP-HIu.title" = "Berria";
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "NyY-WQ-3hC"; */
+"NyY-WQ-3hC.title" = "Itxi";
+/* Class = "UIBarButtonItem"; title = "Previous"; ObjectID = "OxW-Yc-5ky"; */
+"OxW-Yc-5ky.title" = "Aurrekoa";
+/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "PI2-N1-aLJ"; */
+"PI2-N1-aLJ.title" = "Hurrengoa";
+/* Class = "UIBarButtonItem"; title = "Compose"; ObjectID = "pyP-qb-mfr"; */
+"pyP-qb-mfr.title" = "Idatzi";
 /* Class = "UIButton"; normalTitle = "Join Group"; ObjectID = "Q7I-qj-4zk"; */
 "Q7I-qj-4zk.normalTitle" = "Bat egin taldearekin";
+/* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "qsR-dX-TO1"; */
+"qsR-dX-TO1.title" = "Kontaktuak";
+/* Class = "UINavigationItem"; title = "Chats"; ObjectID = "RRa-hC-xrf"; */
+"RRa-hC-xrf.title" = "Txatak";
+/* Class = "UILabel"; text = "Detail"; ObjectID = "sff-9g-z31"; */
+"sff-9g-z31.text" = "Xehetasuna";
+/* Class = "UILabel"; text = "View Contact Requests"; ObjectID = "SmS-bT-id6"; */
+"SmS-bT-id6.text" = "Ikusi kontaktuen eskaerak";
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "TMS-52-ORP"; */
+"TMS-52-ORP.title" = "Egina";
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Vtv-sv-ErG"; */
+"Vtv-sv-ErG.title" = "Itxi";
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "wNA-vF-ohQ"; */
+"wNA-vF-ohQ.title" = "Gehitu";
 /* Class = "UINavigationItem"; title = "Join Group Chat"; ObjectID = "yIE-Ub-BAk"; */
 "yIE-Ub-BAk.title" = "Bat egin taldeko txatarekin";

@@ -1,7 +1,7 @@
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "2FM-6l-v8h"; */
 "2FM-6l-v8h.title" = "閉じる";
 /* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "d7c-hm-a1K"; */
-"d7c-hm-a1K.normalTitle" = "Change Password";
+"d7c-hm-a1K.normalTitle" = "パスワード変更";
 /* Class = "UISplitViewController"; title = "Settings"; ObjectID = "dgM-uB-Aap"; */
 "dgM-uB-Aap.title" = "設定";
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "gFd-bu-COM"; */
@@ -13,21 +13,21 @@
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "mLa-XU-o1Q"; */
 "mLa-XU-o1Q.title" = "Root View Controller";
 /* Class = "UITableViewController"; title = "Notifications"; ObjectID = "nPR-ET-sg3"; */
-"nPR-ET-sg3.title" = "Notifications";
+"nPR-ET-sg3.title" = "通知";
 /* Class = "UINavigationItem"; title = "Account Edit"; ObjectID = "pa7-vQ-Yz3"; */
-"pa7-vQ-Yz3.title" = "Account Edit";
+"pa7-vQ-Yz3.title" = "アカウント編集";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "QTE-cG-3LC"; */
 "QTE-cG-3LC.title" = "閉じる";
 /* Class = "UIBarButtonItem"; title = "Reconnect All"; ObjectID = "r7s-58-k2m"; */
-"r7s-58-k2m.title" = "Reconnect All";
+"r7s-58-k2m.title" = "すべてを再接続";
 /* Class = "UILabel"; text = "Detail"; ObjectID = "rF7-34-0sc"; */
-"rF7-34-0sc.text" = "Detail";
+"rF7-34-0sc.text" = "詳細";
 /* Class = "UINavigationItem"; title = "Sounds"; ObjectID = "Rum-Ee-xSZ"; */
-"Rum-Ee-xSZ.title" = "Sounds";
+"Rum-Ee-xSZ.title" = "通知音";
 /* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "TJt-Kl-UDV"; */
-"TJt-Kl-UDV.title" = "Save";
+"TJt-Kl-UDV.title" = "保存";
 /* Class = "UITableViewController"; title = "Account Edit"; ObjectID = "Tus-3k-aPR"; */
-"Tus-3k-aPR.title" = "Account Edit";
+"Tus-3k-aPR.title" = "アカウント編集";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "VJW-A6-Zpp"; */
 "VJW-A6-Zpp.title" = "アイテム";
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "vKm-u5-p5y"; */

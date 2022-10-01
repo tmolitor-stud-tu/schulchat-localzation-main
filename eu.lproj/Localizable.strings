@@ -721,6 +721,6 @@
 "We don't support any task requested by the server, account disabled: %@" = "Ez ditugu zerbitzariak eskatutako zereginak onartzen, kontua ezgaituta: %@";
 "We don't support the single task requested by the server, account disabled: %@" = "Ez dugu zerbitzariak eskatutako zeregin bakarra onartzen, kontua ezgaituta: %@";
 "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs." = "Kanal-lotura mota ahulena, ez du ostutako ziurtagiri edo gakoetatik babesten, baina oker jaulkitako ziurtagiriak antzematen ditu.";
-"Receive push notifications via Apple even when disconnected. Vastly improves reliability." = "Receive push notifications via Apple even when disconnected. Vastly improves reliability.";
-"This will clear your own omemo session for debugging purposes" = "This will clear your own omemo session for debugging purposes";
-"Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs.";
+"Receive push notifications via Apple even when disconnected. Vastly improves reliability." = "Jaso push jakinarazpenak Appleren bidez, baita deskonektatuta zaudenean ere. Izugarri hobetzen du fidagarritasuna.";
+"This will clear your own omemo session for debugging purposes" = "Honek OMEMO saioa garbituko du arazketa helburuetarako";
+"Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Kanal-lotura mota ahulena, ez du ostutako ziurtagiri edo gakoetatik babesten, baina oker jaulkitako ziurtagiriak antzematen ditu.";

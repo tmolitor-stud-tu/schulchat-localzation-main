@@ -721,3 +721,6 @@
 "We don't support any task requested by the server, account disabled: %@" = "Wir unterstützen keine vom Server angeforderten Aufgaben, Konto deaktiviert: % @";
 "We don't support the single task requested by the server, account disabled: %@" = "Wir unterstützen die vom Server angeforderte Einzelaufgabe nicht, Konto deaktiviert: %@";
 "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs." = "Schwächste Art der Kanalbindung, die nicht vor gestohlenen Zertifikaten/Schlüsseln schützt, aber falsch ausgestellte Zertifikate erkennt.";
+"Receive push notifications via Apple even when disconnected. Vastly improves reliability." = "Receive push notifications via Apple even when disconnected. Vastly improves reliability.";
+"This will clear your own omemo session for debugging purposes" = "This will clear your own omemo session for debugging purposes";
+"Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs.";

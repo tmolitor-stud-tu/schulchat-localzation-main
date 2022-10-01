@@ -1,5 +1,5 @@
 "%@ (Pending Approval)" = "%@ (Pending Approval)";
-"%ld (This device)" = "%ld (この素子)";
+"%ld (This device)" = "%ld (このデバイス)";
 "(autojoin)" = "(autojoin)";
 "[This message is OMEMO encrypted]" = "[This message is OMEMO encrypted]";
 "About" = "Monalについて";
@@ -13,7 +13,7 @@
 "Accounts" = "アカウント";
 "Accounts With Logs" = "Accounts With Logs";
 "Active chat but no messages found in history for %@." = "Active chat but no messages found in history for %@.";
-"Add %@ to your contacts?" = "Add %@ to your contacts?";
+"Add %@ to your contacts?" = "%@ を連絡帳に追加しますか?";
 "Add Contact" = "連絡先を追加";
 "Add New Account" = "Add New Account";
 "Add new contacts with the + button above. Your friends will pop up here when they can talk" = "Add new contacts with the + button above. Your friends will pop up here when they can talk";
@@ -30,10 +30,10 @@
 "Automatically send when you were online" = "Automatically send when you were online";
 "Away" = "Away";
 "Backgrounds" = "Backgrounds";
-"Block %@ from contacting you?" = "Block %@ from contacting you?";
+"Block %@ from contacting you?" = "%@ ブロックしますか？";
 "Block Sender" = "Block Sender";
 "call screen did disappear" = "call screen did disappear";
-"Camera" = "Camera";
+"Camera" = "カメラ";
 "Can Show Notifications" = "Can Show Notifications";
 "Cancel" = "Cancel";
 "Change Password" = "Change Password";

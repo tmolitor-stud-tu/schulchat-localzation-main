@@ -33,7 +33,7 @@
 "Block %@ from contacting you?" = "%@(e)k kontakta zaitzala galarazi nahi al duzu?";
 "Block Sender" = "Blokeatu igorlea";
 "call screen did disappear" = "deiaren pantaila desagertu da";
-"Camera" = "Kamera";
+"Camera" = "Egin eta bidali argazkia";
 "Can Show Notifications" = "Jakinarazpenak erakuts ditzake";
 "Cancel" = "Utzi";
 "Change Password" = "Aldatu pasahitza";
@@ -149,7 +149,7 @@
 "Password" = "Pasahitza";
 "Password cannot be empty" = "Pasahitza ezin da hutsik utzi";
 "Permission Requested" = "Baimena eskatu zaio";
-"Photos" = "Argazkiak";
+"Photos" = "Bidali irudia";
 "Play Sounds" = "Jo soinuak";
 "Please Allow Audio Access" = "Baimendu audioa atzitzea";
 "Please enter a password." = "Sartu pasahitza.";
@@ -451,7 +451,7 @@
 "Error entering groupchat" = "Errorea taldeko txatarekin bat egiterakoan";
 "Failed to enter groupchat %@" = "Ezin izan da %@ taldeko txatarekin bat egin";
 "Failed to enter groupchat %@: This is not a groupchat!" = "Ezin izan da %@ taldeko txatarekin bat egin: hau ez da taldeko txat bat!";
-"File" = "Fitxategia";
+"File" = "Bidali fitxategia";
 "Groupchat error" = "Taldeko-txateko errorea";
 "Loading Data" = "Datuak kargatzen";
 "Open" = "Ireki";

@@ -724,3 +724,5 @@
 "Receive push notifications via Apple even when disconnected. Vastly improves reliability." = "Empfange Push-Benachrichtigungen über Apple, auch wenn die Verbindung getrennt ist. Erheblich verbesserte Zuverlässigkeit.";
 "This will clear your own omemo session for debugging purposes" = "Dadurch wird deine eigene OMEMO-Sitzung zur Fehleranalyse gelöscht";
 "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Schwächster Kanalbindungstyp, der nicht gegen gestohlene Zertifikate/Schlüssel schützt, aber falsch ausgestellte Zertifikate erkennt.";
+"This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades." = "This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades.";
+"XEP-xxxx: SASL SCRAM Downgrade Protection" = "XEP-xxxx: SASL SCRAM Downgrade Protection";

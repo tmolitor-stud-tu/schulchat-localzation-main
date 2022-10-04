@@ -313,7 +313,7 @@
 "Mark as read" = "Markatu irakurritzat";
 "Saving changes to server" = "Aldaketak zerbitzarian gordetzen";
 "Send" = "Bidali";
-"Send message received state" = "jakinarazi mezua irakurri dudanentz";
+"Send message received state" = "Jakinarazi mezua irakurri dudanentz";
 "Set a nickname for this contact" = "Ezarri ezizen bat kontaktu honentzat";
 "Sync Read-Markers" = "Sinkronizatu irakurketa-markagailuak";
 "Tell my contacts if I've read a message" = "Jakinarazi kontaktuei mezu bat irakurri dudanentz";
@@ -539,7 +539,7 @@
 "Image Quality: %.2f" = "Irudiaren kalitatea: %.2f";
 "Invalid Password!" = "Pasahitza ez da baliozkoa!";
 "Jid Invalid" = "JIDa ez da baliozkoa";
-"Message Archive Preferences" = "Mezuak artxibatzeko hobespenak";
+"Message Archive Preferences" = "Artxibatze-hobespenak";
 "Please make sure at least one account has connected before trying to add a contact or channel." = "Egiaztatu gutxienez kontu bat konektatuta dagoela kontaktu edo kanal bat gehitu baino lehen.";
 /* catalina warning */
 "QR-Code scanning is not supported on catalina" = "QR kodea eskaneatzea ez dago erabilgarri catalinan";
@@ -587,11 +587,11 @@
 "Settings" = "Ezarpenak";
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "Zerbitzariarekin konexioak kale egin du eta ezin izan dira elkarrizketa honetako mezu zaharrak ekarri. Saiatu berriro geroago. %@";
 "You did not grant Monal to access your location." = "Ez diozu Monali kokapena atzitzeko baimenik eman.";
-"Always use direct TLS, not STARTTLS" = "Erabili beti direct TLS, ez STARTTLS";
+"Always use direct TLS, not STARTTLS" = "Erabili direct TLS, ez STARTTLS";
 "Server Support Details" = "Zerbitzariaren bateragarritasunaren xehetasunak";
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "Zerbitzariarekin konexioak kale egin du eta ezin izan dira txat honetako mezu zaharrak ekarri. Saiatu berriro geroago.";
 "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Igo zerbitzarira besteekin partekatzeko fitxategiak. (Zerbitzariak baimentzen duen fitxategien gehienezko tamaina: %@)";
-"Protocol support of your server (XEPs)" = "Zure zerbitzariarekin bateragarriak diren protokoloak (XEPs)";
+"Protocol support of your server (XEPs)" = "Zerbitzariaren XEP ezaugarriak";
 "Draft:" = "Zirriborroa:";
 "Failed to delete own avatar" = "Ezin izan da avatarra ezabatu";
 "Failed to delete own nickname" = "Ezin izan da ezizena ezabatu";
@@ -724,5 +724,5 @@
 "Receive push notifications via Apple even when disconnected. Vastly improves reliability." = "Jaso push jakinarazpenak Appleren bidez, baita deskonektatuta zaudenean ere. Izugarri hobetzen du fidagarritasuna.";
 "This will clear your own omemo session for debugging purposes" = "Honek OMEMO saioa garbituko du arazketa helburuetarako";
 "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Kanal-lotura mota ahulena, ez du ostutako ziurtagiri edo gakoetatik babesten, baina oker jaulkitako ziurtagiriak antzematen ditu.";
-"This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades." = "This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades.";
+"This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades." = "Arau honek SASL eta SASL2 handshake-ak babesteko modua eskaintzen du, metodoen eta channel-binding-en mailen jaitsiera galaraziz.";
 "XEP-xxxx: SASL SCRAM Downgrade Protection" = "XEP-xxxx: SASL SCRAM Downgrade Protection";

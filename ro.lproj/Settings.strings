@@ -10,6 +10,8 @@
 "GM4-e8-f1D.title" = "Conturi";
 /* Class = "UITableViewController"; title = "Settings"; ObjectID = "kjF-U7-P8y"; */
 "kjF-U7-P8y.title" = "Setări";
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "mLa-XU-o1Q"; */
+"mLa-XU-o1Q.title" = "mLa-XU-o1Q.title";
 /* Class = "UITableViewController"; title = "Notifications"; ObjectID = "nPR-ET-sg3"; */
 "nPR-ET-sg3.title" = "Notificări";
 /* Class = "UINavigationItem"; title = "Account Edit"; ObjectID = "pa7-vQ-Yz3"; */
@@ -28,11 +30,9 @@
 "Tus-3k-aPR.title" = "Editare cont";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "VJW-A6-Zpp"; */
 "VJW-A6-Zpp.title" = "Articol";
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "vKm-u5-p5y"; */
+"vKm-u5-p5y.title" = "vKm-u5-p5y.title";
 /* Class = "UINavigationItem"; title = "Accounts With Logs"; ObjectID = "wlb-8I-yzZ"; */
 "wlb-8I-yzZ.title" = "Conturi cu jurnale";
 /* Class = "UITabBarItem"; title = "Settings"; ObjectID = "YtW-zK-Qze"; */
 "YtW-zK-Qze.title" = "Setări";
-/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "mLa-XU-o1Q"; */
-"mLa-XU-o1Q.title" = "mLa-XU-o1Q.title";
-/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "vKm-u5-p5y"; */
-"vKm-u5-p5y.title" = "vKm-u5-p5y.title";

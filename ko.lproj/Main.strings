@@ -2,14 +2,20 @@
 "21P-WC-8yr.normalTitle" = "Add Contact or Channel";
 /* Class = "UILabel"; text = "Add new Contact or Channel"; ObjectID = "7Cs-k6-7n4"; */
 "7Cs-k6-7n4.text" = "Add new Contact or Channel";
+/* Class = "UILabel"; text = "Join a Group Chat"; ObjectID = "7dx-xo-wIB"; */
+"7dx-xo-wIB.text" = "7dx-xo-wIB.text";
 /* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */
 "BWH-2I-fSI.title" = "Settings";
 /* Class = "UINavigationItem"; title = "Contact Requests"; ObjectID = "GI8-WI-wYs"; */
 "GI8-WI-wYs.title" = "Contact Requests";
+/* Class = "UITableViewController"; title = "Join Group Chat"; ObjectID = "GpF-k7-Z6D"; */
+"GpF-k7-Z6D.title" = "GpF-k7-Z6D.title";
 /* Class = "UINavigationItem"; title = "Select An Account"; ObjectID = "heq-Ls-ieg"; */
 "heq-Ls-ieg.title" = "Select An Account";
 /* Class = "UINavigationItem"; title = "Add Contact or Channel"; ObjectID = "HYb-u1-ZN3"; */
 "HYb-u1-ZN3.title" = "Add Contact or Channel";
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "IGd-kM-9BO"; */
+"IGd-kM-9BO.title" = "IGd-kM-9BO.title";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aD9"; */
 "iLC-4b-aD9.title" = "Item";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aDr"; */
@@ -18,12 +24,16 @@
 "jh7-be-VPo.title" = "Chats";
 /* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jIW-zk-rUu"; */
 "jIW-zk-rUu.normalTitle" = "Send";
+/* Class = "UINavigationItem"; title = "Group Chat"; ObjectID = "k0T-5X-FQu"; */
+"k0T-5X-FQu.title" = "k0T-5X-FQu.title";
 /* Class = "UILabel"; text = "Pull to load more messages"; ObjectID = "K3M-5z-C5O"; */
 "K3M-5z-C5O.text" = "Pull to load more messages";
 /* Class = "UILabel"; text = "Send Message"; ObjectID = "KUa-bA-cQb"; */
 "KUa-bA-cQb.text" = "Send Message";
 /* Class = "UINavigationItem"; title = "Send A Message "; ObjectID = "MiR-iW-O6e"; */
 "MiR-iW-O6e.title" = "Send A Message ";
+/* Class = "UINavigationItem"; title = "New"; ObjectID = "Msw-bP-HIu"; */
+"Msw-bP-HIu.title" = "Msw-bP-HIu.title";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "NyY-WQ-3hC"; */
 "NyY-WQ-3hC.title" = "Close";
 /* Class = "UIBarButtonItem"; title = "Previous"; ObjectID = "OxW-Yc-5ky"; */
@@ -32,30 +42,20 @@
 "PI2-N1-aLJ.title" = "Next";
 /* Class = "UIBarButtonItem"; title = "Compose"; ObjectID = "pyP-qb-mfr"; */
 "pyP-qb-mfr.title" = "Compose";
+/* Class = "UIButton"; normalTitle = "Join Group"; ObjectID = "Q7I-qj-4zk"; */
+"Q7I-qj-4zk.normalTitle" = "Q7I-qj-4zk.normalTitle";
 /* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "qsR-dX-TO1"; */
 "qsR-dX-TO1.title" = "Contacts";
 /* Class = "UINavigationItem"; title = "Chats"; ObjectID = "RRa-hC-xrf"; */
 "RRa-hC-xrf.title" = "Chats";
+/* Class = "UILabel"; text = "Detail"; ObjectID = "sff-9g-z31"; */
+"sff-9g-z31.text" = "sff-9g-z31.text";
 /* Class = "UILabel"; text = "View Contact Requests"; ObjectID = "SmS-bT-id6"; */
 "SmS-bT-id6.text" = "View Contact Requests";
 /* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "TMS-52-ORP"; */
 "TMS-52-ORP.title" = "Done";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Vtv-sv-ErG"; */
 "Vtv-sv-ErG.title" = "Close";
-/* Class = "UILabel"; text = "Join a Group Chat"; ObjectID = "7dx-xo-wIB"; */
-"7dx-xo-wIB.text" = "7dx-xo-wIB.text";
-/* Class = "UITableViewController"; title = "Join Group Chat"; ObjectID = "GpF-k7-Z6D"; */
-"GpF-k7-Z6D.title" = "GpF-k7-Z6D.title";
-/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "IGd-kM-9BO"; */
-"IGd-kM-9BO.title" = "IGd-kM-9BO.title";
-/* Class = "UINavigationItem"; title = "Group Chat"; ObjectID = "k0T-5X-FQu"; */
-"k0T-5X-FQu.title" = "k0T-5X-FQu.title";
-/* Class = "UINavigationItem"; title = "New"; ObjectID = "Msw-bP-HIu"; */
-"Msw-bP-HIu.title" = "Msw-bP-HIu.title";
-/* Class = "UIButton"; normalTitle = "Join Group"; ObjectID = "Q7I-qj-4zk"; */
-"Q7I-qj-4zk.normalTitle" = "Q7I-qj-4zk.normalTitle";
-/* Class = "UILabel"; text = "Detail"; ObjectID = "sff-9g-z31"; */
-"sff-9g-z31.text" = "sff-9g-z31.text";
 /* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "wNA-vF-ohQ"; */
 "wNA-vF-ohQ.title" = "wNA-vF-ohQ.title";
 /* Class = "UINavigationItem"; title = "Join Group Chat"; ObjectID = "yIE-Ub-BAk"; */

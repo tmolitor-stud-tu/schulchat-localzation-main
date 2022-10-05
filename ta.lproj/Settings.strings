@@ -6,6 +6,8 @@
 "dgM-uB-Aap.title" = "Settings";
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "gFd-bu-COM"; */
 "gFd-bu-COM.title" = "Settings";
+/* Class = "UINavigationItem"; title = "Accounts"; ObjectID = "GM4-e8-f1D"; */
+"GM4-e8-f1D.title" = "GM4-e8-f1D.title";
 /* Class = "UITableViewController"; title = "Settings"; ObjectID = "kjF-U7-P8y"; */
 "kjF-U7-P8y.title" = "Settings";
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "mLa-XU-o1Q"; */
@@ -16,6 +18,8 @@
 "pa7-vQ-Yz3.title" = "Account Edit";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "QTE-cG-3LC"; */
 "QTE-cG-3LC.title" = "Close";
+/* Class = "UIBarButtonItem"; title = "Reconnect All"; ObjectID = "r7s-58-k2m"; */
+"r7s-58-k2m.title" = "r7s-58-k2m.title";
 /* Class = "UILabel"; text = "Detail"; ObjectID = "rF7-34-0sc"; */
 "rF7-34-0sc.text" = "Detail";
 /* Class = "UINavigationItem"; title = "Sounds"; ObjectID = "Rum-Ee-xSZ"; */
@@ -28,11 +32,7 @@
 "VJW-A6-Zpp.title" = "Item";
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "vKm-u5-p5y"; */
 "vKm-u5-p5y.title" = "Root View Controller";
-/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "YtW-zK-Qze"; */
-"YtW-zK-Qze.title" = "Settings";
-/* Class = "UINavigationItem"; title = "Accounts"; ObjectID = "GM4-e8-f1D"; */
-"GM4-e8-f1D.title" = "GM4-e8-f1D.title";
-/* Class = "UIBarButtonItem"; title = "Reconnect All"; ObjectID = "r7s-58-k2m"; */
-"r7s-58-k2m.title" = "r7s-58-k2m.title";
 /* Class = "UINavigationItem"; title = "Accounts With Logs"; ObjectID = "wlb-8I-yzZ"; */
 "wlb-8I-yzZ.title" = "wlb-8I-yzZ.title";
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "YtW-zK-Qze"; */
+"YtW-zK-Qze.title" = "Settings";

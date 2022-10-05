@@ -669,7 +669,7 @@
 "You restored an iCloud backup of Monal, please open the app to reenable this account." = "Du hast ein iCloud-Backup von Monal wiederhergestellt. Bitte öffne die App, um dieses Konto wieder zu aktivieren.";
 "%02d:%02d (long press to abort)" = "%02d:%02d (zum Abbrechen lang drücken)";
 "Abort" = "Abbrechen";
-"Aborted recording audio" = "Abgebrochene Sprachaufnahme";
+"Aborted recording audio" = "Sprachaufnahme abgebrochen";
 "Could not access Finder item!" = "Zugriff auf Finder-Element nicht möglich!";
 "Could not send" = "Konnte nicht gesendet werden";
 "Delete Account on Server" = "Konto auf dem Server löschen";
@@ -684,7 +684,7 @@
 "Temporary failure to enter groupchat: %@" = "Temporärer Fehler bei der Teilnahme am Gruppenchat: %@";
 "The account has been removed" = "Das Konto wurde gelöscht";
 "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "Diese App ist zu alt und kann Sicherheitslücken enthalten oder plötzlich nicht mehr funktionieren. Bitte Aktualisieren!";
-"This will delete this account and the associated data from the server and this device. Data might still be retained on other devices, though." = "Dadurch werden dieses Konto und die zugehörigen Daten vom Server und diesem Gerät gelöscht. Die Daten können jedoch auf anderen Geräten erhalten bleiben.";
+"This will delete this account and the associated data from the server and this device. Data might still be retained on other devices, though." = "Hierdurch wird das Konto und die zugehörigen Daten vom Server und diesem Gerät gelöscht. Die Daten können jedoch auf anderen Geräten erhalten bleiben.";
 "Very old app version" = "Sehr alte App-Version";
 "Your account must be enabled and connected, to be removed from the server!" = "Dein Konto muss aktiviert und verbunden sein, um vom Server gelöscht zu werden!";
 "Error authenticating server using SASL2, disconnecting!" = "Fehler beim Authentifizieren des Servers mit SASL2, Verbindung wird getrennt!";

@@ -15,8 +15,8 @@
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "urj-qd-yc7"; */
 "urj-qd-yc7.title" = "Close";
 /* Class = "UILabel"; text = "name"; ObjectID = "DFP-48-Sgb"; */
-"DFP-48-Sgb.text" = "";
+"DFP-48-Sgb.text" = "DFP-48-Sgb.text";
 /* Class = "UILabel"; text = "Calling"; ObjectID = "ggA-Jy-Lki"; */
-"ggA-Jy-Lki.text" = "";
+"ggA-Jy-Lki.text" = "ggA-Jy-Lki.text";
 /* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "X6h-fs-C64"; */
-"X6h-fs-C64.normalTitle" = "";
+"X6h-fs-C64.normalTitle" = "X6h-fs-C64.normalTitle";

@@ -31,8 +31,8 @@
 /* Class = "UITabBarItem"; title = "Settings"; ObjectID = "YtW-zK-Qze"; */
 "YtW-zK-Qze.title" = "Settings";
 /* Class = "UINavigationItem"; title = "Accounts"; ObjectID = "GM4-e8-f1D"; */
-"GM4-e8-f1D.title" = "";
+"GM4-e8-f1D.title" = "GM4-e8-f1D.title";
 /* Class = "UIBarButtonItem"; title = "Reconnect All"; ObjectID = "r7s-58-k2m"; */
-"r7s-58-k2m.title" = "";
+"r7s-58-k2m.title" = "r7s-58-k2m.title";
 /* Class = "UINavigationItem"; title = "Accounts With Logs"; ObjectID = "wlb-8I-yzZ"; */
-"wlb-8I-yzZ.title" = "";
+"wlb-8I-yzZ.title" = "wlb-8I-yzZ.title";

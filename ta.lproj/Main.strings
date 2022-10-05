@@ -43,20 +43,20 @@
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Vtv-sv-ErG"; */
 "Vtv-sv-ErG.title" = "Close";
 /* Class = "UILabel"; text = "Join a Group Chat"; ObjectID = "7dx-xo-wIB"; */
-"7dx-xo-wIB.text" = "";
+"7dx-xo-wIB.text" = "7dx-xo-wIB.text";
 /* Class = "UITableViewController"; title = "Join Group Chat"; ObjectID = "GpF-k7-Z6D"; */
-"GpF-k7-Z6D.title" = "";
+"GpF-k7-Z6D.title" = "GpF-k7-Z6D.title";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "IGd-kM-9BO"; */
-"IGd-kM-9BO.title" = "";
+"IGd-kM-9BO.title" = "IGd-kM-9BO.title";
 /* Class = "UINavigationItem"; title = "Group Chat"; ObjectID = "k0T-5X-FQu"; */
-"k0T-5X-FQu.title" = "";
+"k0T-5X-FQu.title" = "k0T-5X-FQu.title";
 /* Class = "UINavigationItem"; title = "New"; ObjectID = "Msw-bP-HIu"; */
-"Msw-bP-HIu.title" = "";
+"Msw-bP-HIu.title" = "Msw-bP-HIu.title";
 /* Class = "UIButton"; normalTitle = "Join Group"; ObjectID = "Q7I-qj-4zk"; */
-"Q7I-qj-4zk.normalTitle" = "";
+"Q7I-qj-4zk.normalTitle" = "Q7I-qj-4zk.normalTitle";
 /* Class = "UILabel"; text = "Detail"; ObjectID = "sff-9g-z31"; */
-"sff-9g-z31.text" = "";
+"sff-9g-z31.text" = "sff-9g-z31.text";
 /* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "wNA-vF-ohQ"; */
-"wNA-vF-ohQ.title" = "";
+"wNA-vF-ohQ.title" = "wNA-vF-ohQ.title";
 /* Class = "UINavigationItem"; title = "Join Group Chat"; ObjectID = "yIE-Ub-BAk"; */
-"yIE-Ub-BAk.title" = "";
+"yIE-Ub-BAk.title" = "yIE-Ub-BAk.title";

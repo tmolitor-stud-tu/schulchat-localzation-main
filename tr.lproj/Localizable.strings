@@ -667,7 +667,7 @@
 "Sharing failed" = "Paylaşım başarısız oldu";
 "This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "Bu kişi OMEMO şifreli mesajları desteklemiyor olabilir. Lütfen birkaç saniye sonra tekrar deneyin.";
 "You restored an iCloud backup of Monal, please open the app to reenable this account." = "Monal'ın bir iCloud yedeklemesini geri yüklediniz, lütfen bu hesabı yeniden etkinleştirmek için uygulamayı açın.";
-"%02d:%02d (long press to abort)" = "02d:%02d (iptal etmek için uzun basın)";
+"%02d:%02d (long press to abort)" = "%02d:%02d (iptal etmek için uzun basın)";
 "Abort" = "İptal";
 "Aborted recording audio" = "İptal edilen ses kaydı";
 "Could not access Finder item!" = "Finder öğesine erişilemiyor!";

@@ -1,38 +1,38 @@
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "2FM-6l-v8h"; */
-"2FM-6l-v8h.title" = "Close";
+"2FM-6l-v8h.title" = "닫기";
 /* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "d7c-hm-a1K"; */
-"d7c-hm-a1K.normalTitle" = "Change Password";
+"d7c-hm-a1K.normalTitle" = "암호 변경하기";
 /* Class = "UISplitViewController"; title = "Settings"; ObjectID = "dgM-uB-Aap"; */
-"dgM-uB-Aap.title" = "Settings";
+"dgM-uB-Aap.title" = "설정";
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "gFd-bu-COM"; */
-"gFd-bu-COM.title" = "Settings";
+"gFd-bu-COM.title" = "설정";
 /* Class = "UINavigationItem"; title = "Accounts"; ObjectID = "GM4-e8-f1D"; */
-"GM4-e8-f1D.title" = "GM4-e8-f1D.title";
+"GM4-e8-f1D.title" = "계정";
 /* Class = "UITableViewController"; title = "Settings"; ObjectID = "kjF-U7-P8y"; */
-"kjF-U7-P8y.title" = "Settings";
+"kjF-U7-P8y.title" = "설정";
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "mLa-XU-o1Q"; */
-"mLa-XU-o1Q.title" = "Root View Controller";
+"mLa-XU-o1Q.title" = "루트 보기 컨트롤러";
 /* Class = "UITableViewController"; title = "Notifications"; ObjectID = "nPR-ET-sg3"; */
-"nPR-ET-sg3.title" = "Notifications";
+"nPR-ET-sg3.title" = "알림";
 /* Class = "UINavigationItem"; title = "Account Edit"; ObjectID = "pa7-vQ-Yz3"; */
-"pa7-vQ-Yz3.title" = "Account Edit";
+"pa7-vQ-Yz3.title" = "계정편집";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "QTE-cG-3LC"; */
-"QTE-cG-3LC.title" = "Close";
+"QTE-cG-3LC.title" = "닫기";
 /* Class = "UIBarButtonItem"; title = "Reconnect All"; ObjectID = "r7s-58-k2m"; */
-"r7s-58-k2m.title" = "r7s-58-k2m.title";
+"r7s-58-k2m.title" = "모두 다시 연결하기";
 /* Class = "UILabel"; text = "Detail"; ObjectID = "rF7-34-0sc"; */
-"rF7-34-0sc.text" = "Detail";
+"rF7-34-0sc.text" = "상세정보";
 /* Class = "UINavigationItem"; title = "Sounds"; ObjectID = "Rum-Ee-xSZ"; */
-"Rum-Ee-xSZ.title" = "Sounds";
+"Rum-Ee-xSZ.title" = "사운드";
 /* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "TJt-Kl-UDV"; */
-"TJt-Kl-UDV.title" = "Save";
+"TJt-Kl-UDV.title" = "저장하기";
 /* Class = "UITableViewController"; title = "Account Edit"; ObjectID = "Tus-3k-aPR"; */
-"Tus-3k-aPR.title" = "Account Edit";
+"Tus-3k-aPR.title" = "계정 편집";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "VJW-A6-Zpp"; */
-"VJW-A6-Zpp.title" = "Item";
+"VJW-A6-Zpp.title" = "항목";
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "vKm-u5-p5y"; */
-"vKm-u5-p5y.title" = "Root View Controller";
+"vKm-u5-p5y.title" = "루트 보기 컨트롤러";
 /* Class = "UINavigationItem"; title = "Accounts With Logs"; ObjectID = "wlb-8I-yzZ"; */
-"wlb-8I-yzZ.title" = "wlb-8I-yzZ.title";
+"wlb-8I-yzZ.title" = "로그가 있는 계정";
 /* Class = "UITabBarItem"; title = "Settings"; ObjectID = "YtW-zK-Qze"; */
-"YtW-zK-Qze.title" = "Settings";
+"YtW-zK-Qze.title" = "설정";

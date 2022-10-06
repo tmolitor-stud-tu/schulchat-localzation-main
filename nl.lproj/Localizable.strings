@@ -621,50 +621,50 @@
 "Reset OMEMO session" = "OMEMO-sessie opnieuw instellen";
 "You will receive subsequent messages from this conversation" = "Je zal latere berichten uit dit gesprek ontvangen";
 "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Meldingen zijn veranderd in iOS 13 vanwege aanpassingen aan iOS zelf. Voorlopig kan je hierdoor enkel een melding krijgen dat er een nieuw bericht is, maar niet de inhoud of de afzender. Ik heb beslist dit zo op te lossen zodat het converseren gewaarborgd blijft terwijl ik aan Monal werk om de oude ervaring terug te krijgen.";
-"Clear OMEMO session" = "Clear OMEMO session";
-"Failed to publish avatar image for groupchat %@" = "Failed to publish avatar image for groupchat %@";
-"Join Channel" = "Join Channel";
-"Join Group" = "Join Group";
-"No supported auth mechanism found, disconnecting!" = "No supported auth mechanism found, disconnecting!";
-"Refreshing..." = "Refreshing...";
-"This will clear the your own omemo session for debugging purposes" = "This will clear the your own omemo session for debugging purposes";
-"TLS Error: Certificate chain is invalid" = "TLS Error: Certificate chain is invalid";
-"TLS Error: Certificate expired" = "TLS Error: Certificate expired";
-"TLS Error: Host name mismatch" = "TLS Error: Host name mismatch";
-"TLS Error: Unknown root certificate" = "TLS Error: Unknown root certificate";
-"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@";
+"Clear OMEMO session" = "Wis OMEMO sessie";
+"Failed to publish avatar image for groupchat %@" = "Slaagde er niet in om om avatar foto te publiceren voor groepchat %@";
+"Join Channel" = "Deelnemen aan kanaal";
+"Join Group" = "Deelnemen aan kanaal";
+"No supported auth mechanism found, disconnecting!" = "Geen authenticatie mechanisme gevonden, verbinding verbroken!";
+"Refreshing..." = "Herladen...";
+"This will clear the your own omemo session for debugging purposes" = "Dit zal je eigen OMEMO sessies verwijderen voor debugging doeleinden.";
+"TLS Error: Certificate chain is invalid" = "TLS Error: Certificaat ketting is ongeldig";
+"TLS Error: Certificate expired" = "TLS Error: Certificaat verlopen";
+"TLS Error: Host name mismatch" = "TLS Error: Host naam mismatch";
+"TLS Error: Unknown root certificate" = "TLS Error: Onbekend root certificaat";
+"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "We waren niet in staat om je account te verbinden. Alsjeblieft check je gegevens en zorg dat je verbonden bent met het internet.\n\nTechnische error bericht: %@";
 /* directory for downloaded audios */
-"Received Audios" = "Received Audios";
+"Received Audios" = "Geluiden ontvangen";
 /* directory for downloaded files */
-"Received Files" = "Received Files";
+"Received Files" = "Bestanden ontvangen";
 /* directory for downloaded images */
-"Received Images" = "Received Images";
+"Received Images" = "Afbeeldingen ontvangen";
 /* directory for downloaded videos */
-"Received Videos" = "Received Videos";
+"Received Videos" = "Videos ontvangen";
 /* directory for downloaded audios */
-"Sent Audios" = "Sent Audios";
+"Sent Audios" = "Stuur geluiden";
 /* directory for downloaded files */
-"Sent Files" = "Sent Files";
+"Sent Files" = "Stuur bestanden";
 /* directory for downloaded images */
-"Sent Images" = "Sent Images";
+"Sent Images" = "Stuur afbeeldingen";
 /* directory for downloaded videos */
-"Sent Videos" = "Sent Videos";
+"Sent Videos" = "Stuur videos";
 /* hello bartycrouch */
 "Dummy string for triggering bartycrouch" = "Dummy string for triggering bartycrouch";
-"Account already configured in Monal!" = "Account already configured in Monal!";
-"Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Cannot share something with disabled/deleted account, destination: %1$@, internal account id: %2$@";
-"Could not read captcha!" = "Could not read captcha!";
-"Enable OMEMO per default" = "Enable OMEMO per default";
+"Account already configured in Monal!" = "Account al geconfigureerd in Monal!";
+"Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Kan niet iets delen met uitgeschakelde/verwijderde accounts, bestemming: %1$@, interne account id: %2$@";
+"Could not read captcha!" = "Kan captcha niet lezen!";
+"Enable OMEMO per default" = "OMEMO standaart aanzetten";
 "Error: %@" = "Error: %@";
-"Failed to share file" = "Failed to share file";
-"Failed to upload file: account was removed" = "Failed to upload file: account was removed";
-"Fetching registration form..." = "Fetching registration form...";
-"No OMEMO keys found" = "No OMEMO keys found";
-"Password missing" = "Password missing";
-"Please enter a password below before activating this account." = "Please enter a password below before activating this account.";
-"Registering account..." = "Registering account...";
-"Server for domain '%@' not responding!" = "Server for domain '%@' not responding!";
-"Sharing failed" = "Sharing failed";
+"Failed to share file" = "Mislukt om bestand te delen";
+"Failed to upload file: account was removed" = "Mislukt om bestand te uploaden: account is verwijderd";
+"Fetching registration form..." = "Ophalen van registratie formulier...";
+"No OMEMO keys found" = "Geen OMEMO sleutels gevonden";
+"Password missing" = "Wachtwoord ontbreekt";
+"Please enter a password below before activating this account." = "Alsjeblieft voer een wachtwoord in hieronder voordat je dit account activeert.";
+"Registering account..." = "Account registreren...";
+"Server for domain '%@' not responding!" = "Server for domein '%@' reageert niet!";
+"Sharing failed" = "Delen mislukt";
 "This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "This contact may not support OMEMO encrypted messages. Please try again in a few seconds.";
 "You restored an iCloud backup of Monal, please open the app to reenable this account." = "You restored an iCloud backup of Monal, please open the app to reenable this account.";
 "%02d:%02d (long press to abort)" = "%02d:%02d (long press to abort)";

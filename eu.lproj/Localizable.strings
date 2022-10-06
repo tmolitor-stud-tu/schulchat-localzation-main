@@ -667,7 +667,7 @@
 "Sharing failed" = "Partekatzeak kale egin du";
 "This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "Litekeena da kontaktu honek OMEMO zifratutako mezuak erabili ezin izatea. Saiatu berriro geroago.";
 "You restored an iCloud backup of Monal, please open the app to reenable this account." = "Monalen iCloud babeskopia bat lehengoratu duzu; ireki aplikazioa kontu hau birgaitzeko.";
-"%02d:%02d (long press to abort)" = "Sakatu eta eutsi alboratzeko";
+"%02d:%02d (long press to abort)" = "%02d:%02d (sakatu eta eutsi alboratzeko)";
 "Abort" = "Alboratu";
 "Aborted recording audio" = "Audio grabaketa alboratu da";
 "Could not access Finder item!" = "Ezin izan da Finderreko elementua atzitu!";
@@ -681,7 +681,7 @@
 "Please update!" = "Eguneratu!";
 "Remove Account from this Device" = "Kendu kontua gailu honetatik";
 "Server does not support account removal" = "Zerbitzariak ez dauka kontua kentzeko aukera gaituta";
-"Temporary failure to enter groupchat: %@" = "Ezin izan da %@ taldeko txatera sartu behin-behinean.";
+"Temporary failure to enter groupchat: %@" = "Ezin izan da %@ taldeko txatera sartu behin-behinean";
 "The account has been removed" = "Kontua kendu da";
 "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "Aplikazio hau zaharregia da eta segurtasun arazoak izan ditzake edo erabilgarri egoteari utzi. Eguneratu!";
 "This will delete this account and the associated data from the server and this device. Data might still be retained on other devices, though." = "Honek zerbitzaritik eta gailutik ezabatuko du kontua, baina litekeena da datuak oraindik beste gailuren batean egotea.";

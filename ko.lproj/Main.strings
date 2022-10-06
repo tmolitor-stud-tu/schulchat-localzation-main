@@ -1,62 +1,62 @@
 /* Class = "UIButton"; normalTitle = "Add Contact or Channel"; ObjectID = "21P-WC-8yr"; */
-"21P-WC-8yr.normalTitle" = "Add Contact or Channel";
+"21P-WC-8yr.normalTitle" = "연락처 또는 채널 추가하기";
 /* Class = "UILabel"; text = "Add new Contact or Channel"; ObjectID = "7Cs-k6-7n4"; */
-"7Cs-k6-7n4.text" = "Add new Contact or Channel";
+"7Cs-k6-7n4.text" = "새 연락처 또는 채널 추가하기";
 /* Class = "UILabel"; text = "Join a Group Chat"; ObjectID = "7dx-xo-wIB"; */
-"7dx-xo-wIB.text" = "7dx-xo-wIB.text";
+"7dx-xo-wIB.text" = "그룹 채팅 참여하기";
 /* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */
-"BWH-2I-fSI.title" = "Settings";
+"BWH-2I-fSI.title" = "설정";
 /* Class = "UINavigationItem"; title = "Contact Requests"; ObjectID = "GI8-WI-wYs"; */
-"GI8-WI-wYs.title" = "Contact Requests";
+"GI8-WI-wYs.title" = "연락처 요청";
 /* Class = "UITableViewController"; title = "Join Group Chat"; ObjectID = "GpF-k7-Z6D"; */
-"GpF-k7-Z6D.title" = "GpF-k7-Z6D.title";
+"GpF-k7-Z6D.title" = "그룹 채팅 참여하기";
 /* Class = "UINavigationItem"; title = "Select An Account"; ObjectID = "heq-Ls-ieg"; */
-"heq-Ls-ieg.title" = "Select An Account";
+"heq-Ls-ieg.title" = "계정 선택하기";
 /* Class = "UINavigationItem"; title = "Add Contact or Channel"; ObjectID = "HYb-u1-ZN3"; */
-"HYb-u1-ZN3.title" = "Add Contact or Channel";
+"HYb-u1-ZN3.title" = "연락처 추가하기";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "IGd-kM-9BO"; */
-"IGd-kM-9BO.title" = "IGd-kM-9BO.title";
+"IGd-kM-9BO.title" = "닫기";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aD9"; */
-"iLC-4b-aD9.title" = "Item";
+"iLC-4b-aD9.title" = "항목";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aDr"; */
-"iLC-4b-aDr.title" = "Item";
+"iLC-4b-aDr.title" = "항목";
 /* Class = "UITabBarItem"; title = "Chats"; ObjectID = "jh7-be-VPo"; */
-"jh7-be-VPo.title" = "Chats";
+"jh7-be-VPo.title" = "채팅";
 /* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jIW-zk-rUu"; */
-"jIW-zk-rUu.normalTitle" = "Send";
+"jIW-zk-rUu.normalTitle" = "보내기";
 /* Class = "UINavigationItem"; title = "Group Chat"; ObjectID = "k0T-5X-FQu"; */
-"k0T-5X-FQu.title" = "k0T-5X-FQu.title";
+"k0T-5X-FQu.title" = "그룹 채팅";
 /* Class = "UILabel"; text = "Pull to load more messages"; ObjectID = "K3M-5z-C5O"; */
-"K3M-5z-C5O.text" = "Pull to load more messages";
+"K3M-5z-C5O.text" = "더 많은 메시지를 불러오려면 끌어오기";
 /* Class = "UILabel"; text = "Send Message"; ObjectID = "KUa-bA-cQb"; */
-"KUa-bA-cQb.text" = "Send Message";
+"KUa-bA-cQb.text" = "메시지 보내기";
 /* Class = "UINavigationItem"; title = "Send A Message "; ObjectID = "MiR-iW-O6e"; */
-"MiR-iW-O6e.title" = "Send A Message ";
+"MiR-iW-O6e.title" = "메시지 보내기 ";
 /* Class = "UINavigationItem"; title = "New"; ObjectID = "Msw-bP-HIu"; */
-"Msw-bP-HIu.title" = "Msw-bP-HIu.title";
+"Msw-bP-HIu.title" = "새로 만들기";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "NyY-WQ-3hC"; */
-"NyY-WQ-3hC.title" = "Close";
+"NyY-WQ-3hC.title" = "닫기";
 /* Class = "UIBarButtonItem"; title = "Previous"; ObjectID = "OxW-Yc-5ky"; */
-"OxW-Yc-5ky.title" = "Previous";
+"OxW-Yc-5ky.title" = "이전";
 /* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "PI2-N1-aLJ"; */
-"PI2-N1-aLJ.title" = "Next";
+"PI2-N1-aLJ.title" = "다음";
 /* Class = "UIBarButtonItem"; title = "Compose"; ObjectID = "pyP-qb-mfr"; */
-"pyP-qb-mfr.title" = "Compose";
+"pyP-qb-mfr.title" = "구성하기";
 /* Class = "UIButton"; normalTitle = "Join Group"; ObjectID = "Q7I-qj-4zk"; */
-"Q7I-qj-4zk.normalTitle" = "Q7I-qj-4zk.normalTitle";
+"Q7I-qj-4zk.normalTitle" = "그룹 참여하기";
 /* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "qsR-dX-TO1"; */
-"qsR-dX-TO1.title" = "Contacts";
+"qsR-dX-TO1.title" = "연락처";
 /* Class = "UINavigationItem"; title = "Chats"; ObjectID = "RRa-hC-xrf"; */
-"RRa-hC-xrf.title" = "Chats";
+"RRa-hC-xrf.title" = "채팅";
 /* Class = "UILabel"; text = "Detail"; ObjectID = "sff-9g-z31"; */
-"sff-9g-z31.text" = "sff-9g-z31.text";
+"sff-9g-z31.text" = "상세정보";
 /* Class = "UILabel"; text = "View Contact Requests"; ObjectID = "SmS-bT-id6"; */
-"SmS-bT-id6.text" = "View Contact Requests";
+"SmS-bT-id6.text" = "연락처 요청 보기";
 /* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "TMS-52-ORP"; */
-"TMS-52-ORP.title" = "Done";
+"TMS-52-ORP.title" = "완료";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Vtv-sv-ErG"; */
-"Vtv-sv-ErG.title" = "Close";
+"Vtv-sv-ErG.title" = "닫기";
 /* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "wNA-vF-ohQ"; */
-"wNA-vF-ohQ.title" = "wNA-vF-ohQ.title";
+"wNA-vF-ohQ.title" = "추가하기";
 /* Class = "UINavigationItem"; title = "Join Group Chat"; ObjectID = "yIE-Ub-BAk"; */
-"yIE-Ub-BAk.title" = "yIE-Ub-BAk.title";
+"yIE-Ub-BAk.title" = "그룹 채팅 가입하기";

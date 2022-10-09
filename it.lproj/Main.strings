@@ -47,7 +47,7 @@
 /* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "qsR-dX-TO1"; */
 "qsR-dX-TO1.title" = "Contatti";
 /* Class = "UINavigationItem"; title = "Chats"; ObjectID = "RRa-hC-xrf"; */
-"RRa-hC-xrf.title" = "Discussioni";
+"RRa-hC-xrf.title" = "Chat";
 /* Class = "UILabel"; text = "Detail"; ObjectID = "sff-9g-z31"; */
 "sff-9g-z31.text" = "Dettaglio";
 /* Class = "UILabel"; text = "View Contact Requests"; ObjectID = "SmS-bT-id6"; */

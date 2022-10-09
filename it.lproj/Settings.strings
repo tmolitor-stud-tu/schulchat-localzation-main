@@ -1,7 +1,7 @@
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "2FM-6l-v8h"; */
 "2FM-6l-v8h.title" = "Chiudi";
 /* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "d7c-hm-a1K"; */
-"d7c-hm-a1K.normalTitle" = "Cambia la password";
+"d7c-hm-a1K.normalTitle" = "Aggiorna password";
 /* Class = "UISplitViewController"; title = "Settings"; ObjectID = "dgM-uB-Aap"; */
 "dgM-uB-Aap.title" = "Impostazioni";
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "gFd-bu-COM"; */

@@ -135,7 +135,7 @@
 "No Empty Values" = "Nessun campo vuoto";
 "No GPS location received" = "Nessuna posizione GPS ricevuta";
 "No groups yet" = "Ancora nessun gruppo";
-"No one is here" = "Non c'è nessuno qui";
+"No one is here" = "Non c'è ancora nessuno!";
 "Nothing to see" = "Niente da vedere";
 "Notification Changes" = "Cambio di notifica";
 "Notification Settings" = "Impostazioni di notifica";
@@ -222,8 +222,8 @@
 "Status" = "Stato";
 "Status Message" = "Messaggio di stato";
 "Submit A Bug" = "Segnala un problema";
-"Success" = "Riuscito";
-"Success!" = "Riuscito!";
+"Success" = "Completato";
+"Success!" = "Completato!";
 "Support" = "Supporto";
 "Synchronize your messages on all loggedin devices." = "Sincronizza i messaggi su tutti i dispositivi collegati.";
 "Tell my contacts when I'm typing" = "Fai sapere ai miei contatti quando sto scrivendo";
@@ -271,7 +271,7 @@
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet." = "Impossibile connettere il tuo account. Verifica le credenziali e assicurati di essere connesso a internet.";
 "Welcome to Monal" = "Benvenuto/a su Monal";
 "When you have some favorite groups, they will be here for you." = "Quando hai dei gruppi preferiti, saranno qui per te.";
-"When you start talking to someone,\n they will show up here." = "Quando inizi a parlare con qualcuno,\n lo vedrai apparire qui.";
+"When you start talking to someone,\n they will show up here." = "Quando inizi una chat con qualcuno,\n lo vedrai apparire qui.";
 "Will logout and reconnect any connected accounts." = "Verrà riconnesso qualsiasi account attualmente connesso.";
 "Will make a HTTP HEAD call on all links" = "Sarà effettuata una chiamata HTTP HEAD su tutti i link";
 "XEP-0198: Stream Management" = "XEP-0198: Gestione flusso dati";
@@ -283,7 +283,7 @@
 "XMPP" = "XMPP";
 "Yes" = "Si";
 "You are not trapped in a garden. Talk to anyone else without anyone tracking you." = "Non sei intrappolato in un giardino. Parla con chiunque senza che nessuno ti tracci.";
-"You are set up and connected." = "Sei pronto/a e connesso/a.";
+"You are set up and connected." = "L'account è pronto e connesso.";
 "You can see their keys. They can't see yours" = "Puoi vedere le sue chiavi ma non può vedere le tue";
 "You have been invited to a conversation %@?" = "Sei stato inviato in una chat %@?";
 "You have not received any images in this conversation." = "Non hai ricevuto immagini in questa conversazione.";

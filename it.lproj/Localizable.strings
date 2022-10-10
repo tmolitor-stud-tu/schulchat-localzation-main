@@ -690,7 +690,7 @@
 "Error authenticating server using SASL2, disconnecting!" = "Errore di autenticazione SASL2 sul server, disconnetto!";
 "Error handling SASL challenge of server, disconnecting!" = "Errore nella gestione del challenge SASL del server, disconnetto!";
 "Failed to enter Group/Channel %@" = "Impossibile entrare nel gruppo o canale %@";
-"Failed to enter Group/Channel %@: This is not a Group/Channel!" = "Failed to enter Group/Channel %@: This is not a Group/Channel!";
+"Failed to enter Group/Channel %@: This is not a Group/Channel!" = "Impossibile entrare nel gruppo o canale %@: Questo non è un gruppo o un canale!";
 "Failed to publish avatar image for group/channel %@" = "Failed to publish avatar image for group/channel %@";
 "Failed to query new messages for Group/Channel %@" = "Failed to query new messages for Group/Channel %@";
 "Failed to query newest stanzaid for Group/Channel %@" = "Failed to query newest stanzaid for Group/Channel %@";

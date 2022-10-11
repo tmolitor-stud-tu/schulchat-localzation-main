@@ -21,7 +21,7 @@
 "Advanced Settings" = "Impostazioni avanzate";
 "All messages are archived by default." = "Tutti i nuovi messaggi vengono archiviati.";
 "Allow %@ to contact you?" = "Consentire a %@ di contattarti?";
-"Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject." = "Consentire a qualcuno di aggiungerti come contatto gli permette di vedere quando sei in linea. Consente inoltre di inviare messaggi crittografati. Tocca per approvare o scorri per rifiutare.";
+"Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject." = "Se consenti a qualcuno di aggiungerti come contatto potrà vedere quando sei in linea e inviarti messaggi cifrati. Tocca per approvare o scorri per rifiutare.";
 "App" = "Applicazione";
 "Apple Push Service" = "Servizio Apple Push";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Il servizio push di Apple dovrebbe essere sempre attivo. Se disattivato, il tuo dispositivo non potrà collegarsi con il server Apple.";
@@ -205,8 +205,8 @@
 "Server" = "Server";
 "Server: %@" = "Server: %@";
 "Set a nickname" = "Imposta un soprannome";
-"Show Inline Geo Location" = "Mostra la posizione geografica in linea";
-"Show Inline Images" = "Mostra le immagini in linea";
+"Show Inline Geo Location" = "Mostra anteprima posizione geografica";
+"Show Inline Images" = "Mostra anteprima immagini";
 "Signing Up" = "Iscrizione";
 "Skip" = "Salta";
 "Sort By Status" = "Ordina per stato";
@@ -411,7 +411,7 @@
 "Automatically fetch previews of received links" = "Scarica automaticamente le anteprime dei link ricevuti";
 /* DEBUG - ContactDetails */
 "Clear omemo session" = "Inizializza la sessione OMEMO";
-"Show URL previews" = "Mostra l'anteprima dei link";
+"Show URL previews" = "Mostra anteprima dei link";
 /* shareViewController: recipient */
 "Recipient" = "Destinatario";
 "Appserver error" = "Errore dell'Application Server";
@@ -516,7 +516,7 @@
 "Checking" = "Verifico";
 /* addContact - checking HUD */
 "Checking if the jid you provided is correct" = "Verifica che il Jabber ID che hai fornito sia corretto";
-"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Il Jabber ID di un contatto o canale sono solitamente nel formato 'nomeutente@dominio'";
+"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Lo Jabber ID di un contatto o un canale sono solitamente nel formato 'nomeutente@dominio'";
 "Contact or Channel Jid" = "Jabber ID del contatto o canale";
 "Could not load (all) old messages" = "Impossibile caricare (tutti) i vecchi messaggi";
 "Could not load (all) old messages from your server archive. Please try again later. %@" = "Impossibile caricare (tutti) i vecchi messaggi dall'archivio del server. Per favore riprova più tardi. %@";

@@ -532,67 +532,67 @@
 "Failed to query newest stanzaid for account %@" = "Nie udało się wysłać zapytania o najnowszy stanzaid dla konta %@";
 "Failed to query newest stanzaid for groupchat %@" = "Nie udało się wysłać zapytania o najnowszy stanzaid dla czatu grupowego %@";
 "Failed to save groupchat bookmarks" = "Nie udało się zapisać zakładek do czatu grupowego";
-"Groupchat/channel details" = "Groupchat/channel details";
-"Groupchat/channel details are currently not implemented in Monal." = "Groupchat/channel details are currently not implemented in Monal.";
-"Image Quality" = "Image Quality";
-"Image Quality: %.2f" = "Image Quality: %.2f";
-"Invalid Password!" = "Invalid Password!";
-"Jid Invalid" = "Jid Invalid";
-"Message Archive Preferences" = "Message Archive Preferences";
-"Please make sure at least one account has connected before trying to add a contact or channel." = "Please make sure at least one account has connected before trying to add a contact or channel.";
+"Groupchat/channel details" = "Szczegóły czatu grupowego/kanału";
+"Groupchat/channel details are currently not implemented in Monal." = "Szczegóły czatu grupowego/kanału nie są obecnie zaimplementowane w Monal.";
+"Image Quality" = "Jakość obrazu";
+"Image Quality: %.2f" = "Jakość obrazu: %.2f";
+"Invalid Password!" = "Nieprawidłowe hasło!";
+"Jid Invalid" = "Nieprawidłowy Jid";
+"Message Archive Preferences" = "Preferencje archiwum wiadomości";
+"Please make sure at least one account has connected before trying to add a contact or channel." = "Upewnij się, że co najmniej jedno konto jest połączone, zanim spróbujesz dodać kontakt lub kanał.";
 /* catalina warning */
-"QR-Code scanning is not supported on catalina" = "QR-Code scanning is not supported on catalina";
+"QR-Code scanning is not supported on catalina" = "Catalina nie obsługuje skanowania kodów QR";
 /* catalina warning */
-"QR-Code scanning unsupported" = "QR-Code scanning unsupported";
-"Remove Conversation" = "Remove Conversation";
-"SRV entry prohibits XMPP connection for domain %@" = "SRV entry prohibits XMPP connection for domain %@";
-"The current password is not correct." = "The current password is not correct.";
-"The jid has to be in the form 'user@domain.tld' to be correct." = "The jid has to be in the form 'user@domain.tld' to be correct.";
+"QR-Code scanning unsupported" = "Skanowanie kodów QR nie jest obsługiwane";
+"Remove Conversation" = "Usuń rozmowę";
+"SRV entry prohibits XMPP connection for domain %@" = "Wpis SRV zabrania połączenia XMPP dla domeny %@";
+"The current password is not correct." = "Aktualne hasło jest nieprawidłowe.";
+"The jid has to be in the form 'user@domain.tld' to be correct." = "Jid musi mieć format „użytkownik@domena.tld”, aby był poprawny.";
 /* QR-Code-Scanner: jid scan wrong menu */
-"The qrcode contains a jid. Rescan the qrcode in the add user menu" = "The qrcode contains a jid. Rescan the qrcode in the add user menu";
+"The qrcode contains a jid. Rescan the qrcode in the add user menu" = "Kod QR zawiera jid. Ponownie zeskanuj kod qr w menu dodawania użytkownika";
 /* QR-Code-Scanner: account scan wrong menu */
-"The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode";
-"Unexpected error while checking type of jid:" = "Unexpected error while checking type of jid:";
-"Unexpected server response: invalid PEP config form" = "Unexpected server response: invalid PEP config form";
-"Unexpected server response: missing required fields in PEP config form" = "Unexpected server response: missing required fields in PEP config form";
+"The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "Kod QR zawiera dane logowania do konta. Przejdź do ustawień i ponownie zeskanuj QRCode";
+"Unexpected error while checking type of jid:" = "Nieoczekiwany błąd podczas sprawdzania typu jid:";
+"Unexpected server response: invalid PEP config form" = "Nieoczekiwana odpowiedź serwera: nieprawidłowy formularz konfiguracji PEP";
+"Unexpected server response: missing required fields in PEP config form" = "Nieoczekiwana odpowiedź serwera: brak wymaganych pól w formularzu konfiguracji PEP";
 /* QR-Code-Scanner: account scan wrong menu
    QR-Code-Scanner: jid scan wrong menu */
-"Wrong menu" = "Wrong menu";
-"Could not change password" = "Could not change password";
-"Could not change password: your account is currently not conneced" = "Could not change password: your account is currently not conneced";
-"Unexpected error while checking type of jid, please try again" = "Unexpected error while checking type of jid, please try again";
-"Upload Error" = "Upload Error";
-"Upload Error: your account got disconnected while requesting upload slot" = "Upload Error: your account got disconnected while requesting upload slot";
-"Could not change password: your account is currently not connected" = "Could not change password: your account is currently not connected";
-"Account disabled" = "Account disabled";
+"Wrong menu" = "Złe menu";
+"Could not change password" = "Nie udało się zmienić hasła";
+"Could not change password: your account is currently not conneced" = "Nie można zmienić hasła: Twoje konto nie jest obecnie połączone";
+"Unexpected error while checking type of jid, please try again" = "Nieoczekiwany błąd podczas sprawdzania typu jid, spróbuj ponownie";
+"Upload Error" = "Błąd przesyłania";
+"Upload Error: your account got disconnected while requesting upload slot" = "Błąd przesyłania: Twoje konto zostało odłączone podczas prośby o przesłanie miejsca";
+"Could not change password: your account is currently not connected" = "Nie można zmienić hasła: Twoje konto nie jest obecnie połączone";
+"Account disabled" = "Konto Wyłączone";
 /* Camera permissions missing warning */
-"Camera permissions missing" = "Camera permissions missing";
-"Connecting..." = "Connecting...";
-"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@";
-"Could not fetch messages" = "Could not fetch messages";
+"Camera permissions missing" = "Brak uprawnień do aparatu";
+"Connecting..." = "Połączanie...";
+"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Nie można pobrać (wszystkich) starych wiadomości dla tego czatu z archiwum serwera. Spróbuj ponownie później. %@";
+"Could not fetch messages" = "Nie udało się pobrać wiadomości";
 "Debug" = "Debug";
-"Failed to download file" = "Failed to download file";
-"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'.";
-"If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first.";
-"If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357.";
-"Loading contact list" = "Loading contact list";
-"Missing permission" = "Missing permission";
+"Failed to download file" = "Nie udało się pobrać pliku";
+"If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "Jeśli Monal nie może wyświetlić powiadomień, nie zobaczysz alertów o nadejściu wiadomości. Dzieje się tak, jeśli klikniesz „Odrzuć”, gdy Monal po raz pierwszy poprosił o pozwolenie. Napraw to, przechodząc do Ustawienia iOS -> Monal -> Powiadomienia i wybierz „Zezwalaj na powiadomienia”.";
+"If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "Jeśli Monal push jest wyłączone, Twoje urządzenie nie może komunikować się z %@ przez xmpp. To również nigdy nie powinno być wyłączone. Wymaga najpierw działania usługi Apple push.";
+"If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "Jeśli to jest wyłączone, Twoje urządzenie nie może aktywować push na serwerze xmpp, upewnij się, że skonfigurowałeś je do obsługi XEP-0357.";
+"Loading contact list" = "Wczytuję listę kontaktów";
+"Missing permission" = "Brak pozwolenia";
 /* Camera permissions missing warning */
-"Monal is not allowed to access the camera" = "Monal is not allowed to access the camera";
-"Monal uses your location when you send a location message in a conversation." = "Monal uses your location when you send a location message in a conversation.";
+"Monal is not allowed to access the camera" = "Monal nie ma dostępu do aparatu";
+"Monal uses your location when you send a location message in a conversation." = "Monal używa Twojej lokalizacji, gdy wysyłasz wiadomość o lokalizacji w rozmowie.";
 /* Chat msg action */
 "Quote" = "Quote";
 /* Camera permissions missing warning */
-"Settings" = "Settings";
-"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@";
-"You did not grant Monal to access your location." = "You did not grant Monal to access your location.";
-"Always use direct TLS, not STARTTLS" = "Always use direct TLS, not STARTTLS";
-"Server Support Details" = "Server Support Details";
-"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later.";
-"Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)";
-"Protocol support of your server (XEPs)" = "Protocol support of your server (XEPs)";
-"Draft:" = "Draft:";
-"Failed to delete own avatar" = "Failed to delete own avatar";
+"Settings" = "Ustawienia";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "Połączenie z serwerem zostało przerwane i nie można było pobrać starych wiadomości z tego czatu. Spróbuj ponownie później. %@";
+"You did not grant Monal to access your location." = "Nie przyznałeś Monalowi dostępu do swojej lokalizacji.";
+"Always use direct TLS, not STARTTLS" = "Zawsze używaj bezpośredniego TLS, a nie STARTTLS";
+"Server Support Details" = "Szczegóły wsparcia serwera";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later." = "Połączenie z serwerem zostało przerwane i nie można było pobrać starych wiadomości z tego czatu. Spróbuj ponownie później.";
+"Upload files to the server to share with others. (Maximum allowed size of files reported by the server: %@)" = "Prześlij pliki na serwer, aby udostępnić je innym. (Maksymalny dozwolony rozmiar plików zgłoszonych przez serwer: %@)";
+"Protocol support of your server (XEPs)" = "Obsługa protokołów Twojego serwera (XEP)";
+"Draft:" = "Projekt:";
+"Failed to delete own avatar" = "Nie udało się usunąć własnego awatara";
 "Failed to delete own nickname" = "Failed to delete own nickname";
 "Failed to publish own avatar" = "Failed to publish own avatar";
 "Failed to publish own nickname" = "Failed to publish own nickname";

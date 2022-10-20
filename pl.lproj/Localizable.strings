@@ -570,7 +570,7 @@
 "Connecting..." = "Połączanie...";
 "Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Nie można pobrać (wszystkich) starych wiadomości dla tego czatu z archiwum serwera. Spróbuj ponownie później. %@";
 "Could not fetch messages" = "Nie udało się pobrać wiadomości";
-"Debug" = "Debug";
+"Debug" = "Szukanie błędu";
 "Failed to download file" = "Nie udało się pobrać pliku";
 "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "Jeśli Monal nie może wyświetlić powiadomień, nie zobaczysz alertów o nadejściu wiadomości. Dzieje się tak, jeśli klikniesz „Odrzuć”, gdy Monal po raz pierwszy poprosił o pozwolenie. Napraw to, przechodząc do Ustawienia iOS -> Monal -> Powiadomienia i wybierz „Zezwalaj na powiadomienia”.";
 "If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "Jeśli Monal push jest wyłączone, Twoje urządzenie nie może komunikować się z %@ przez xmpp. To również nigdy nie powinno być wyłączone. Wymaga najpierw działania usługi Apple push.";
@@ -581,7 +581,7 @@
 "Monal is not allowed to access the camera" = "Monal nie ma dostępu do aparatu";
 "Monal uses your location when you send a location message in a conversation." = "Monal używa Twojej lokalizacji, gdy wysyłasz wiadomość o lokalizacji w rozmowie.";
 /* Chat msg action */
-"Quote" = "Quote";
+"Quote" = "Cytat";
 /* Camera permissions missing warning */
 "Settings" = "Ustawienia";
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "Połączenie z serwerem zostało przerwane i nie można było pobrać starych wiadomości z tego czatu. Spróbuj ponownie później. %@";
@@ -593,61 +593,61 @@
 "Protocol support of your server (XEPs)" = "Obsługa protokołów Twojego serwera (XEP)";
 "Draft:" = "Projekt:";
 "Failed to delete own avatar" = "Nie udało się usunąć własnego awatara";
-"Failed to delete own nickname" = "Failed to delete own nickname";
-"Failed to publish own avatar" = "Failed to publish own avatar";
-"Failed to publish own nickname" = "Failed to publish own nickname";
-"Message was encrypted with '%@' which isn't supported by Monal" = "Message was encrypted with '%@' which isn't supported by Monal";
-"Message was encrypted with OMEMO but could not be decrypted" = "Message was encrypted with OMEMO but could not be decrypted";
-"Timeout Error" = "Timeout Error";
-"Autodelete all messages after 3 days" = "Autodelete all messages after 3 days";
-"Devices of %@" = "Devices of %@";
-"Failed to block contact %@" = "Failed to block contact %@";
-"Leave this conversation" = "Leave this conversation";
-"Message was encrypted with OMEMO and can't be decrypted anymore" = "Message was encrypted with OMEMO and can't be decrypted anymore";
-"You will no longer receive messages from this conversation" = "You will no longer receive messages from this conversation";
-"Loading registration form" = "Loading registration form";
-"Using server '%@' that was provided by the registration link you used." = "Using server '%@' that was provided by the registration link you used.";
-"yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im is a public server, not affiliated with Monal. This page is provided for convenience.";
-"There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person." = "There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person.";
-"There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)" = "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)";
-"Add Channel to Favorites" = "Add Channel to Favorites";
-"Add Group to Favorites" = "Add Group to Favorites";
-"Clear chat history for this contact" = "Clear chat history for this contact";
-"Clear History" = "Clear History";
-"Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again.";
-"Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!";
-"Leave Channel" = "Leave Channel";
-"Leave Group" = "Leave Group";
-"Reset OMEMO session" = "Reset OMEMO session";
-"You will receive subsequent messages from this conversation" = "You will receive subsequent messages from this conversation";
-"Clear OMEMO session" = "Clear OMEMO session";
-"Failed to publish avatar image for groupchat %@" = "Failed to publish avatar image for groupchat %@";
-"Join Channel" = "Join Channel";
-"Join Group" = "Join Group";
-"No supported auth mechanism found, disconnecting!" = "No supported auth mechanism found, disconnecting!";
-"Refreshing..." = "Refreshing...";
-"This will clear the your own omemo session for debugging purposes" = "This will clear the your own omemo session for debugging purposes";
-"TLS Error: Certificate chain is invalid" = "TLS Error: Certificate chain is invalid";
-"TLS Error: Certificate expired" = "TLS Error: Certificate expired";
-"TLS Error: Host name mismatch" = "TLS Error: Host name mismatch";
-"TLS Error: Unknown root certificate" = "TLS Error: Unknown root certificate";
-"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@";
+"Failed to delete own nickname" = "Nie udało się usunąć własnego pseudonimu";
+"Failed to publish own avatar" = "Nie udało się opublikować własnego awatara";
+"Failed to publish own nickname" = "Nie udało się opublikować własnego pseudonimu";
+"Message was encrypted with '%@' which isn't supported by Monal" = "Wiadomość została zaszyfrowana za pomocą „%@”, co nie jest obsługiwane przez Monal";
+"Message was encrypted with OMEMO but could not be decrypted" = "Wiadomość została zaszyfrowana za pomocą OMEMO, ale nie można jej odszyfrować";
+"Timeout Error" = "Błąd przekroczenia limitu czasu";
+"Autodelete all messages after 3 days" = "Automatycznie usuń wszystkie wiadomości po 3 dniach";
+"Devices of %@" = "Urządzenia %@";
+"Failed to block contact %@" = "Nie udało się zablokować kontaktu %@";
+"Leave this conversation" = "Opuść tę rozmowę";
+"Message was encrypted with OMEMO and can't be decrypted anymore" = "Wiadomość została zaszyfrowana za pomocą OMEMO i nie można jej już odszyfrować";
+"You will no longer receive messages from this conversation" = "Nie będziesz już otrzymywać wiadomości z tej rozmowy";
+"Loading registration form" = "Wczytuję formularz rejestracyjny";
+"Using server '%@' that was provided by the registration link you used." = "Używając serwera „%@”, który został dostarczony przez użyty link rejestracyjny.";
+"yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im jest serwerem publicznym, niezwiązanym z Monalem. Ta strona jest przeznaczona dla wygody.";
+"There was an error decrypting this encrypted KEY TRANSPORT message (Signal error). To resolve this, try sending an encrypted message to this person." = "Wystąpił błąd podczas odszyfrowywania tej zaszyfrowanej wiadomości KEY TRANSPORT (błąd sygnału). Aby rozwiązać ten problem, spróbuj wysłać zaszyfrowaną wiadomość do tej osoby.";
+"There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person. (%@)" = "Wystąpił błąd podczas odszyfrowywania tej zaszyfrowanej wiadomości (błąd sygnału). Aby rozwiązać ten problem, spróbuj wysłać zaszyfrowaną wiadomość do tej osoby. (%@)";
+"Add Channel to Favorites" = "Dodaj kanał do ulubionych";
+"Add Group to Favorites" = "Dodaj grupę do ulubionych";
+"Clear chat history for this contact" = "Wyczyść historię czatu dla tego kontaktu";
+"Clear History" = "Czysta historia";
+"Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Czy na pewno chcesz wyczyścić wszystkie wiadomości wymieniane w tej rozmowie? Jeśli korzystasz z OMEMO, nie będziesz w stanie ich ponownie załadować z serwera.";
+"Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Czy na pewno chcesz zresetować sesję OMEMO? Powinieneś zresetować połączenie tylko wtedy, gdy wiesz, co robisz!";
+"Leave Channel" = "Opuść kanał";
+"Leave Group" = "Opuścić grupę";
+"Reset OMEMO session" = "Zresetuj sesję OMEMO";
+"You will receive subsequent messages from this conversation" = "Będziesz otrzymywać kolejne wiadomości z tej rozmowy";
+"Clear OMEMO session" = "Wyczyść sesję OMEMO";
+"Failed to publish avatar image for groupchat %@" = "Nie udało się opublikować obrazu awatara dla czatu grupowego %@";
+"Join Channel" = "Dołącz do kanału";
+"Join Group" = "Dołącz do grupy";
+"No supported auth mechanism found, disconnecting!" = "Nie znaleziono obsługiwanego mechanizmu uwierzytelniania, rozłączam się!";
+"Refreshing..." = "Odświerzanie...";
+"This will clear the your own omemo session for debugging purposes" = "Spowoduje to wyczyszczenie Twojej własnej sesji omemo do celów debugowania";
+"TLS Error: Certificate chain is invalid" = "Błąd TLS: łańcuch certyfikatów jest nieprawidłowy";
+"TLS Error: Certificate expired" = "Błąd TLS: Certyfikat wygasł";
+"TLS Error: Host name mismatch" = "Błąd TLS: niezgodność nazwy hosta";
+"TLS Error: Unknown root certificate" = "Błąd TLS: nieznany certyfikat główny";
+"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Nie udało nam się połączyć Twojego konta. Sprawdź swoje dane uwierzytelniające i upewnij się, że masz połączenie z Internetem.\n\nKomunikat o błędzie technicznym: %@";
 /* directory for downloaded audios */
-"Received Audios" = "Received Audios";
+"Received Audios" = "Odebrane pliki audio";
 /* directory for downloaded files */
-"Received Files" = "Received Files";
+"Received Files" = "Otrzymane pliki";
 /* directory for downloaded images */
-"Received Images" = "Received Images";
+"Received Images" = "Otrzymane obrazy";
 /* directory for downloaded videos */
-"Received Videos" = "Received Videos";
+"Received Videos" = "Otrzymane filmy";
 /* directory for downloaded audios */
-"Sent Audios" = "Sent Audios";
+"Sent Audios" = "Wysłane pliki audio";
 /* directory for downloaded files */
-"Sent Files" = "Sent Files";
+"Sent Files" = "Wysłane pliki";
 /* directory for downloaded images */
-"Sent Images" = "Sent Images";
+"Sent Images" = "Wysłane obrazy";
 /* directory for downloaded videos */
-"Sent Videos" = "Sent Videos";
+"Sent Videos" = "Wysłane filmy";
 /* hello bartycrouch */
 "Dummy string for triggering bartycrouch" = "Dummy string for triggering bartycrouch";
 "Account already configured in Monal!" = "Account already configured in Monal!";

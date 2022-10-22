@@ -724,3 +724,14 @@
 "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs.";
 "This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades." = "This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades.";
 "XEP-xxxx: SASL SCRAM Downgrade Protection" = "XEP-xxxx: SASL SCRAM Downgrade Protection";
+"Disable encryption?" = "Disable encryption?";
+"Do you really want to disable encryption for this contact?" = "Do you really want to disable encryption for this contact?";
+"Newest TLS version which is faster than TLS 1.2" = "Newest TLS version which is faster than TLS 1.2";
+"No, keep encryption activated" = "No, keep encryption activated";
+"Older, slower, but still secure TLS version" = "Older, slower, but still secure TLS version";
+"SASL downgrade attack detected via SSDP, aborting authentication and disabling account to limit damage. You should reenable your account once you are in a clean networking environment again." = "SASL downgrade attack detected via SSDP, aborting authentication and disabling account to limit damage. You should reenable your account once you are in a clean networking environment again.";
+"SASL2 to SASL1 downgrade attack detected, aborting authentication and disabling account to limit damage. You should reenable your account once you are in a clean networking environment again." = "SASL2 to SASL1 downgrade attack detected, aborting authentication and disabling account to limit damage. You should reenable your account once you are in a clean networking environment again.";
+"These are the TLS versions supported by Monal, the one supported by your server will be green." = "These are the TLS versions supported by Monal, the one supported by your server will be green.";
+"TLS 1.2" = "TLS 1.2";
+"TLS 1.3" = "TLS 1.3";
+"Yes, deactivate encryption" = "Yes, deactivate encryption";

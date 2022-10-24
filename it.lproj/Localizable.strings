@@ -1,33 +1,33 @@
 "%@ (Pending Approval)" = "%@ (In attesa di approvazione)";
 "%ld (This device)" = "%ld (Questo dispositivo)";
-"(autojoin)" = "(unione automatica)";
+"(autojoin)" = "(accesso automatico)";
 "[This message is OMEMO encrypted]" = "[Questo messaggio è cifrato con OMEMO]";
 "About" = "Informazioni";
 "Accept" = "Accetta";
 "Access message archives on the server." = "Accesso all'archivio dei messaggi sul server.";
 /* ShareViewController: Account */
 "Account" = "Account";
-"Account Exists" = "L'account esiste";
+"Account Exists" = "Account esistente";
 "Account To Use" = "Account da usare";
 "Account: %@" = "Account: %@";
 "Accounts" = "Account";
 "Accounts With Logs" = "Account con registri";
-"Active chat but no messages found in history for %@." = "Conversazione attiva ma nessun messaggio trovato nella cronologia per %@.";
+"Active chat but no messages found in history for %@." = "Chat attiva ma nessun messaggio trovato nella cronologia per %@.";
 "Add %@ to your contacts?" = "Aggiungere %@ ai tuoi contatti?";
 "Add Contact" = "Aggiungi contatto";
 "Add New Account" = "Aggiungi nuovo account";
 "Add new contacts with the + button above. Your friends will pop up here when they can talk" = "Aggiungi nuovi contatti con il pulsante '+' in alto. Una volta aggiunti appariranno qui quando disponibili";
-"Advanced" = "Avanzato";
+"Advanced" = "Avanzate";
 "Advanced Settings" = "Impostazioni avanzate";
 "All messages are archived by default." = "Tutti i nuovi messaggi vengono archiviati.";
 "Allow %@ to contact you?" = "Consentire a %@ di contattarti?";
 "Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject." = "Se consenti a qualcuno di aggiungerti come contatto potrà vedere quando sei in linea e inviarti messaggi cifrati. Tocca per approvare o scorri per rifiutare.";
 "App" = "Applicazione";
-"Apple Push Service" = "Servizio Apple Push";
+"Apple Push Service" = "Servizio push di Apple";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Il servizio push di Apple dovrebbe essere sempre attivo. Se disattivato, il tuo dispositivo non potrà collegarsi con il server Apple.";
 "Archive only if the contact is in roster" = "Archivia solo se il contatto è nell'elenco";
-"Auto Join" = "Unione automatica";
-"Automatically send when you were online" = "Invia automaticamente quando sei connesso";
+"Auto Join" = "Accesso automatico";
+"Automatically send when you were online" = "Invia automaticamente quando connesso";
 "Away" = "Assente";
 "Backgrounds" = "Sfondi";
 "Block %@ from contacting you?" = "Impedire a %@ di contattarti?";
@@ -38,7 +38,7 @@
 "Cancel" = "Annulla";
 "Change Password" = "Aggiorna password";
 "Chat Backgrounds" = "Sfondi della chat";
-"Chat for free with your friends, colleagues and family!" = "Chiacchiera gratuitamente con i tuoi amici, colleghi e la tua famiglia!";
+"Chat for free with your friends, colleagues and family!" = "Chatta gratuitamente con i tuoi amici, colleghi e la tua famiglia!";
 "Chat Logs" = "Registri delle chat";
 "Choices Galore" = "Scelte a bizzeffe";
 "Close" = "Chiudi";
@@ -60,12 +60,12 @@
 "Direct TLS" = "Forza TLS";
 "Disable Encryption" = "Disabilita la cifratura";
 "Disconnected" = "Disconnesso";
-"Display" = "Visualizzazione";
+"Display" = "Visualizza";
 "Display Settings" = "Impostazioni di visualizzazione";
 "Draft: %@" = "Bozza: %@";
 "Email Support" = "Assistenza via e-mail";
 "Enabled" = "Abilitato";
-"Encrypted message was sent in an older format Monal can't decrypt. Please ask them to update their client. (GCM error)" = "Il messaggio cifrato è stato inviato in un vecchio formato che Monal non può decifrare. Per favore, chiedi al mittente di aggiornare il suo client. (errore GCM)";
+"Encrypted message was sent in an older format Monal can't decrypt. Please ask them to update their client. (GCM error)" = "Il messaggio cifrato è stato inviato in un vecchio formato che Monal non può decifrare. Chiedi al mittente di aggiornare il suo client. (errore GCM)";
 "Encryption Keys" = "Chiavi di cifratura";
 "Encryption Not Supported" = "Cifratura non supportata";
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "Inserisci la nuova password. Le password non possono essere vuote e potrebbero essere regolate da criteri del server o dell'azienda.";
@@ -167,7 +167,7 @@
 "Rate Monal" = "Valuta Monal";
 "Read" = "Leggi";
 "Rebuild Tokens" = "Rigenera i token";
-"Rebuilding is useful if you are experiencing problems. This will require an app restart to work." = "La ricostruzione è utile se si verificano problemi. Ciò richiederà il riavvio dell'app per funzionare.";
+"Rebuilding is useful if you are experiencing problems. This will require an app restart to work." = "La ricostruzione è utile se si verificano problemi. Ciò richiederà il riavvio di Monal per funzionare.";
 "Receive push notifications from via Apple even when disconnected. Vastly improves reliability." = "Riceve notifiche push tramite Apple anche quando disconnesso. Migliora notevolmente l'affidabilità.";
 "Received" = "Ricevuto";
 "Recently Seen" = "Visto/a di recente";
@@ -212,7 +212,7 @@
 "Sort By Status" = "Ordina per stato";
 "Sounds" = "Suoni";
 "Sounds courtesy Emrah" = "I suoni sono cortesia di Emrah";
-"Spread The Word" = "Spargi la parola";
+"Spread The Word" = "Diffondi la parola";
 "SRV entry prohibits XMPP connection" = "Il record SRV non consente la connessione XMPP";
 "SSL Error: Certificate chain is invalid" = "Errore SSL: la catena di certificati non è valida";
 "SSL Error: Certificate expired" = "Errore SSL: certificato scaduto";
@@ -231,7 +231,7 @@
 "The account has been saved" = "L'account è stato salvato";
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "Il nuovo contatto verrà aggiunto all'elenco dei contatti dopo che avrà approvato la tua richiesta.";
 "The password has been changed" = "La password è stata cambiata";
-"The username does not need to have an @ symbol. Please try again." = "Il nome utente non deve avere il simbolo @. Per favore riprova.";
+"The username does not need to have an @ symbol. Please try again." = "Il nome utente non deve avere il simbolo @. Prova di nuovo.";
 "There is no configured email account. Please email info@monal-im.org ." = "Non esiste un account di posta elettronica configurato. Si prega di inviare un'e-mail a info@monal-im.org.";
 "There was an error decrypting this encrypted message (Signal error). To resolve this, try sending an encrypted message to this person." = "Si è verificato un errore durante la decifrazione di questo messaggio cifrato (errore di segnale). Per risolvere questo problema, prova a inviare un messaggio cifrato a questa persona.";
 "There was an error uploading the file to the server" = "Si è verificato un errore durante il caricamento del file sul server";
@@ -270,7 +270,7 @@
 "Waiting for GPS signal" = "In attesa del segnale GPS";
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet." = "Impossibile connettere l'account. Verifica le credenziali e assicurati di essere connesso a internet.";
 "Welcome to Monal" = "Benvenuto/a su Monal";
-"When you have some favorite groups, they will be here for you." = "Quando hai dei gruppi preferiti, saranno qui per te.";
+"When you have some favorite groups, they will be here for you." = "Quando avrai dei gruppi preferiti, saranno qui per te.";
 "When you start talking to someone,\n they will show up here." = "Quando inizi una chat con qualcuno,\n lo vedrai apparire qui.";
 "Will logout and reconnect any connected accounts." = "Verrà riconnesso qualsiasi account attualmente connesso.";
 "Will make a HTTP HEAD call on all links" = "Sarà effettuata una chiamata HTTP HEAD su tutti i link";
@@ -284,7 +284,7 @@
 "Yes" = "Si";
 "You are not trapped in a garden. Talk to anyone else without anyone tracking you." = "Non sei intrappolato in un giardino. Parla con chiunque senza che nessuno ti tracci.";
 "You are set up and connected." = "L'account è pronto e connesso.";
-"You can see their keys. They can't see yours" = "Puoi vedere le sue chiavi ma non può vedere le tue";
+"You can see their keys. They can't see yours" = "Puoi vedere le loro chiavi ma loro non possono vedere le tue";
 "You have been invited to a conversation %@?" = "Sei stato inviato in una chat %@?";
 "You have not received any images in this conversation." = "Non hai ricevuto immagini in questa conversazione.";
 "You need friends for this ride" = "Hai bisogno di amici per questa avventura";
@@ -302,13 +302,13 @@
 "Software Version" = "Versione Software";
 "Version: " = "Versione: ";
 "Could not synchronize" = "Impossibile sincronizzare";
-"Please open the app to retry" = "Apri l'applicazione per riprovare";
+"Please open the app to retry" = "Apri Monal per riprovare";
 /* mac only string */
 "Scroll down to load more messages" = "Scorri in basso per caricare più messaggi";
 "No enabled account found" = "Nessun account abilitato trovato";
 "Please add a new account under settings first. If you already added your account you may need to enable it under settings" = "Aggiungi prima un nuovo account nelle impostazioni. Se hai già aggiunto il tuo account potresti doverlo abilitare nelle impostazioni";
 "New Message" = "Nuovo messaggio";
-"Open app to see more" = "Apri l'applicazione per vedere di più";
+"Open app to see more" = "Apri Monal per vedere di più";
 "Mark as read" = "Segna come letto";
 "Saving changes to server" = "Salvataggio delle modifiche sul server";
 "Send" = "Invia";
@@ -353,7 +353,7 @@
 "XMPP Roster Error" = "Errore elenco contatti XMPP";
 "XMPP stream error %@: %@" = "Errore flusso dati XMPP %1$@: %2$@";
 "XMPP stream error: %@" = "Errore flusso dati XMPP: %@";
-"no supported auth mechanism, disconnecting!" = "Sistema di autenticazione non supportato, disconnetto!";
+"no supported auth mechanism, disconnecting!" = "Sistema di autenticazione non supportato, disconnessione!";
 "Loading omemo bundles: %@ / %@" = "Carico il bundle OMEMO: %1$@ / %2$@";
 /* QR-Code-Scanner: camera not found */
 "Could not access camera" = "Impossibile accedere alla fotocamera";
@@ -436,7 +436,7 @@
 "The server does not support blocking" = "Il server non supporta il blocco";
 "This account already exists on this instance" = "Questo account esiste già in questa istanza";
 /* Join GroupViewController - Join Group HUD */
-"Trying to join group" = "Tentativo di unione al gruppo";
+"Trying to join group" = "Tentativo di accesso al gruppo";
 /* BlockUserTable - blockJidForm */
 "user@example.org/resource" = "utente@dominio/risorsa";
 "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Le notifiche sono cambiate in iOS 13 a causa di alcune modifiche ad iOS. Per ora vedrai solo qualcosa che dice che c'è un nuovo messaggio ma non il testo o chi lo ha inviato. Ho deciso questo in modo da darti una messaggistica affidabile mentre lavoro per aggiornare Monal e ripristinare la precedente funzionalità.";
@@ -540,7 +540,7 @@
 "Invalid Password!" = "Password errata!";
 "Jid Invalid" = "Jabber ID non valido";
 "Message Archive Preferences" = "Archiviazione messaggi";
-"Please make sure at least one account has connected before trying to add a contact or channel." = "Per favore, assicurati che almeno un account sia connesso prima di aggiungere contatti o canali.";
+"Please make sure at least one account has connected before trying to add a contact or channel." = "Assicurati che almeno un account sia connesso prima di aggiungere contatti o canali.";
 /* catalina warning */
 "QR-Code scanning is not supported on catalina" = "La scansione del QR-Code non è supportata su MacOS Catalina";
 /* catalina warning */
@@ -559,17 +559,17 @@
 /* QR-Code-Scanner: account scan wrong menu
    QR-Code-Scanner: jid scan wrong menu */
 "Wrong menu" = "Menù errato";
-"Could not change password" = "Impossibile cambiare la password";
-"Could not change password: your account is currently not conneced" = "Impossibile cambiare la password: il tuo account al momento non è connesso";
-"Unexpected error while checking type of jid, please try again" = "Errore inatteso durante la verifica del tipo di Jabber ID, per favore prova di nuovo";
+"Could not change password" = "Impossibile aggiornare la password";
+"Could not change password: your account is currently not conneced" = "Impossibile aggiornare la password: l'account al momento non è connesso";
+"Unexpected error while checking type of jid, please try again" = "Errore inatteso durante la verifica del tipo di Jabber ID, prova di nuovo";
 "Upload Error" = "Errore durante il caricamento";
-"Upload Error: your account got disconnected while requesting upload slot" = "Errore durante il caricamento: il tuo account è stato disconnesso durante la richiesta di uno slot di caricamento";
-"Could not change password: your account is currently not connected" = "Impossibile cambiare la password: il tuo account non è al momento connesso";
+"Upload Error: your account got disconnected while requesting upload slot" = "Errore durante il caricamento: l'account è stato disconnesso durante la richiesta di uno slot di caricamento";
+"Could not change password: your account is currently not connected" = "Impossibile aggiornare la password: l'account non è al momento connesso";
 "Account disabled" = "Account disabilitato";
 /* Camera permissions missing warning */
 "Camera permissions missing" = "Permesso di accesso alla fotocamera mancante";
 "Connecting..." = "Connessione...";
-"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Impossibile recuperare (tutti) i vecchi messaggi di questa chat dall'archivio del tuo server. Per favore riprova più tardi. %@";
+"Could not fetch (all) old messages for this chat from your server archive. Please try again later. %@" = "Impossibile recuperare (tutti) i vecchi messaggi di questa chat dall'archivio del server. Riprova più tardi. %@";
 "Could not fetch messages" = "Impossibile recuperare i messaggi";
 "Debug" = "Diagnostica";
 "Failed to download file" = "Impossibile scaricare il file";
@@ -585,7 +585,7 @@
 "Quote" = "Cita";
 /* Camera permissions missing warning */
 "Settings" = "Impostazioni";
-"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "La connessione al server è stata interrotta e nessun vecchio messaggio può essere recuperato per questa chat. Per favore riprova più tardi. %@";
+"The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "La connessione al server è stata interrotta e nessun vecchio messaggio può essere recuperato per questa chat. Riprova più tardi. %@";
 "You did not grant Monal to access your location." = "Non hai consentito a Monal l'accesso alla tua posizione.";
 "Always use direct TLS, not STARTTLS" = "Forza TLS invece di STARTTLS";
 "Server Support Details" = "Funzionalità supportate dal server";
@@ -616,11 +616,11 @@
 "Clear chat history for this contact" = "Elimina la cronologia della chat per questo contatto";
 "Clear History" = "Elimina la cronologia";
 "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Vuoi davvero eliminare tutti i messaggi scambiati in questa chat? Se è stato usato OMEMO non sarà possibile scaricarli nuovamente dal server.";
-"Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Vuoi davvero inizializzare la sessione di OMEMO? Dovresti solamente inizializzare la connessione se sai cosa stai facendo!";
+"Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Vuoi davvero inizializzare la sessione di OMEMO? Dovresti inizializzare la connessione solamente se sai cosa stai facendo!";
 "Leave Channel" = "Abbandona il canale";
 "Leave Group" = "Abbandona il gruppo";
 "Reset OMEMO session" = "Inizializza la sessione di OMEMO";
-"You will receive subsequent messages from this conversation" = "Riceverai messaggi successivamente da questa conversazione";
+"You will receive subsequent messages from this conversation" = "Riceverai successivamente messaggi da questa conversazione";
 "Clear OMEMO session" = "Pulisci la sessione di OMEMO";
 "Failed to publish avatar image for groupchat %@" = "Impossibile pubblicare l'immagine dell'avatar per la chat di gruppo %@";
 "Join Channel" = "Unisciti al canale";
@@ -632,7 +632,7 @@
 "TLS Error: Certificate expired" = "Errore TLS: certificato scaduto";
 "TLS Error: Host name mismatch" = "Errore TLS: il nome dell'host non corrisponde";
 "TLS Error: Unknown root certificate" = "Errore TLS: certificato di root sconosciuto";
-"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Impossibile connettere il tuo account. Verifica le credenziali ed assicurati di essere connesso a internet.\n\nMessaggio tecnico di errore: %@";
+"We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Impossibile connettere l'account. Verifica le credenziali ed assicurati di essere connesso a internet.\n\nMessaggio tecnico di errore: %@";
 /* directory for downloaded audios */
 "Received Audios" = "Audio ricevuti";
 /* directory for downloaded files */
@@ -650,7 +650,7 @@
 /* directory for downloaded videos */
 "Sent Videos" = "Video inviati";
 /* hello bartycrouch */
-"Dummy string for triggering bartycrouch" = "Dummy string for triggering bartycrouch";
+"Dummy string for triggering bartycrouch" = "Stringa fittizia per l'attivazione di BartyCrouch";
 "Account already configured in Monal!" = "Account già configurato!";
 "Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Impossibile condividere qualcosa con un account disabilitato o cancellato, destinazione: %1$@, account id interno: %2$@";
 "Could not read captcha!" = "Impossibile leggere il captcha!";
@@ -687,10 +687,10 @@
 "This will delete this account and the associated data from the server and this device. Data might still be retained on other devices, though." = "Questo cancellerà l'account e i dati associati dal server e da questo dispositivo. I dati potrebbero essere ancora presenti su altri dispositivi.";
 "Very old app version" = "Versione dell'applicazione molto vecchia";
 "Your account must be enabled and connected, to be removed from the server!" = "Il tuo account deve essere abilitato e connesso per essere cancellato dal server!";
-"Error authenticating server using SASL2, disconnecting!" = "Errore di autenticazione SASL2 sul server, disconnetto!";
-"Error handling SASL challenge of server, disconnecting!" = "Errore nella gestione del challenge SASL del server, disconnetto!";
+"Error authenticating server using SASL2, disconnecting!" = "Errore di autenticazione SASL2 sul server, disconnessione!";
+"Error handling SASL challenge of server, disconnecting!" = "Errore nella gestione del challenge SASL del server, disconnessione!";
 "Failed to enter Group/Channel %@" = "Impossibile entrare nel gruppo o canale %@";
-"Failed to enter Group/Channel %@: This is not a Group/Channel!" = "Impossibile entrare nel gruppo o canale %@: Questo non è un gruppo o un canale!";
+"Failed to enter Group/Channel %@: This is not a Group/Channel!" = "Impossibile entrare nel gruppo o canale %@: Questo non è né un gruppo né un canale!";
 "Failed to publish avatar image for group/channel %@" = "Impossibile pubblicare l'immagine dell'avatar per il gruppo o canale %@";
 "Failed to query new messages for Group/Channel %@" = "Impossibile recuperare nuovi messaggi per il gruppo o canale %@";
 "Failed to query newest stanzaid for Group/Channel %@" = "Impossibile recuperare gli StanzaID più recenti per il gruppo o canale %@";
@@ -703,16 +703,16 @@
 "None" = "Nulla";
 "Salted Challenge Response Authentication Mechanism using the given Hash Method" = "Meccanismo di autenticazione Salted Challenge Response con metodo Hash";
 "Salted Challenge Response Authentication Mechanism using the given Hash Method additionally secured by Channel-Binding" = "Meccanismo di autenticazione Salted Challenge Response con metodo Hash ulteriormente protetto tramite Channel-Binding";
-"Secure channel-binding defined for TLS1.3 and some TLS1.2 connections." = "Mette in sicurezza il channel-binding definito per TLS1.3 e alcune connessioni TLS1.2.";
+"Secure channel-binding defined for TLS1.3 and some TLS1.2 connections." = "Mette in sicurezza il Channel-Binding definito per TLS 1.3 e alcune connessioni TLS 1.2.";
 "Sends password in cleartext (only encrypted by TLS), not very secure" = "Invia la password in chiaro (cifrata solo da TLS), non molto sicuro";
 "Server implementation error: SASL2 tasks empty, account disabled!" = "Errore di implementazione sul server: funzione SASL2 vuota, account disabilitato!";
 "Server returned SASL2 error '%@'." = "Il server ha risposto con un errore SASL2 '%@'.";
 "Temporary failure to enter Group/Channel: %@" = "Errore temporaneo durante l'accesso al gruppo o canale: %@";
 "These are SRV resource records found for your domain." = "Questi sono i record SRV trovati per il tuo dominio.";
-"These are the channel-binding types your server supports to detect attacks on the TLS layer." = "Queste sono le tipologie di channel-binding supportate dal server per identificare attacchi al layer TLS.";
+"These are the channel-binding types your server supports to detect attacks on the TLS layer." = "Queste sono le tipologie di Channel-Binding supportate dal server per identificare attacchi al layer TLS.";
 "These are the SASL2 methods your server supports." = "Queste sono le funzioni SASL2 supportate dal server.";
 "This server does not have any SRV records in DNS." = "Questo server non ha alcun record SRV nel DNS.";
-"This server does not support any modern channel-binding to secure against MITM attacks on the TLS layer." = "Questo server non supporta il channel-binding contro attacchi MITM diretti al layer TLS.";
+"This server does not support any modern channel-binding to secure against MITM attacks on the TLS layer." = "Questo server non supporta il Channel-Binding contro attacchi MITM diretti al layer TLS.";
 "This server does not support modern SASL2 authentication." = "Questo server non supporta l'autenticazione SASL2.";
 "Type: %@" = "Tipo: %@";
 "Unknown authentication method" = "Metodo di autenticazione sconosciuto";
@@ -720,18 +720,18 @@
 "Uses TLS client certificates for authentication" = "Utilizza certificato TLS per l'autenticazione";
 "We don't support any task requested by the server, account disabled: %@" = "Nessuna funzione richiesta dal server è supportata, account disabilitato: %@";
 "We don't support the single task requested by the server, account disabled: %@" = "La funzione richiesta dal server non è supportata, account disabilitato: %@";
-"Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs." = "Tipologia di channel-binding più debole, non protegge dal furto di certificati o chiavi ma identifica certificati contraffatti.";
+"Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs." = "Tipologia di Channel-Binding più debole, non protegge dal furto di certificati o chiavi ma identifica certificati contraffatti.";
 "Receive push notifications via Apple even when disconnected. Vastly improves reliability." = "Riceve notifiche push tramite Apple anche quando disconnesso. Migliora notevolmente l'affidabilità.";
 "This will clear your own omemo session for debugging purposes" = "Questo pulirà la tua sessione OMEMO a scopo diagnotico";
-"Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Tipologia di channel-binding più debole, non protegge dal furto di certificati o chiavi ma identifica certificati contraffatti.";
-"This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades." = "Fornisce un metodo per mettere in sicurezza l'handshakes di SASL e SASL2 da attacchi mirati al downgrade del channel-binding.";
-"XEP-xxxx: SASL SCRAM Downgrade Protection" = "XEP-xxxx: protezione da SCRAM Downgrade";
-"Disable encryption?" = "Disabilitare la cifratura?";
+"Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Tipologia di Channel-Binding più debole, non protegge dal furto di certificati o chiavi ma identifica certificati contraffatti.";
+"This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades." = "Fornisce un metodo per mettere in sicurezza l'handshakes di SASL e SASL2 da attacchi mirati al downgrade del Channel-Binding.";
+"XEP-xxxx: SASL SCRAM Downgrade Protection" = "XEP-xxxx: protezione da SCRAM downgrade";
+"Disable encryption?" = "Disattivare la cifratura?";
 "Do you really want to disable encryption for this contact?" = "Vuoi davvero disattivare la cifratura per questo contatto?";
 "Newest TLS version which is faster than TLS 1.2" = "Versione più recente di TLS che è più veloce di TLS 1.2";
 "No, keep encryption activated" = "No, mantieni la cifratura attivata";
 "Older, slower, but still secure TLS version" = "Versione di TLS più vecchia e più lenta ma ancora sicura";
-"SASL downgrade attack detected via SSDP, aborting authentication and disabling account to limit damage. You should reenable your account once you are in a clean networking environment again." = "Rilevato un attacco SASL downgrade tramite SSDP, annullo l'autenticazione e disabilito l'account per limitare i danni. Dovresti riabilitare l'account una volta connesso ad una rete sicura.";
+"SASL downgrade attack detected via SSDP, aborting authentication and disabling account to limit damage. You should reenable your account once you are in a clean networking environment again." = "Rilevato un attacco SASL downgrade tramite SSDP, annullo l'autenticazione e disabilito l'account per limitare i danni. Dovresti riabilitare l'account solo una volta connesso ad una rete sicura.";
 "SASL2 to SASL1 downgrade attack detected, aborting authentication and disabling account to limit damage. You should reenable your account once you are in a clean networking environment again." = "Rilevato un attacco SASL2 to SASL1 downgrade, annullo l'autenticazione e disabilito l'account per limitare i danni. Dovresti riabilitare l'account una volta connesso ad una rete sicura.";
 "These are the TLS versions supported by Monal, the one supported by your server will be green." = "Queste sono le versioni TLS supportate da Monal, quelle supportate dal server saranno evidenziate in verde.";
 "TLS 1.2" = "TLS 1.2";

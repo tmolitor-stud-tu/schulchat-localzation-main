@@ -15,19 +15,19 @@
 /* Class = "UITableViewController"; title = "Notifications"; ObjectID = "nPR-ET-sg3"; */
 "nPR-ET-sg3.title" = "Notifiche";
 /* Class = "UINavigationItem"; title = "Account Edit"; ObjectID = "pa7-vQ-Yz3"; */
-"pa7-vQ-Yz3.title" = "Modifica dell'account";
+"pa7-vQ-Yz3.title" = "Modifica l'account";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "QTE-cG-3LC"; */
 "QTE-cG-3LC.title" = "Chiudi";
 /* Class = "UIBarButtonItem"; title = "Reconnect All"; ObjectID = "r7s-58-k2m"; */
 "r7s-58-k2m.title" = "Riconnetti tutti";
 /* Class = "UILabel"; text = "Detail"; ObjectID = "rF7-34-0sc"; */
-"rF7-34-0sc.text" = "Dettaglio";
+"rF7-34-0sc.text" = "Dettagli";
 /* Class = "UINavigationItem"; title = "Sounds"; ObjectID = "Rum-Ee-xSZ"; */
 "Rum-Ee-xSZ.title" = "Suoni";
 /* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "TJt-Kl-UDV"; */
 "TJt-Kl-UDV.title" = "Salva";
 /* Class = "UITableViewController"; title = "Account Edit"; ObjectID = "Tus-3k-aPR"; */
-"Tus-3k-aPR.title" = "Modifica dell'account";
+"Tus-3k-aPR.title" = "Modifica l'account";
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "VJW-A6-Zpp"; */
 "VJW-A6-Zpp.title" = "Elemento";
 /* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "vKm-u5-p5y"; */

@@ -21,7 +21,7 @@
 /* Class = "UITabBarItem"; title = "Item"; ObjectID = "iLC-4b-aDr"; */
 "iLC-4b-aDr.title" = "Elemento";
 /* Class = "UITabBarItem"; title = "Chats"; ObjectID = "jh7-be-VPo"; */
-"jh7-be-VPo.title" = "Conversazioni";
+"jh7-be-VPo.title" = "Chat";
 /* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jIW-zk-rUu"; */
 "jIW-zk-rUu.normalTitle" = "Invia";
 /* Class = "UINavigationItem"; title = "Group Chat"; ObjectID = "k0T-5X-FQu"; */
@@ -49,7 +49,7 @@
 /* Class = "UINavigationItem"; title = "Chats"; ObjectID = "RRa-hC-xrf"; */
 "RRa-hC-xrf.title" = "Chat";
 /* Class = "UILabel"; text = "Detail"; ObjectID = "sff-9g-z31"; */
-"sff-9g-z31.text" = "Dettaglio";
+"sff-9g-z31.text" = "Dettagli";
 /* Class = "UILabel"; text = "View Contact Requests"; ObjectID = "SmS-bT-id6"; */
 "SmS-bT-id6.text" = "Visualizza le richieste di contatto";
 /* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "TMS-52-ORP"; */

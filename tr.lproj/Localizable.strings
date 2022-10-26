@@ -737,7 +737,7 @@
 "TLS 1.2" = "TLS 1.2";
 "TLS 1.3" = "TLS 1.3";
 "Yes, deactivate encryption" = "Evet, şifrelemeyi devre dışı bırak";
-"Approve new contact" = "Approve new contact";
-"Deny new contact" = "Deny new contact";
-"The user %@ (%@) wants to add you to his contact list" = "The user %1$@ (%2$@) wants to add you to his contact list";
-"These are the TLS versions supported by Monal, the one used to connect to your server will be green." = "These are the TLS versions supported by Monal, the one used to connect to your server will be green.";
+"Approve new contact" = "Yeni kişiyi onayla";
+"Deny new contact" = "Yeni kişiyi reddet";
+"The user %@ (%@) wants to add you to his contact list" = "Kullanıcı %1$@ (%2$@) sizi kişi listesine eklemek istiyor";
+"These are the TLS versions supported by Monal, the one used to connect to your server will be green." = "Bunlar Monal tarafından desteklenen TLS sürümleridir, sunucunuza bağlanmak için kullanılan sürüm yeşil olacaktır.";

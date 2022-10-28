@@ -683,9 +683,9 @@
 "Server does not support account removal" = "Server does not support account removal";
 "Temporary failure to enter groupchat: %@" = "Temporary failure to enter groupchat: %@";
 "The account has been removed" = "The account has been removed";
-"This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!";
+"This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "APP版本太老了，包括很多安全问题而且可能突然关。请更新软件！";
 "This will delete this account and the associated data from the server and this device. Data might still be retained on other devices, though." = "This will delete this account and the associated data from the server and this device. Data might still be retained on other devices, though.";
-"Very old app version" = "Very old app version";
+"Very old app version" = "软件版本太老了";
 "Your account must be enabled and connected, to be removed from the server!" = "Your account must be enabled and connected, to be removed from the server!";
 "Error authenticating server using SASL2, disconnecting!" = "Error authenticating server using SASL2, disconnecting!";
 "Error handling SASL challenge of server, disconnecting!" = "Error handling SASL challenge of server, disconnecting!";

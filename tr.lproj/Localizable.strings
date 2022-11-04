@@ -743,3 +743,4 @@
 "These are the TLS versions supported by Monal, the one used to connect to your server will be green." = "Bunlar Monal tarafından desteklenen TLS sürümleridir, sunucunuza bağlanmak için kullanılan sürüm yeşil olacaktır.";
 "Loading omemo bundles: 0 / 0" = "Omemo paketleri yükleniyor: 0 / 0";
 "XMPP External Service Disco Error" = "XMPP Harici Hizmet Disco Hatası";
+"Failed to load blocklist" = "Failed to load blocklist";

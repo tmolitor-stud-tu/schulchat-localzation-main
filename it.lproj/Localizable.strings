@@ -330,7 +330,7 @@
 "Message was encrypted with omemo and can't be decrypted anymore" = "Il messaggio è stato cifrato con OMEMO e non può più essere decifrato";
 "No further error description" = "Nessuna ulteriore descrizione dell'errore";
 "This message failed to send (%@): %@" = "L'invio del messaggio non è riuscito (%1$@): %2$@";
-"Loading omemo bundles" = "Carico il bundle OMEMO";
+"Loading omemo bundles" = "Carico i bundle OMEMO";
 "Domain missing" = "Dominio mancante";
 "Username missing" = "Nome utente mancante";
 "XMPP ID" = "XMPP ID";
@@ -348,13 +348,13 @@
 "Unexpected mam preferences result" = "Risultato inatteso delle preferenze MAM";
 "XMPP Account Info Error" = "Errore nelle informazioni dell'account XMPP";
 "XMPP Bind Error" = "Errore bind XMPP";
-"XMPP Disco Info Error" = "Errore nel recupero delle informazioni dei servizi XMPP";
+"XMPP Disco Info Error" = "Errore nel recupero delle informazioni dei servizi XMPP (XEP-0030)";
 "XMPP mam preferences error" = "Errore nelle preferenze MAM di XMPP";
 "XMPP Roster Error" = "Errore elenco contatti XMPP";
 "XMPP stream error %@: %@" = "Errore flusso dati XMPP %1$@: %2$@";
 "XMPP stream error: %@" = "Errore flusso dati XMPP: %@";
 "no supported auth mechanism, disconnecting!" = "Sistema di autenticazione non supportato, disconnessione!";
-"Loading omemo bundles: %@ / %@" = "Carico il bundle OMEMO: %1$@ / %2$@";
+"Loading omemo bundles: %@ / %@" = "Carico i bundle OMEMO: %1$@ / %2$@";
 /* QR-Code-Scanner: camera not found */
 "Could not access camera" = "Impossibile accedere alla fotocamera";
 /* QR-Code-Scanner */
@@ -741,5 +741,5 @@
 "Deny new contact" = "Rifiuta il nuovo contatto";
 "The user %@ (%@) wants to add you to his contact list" = "L'utente %1$@ (%2$@) vorrebbe aggiungerti ai suoi contatti";
 "These are the TLS versions supported by Monal, the one used to connect to your server will be green." = "Queste sono le versioni TLS supportate da Monal, quelle supportate dal server saranno evidenziate in verde.";
-"Loading omemo bundles: 0 / 0" = "Loading omemo bundles: 0 / 0";
-"XMPP External Service Disco Error" = "XMPP External Service Disco Error";
+"Loading omemo bundles: 0 / 0" = "Carico i bundle OMEMO: 0 / 0";
+"XMPP External Service Disco Error" = "Errore nel recupero delle informazioni dei servizi XMPP esterni (XEP-0215)";

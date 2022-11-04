@@ -741,3 +741,5 @@
 "Deny new contact" = "Yeni kişiyi reddet";
 "The user %@ (%@) wants to add you to his contact list" = "Kullanıcı %1$@ (%2$@) sizi kişi listesine eklemek istiyor";
 "These are the TLS versions supported by Monal, the one used to connect to your server will be green." = "Bunlar Monal tarafından desteklenen TLS sürümleridir, sunucunuza bağlanmak için kullanılan sürüm yeşil olacaktır.";
+"Loading omemo bundles: 0 / 0" = "Loading omemo bundles: 0 / 0";
+"XMPP External Service Disco Error" = "XMPP External Service Disco Error";

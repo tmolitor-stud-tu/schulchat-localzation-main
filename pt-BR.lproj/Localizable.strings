@@ -692,3 +692,4 @@
 "Loading omemo bundles: 0 / 0" = "Loading omemo bundles: 0 / 0";
 "XMPP External Service Disco Error" = "XMPP External Service Disco Error";
 "Failed to load blocklist" = "Failed to load blocklist";
+"Group/Channel error in %@" = "Group/Channel error in %@";

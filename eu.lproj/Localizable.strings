@@ -741,7 +741,7 @@
 "Deny new contact" = "Baztertu kontaktu berria";
 "The user %@ (%@) wants to add you to his contact list" = "%1$@ (%2$@) erabiltzaileak bere kontaktuen zerrendara gehitu nahi zaitu";
 "These are the TLS versions supported by Monal, the one used to connect to your server will be green." = "Hauek dira Monalekin bateragarriak diren TLS bertsioak; zerbitzarira konektatzeko erabili direnak berdez agertuko dira.";
-"Loading omemo bundles: 0 / 0" = "Loading omemo bundles: 0 / 0";
+"Loading omemo bundles: 0 / 0" = "Omemo sortak kargatzen: 0 / 0";
 "XMPP External Service Disco Error" = "XMPP External Service Disco Error";
-"Failed to load blocklist" = "Failed to load blocklist";
+"Failed to load blocklist" = "Ezin izan da blokeatutakoen zerrenda kargatu";
 "Group/Channel error in %@" = "Group/Channel error in %@";

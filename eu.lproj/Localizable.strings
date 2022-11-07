@@ -744,4 +744,4 @@
 "Loading omemo bundles: 0 / 0" = "Omemo sortak kargatzen: 0 / 0";
 "XMPP External Service Disco Error" = "XMPP External Service Disco Error";
 "Failed to load blocklist" = "Ezin izan da blokeatutakoen zerrenda kargatu";
-"Group/Channel error in %@" = "Group/Channel error in %@";
+"Group/Channel error in %@" = "Talde/Kanal errorea %@(e)n";

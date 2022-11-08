@@ -583,7 +583,7 @@
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "Qrcode, bir hesap için oturum açma kimlik bilgilerini içerir. Ayarlara gidin ve qrcode'u yeniden tarayın";
 "The server does not support blocking" = "Sunucu engellemeyi desteklemiyor";
 "The user %@ (%@) wants to add you to his contact list" = "Kullanıcı %1$@ (%2$@) sizi kişi listesine eklemek istiyor";
-"The user %@ (%@) wants to add you to their contact list" = "The user %1$@ (%2$@) wants to add you to their contact list";
+"The user %@ (%@) wants to add you to their contact list" = "%1$@ (%2$@) kullanıcısı sizi kişi listesine eklemek istiyor";
 "The username does not need to have an @ symbol. Please try again." = "Kullanıcı adının @ sembolüne sahip olması gerekmez. Lütfen tekrar deneyin.";
 "There is no configured email account. Please email info@monal-im.org ." = "Yapılandırılmış bir e-posta hesabı yok. Lütfen info@monal-im.org adresine e-posta gönder.";
 "There was a SASL error on the server." = "Sunucuda bir SASL hatası oluştu.";
@@ -751,10 +751,10 @@
 "📍 A Location" = "📍 Bir Konum";
 "📷 An Image" = "📷 Bir Resim";
 "🔗 A Link" = "🔗 Bir Bağlantı";
-"Add to contacts" = "Add to contacts";
+"Add to contacts" = "Kişilere ekle";
 "Apple Push Token" = "Apple Push Tokeni";
-"Apple Push Token is not available!" = "Apple Push Token is not available!";
-"Block Contact" = "Block Contact";
+"Apple Push Token is not available!" = "Apple Push Tokeni mevcut değil!";
+"Block Contact" = "Kişiyi Engelle";
 "Blocking/Unblocking Not Supported" = "Engelleme/Engellemeyi Kaldırma Desteklenmiyor";
 "Channel subject:" = "Kanal konusu:";
 "Clear chat history of this channel" = "Bu kanalın sohbet geçmişini temizle";
@@ -791,8 +791,8 @@
 "Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "E-posta gibi, hesabınızı birçok siteye kaydedebilir ve herkesle konuşabilirsiniz. Seçilen veya sağlanan bir XMPP sunucusuna hesap kaydetmek için bu sayfayı kullanabilirsiniz. Ayrıca bir kullanıcı adı ve şifre seçmelisiniz.";
 "Loading" = "Yükleniyor";
 "Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Mevcut hesabınıza giriş yapın veya yeni bir hesap açın. Gerekirse Monal ayarlarında daha gelişmiş seçenekler bulacaksınız.";
-"Login" = "Login";
-"Manual input" = "Manual input";
+"Login" = "Giriş";
+"Manual input" = "Manuel giriş";
 "Migration Assistant" = "Geçiş Yardımcısı";
 "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal şu anda bu anahtara güveniyor, ancak parmak izleri henüz karşılaştırılmadı. Güvenliği artırmak için, lütfen bu anahtara güvenmeden önce görüntülenen parmak izlerinin eşleştiğini ilgili kişiyle onaylayın!";
 "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal bu anahtara güvenmiyor. Ya manuel olarak devre dışı bırakılmıştır ya da bu kişinin diğer anahtarları doğrulanırken manuel olarak doğrulanmamıştır. Geçiş yardımcısını kullanarak bu anahtara güvenebilirsiniz. Lütfen bu anahtara güvenmeden önce kişiyle parmak izlerinin eşleştiğinden emin olun.";
@@ -814,7 +814,7 @@
 "Registration Error" = "Kayıt Hatası";
 "Remove from contacts" = "Kişilerden kaldır";
 "Set up account later" = "Hesabı daha sonra ayarla";
-"Status message:" = "Status message:";
+"Status message:" = "Durum mesajı:";
 "Terms of use for %@" = "%@ için kullanım şartları";
 "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "Anahtar şu anda doğru şekilde işlenmeyen bir durumda. Bu uyarıyı görürseniz lütfen geliştiricilerle iletişime geçin.";
 "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "Seçilebilir XMPP sunucuları Monal'a bağlı olmayan genel sunuculardır. Bu kayıt sayfası sadece kolaylık sağlamak için verilmiştir.";

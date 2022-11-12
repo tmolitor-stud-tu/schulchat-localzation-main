@@ -104,7 +104,7 @@
 "Connected since: %@" = "Connesso da: %@";
 "Connecting..." = "Connessione...";
 "Connection Details" = "Dettagli della connessione";
-"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Lo Jabber ID di un contatto o un canale sono solitamente nel formato 'nomeutente@dominio'";
+"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Il Jabber ID di un contatto o un canale sono solitamente nel formato 'nomeutente@dominio'";
 "Contact Jid" = "Jabber ID del contatto";
 "Contact Name" = "Nome del contatto";
 "Contact or Channel Jid" = "Jabber ID del contatto o canale";
@@ -366,7 +366,7 @@
 "New Account" = "Nuovo account";
 "New Message" = "Nuovo messaggio";
 "New Password" = "Nuova password";
-"Newest TLS version which is faster than TLS 1.2" = "Versione più recente di TLS che è più veloce di TLS 1.2";
+"Newest TLS version which is faster than TLS 1.2" = "Versione più recente di TLS, più veloce di TLS 1.2";
 "Nickname" = "Soprannome";
 "No" = "No";
 "No connected accounts" = "Nessun account connesso";
@@ -383,7 +383,7 @@
 "No supported auth mechanism found, disconnecting!" = "Nessun meccanismo di autenticazione trovato, disconnessione!";
 "no supported auth mechanism, disconnecting!" = "Sistema di autenticazione non supportato, disconnessione!";
 "No, keep encryption activated" = "No, mantieni la cifratura attivata";
-"None" = "Nulla";
+"None" = "Supporto assente";
 "Not Authorized. Please check your credentials." = "Non autorizzato. Verifica le credenziali.";
 "Nothing to see" = "Niente da vedere";
 "Notification" = "Notifiche";
@@ -594,7 +594,7 @@
 "These are SRV resource records found for your domain" = "Questi sono i record SRV trovati per il tuo dominio";
 "These are SRV resource records found for your domain." = "Questi sono i record SRV trovati per il tuo dominio.";
 "These are the channel-binding types your server supports to detect attacks on the TLS layer." = "Queste sono le tipologie di Channel-Binding supportate dal server per identificare attacchi al layer TLS.";
-"These are the modern XMPP capabilities Monal detected on your server after you have logged in." = "Queste sono le funzionalità XMPP che Monal ha rilevato sul tuo server dopo la connessione.";
+"These are the modern XMPP capabilities Monal detected on your server after you have logged in." = "Queste sono le funzionalità XMPP che Monal ha rilevato su questo server dopo la connessione.";
 "These are the SASL2 methods your server supports." = "Queste sono le funzioni SASL2 supportate dal server.";
 "These are the TLS versions supported by Monal, the one supported by your server will be green." = "Queste sono le versioni TLS supportate da Monal, quelle supportate dal server saranno evidenziate in verde.";
 "These are the TLS versions supported by Monal, the one used to connect to your server will be green." = "Queste sono le versioni TLS supportate da Monal, quelle supportate dal server saranno evidenziate in verde.";
@@ -607,7 +607,7 @@
 "This account already exists on this instance" = "Questo account esiste già in questa istanza";
 "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "Questa applicazione è troppo vecchia e può avere problemi di sicurezza o smettere di funzionare improvvisamente. Aggiornala!";
 "This contact does not appear to have any devices that support encryption." = "Questo contatto sembra non avere alcun dispositivo che supporti la cifratura.";
-"This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "Questo contatto potrebbe non supportare i messaggi cifrati con OMEMO. Riprova tra qualche secondo.";
+"This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "Questo contatto potrebbe non supportare i messaggi cifrati con OMEMO. Riprova tra qualche istante.";
 "This message failed to send (%@): %@" = "L'invio del messaggio non è riuscito (%1$@): %2$@";
 "This message failed to send." = "Questo messaggio non è stato inviato.";
 "This sender will be able to send you messages" = "Questo mittente potrà inviarti messaggi";
@@ -740,7 +740,7 @@
 "Your answer" = "La tua risposta";
 "Your entered XMPP ID is missing the domain" = "Hai inserito un XMPP ID senza dominio";
 "Your entered XMPP ID is missing the username" = "Hai inserito un XMPP ID senza nome utente";
-"Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!" = "Il tuo server non supporta la funzione MAM (XEP-0313). Questo significa che potresti avere frequenti perdite di messaggi in arrivo! Dovresti cambiare server o chiedere all'amministratore di abilitare la funzione!";
+"Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!" = "Questo server non supporta la funzione MAM (XEP-0313). Questo significa che potresti avere frequenti perdite di messaggi in arrivo! Dovresti cambiare server o chiedere all'amministratore di abilitare la funzione!";
 "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Il tuo server non supporta la funzione di Stream Management (XEP-0198). Questo significa che potresti avere frequenti perdite di messaggi inviati! Dovresti cambiare server o chiedere all'amministratore di abilitare la funzione!";
 "Your status" = "Il tuo stato";
 "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Il tuo account XMPP dovrebbe essere nel formato 'nomeutente@dominio'. Per configurazioni avanzate, usa la configurazione manuale.";
@@ -754,11 +754,11 @@
 "Add to contacts" = "Add to contacts";
 "Apple Push Token" = "Apple Push Token";
 "Apple Push Token is not available!" = "Apple Push Token is not available!";
-"Block Contact" = "Block Contact";
+"Block Contact" = "Blocca il contatto";
 "Blocking/Unblocking Not Supported" = "Blocking/Unblocking Not Supported";
 "Channel subject:" = "Channel subject:";
 "Clear chat history of this channel" = "Clear chat history of this channel";
-"Clear chat history of this contact" = "Clear chat history of this contact";
+"Clear chat history of this contact" = "Elimina la cronologia di questa chat";
 "Clear chat history of this group" = "Clear chat history of this group";
 "Copy to clipboard" = "Copy to clipboard";
 "Debugging" = "Debugging";
@@ -812,7 +812,7 @@
 "Register" = "Register";
 "Register with %@" = "Register with %@";
 "Registration Error" = "Registration Error";
-"Remove from contacts" = "Remove from contacts";
+"Remove from contacts" = "Rimuovi dai contatti";
 "Set up account later" = "Set up account later";
 "Status message:" = "Status message:";
 "Terms of use for %@" = "Terms of use for %@";

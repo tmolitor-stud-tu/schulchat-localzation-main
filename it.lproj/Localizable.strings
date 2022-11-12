@@ -180,8 +180,8 @@
 "Encryption Keys (OMEMO)" = "Chiavi di cifratura (OMEMO)";
 "Encryption Not Supported" = "Cifratura non supportata";
 "Enter the jid that you want to block" = "Inserisci il Jabber ID che vuoi bloccare";
-"Enter you password here" = "Inserisci la tua password qui";
-"Enter you XMPP ID here" = "Inserisci il tuo XMPP ID qui";
+"Enter you password here" = "Inserisci qui la tua password";
+"Enter you XMPP ID here" = "Inserisci qui il tuo XMPP ID";
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "Inserisci la nuova password. Le password non possono essere vuote e potrebbero essere regolate da criteri del server o dell'azienda.";
 "Enter your password here" = "Inserisci la password qui";
 "Enter your XMPP ID here" = "Inserisci il tuo XMPP ID qui";
@@ -262,7 +262,7 @@
 "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission. Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'." = "Se Monal non può mostrare le notifiche, non vedrai avvisi quando arriva un messaggio. Questo succede se hai scelto 'Rifiuta' quando Monal ha chiesto il permesso la prima volta. Puoi cambiare la scelta andando su Impostazioni -> Monal -> Notifiche e abilitare 'Consenti notifiche'.";
 "If Monal push is off, your device could not talk to %@ through xmpp. This should also never be off. It requires Apple push service to work first." = "Se le notifiche push di Monal sono disattivate, il tuo dispositivo non potrà comunicare con %@ tramite XMPP. Queste inoltre non dovrebbero mai essere disattivate. Richiedono che il servizio push di Apple sia innanzitutto funzionante.";
 "If Monal push is off, your device could not talk to push.monal.im. This should also never be off. It requires Apple push service to work first. " = "Se le notifiche push di Monal sono disattivate, il tuo dispositivo non potrà connettersi con push.monal.im. Queste inoltre non dovrebbero mai essere disattivate. Richiede che il servizio push di Apple sia innanzitutto funzionante. ";
-"If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "Se questa funzione è disattivata il tuo dispositivo potrebbe non attivare le notifiche push sul tuo server XMPP, assicurati di averlo configurato per supportare la specifica XEP-0357.";
+"If this is off your device could not activate push on your xmpp server, make sure to have configured it to support XEP-0357." = "Se questa funzione è disattivata il tuo dispositivo potrebbe non attivare le notifiche push sul server XMPP, assicurati di averlo configurato per supportare la specifica XEP-0357.";
 "If you like Monal, please let others know and leave a review" = "Se ti piace Monal, fallo sapere agli altri e lascia una recensione, grazie";
 "If you want to use audio message you will need to allow access in Settings-> Privacy-> Microphone." = "Se vuoi utilizzare i messaggi vocali devi consentire l'accesso in Impostazioni-> Privacy-> Microfono.";
 "If you want to use VOIP you will need to allow access in Settings-> Privacy-> Microphone." = "Se vuoi usare il VOIP devi consentire l'accesso in Impostazioni-> Privacy-> Microfono.";
@@ -741,7 +741,7 @@
 "Your entered XMPP ID is missing the domain" = "Hai inserito un XMPP ID senza dominio";
 "Your entered XMPP ID is missing the username" = "Hai inserito un XMPP ID senza nome utente";
 "Your server does not support MAM (XEP-0313). That means you could frequently miss incoming messages!! You should switch your server or talk to the server admin to enable this!" = "Questo server non supporta la funzione MAM (XEP-0313). Questo significa che potresti avere frequenti perdite di messaggi in arrivo! Dovresti cambiare server o chiedere all'amministratore di abilitare la funzione!";
-"Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Il tuo server non supporta la funzione di Stream Management (XEP-0198). Questo significa che potresti avere frequenti perdite di messaggi inviati! Dovresti cambiare server o chiedere all'amministratore di abilitare la funzione!";
+"Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Questo server non supporta la funzione di Stream Management (XEP-0198). Questo significa che potresti avere frequenti perdite di messaggi inviati! Dovresti cambiare server o chiedere all'amministratore di abilitare la funzione!";
 "Your status" = "Il tuo stato";
 "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Il tuo account XMPP dovrebbe essere nel formato 'nomeutente@dominio'. Per configurazioni avanzate, usa la configurazione manuale.";
 "🎥 A Video" = "🎥 Un video";
@@ -763,8 +763,8 @@
 "Copy to clipboard" = "Copy to clipboard";
 "Debugging" = "Debugging";
 "Delete Key" = "Delete Key";
-"Device ID: " = "Device ID: ";
-"DeviceID: " = "DeviceID: ";
+"Device ID: " = "ID dispositivo: ";
+"DeviceID: " = "ID dispositivo: ";
 "Do you really want to block this contact? You won't receive any messages from this contact." = "Do you really want to block this contact? You won't receive any messages from this contact.";
 "Do you really want to delete this key?" = "Do you really want to delete this key?";
 "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";

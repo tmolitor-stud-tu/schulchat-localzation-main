@@ -616,7 +616,7 @@
 "This server does not have any SRV records in DNS." = "Questo server non ha alcun record SRV nel DNS.";
 "This server does not support any modern channel-binding to secure against MITM attacks on the TLS layer." = "Questo server non supporta il Channel-Binding contro attacchi MITM diretti al layer TLS.";
 "This server does not support modern SASL2 authentication." = "Questo server non supporta l'autenticazione SASL2.";
-"This should never happen, please contact the developers and provide a logfile!" = "Questo non dovrebbe mai accadere, contatta lo sviluppatore fornendo il log di diagnostica!";
+"This should never happen, please contact the developers and provide a logfile!" = "Questo non dovrebbe mai accadere, contatta gli sviluppatori fornendo il log di diagnostica!";
 "This specification defines semantics for using the XMPP publish-subscribe protocol to broadcast state change events associated with an instant messaging and presence account." = "Questa specifica definisce la semantica per usare il protocollo XMPP publish-subscribe per propagare eventi di cambio di stato associati a un account di messaggeria istantanea e presenza.";
 "This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades." = "Fornisce un metodo per mettere in sicurezza l'handshakes di SASL e SASL2 da attacchi mirati al downgrade del Channel-Binding.";
 "This will clear the whole chat history of this account from this device." = "L'azione eliminerà l'intera cronologia della chat di questo account da questo dispositivo.";
@@ -640,8 +640,8 @@
 "Unable to connect to server" = "Impossibile connettersi al server";
 "Unable to connect to server!" = "Impossibile connettersi al server!";
 "Unblock Sender" = "Sblocca il mittente";
-"Unclean appex shutown" = "Unclean appex shutown";
-"Unexpected appex expiration" = "Unexpected appex expiration";
+"Unclean appex shutown" = "Errore appex: unclean shutown";
+"Unexpected appex expiration" = "Errore appex: unexpected expiration";
 "Unexpected error while checking type of jid, please try again" = "Errore inatteso durante la verifica del tipo di Jabber ID, prova di nuovo";
 "Unexpected error while checking type of jid:" = "Errore inatteso durante la verifica del tipo di Jabber ID:";
 "Unexpected mam preferences result" = "Risultato inatteso delle preferenze MAM";
@@ -761,7 +761,7 @@
 "Clear chat history of this contact" = "Elimina la cronologia chat del contatto";
 "Clear chat history of this group" = "Elimina la cronologia chat del gruppo";
 "Copy to clipboard" = "Copia negli appunti";
-"Debugging" = "Debugging";
+"Debugging" = "Debug in corso";
 "Delete Key" = "Cancella la chiave";
 "Device ID: " = "ID dispositivo: ";
 "DeviceID: " = "ID dispositivo: ";
@@ -816,7 +816,7 @@
 "Set up account later" = "Imposta l'account dopo";
 "Status message:" = "Messaggio di stato:";
 "Terms of use for %@" = "Termini di utilizzo per %@";
-"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "Questa chiave è in una condizione al momento non correttamente gestita. Contatta lo sviluppatore se leggi questo messaggio.";
+"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "Questa chiave è in una condizione al momento non correttamente gestita. Contatta gli sviluppatori se leggi questo messaggio.";
 "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "I server XMPP dell'elenco sono server pubblici non affiliati con Monal. La pagina di registrazione è solamente fornita per convenienza.";
 "The server does not support blocking (XEP-0191)." = "Il server non supporta il bloccaggio (XEP-0191).";
 "This account already exists on this instance." = "L'account esiste già in questa istanza.";

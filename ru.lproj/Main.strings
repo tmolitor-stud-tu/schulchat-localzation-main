@@ -7,7 +7,7 @@
 /* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "BWH-2I-fSI"; */
 "BWH-2I-fSI.title" = "Настройки";
 /* Class = "UINavigationItem"; title = "Contact Requests"; ObjectID = "GI8-WI-wYs"; */
-"GI8-WI-wYs.title" = "Contact Requests";
+"GI8-WI-wYs.title" = "Запрос на контакт";
 /* Class = "UITableViewController"; title = "Join Group Chat"; ObjectID = "GpF-k7-Z6D"; */
 "GpF-k7-Z6D.title" = "Присоединиться к групповому чату";
 /* Class = "UINavigationItem"; title = "Select An Account"; ObjectID = "heq-Ls-ieg"; */
@@ -41,7 +41,7 @@
 /* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "PI2-N1-aLJ"; */
 "PI2-N1-aLJ.title" = "Следующий";
 /* Class = "UIBarButtonItem"; title = "Compose"; ObjectID = "pyP-qb-mfr"; */
-"pyP-qb-mfr.title" = "Compose";
+"pyP-qb-mfr.title" = "Написать";
 /* Class = "UIButton"; normalTitle = "Join Group"; ObjectID = "Q7I-qj-4zk"; */
 "Q7I-qj-4zk.normalTitle" = "Присоединиться к группе";
 /* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "qsR-dX-TO1"; */
@@ -51,7 +51,7 @@
 /* Class = "UILabel"; text = "Detail"; ObjectID = "sff-9g-z31"; */
 "sff-9g-z31.text" = "Подробности";
 /* Class = "UILabel"; text = "View Contact Requests"; ObjectID = "SmS-bT-id6"; */
-"SmS-bT-id6.text" = "View Contact Requests";
+"SmS-bT-id6.text" = "Просмотр запросов контактов";
 /* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "TMS-52-ORP"; */
 "TMS-52-ORP.title" = "Готово";
 /* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Vtv-sv-ErG"; */

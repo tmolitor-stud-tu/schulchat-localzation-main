@@ -257,8 +257,8 @@
 "Failed to query newest stanzaid for account %@" = "Abfrage der neuesten Stanza-ID für das Konto %@ fehlgeschlagen";
 "Failed to query newest stanzaid for Group/Channel %@" = "Abfrage der neuesten Stanza-ID für den Gruppenchat/Channel %@ fehlgeschlagen";
 "Failed to query newest stanzaid for groupchat %@" = "Abfrage der neuesten Stanza-ID für den Gruppenchat %@ fehlgeschlagen";
-"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
-"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
+"Failed to remove bookmark for Group/Channel: %@" = "Lesezeichen für Gruppe/Channel konnte nicht entfernt werden: %@";
+"Failed to save bookmark for Group/Channel: %@" = "Lesezeichen für Gruppe/Channel konnte nicht gespeichert werden: %@";
 "Failed to save groupchat bookmarks" = "Speichern der Gruppenchatlesezeichen fehlgeschlagen";
 "Failed to share file" = "Datei konnte nicht geteilt werden";
 "Failed to upload file: account was removed" = "Datei konnte nicht hochgeladen werden: Konto wurde entfernt";
@@ -840,4 +840,4 @@
 "📍 A Location" = "📍 Ein Standort";
 "📷 An Image" = "📷 Ein Bild";
 "🔗 A Link" = "🔗 Ein Link";
-"Show shared Media and Files" = "Show shared Media and Files";
+"Show shared Media and Files" = "Geteilte Medien und Dateien anzeigen";

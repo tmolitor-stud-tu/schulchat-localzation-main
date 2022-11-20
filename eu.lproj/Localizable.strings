@@ -31,6 +31,7 @@
 "Add Group to Favorites" = "Gehitu taldea gogokoetara";
 "Add New Account" = "Gehitu kontu berria";
 "Add new contacts with the + button above. Your friends will pop up here when they can talk" = "Gehitu kontaktu berriak goialdeko + botoia erabiliz. Zure lagunak hemen agertuko dira hitz egin dezaketenean";
+"Add to contacts" = "Gehitu kontaktuetara";
 "Advanced" = "Aurreratua";
 "Advanced Settings" = "Ezarpen aurreratuak";
 "All messages already present in local history!" = "Mezu guztiak historia lokalean daude honezkero!";
@@ -44,6 +45,8 @@
 "App" = "Aplikazioa";
 "Apple Push Service" = "Apple Push Service";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Apple Push Service beti piztuta egon behar da. Itzalita badago, gailua ezin da Appleren zerbitzariarekin komunikatu.";
+"Apple Push Token" = "Apple Push Token";
+"Apple Push Token is not available!" = "Apple Push Token ez dago erabilgarri!";
 "Approve new contact" = "Baimendu kontaktu berria";
 "Appserver error" = "Appserver errorea";
 "Appserver returned invalid data" = "Appserver-ek datu baliogabeak itzuli ditu";
@@ -67,10 +70,12 @@
 "Backgrounds" = "Hondoak";
 "Block" = "Blokeatu";
 "Block %@ from contacting you?" = "%@(e)k kontakta zaitzala galarazi nahi al duzu?";
+"Block Contact" = "Blokeatu kontaktua";
 "Block Sender" = "Blokeatu igorlea";
 "Blocked Users" = "Blokeatutako erabiltzaileak";
 "Blocking is not supported by the server" = "Zerbitzariak ez du blokeatzen uzten";
 "Blocking not supported" = "Blokeatzeko aukera ez dago gaituta";
+"Blocking/Unblocking Not Supported" = "Blokeatzea / Desblokeatzea ez dago gaituta";
 "call screen did disappear" = "deiaren pantaila desagertu da";
 "Camera" = "Egin eta bidali argazkia";
 /* Camera permissions missing warning */
@@ -82,6 +87,7 @@
 "Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Ezin da ezer partekatu desgaitutako edo ezabatutako kontu batekin; helmuga: %1$@, barneko kontuaren IDa: %2$@";
 "Change Password" = "Aldatu pasahitza";
 "Changing Password" = "Pasahitza aldatzen";
+"Channel subject:" = "Channel subject:";
 "Chat Backgrounds" = "Txaten hondoak";
 "Chat for free with your friends, colleagues and family!" = "Txateatu debalde lagun, lankide eta senideekin!";
 "Chat Logs" = "Txaten erregistroa";
@@ -93,6 +99,9 @@
 "Choices Galore" = "Nahi beste aukera";
 "Clear Chat History" = "Garbitu txat historia";
 "Clear chat history for this contact" = "Garbitu kontaktu honen txat historia";
+"Clear chat history of this channel" = "Clear chat history of this channel";
+"Clear chat history of this contact" = "Garbitu kontaktu honen txataren historia";
+"Clear chat history of this group" = "Clear chat history of this group";
 "Clear History" = "Garbitu historia";
 /* DEBUG - ContactDetails */
 "Clear omemo session" = "Garbitu OMEMO saioa";
@@ -113,6 +122,7 @@
 "Contacts are usually in the format: username@domain.something" = "Kontaktuek honako formatua izan ohi dute: erabiltzailea@domeinua.eus";
 /* Chat msg action */
 "Copy" = "Kopiatu";
+"Copy to clipboard" = "Kopiatu arbelera";
 /* QR-Code-Scanner: camera not found */
 "Could not access camera" = "Ezin izan da kamera atzitu";
 "Could not access Finder item!" = "Ezin izan da Finderreko elementua atzitu!";
@@ -137,6 +147,7 @@
 "Could not upload file" = "Ezin izan da fitxategia igo";
 "Current Password" = "Uneko pasahitza";
 "Debug" = "Araztu";
+"Debugging" = "Arazten";
 "Decline" = "Baztertu";
 "Default chat backgrounds are from the Ubuntu project." = "Lehenetsitako txat hondoak Ubuntu proiektukoak dira.";
 "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "XMPP zerrenden protokoloan proposatutako aldaketa bat zehazten du, zerrenden bertsionamendua ahalbidetzen duena, zerbitzariak ez dio bezeroari zerrenda bidaliko zerrenda aldatu ez bada.";
@@ -145,8 +156,11 @@
 "Delete" = "Ezabatu";
 "Delete Account" = "Ezabatu kontua";
 "Delete Account on Server" = "Ezabatu kontua zerbitzaritik";
+"Delete Key" = "Ezabatu gakoa";
 "Delete Locally" = "Ezabatu lokalean";
 "Deny new contact" = "Baztertu kontaktu berria";
+"Device ID: " = "Gailuaren IDa: ";
+"DeviceID: " = "DeviceID: ";
 "Devices of %@" = "%@(r)en gailuak";
 "Direct TLS" = "Direct TLS";
 "Disable Encryption" = "Ezgaitu zifraketa";
@@ -158,24 +172,35 @@
 "Display Only Name" = "Erakutsi izena bakarrik";
 "Display Only Placeholder" = "Erakutsi mezu generiko bat";
 "Display Settings" = "Pantaila ezarpenak";
+"Do you really want to block this contact? You won't receive any messages from this contact." = "Ziur zaude kontaktu hau blokeatu nahi duzula? Ez duzu kontaktu honen mezurik jasoko.";
 "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Ziur al zaude elkarrizketa honetan bidalitako mezu guztiak ezabatu nahi dituzua? OMEMO erabiltzen ari bazara ezingo dituzu berriro zerbitzaritik kargatu.";
+"Do you really want to delete this key?" = "Ziur zaude gako hau ezabatu nahi duzula?";
 "Do you really want to disable encryption for this contact?" = "Ziur al zaude zifraketa ezgaitu nahi duzula kontaktu honentzat?";
 "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Ziur al zaude OMEMO saioa berrezarri nahi duzula? Zer egiten ari zaren baldin badakizu bakarrik berrezarri konexioa!";
 "Do you want to trust the scanned fingerprints from" = "Eskaneatu dituzun ondorengo hatzmarketaz fidatuko zara";
+"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
+"Doing a lot of work..." = "Lan handia egiten…";
 "Domain missing" = "Domeinua falta da";
+"Don't trust Key" = "Ez fidatu gakoaz";
+"Done" = "Egina";
+"Dont' trust Key" = "Ez fidatu gakoaz";
 "Download" = "Deskargatu";
 "Download error" = "Errorea deskargatzerakoan";
 "Draft:" = "Zirriborroa:";
 "Draft: %@" = "Zirriborroa: %@";
 /* hello bartycrouch */
 "Dummy string for triggering bartycrouch" = "bartycrouch-i dei egiteko haria";
+"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
 "Duplicate Account" = "Bikoiztu kontua";
+"Duplicate Account!" = "Duplicate Account!";
+"Duplicate jid!" = "Duplicate jid!";
 /* Chat msg action */
 "Edit" = "Editatu";
 "Email Support" = "Bidali laguntza eskaera";
 "Enable OMEMO per default" = "Gaitu OMEMO defektuz";
 "Enabled" = "Gaituta";
 "Encrypted message was sent in an older format Monal can't decrypt. Please ask them to update their client. (GCM error)" = "Zifratutako mezuak formatu zaharra dauka eta Monalek ezin du dezifratu. Eskatu euren aplikazioa eguneratu dezatela. (GCM errorea)";
+"Encrypted session to this device broken beyond repair." = "Gailu honetako zifratutako saioa kaltetuta dago eta ezin da konpondu.";
 "Encryption Keys" = "Zifratze-gakoak";
 "Encryption Keys (OMEMO)" = "Zifratze-gakoak (OMEMO)";
 "Encryption Not Supported" = "Zifratzea ez da bateragarria";
@@ -185,6 +210,9 @@
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "Sartu pasahitz berria. Pasahitza ezin da hutsik egon. Gainera, litekeena da zerbitzari- edo enpresa-arauak bete behar izatea.";
 "Enter your password here" = "Sartu zure pasahitza hemen";
 "Enter your XMPP ID here" = "Sartu zure XMPP IDa hemen";
+"Entry 1" = "Entry 1";
+"Entry 2" = "Entry 2";
+"Entry 3" = "Entry 3";
 "Error" = "Errorea";
 "Error authenticating server using SASL2, disconnecting!" = "Errorea SASL2 bidez zerbitzaria autentifikatzean, deskonektatzen!";
 "Error decrypting message" = "Errorea mezua dezifratzerakoan";
@@ -195,6 +223,8 @@
 "Error while decrypting" = "Errorea dezifratzerakoan";
 "Error while decrypting: iv.length != 12" = "Errorea dezifratzerakoan: iv.length != 12";
 "Error: %@" = "Errorea: %@";
+"Error: Account disabled, can not display keys!" = "Errorea: kontua ezgaituta dago, ezin dira gakoak ikusi!";
+"Error: No contacts to display keys for!" = "Errorea: Ez dago gakoak ikusteko kontakturik!";
 "Error: Received message is empty" = "Errorea: jasotako mezua hutsik dago";
 "Error: Received OMEMO message is empty" = "Errorea: jasotako OMEMO mezua hutsik dago";
 "Escape The Garden" = "Egin ihes lorategitik";
@@ -227,6 +257,8 @@
 "Failed to query newest stanzaid for account %@" = "Ezin izan dira %@ kontuko stanzaid berrienak kontsultatu";
 "Failed to query newest stanzaid for Group/Channel %@" = "%@ talde / kanaleko stanzaid berrienen kontsultak kale egin du";
 "Failed to query newest stanzaid for groupchat %@" = "Ezin izan dira %@ kontuko taldeko txateko stanzaid berrienak kontsultatu";
+"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
+"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
 "Failed to save groupchat bookmarks" = "Talde-txateko laster-markak gordetzeak kale egin du";
 "Failed to share file" = "Fitxategia partekatzeak kale egin du";
 "Failed to upload file: account was removed" = "Fitxategia igotzeak kale egin du: kontua kendu da";
@@ -245,9 +277,11 @@
 "Group Chat" = "Taldeko txata";
 "Group Chat Invite" = "Taldeko txateko gonbidapena";
 "Group Information" = "Taldearen informazioa";
+"Group Members" = "Taldeko kideak";
 /* MLJoinGroupViewController - Group Password Form */
 "Group Password" = "Taldeko pasahitza";
 "Group requires a password" = "Taldeak pasahitza behar du";
+"Group subject:" = "Taldeko gaia:";
 "Group/Channel error" = "Talde / kanal errorea";
 "Group/Channel error in %@" = "Talde/Kanal errorea %@(e)n";
 "Group/Channel got destroyed: %@" = "Taldea / kanala suntsitu da: %@";
@@ -255,6 +289,7 @@
 "Groupchat error" = "Taldeko-txateko errorea";
 "Groupchat/channel details" = "Taldeko-txat edo kanalaren xehetasunak";
 "Groupchat/channel details are currently not implemented in Monal." = "Taldeko-txat/kanalaren xehetasunak oraindik ez dira inplementatu Monalen.";
+"groupJoin Group" = "groupJoin Group";
 "Hardcoded Hostname" = "Hardcoded Hostname";
 "Hide Chat" = "Ezkutatu txata";
 "Hint" = "Lagungarria";
@@ -276,10 +311,13 @@
 "Indicate when a particular device is active or inactive. Saves battery." = "Erakutsi gailu bat aktibo edo inaktibo dagoenean. Bateria aurrezten du.";
 "Input is not a valid jid" = "Sartutakoa ez da baliozko JIDa";
 "Invalid Credentials" = "Datuak ez dira baliozkoak";
+"Invalid Credentials!" = "Erabiltzaile/pasahitz baliogabea!";
 /* QR-Code-Scanner: invalid format */
 "Invalid format" = "Formatu baliogabea";
 "Invalid Password!" = "Pasahitza ez da baliozkoa!";
+"Invalid State" = "Egoera baliogabea";
 "Invalid username" = "Erabiltzaile izena ez da baliozkoa";
+"Invalid Username!" = "Erabiltzaile-izen baliogabea!";
 /* QR-Code-Scanner: Camera not found */
 "It does not seem as your device has a camera. Please use a device with a camera for scanning" = "Badirudi gailuak ez duela kamerarik. Erabili kamera duen gailu bat eskaneatu ahal izateko";
 "Jabber ID" = "Jabber IDa";
@@ -291,6 +329,7 @@
 /* Join GroupViewController - HUD */
 "Joining Group" = "Taldearekin bat egiten";
 "Just seen" = "Oraintxe ikusita";
+"Keys of %@" = "%@(r)en gakoak";
 "Kicked, because muc is now members-only: %@" = "Kanporatua, kideentzako bakarrik delako aurrerantzean: %@";
 "Kicked, because of system shutdown: %@" = "Kanporatua, sistema itzali delako: %@";
 "Last seen: %@" = "Azkenekoz ikusia: %@";
@@ -305,10 +344,12 @@
 "Leave Group" = "Utzi taldea";
 "Leave this conversation" = "Utzi elkarrizketa hau";
 "Leave this converstion?" = "Elkarrizketatik atera nahi al duzu?";
+"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "ePostaren kasuan bezala, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
 "Load over cellular upto" = "Kargatu datu mugikorrak erabiliz ondorengo muga arte";
 "Load over cellular upto: %.fMB" = "Kargatu datu mugikor bidez %.fMB erabili arte";
 "Load over WiFi upto" = "Kargatu WiFia erabiliz ondorengo muga arte";
 "Load over WiFi upto: %.fMB" = "Kargatu WiFi bidez %.fMB erabili arte";
+"Loading" = "Kargatzen";
 "Loading contact list" = "Kontaktuen zerrenda kargatzen";
 "Loading Data" = "Datuak kargatzen";
 "Loading more Messages from Server" = "Zerbitzaritik mezu gehiago kargatzen";
@@ -320,9 +361,12 @@
 "Log" = "Erregistroa";
 "Log Chats" = "Erregistratu txatak";
 "Log Date" = "Erregistratu data";
+"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Hasi saioa zure kontuan edo eman izena kontu berri batean. Behar izanez gero, konfigurazio aurreratuagoa aurkituko duzu Monalen ezarpenetan.";
 "Logging in" = "Saioa hasten";
+"Login" = "Hasi saioa";
 "Login error, account disabled: %@" = "Errorea saioa hasterakoan, kontua ezgaituta dago: %@";
 "Login with a QR-Code" = "Hasi saioa QR kode batekin";
+"Manual input" = "Manual input";
 "Mark all messages as read" = "Markatu mezu guztiak irakurritzat";
 "Mark as read" = "Markatu irakurritzat";
 "Maximum File Transfer Size" = "Fitxategiak partekatzeko gehienezko tamaina";
@@ -341,11 +385,14 @@
 "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u." = "Mezua ez da gailu honetarako zifratu. Egiaztatu igorlea %u gailuaz fio dela.";
 "Messages never archived by default." = "Mezuak ez dira inoiz artxibatzen defektuz.";
 "Method: %@" = "Metodoa: %@";
+"Migration Assistant" = "Migraziorako laguntzailea";
 "Missing permission" = "Baimena falta da";
 "Monal" = "Monal";
 "Monal  uses your location when you send a location message in a conversation." = "Monalek  zure kokapena erabiltzen du elkarrizketetan kokapena bidaltzen duzunean.";
+"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
 "Monal did not received a gps location. Please try again later." = "Monalek ez du GPS kokapenik jaso. Saiatu berriro geroago.";
 "Monal does not have access to your location. Please update the location access in your device's Privacy Settings." = "Monalek ezin du zure kokapena atzitu. Aldatu kokapena atzitzeko ezarpenak gailuko pribatutasunaren eremuan.";
+"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
 /* Camera permissions missing warning */
 "Monal is not allowed to access the camera" = "Monalek ez du kamera atzitzeko baimenik";
 "Monal Push Server" = "Monal Push Server";
@@ -353,6 +400,7 @@
 "Monal uses your location when you send a location message in a conversation." = "Monalek zure kokapena erabiltzen du elkarrizketetan kokapena bidaltzen duzunean.";
 "Monal was not able to send your attachment!" = "Monalek ezin izan du erantsitakoa bidali!";
 "Monal was not able to send your attachment: %@" = "Monalek ezin izan du erantsitakoa bidali: %@";
+"More info?" = "Informazio gehiago?";
 "Muc got destroyed: %@" = "Erabiltzaile bat baino gehiagoko txata (MUC, ingelesez) suntsitu da: %@";
 "Muc not available anymore: %@" = "Erabiltzaile bat baino gehiagoko txata (MUC) ez dago erabilgarri honezkero: %@";
 "Mute" = "Isildu";
@@ -369,9 +417,11 @@
 "Newest TLS version which is faster than TLS 1.2" = "TLS bertsio berriena, TLS 1.2 baino azkarragoa dena";
 "Nickname" = "Ezizena";
 "No" = "Ez";
+"No accounts set up currently" = "Ez da konturik ezarri!";
 "No connected accounts" = "Ez dago konektatutako konturik";
 "No Contact Selected" = "Ez da kontakturik hautatu";
 "No Empty Values" = "Hutsik dagoen eremurik ez";
+"No Empty Values!" = "Ez utzi hutsik!";
 "No enabled account found" = "Ez da gaitutako konturik aurkitu";
 "No further error description" = "Ez dago errorearen deskribapenik";
 "No GPS location received" = "Ez da GPS kokapenik jaso";
@@ -382,6 +432,7 @@
 "No supported auth mechanism found, disabling account!" = "Ez da autentikatzeko mekanismo bateragarririk aurkitu, kontua ezgaitzen!";
 "No supported auth mechanism found, disconnecting!" = "Ez da autentifikazio mekanismo bateragarririk aurkitu, deskonektatzen!";
 "no supported auth mechanism, disconnecting!" = "autentikazio mekanismoa ez da bateragarria, deskonektatzen!";
+"No XMPP server!" = "Ez dago XMPP zerbitzaririk!";
 "No, keep encryption activated" = "Ez, utzi zifraketa gaituta";
 "None" = "Bat ere ez";
 "Not Authorized. Please check your credentials." = "Baimenik ez. Egiaztatu sartutako datuak.";
@@ -396,6 +447,7 @@
 "Offline Contacts" = "Lineaz kanpo dauden kontaktuak";
 "Ok" = "Ados";
 "OK" = "Ados";
+"Okay" = "Ados";
 "Older, slower, but still secure TLS version" = "Zaharragoa, motelagoa, baina oraindik ere segurua den TLS bertsioa";
 "Online" = "Linean";
 "Only contacts" = "Kontaktuak bakarrik";
@@ -406,10 +458,12 @@
 "Optional Hardcoded Hostname" = "Aukerako Hardcoded Hostname";
 "Optional Port" = "Aukerako ataka";
 "Os: " = "SE: ";
+"Own device key" = "Nire gailuko gakoa";
 "Participants" = "Partehartzaileak";
 "Password" = "Pasahitza";
 "Password cannot be empty" = "Pasahitza ezin da hutsik utzi";
 "Password missing" = "Pasahitza falta da";
+"Passwords don't match!" = "Pasahitzak ez datoz bat!";
 "Permission Requested" = "Baimena eskatu zaio";
 "Photos" = "Bidali irudia";
 "Pin Chat" = "Ezarri laster-marka";
@@ -422,8 +476,12 @@
 "Please make sure at least one account has connected before trying to add a contact." = "Egiaztatu gutxienez kontu bat konektatuta dagoela kontaktu bat gehitu baino lehen.";
 "Please make sure at least one account has connected before trying to message someone." = "Egiaztatu gutxienez kontu bat konektatuta dagoela norbaiti mezu bat bidaltzen saiatu baino lehen.";
 "Please make sure you are connected before changing your password." = "Egiaztatu konektatuta zaudela pasahitza aldatu baino lehen.";
+"Please make sure you have entered a username and password." = "Egiaztatu erabiltzaile-izen eta pasahitza sartu dituzula.";
 "Please make sure you have entered a username, password." = "Egiaztatu erabiltzaile-izena eta pasahitza idatzi dituzula.";
+"Please make sure you have entered the same password in both password fields." = "Egiaztatu pasahitz berbera sartu duzula bi eremuetan.";
 "Please open the app to retry" = "Ireki aplikazioa berriro saiatzeko";
+"Please provide a valid XMPP server domain or select one." = "Idatzi XMPP baliogarri bat edo hautatu bat.";
+"Please select a XMPP server or provide one." = "Hautatu XMPP zerbitzaria edo idatzi besteren bat.";
 "Please update!" = "Eguneratu!";
 "Port" = "Ataka";
 "Port: %@, Direct TLS: %@, Priority: %@" = "Ataka: %1$@, Direct TLS: %2$@, Lehentasuna: %3$@";
@@ -432,8 +490,10 @@
 "Privacy" = "Pribatutasuna";
 "Privacy Settings" = "Pribatutasun ezarpenak";
 "Protocol support of your server (XEPs)" = "Zerbitzariaren XEP ezaugarriak";
+"Pushserver Region" = "Push zerbitzariaren eremua";
 /* MLLoginView: QR-Code Button iOS12 only */
 "QR" = "QRa";
+"QR code: Fingerprints found" = "QR kodea: hatz-markak topatu dira";
 "QR-Code Scanner" = "QR kode-eskaneatzailea";
 /* catalina warning */
 "QR-Code scanning is not supported on catalina" = "QR kodea eskaneatzea ez dago erabilgarri catalinan";
@@ -471,11 +531,15 @@
 "Reconnecting" = "Birkonektatzen";
 "Recording audio" = "Audioa grabatzen";
 "Refreshing..." = "Freskatzen...";
+"Register" = "Erregistratu";
+"Register with %@" = "Register with %@";
 "Registering account..." = "Kontuaren izena ematen...";
+"Registration Error" = "Registration Error";
 "Remove %@ from contacts?" = "%@ kontaktuetatik kendu nahi al duzu?";
 "Remove Account from this Device" = "Kendu kontua gailu honetatik";
 "Remove Contact" = "Kendu kontaktua";
 "Remove Conversation" = "Kendu elkarrizketa";
+"Remove from contacts" = "Kendu kontaktuetatik";
 "Reply" = "Erantzun";
 "ReplyButton" = "ErantzunBotoia";
 "Reset OMEMO session" = "Berrezarri OMEMO saioa";
@@ -533,6 +597,7 @@
 "Server: %@" = "Zerbitzaria: %@";
 "Set a nickname" = "Ezarri ezizena";
 "Set a nickname for this contact" = "Ezarri ezizen bat kontaktu honentzat";
+"Set up account later" = "Konfiguratu kontua geroago";
 /* Camera permissions missing warning */
 "Settings" = "Ezarpenak";
 "Sharing failed" = "Partekatzeak kale egin du";
@@ -556,6 +621,7 @@
 "Start Using Monal" = "Hasi Monal erabiltzen";
 "Status" = "Egoera";
 "Status Message" = "Egoera-mezua";
+"Status message:" = "Egoera mezua:";
 "Submit A Bug" = "Eman errore baten berri";
 "Success" = "Primeran";
 "Success!" = "Primeran!";
@@ -567,6 +633,7 @@
 "Tell my contacts when I'm typing" = "Jakinarazi kontaktuei noiz ari naizen idazten";
 "Temporary failure to enter Group/Channel: %@" = "Taldea / kanalarekin bat egiteak kale egin du behin-behinean: %@";
 "Temporary failure to enter groupchat: %@" = "Ezin izan da %@ taldeko txatera sartu behin-behinean";
+"Terms of use for %@" = "%@(r)en erabilera baldintzak";
 "The account has been deleted" = "Kontua ezabatu da";
 "The account has been removed" = "Kontua kendu da";
 "The account has been saved" = "Kontua gorde da";
@@ -575,13 +642,16 @@
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "Zerbitzariarekin konexioak kale egin du eta ezin izan dira elkarrizketa honetako mezu zaharrak ekarri. Saiatu berriro geroago. %@";
 "The current password is not correct." = "Oraingo pasahitza ez da zuzena.";
 "The jid has to be in the form 'user@domain.tld' to be correct." = "JIDak 'erabiltzailea@domeinua.eus' formatua izan behar du zuzena izan dadin.";
+"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "Kontaktu berria zure kontaktuen zerrendan agertuko da gehitu duzun pertsonak zure eskaera onartzen badu.";
 "The password has been changed" = "Pasahitza aldatu da";
 /* QR-Code-Scanner: jid scan wrong menu */
 "The qrcode contains a jid. Rescan the qrcode in the add user menu" = "QR kodeak JID bat dakar. Eskaneatu berriro QR kodea 'gehitu erabiltzailea' menuan";
 /* QR-Code-Scanner: account scan wrong menu */
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "QR kodeak kontu batean saioa hasteko datuak dakartza. Zoaz ezarpenetara eta eskaneatu berriro QR kodea";
+"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
 "The server does not support blocking" = "Zerbitzariak ez du blokeatzen uzten";
+"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
 "The user %@ (%@) wants to add you to his contact list" = "%1$@ (%2$@) erabiltzaileak bere kontaktuen zerrendara gehitu nahi zaitu";
 "The user %@ (%@) wants to add you to their contact list" = "%1$@ (%2$@) erabiltzaileak bere kontaktuetara gehitu nahi zaitu";
 "The username does not need to have an @ symbol. Please try again." = "Erabiltzaile izenak ez du @ ikurrik izan behar. Saiatu berriro.";
@@ -605,9 +675,15 @@
 "They will see when you are online. They will be able to send you encrypted messages." = "Linean noiz zauden ikusi ahal izango dute. Mezu zifratuak bidali ahal izango dizkizute.";
 "This account already exists in Monal." = "Kontu hau badago lehendik ere Monalen.";
 "This account already exists on this instance" = "Kontu hau lehendik ere existitzen da zerbitzari honetan";
+"This account already exists on this instance." = "This account already exists on this instance.";
 "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "Aplikazio hau zaharregia da eta segurtasun arazoak izan ditzake edo erabilgarri egoteari utzi. Eguneratu!";
 "This contact does not appear to have any devices that support encryption." = "Badirudi kontaktu honek ez duela zifraketarekin beteragarria den gailurik.";
 "This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "Litekeena da kontaktu honek OMEMO zifratutako mezuak erabili ezin izatea. Saiatu berriro geroago.";
+"This jid already exists on this instance." = "This jid already exists on this instance.";
+"This key belongs to this device and cannot be removed or disabled!" = "Gailu honen gakoa da hau eta ezin da kendu edo ezgaitu!";
+"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
+"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
+"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
 "This message failed to send (%@): %@" = "Ezin izan da mezua bidali (%1$@): %2$@";
 "This message failed to send." = "Ezin izan da mezua bidali.";
 "This sender will be able to send you messages" = "Igorle honek mezuak bidal diezazuke aurrerantzean";
@@ -633,12 +709,18 @@
 "TLS Error: Unknown root certificate" = "TLS errorea: root ziurtagiri ezezaguna";
 /* OmemoQrCodeView */
 "To many device keys" = "Gailuen gako gehiegi";
+"Trust Key" = "Trust Key";
+"Trusted and verified key" = "Trusted and verified key";
+"Trusted but removed key" = "Trusted but removed key";
+"Trusted but unused key" = "Trusted but unused key";
+"Trusted but unverified key" = "Trusted but unverified key";
 /* Join GroupViewController - Join Group HUD */
 "Trying to join group" = "Taldearekin bat egiten saiatzen";
 "Type: %@" = "Mota: %@";
 "Typing..." = "Idazten…";
 "Unable to connect to server" = "Ezin da zerbitzarira konektatu";
 "Unable to connect to server!" = "Ezin da zerbitzarira konektatu!";
+"Unblock Contact" = "Desblokeatu kontaktua";
 "Unblock Sender" = "Desblokeatu igorlea";
 "Unclean appex shutown" = "Unclean appex shutown";
 "Unexpected appex expiration" = "Unexpected appex expiration";
@@ -654,6 +736,7 @@
 "Unnamed" = "Izenik gabekoa";
 "Unpin Chat" = "Kendu laster-marka";
 "Unread Messages Below" = "Markatu beheragoko mezuak ez irakurritzat";
+"Untrusted key" = "Untrusted key";
 "Upload Error" = "Errorea igotzerakoan";
 "Upload Error: your account got disconnected while requesting upload slot" = "Errorea igotzerakoan: zure kontua deskonektatu da igotzeko eskaera egiten ari zela";
 "Upload files to the server to share with others." = "Igo fitxategiak zerbitzarira besteekin partekatzeko.";
@@ -683,6 +766,7 @@
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Ezin izan dugu zure kontua konektatu. Egiaztatu sartutako datuak eta baieztatu internetera konektatuta zaudela. \n \nErrorearen mezu teknikoa: %@";
 "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs." = "Kanal-lotura mota ahulena, ez du ostutako ziurtagiri edo gakoetatik babesten, baina oker jaulkitako ziurtagiriak antzematen ditu.";
 "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Kanal-lotura mota ahulena, ez du ostutako ziurtagiri edo gakoetatik babesten, baina oker jaulkitako ziurtagiriak antzematen ditu.";
+"Welcome" = "Ongi etorri";
 "Welcome to Monal" = "Ongi etorri Monalera";
 "When you have some favorite groups, they will be here for you." = "Gogoko taldeak dituzunean hemen agertuko dira.";
 "When you start talking to someone,\n they will show up here." = "Norbaitekin hizketan hasiko zarenean, \n hemen agertuko dira.";
@@ -714,14 +798,17 @@
 "XMPP protocol extension for communications blocking." = "XMPP protokoloaren luzapena komunikazioak blokeatzeko.";
 "XMPP protocol extension for sending application-level pings over XML streams." = "XMPP protokoloaren luzapena XML jarioetan aplikazio-mailako ping-ak bidaltzeko.";
 "XMPP Roster Error" = "XMPP Roster Error";
+"XMPP server domain not valid!" = "XMPP zerbitzariaren domeinua ez da baliozkoa!";
 "XMPP stream error %@: %@" = "XMPP stream error %1$@: %2$@";
 "XMPP stream error: %@" = "XMPP stream error: %@";
 "XMPP: QR-Code" = "XMPP: QR kodea";
+"XMPPServer" = "XMPPServer";
 "yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im zerbitzari publikoa da eta ez dago Monalekin erlazionatuta. Gauzak erraztearren eskaintzen da orrialde hau.";
 "Yes" = "Bai";
 "Yes, deactivate encryption" = "Bai, ezgaitu zifraketa";
 "You are not trapped in a garden. Talk to anyone else without anyone tracking you." = "Ez zaude lorategi batean preso. Hitz egin nahi duzunarekin zelatatua izan gabe.";
 "You are set up and connected." = "Dena prest eta konektatuta.";
+"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
 "You can see their keys. They can't see yours" = "Beraien gakoak ikus ditzakezu; beraiek ezin dituzte zureak ikusi";
 "You did not grant Monal to access your location." = "Ez diozu Monali kokapena atzitzeko baimenik eman.";
 "You got banned from: %@" = "Debekua ezarri dizute: %@";
@@ -737,6 +824,7 @@
 "You will no longer receive messages from this conversation" = "Aurrerantzean ez duzu elkarrizketa honetako mezu gehiagorik jasoko";
 "You will receive subsequent messages from this conversation" = "Elkarrizketa honetako mezuak jasoko dituzu aurrerantzean";
 "Your account must be enabled and connected, to be removed from the server!" = "Zure kontua gaituta eta konektatuta egon behar da zerbitzaritik kendu ahal izateko!";
+"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
 "Your answer" = "Zure erantzuna";
 "Your entered XMPP ID is missing the domain" = "Sartu duzun XMPP IDari domeinua falta zaio";
 "Your entered XMPP ID is missing the username" = "Idatzi duzun XMPP IDari erabiltzaile izena falta zaio";
@@ -744,6 +832,7 @@
 "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Zure zerbitzaria ez da Stream Management (XEP-0198)-ekin bateragarria. Honek esan nahi du maiz gal daitezkela bidaltzen dituzun mezuak!! Aldatu zerbitzaria egin hitz administrariarekin funtzioa gaitu dezan!";
 "Your status" = "Zure egoera";
 "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "XMPP kontuak honako formatua izan behar du: erabiltzailea@domeinua.eus. Ezarpen berezietarako eskuz konfiguratu.";
+"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
 "🎥 A Video" = "🎥 Bideoa";
 "🎵 A Audiomessage" = "🎵 Audio mezua";
 "📁 A File" = "📁 Fitxategia";
@@ -751,90 +840,4 @@
 "📍 A Location" = "📍 Kokapena";
 "📷 An Image" = "📷 Irudia";
 "🔗 A Link" = "🔗 Esteka";
-"Add to contacts" = "Gehitu kontaktuetara";
-"Apple Push Token" = "Apple Push Token";
-"Apple Push Token is not available!" = "Apple Push Token ez dago erabilgarri!";
-"Block Contact" = "Blokeatu kontaktua";
-"Blocking/Unblocking Not Supported" = "Blokeatzea / Desblokeatzea ez dago gaituta";
-"Channel subject:" = "Channel subject:";
-"Clear chat history of this channel" = "Clear chat history of this channel";
-"Clear chat history of this contact" = "Garbitu kontaktu honen txataren historia";
-"Clear chat history of this group" = "Clear chat history of this group";
-"Copy to clipboard" = "Kopiatu arbelera";
-"Debugging" = "Arazten";
-"Delete Key" = "Ezabatu gakoa";
-"Device ID: " = "Gailuaren IDa: ";
-"DeviceID: " = "DeviceID: ";
-"Do you really want to block this contact? You won't receive any messages from this contact." = "Ziur zaude kontaktu hau blokeatu nahi duzula? Ez duzu kontaktu honen mezurik jasoko.";
-"Do you really want to delete this key?" = "Ziur zaude gako hau ezabatu nahi duzula?";
-"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
-"Doing a lot of work..." = "Lan handia egiten…";
-"Don't trust Key" = "Ez fidatu gakoaz";
-"Done" = "Egina";
-"Dont' trust Key" = "Ez fidatu gakoaz";
-"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
-"Duplicate Account!" = "Duplicate Account!";
-"Duplicate jid!" = "Duplicate jid!";
-"Encrypted session to this device broken beyond repair." = "Gailu honetako zifratutako saioa kaltetuta dago eta ezin da konpondu.";
-"Entry 1" = "Entry 1";
-"Entry 2" = "Entry 2";
-"Entry 3" = "Entry 3";
-"Error: Account disabled, can not display keys!" = "Errorea: kontua ezgaituta dago, ezin dira gakoak ikusi!";
-"Error: No contacts to display keys for!" = "Errorea: Ez dago gakoak ikusteko kontakturik!";
-"Group Members" = "Taldeko kideak";
-"Group subject:" = "Taldeko gaia:";
-"groupJoin Group" = "groupJoin Group";
-"Invalid Credentials!" = "Erabiltzaile/pasahitz baliogabea!";
-"Invalid State" = "Egoera baliogabea";
-"Invalid Username!" = "Erabiltzaile-izen baliogabea!";
-"Keys of %@" = "%@(r)en gakoak";
-"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "ePostaren kasuan bezala, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
-"Loading" = "Kargatzen";
-"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Hasi saioa zure kontuan edo eman izena kontu berri batean. Behar izanez gero, konfigurazio aurreratuagoa aurkituko duzu Monalen ezarpenetan.";
-"Login" = "Hasi saioa";
-"Manual input" = "Manual input";
-"Migration Assistant" = "Migraziorako laguntzailea";
-"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
-"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
-"More info?" = "Informazio gehiago?";
-"No accounts set up currently" = "Ez da konturik ezarri!";
-"No Empty Values!" = "Ez utzi hutsik!";
-"No XMPP server!" = "Ez dago XMPP zerbitzaririk!";
-"Okay" = "Ados";
-"Own device key" = "Nire gailuko gakoa";
-"Passwords don't match!" = "Pasahitzak ez datoz bat!";
-"Please make sure you have entered a username and password." = "Egiaztatu erabiltzaile-izen eta pasahitza sartu dituzula.";
-"Please make sure you have entered the same password in both password fields." = "Egiaztatu pasahitz berbera sartu duzula bi eremuetan.";
-"Please provide a valid XMPP server domain or select one." = "Idatzi XMPP baliogarri bat edo hautatu bat.";
-"Please select a XMPP server or provide one." = "Hautatu XMPP zerbitzaria edo idatzi besteren bat.";
-"Pushserver Region" = "Push zerbitzariaren eremua";
-"QR code: Fingerprints found" = "QR kodea: hatz-markak topatu dira";
-"Register" = "Erregistratu";
-"Register with %@" = "Register with %@";
-"Registration Error" = "Registration Error";
-"Remove from contacts" = "Kendu kontaktuetatik";
-"Set up account later" = "Konfiguratu kontua geroago";
-"Status message:" = "Egoera mezua:";
-"Terms of use for %@" = "%@(r)en erabilera baldintzak";
-"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
-"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
-"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
-"This account already exists on this instance." = "This account already exists on this instance.";
-"This jid already exists on this instance." = "This jid already exists on this instance.";
-"This key belongs to this device and cannot be removed or disabled!" = "Gailu honen gakoa da hau eta ezin da kendu edo ezgaitu!";
-"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
-"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
-"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
-"Trust Key" = "Trust Key";
-"Trusted and verified key" = "Trusted and verified key";
-"Trusted but removed key" = "Trusted but removed key";
-"Trusted but unused key" = "Trusted but unused key";
-"Trusted but unverified key" = "Trusted but unverified key";
-"Unblock Contact" = "Desblokeatu kontaktua";
-"Untrusted key" = "Untrusted key";
-"Welcome" = "Ongi etorri";
-"XMPP server domain not valid!" = "XMPP zerbitzariaren domeinua ez da baliozkoa!";
-"XMPPServer" = "XMPPServer";
-"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
-"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
-"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
+"Show shared Media and Files" = "Show shared Media and Files";

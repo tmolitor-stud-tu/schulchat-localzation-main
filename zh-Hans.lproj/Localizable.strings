@@ -31,6 +31,7 @@
 "Add Group to Favorites" = "将群组添加到收藏夹";
 "Add New Account" = "添加新账号";
 "Add new contacts with the + button above. Your friends will pop up here when they can talk" = "用上面的 + 按钮新增联系人。您的朋友在他们可以聊天的时候会出现在这";
+"Add to contacts" = "Add to contacts";
 "Advanced" = "高级";
 "Advanced Settings" = "高级设置";
 "All messages already present in local history!" = "所有的信息都已经存在于当地的历史中!";
@@ -44,6 +45,8 @@
 "App" = "应用";
 "Apple Push Service" = "Apple 推送通知服务";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "需要打开Apple 推送通知服务。否则，您的设备将无法联系Apple服务器。";
+"Apple Push Token" = "Apple Push Token";
+"Apple Push Token is not available!" = "Apple Push Token is not available!";
 "Approve new contact" = "Approve new contact";
 "Appserver error" = "App服务器错误";
 "Appserver returned invalid data" = "App服务器回传无效数据";
@@ -67,10 +70,12 @@
 "Backgrounds" = "背景";
 "Block" = "阻止";
 "Block %@ from contacting you?" = "阻止 %@ 联系你？";
+"Block Contact" = "Block Contact";
 "Block Sender" = "阻止联系人";
 "Blocked Users" = "被阻止的联系人";
 "Blocking is not supported by the server" = "服务器不支持阻止";
 "Blocking not supported" = "不支持阻止";
+"Blocking/Unblocking Not Supported" = "Blocking/Unblocking Not Supported";
 "call screen did disappear" = "通话界面已取消";
 "Camera" = "摄像头";
 /* Camera permissions missing warning */
@@ -82,6 +87,7 @@
 "Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "无法与被禁用/删除的帐户共享某些内容，目标: %1$@, 内部帐户 id: %2$@";
 "Change Password" = "修改密码";
 "Changing Password" = "更改密码";
+"Channel subject:" = "Channel subject:";
 "Chat Backgrounds" = "对话背景";
 "Chat for free with your friends, colleagues and family!" = "免费与您的朋友，同事及家人聊天！";
 "Chat Logs" = "聊天记录";
@@ -93,6 +99,9 @@
 "Choices Galore" = "大量的选择";
 "Clear Chat History" = "清除聊天记录";
 "Clear chat history for this contact" = "清除此联系人的聊天记录";
+"Clear chat history of this channel" = "Clear chat history of this channel";
+"Clear chat history of this contact" = "Clear chat history of this contact";
+"Clear chat history of this group" = "Clear chat history of this group";
 "Clear History" = "清除历史记录";
 /* DEBUG - ContactDetails */
 "Clear omemo session" = "清除omemo会话";
@@ -113,6 +122,7 @@
 "Contacts are usually in the format: username@domain.something" = "联系人通常采用以下格式：username@domain.something";
 /* Chat msg action */
 "Copy" = "复制";
+"Copy to clipboard" = "Copy to clipboard";
 /* QR-Code-Scanner: camera not found */
 "Could not access camera" = "无法连接到摄像头";
 "Could not access Finder item!" = "Could not access Finder item!";
@@ -137,6 +147,7 @@
 "Could not upload file" = "无法上传文件";
 "Current Password" = "当前密码";
 "Debug" = "调试";
+"Debugging" = "Debugging";
 "Decline" = "拒绝";
 "Default chat backgrounds are from the Ubuntu project." = "预设的对话背景是从取自于Ubuntu 专案。";
 "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "定义对允许名单版本管理的XMPP名单协议的推荐修改，如果名单未被修改，那么服务器将不会将名单发送给客户端。";
@@ -145,8 +156,11 @@
 "Delete" = "删除";
 "Delete Account" = "删除账号";
 "Delete Account on Server" = "Delete Account on Server";
+"Delete Key" = "Delete Key";
 "Delete Locally" = "本地删除";
 "Deny new contact" = "Deny new contact";
+"Device ID: " = "Device ID: ";
+"DeviceID: " = "DeviceID: ";
 "Devices of %@" = "%@ 的设备";
 "Direct TLS" = "直接TLS";
 "Disable Encryption" = "停用加密";
@@ -158,24 +172,35 @@
 "Display Only Name" = "仅显示名字";
 "Display Only Placeholder" = "仅显示提示消息";
 "Display Settings" = "显示设置";
+"Do you really want to block this contact? You won't receive any messages from this contact." = "Do you really want to block this contact? You won't receive any messages from this contact.";
 "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "您确定要清除此对话中的所有消息吗？ 如果已使用 OMEMO加密，您就无法再次从服务器加载它们。";
+"Do you really want to delete this key?" = "Do you really want to delete this key?";
 "Do you really want to disable encryption for this contact?" = "Do you really want to disable encryption for this contact?";
 "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "您确定要重置 OMEMO 会话吗？ 如果您不确定，您就应该只重置连接！";
 "Do you want to trust the scanned fingerprints from" = "你确认扫描的指纹吗";
+"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
+"Doing a lot of work..." = "Doing a lot of work...";
 "Domain missing" = "缺少域名";
+"Don't trust Key" = "Don't trust Key";
+"Done" = "Done";
+"Dont' trust Key" = "Dont' trust Key";
 "Download" = "下载";
 "Download error" = "下载错误";
 "Draft:" = "草稿：";
 "Draft: %@" = "草稿: %@";
 /* hello bartycrouch */
 "Dummy string for triggering bartycrouch" = "用于触发 bartycouch 的虚拟字符串";
+"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
 "Duplicate Account" = "帐号重复";
+"Duplicate Account!" = "Duplicate Account!";
+"Duplicate jid!" = "Duplicate jid!";
 /* Chat msg action */
 "Edit" = "编辑";
 "Email Support" = "联系电邮";
 "Enable OMEMO per default" = "默认启用 OMEMO";
 "Enabled" = "已启用";
 "Encrypted message was sent in an older format Monal can't decrypt. Please ask them to update their client. (GCM error)" = "加密消息以较旧的格式发送，Monal无法解密。请告诉对方更新客户端。 （GCM错误）";
+"Encrypted session to this device broken beyond repair." = "Encrypted session to this device broken beyond repair.";
 "Encryption Keys" = "加密密钥";
 "Encryption Keys (OMEMO)" = "加密密钥 (OMEMO)";
 "Encryption Not Supported" = "不支持加密";
@@ -185,6 +210,9 @@
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "输入您的新密码。密码不应为空。密码也须符合服务器或公司管理政策。";
 "Enter your password here" = "在这里输入你的密码";
 "Enter your XMPP ID here" = "在这里输入你的 XMPP ID";
+"Entry 1" = "Entry 1";
+"Entry 2" = "Entry 2";
+"Entry 3" = "Entry 3";
 "Error" = "错误";
 "Error authenticating server using SASL2, disconnecting!" = "Error authenticating server using SASL2, disconnecting!";
 "Error decrypting message" = "解密消息发生错误";
@@ -195,6 +223,8 @@
 "Error while decrypting" = "解密出错";
 "Error while decrypting: iv.length != 12" = "解密出错 : iv.length != 12";
 "Error: %@" = "错误: %@";
+"Error: Account disabled, can not display keys!" = "Error: Account disabled, can not display keys!";
+"Error: No contacts to display keys for!" = "Error: No contacts to display keys for!";
 "Error: Received message is empty" = "错误：收到的消息是空的";
 "Error: Received OMEMO message is empty" = "Error: Received OMEMO message is empty";
 "Escape The Garden" = "脱离范围";
@@ -227,6 +257,8 @@
 "Failed to query newest stanzaid for account %@" = "查询帐号的最新stanzaid失败 %@";
 "Failed to query newest stanzaid for Group/Channel %@" = "Failed to query newest stanzaid for Group/Channel %@";
 "Failed to query newest stanzaid for groupchat %@" = "查询群聊的最新stanzaid失败 %@";
+"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
+"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
 "Failed to save groupchat bookmarks" = "保存群聊书签失败";
 "Failed to share file" = "共享文件失败";
 "Failed to upload file: account was removed" = "上传文件失败：账号已被删除";
@@ -245,9 +277,11 @@
 "Group Chat" = "群聊";
 "Group Chat Invite" = "群聊邀请";
 "Group Information" = "群组信息";
+"Group Members" = "Group Members";
 /* MLJoinGroupViewController - Group Password Form */
 "Group Password" = "群组密码";
 "Group requires a password" = "群组需要密码";
+"Group subject:" = "Group subject:";
 "Group/Channel error" = "Group/Channel error";
 "Group/Channel error in %@" = "Group/Channel error in %@";
 "Group/Channel got destroyed: %@" = "Group/Channel got destroyed: %@";
@@ -255,6 +289,7 @@
 "Groupchat error" = "群聊错误";
 "Groupchat/channel details" = "群聊/频道详情";
 "Groupchat/channel details are currently not implemented in Monal." = "群聊/频道详细信息目前未在 Monal 中实现。";
+"groupJoin Group" = "groupJoin Group";
 "Hardcoded Hostname" = "硬编码主机名";
 "Hide Chat" = "隐藏对话";
 "Hint" = "提示";
@@ -276,10 +311,13 @@
 "Indicate when a particular device is active or inactive. Saves battery." = "显示某特定设备处于活动或非活动状态。可节省电力。";
 "Input is not a valid jid" = "输入不是有效的JID";
 "Invalid Credentials" = "无效的凭证";
+"Invalid Credentials!" = "Invalid Credentials!";
 /* QR-Code-Scanner: invalid format */
 "Invalid format" = "无效格式";
 "Invalid Password!" = "无效的密码！";
+"Invalid State" = "Invalid State";
 "Invalid username" = "无效的用户名";
+"Invalid Username!" = "Invalid Username!";
 /* QR-Code-Scanner: Camera not found */
 "It does not seem as your device has a camera. Please use a device with a camera for scanning" = "您的设备似乎没有摄像头。请使用有摄像头的设备进行扫描";
 "Jabber ID" = "Jabber 用户名";
@@ -291,6 +329,7 @@
 /* Join GroupViewController - HUD */
 "Joining Group" = "加入群组";
 "Just seen" = "刚看到";
+"Keys of %@" = "Keys of %@";
 "Kicked, because muc is now members-only: %@" = "已被踢出，因为muc现在是会员专用 : %@";
 "Kicked, because of system shutdown: %@" = "已被踢出，因为系统关闭 : %@";
 "Last seen: %@" = "最后上线: %@";
@@ -305,10 +344,12 @@
 "Leave Group" = "离开群组";
 "Leave this conversation" = "离开此对话";
 "Leave this converstion?" = "离开对话吗?";
+"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
 "Load over cellular upto" = "使用手机流量上限";
 "Load over cellular upto: %.fMB" = "使用手机流量上限 : %.fMB";
 "Load over WiFi upto" = "使用WiFi流量上限";
 "Load over WiFi upto: %.fMB" = "使用WiFi流量上限 : %.fMB";
+"Loading" = "Loading";
 "Loading contact list" = "加载联系人列表";
 "Loading Data" = "资料载入中";
 "Loading more Messages from Server" = "从服务器载入更多消息";
@@ -320,9 +361,12 @@
 "Log" = "记录";
 "Log Chats" = "聊天记录";
 "Log Date" = "记录日期";
+"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings.";
 "Logging in" = "登录中";
+"Login" = "Login";
 "Login error, account disabled: %@" = "Login error, account disabled: %@";
 "Login with a QR-Code" = "二维码登录";
+"Manual input" = "Manual input";
 "Mark all messages as read" = "标记所有消息为已读";
 "Mark as read" = "标记为已读";
 "Maximum File Transfer Size" = "最大档案传输大小";
@@ -341,11 +385,14 @@
 "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u." = "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u.";
 "Messages never archived by default." = "默认情况下，消息从不存档。";
 "Method: %@" = "Method: %@";
+"Migration Assistant" = "Migration Assistant";
 "Missing permission" = "缺少权限";
 "Monal" = "Monal";
 "Monal  uses your location when you send a location message in a conversation." = "当您在对话中发送位置信息时，Monal 会使用您的位置。";
+"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
 "Monal did not received a gps location. Please try again later." = "Monal 没有收到GPS定位。请稍后再试。";
 "Monal does not have access to your location. Please update the location access in your device's Privacy Settings." = "Monal 无法取用您的位置。请在您设备的隐私设置中更新位置存取权限。";
+"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
 /* Camera permissions missing warning */
 "Monal is not allowed to access the camera" = "Monal不被允许访问摄像头";
 "Monal Push Server" = "Monal 推送服务器";
@@ -353,6 +400,7 @@
 "Monal uses your location when you send a location message in a conversation." = "当您在对话中发送位置信息时，Monal 会使用您的位置。";
 "Monal was not able to send your attachment!" = "Monal was not able to send your attachment!";
 "Monal was not able to send your attachment: %@" = "Monal was not able to send your attachment: %@";
+"More info?" = "More info?";
 "Muc got destroyed: %@" = "Muc got destroyed: %@";
 "Muc not available anymore: %@" = "Muc not available anymore: %@";
 "Mute" = "静音";
@@ -369,9 +417,11 @@
 "Newest TLS version which is faster than TLS 1.2" = "Newest TLS version which is faster than TLS 1.2";
 "Nickname" = "昵称";
 "No" = "否";
+"No accounts set up currently" = "No accounts set up currently";
 "No connected accounts" = "无已连线帐号";
 "No Contact Selected" = "未选择任何联系人";
 "No Empty Values" = "无空白值";
+"No Empty Values!" = "No Empty Values!";
 "No enabled account found" = "没有启用的帐号";
 "No further error description" = "无进一步的错误描述";
 "No GPS location received" = "无法接收到GPS位置";
@@ -382,6 +432,7 @@
 "No supported auth mechanism found, disabling account!" = "No supported auth mechanism found, disabling account!";
 "No supported auth mechanism found, disconnecting!" = "没有找到支持的身份验证机制，正在断开连接！";
 "no supported auth mechanism, disconnecting!" = "不支持身份验证机制，正在断开连接！";
+"No XMPP server!" = "No XMPP server!";
 "No, keep encryption activated" = "No, keep encryption activated";
 "None" = "None";
 "Not Authorized. Please check your credentials." = "未授权。请检查您的凭证。";
@@ -396,6 +447,7 @@
 "Offline Contacts" = "离线联系人";
 "OK" = "OK";
 "Ok" = "好";
+"Okay" = "Okay";
 "Older, slower, but still secure TLS version" = "Older, slower, but still secure TLS version";
 "Online" = "在线";
 "Only contacts" = "仅联系人";
@@ -406,10 +458,12 @@
 "Optional Hardcoded Hostname" = "可选的硬编码的主机名";
 "Optional Port" = "可选端口";
 "Os: " = "操作系统: ";
+"Own device key" = "Own device key";
 "Participants" = "参与者";
 "Password" = "密码";
 "Password cannot be empty" = "密码不能为空";
 "Password missing" = "密码丢失";
+"Passwords don't match!" = "Passwords don't match!";
 "Permission Requested" = "请求许可";
 "Photos" = "照片";
 "Pin Chat" = "置顶聊天";
@@ -422,8 +476,12 @@
 "Please make sure at least one account has connected before trying to add a contact." = "在尝试添加联系人之前，请确保至少有一个帐号已连线。";
 "Please make sure at least one account has connected before trying to message someone." = "在尝试向某人发送消息之前，请确认至少有一个帐号已连线。";
 "Please make sure you are connected before changing your password." = "在更改密码之前，请确认已连线。";
+"Please make sure you have entered a username and password." = "Please make sure you have entered a username and password.";
 "Please make sure you have entered a username, password." = "请确认您输入了用户名、密码。";
+"Please make sure you have entered the same password in both password fields." = "Please make sure you have entered the same password in both password fields.";
 "Please open the app to retry" = "请打开app重试";
+"Please provide a valid XMPP server domain or select one." = "Please provide a valid XMPP server domain or select one.";
+"Please select a XMPP server or provide one." = "Please select a XMPP server or provide one.";
 "Please update!" = "Please update!";
 "Port" = "端口";
 "Port: %@, Direct TLS: %@, Priority: %@" = "端口: %1$@, 直接TLS: %2$@, 优先级: %3$@";
@@ -432,8 +490,10 @@
 "Privacy" = "隐私";
 "Privacy Settings" = "隐私设定";
 "Protocol support of your server (XEPs)" = "服务器支持的协议 (XEPs)";
+"Pushserver Region" = "Pushserver Region";
 /* MLLoginView: QR-Code Button iOS12 only */
 "QR" = "二维码";
+"QR code: Fingerprints found" = "QR code: Fingerprints found";
 "QR-Code Scanner" = "扫一扫二维码";
 /* catalina warning */
 "QR-Code scanning is not supported on catalina" = "catalina不支持二维码扫描";
@@ -471,11 +531,15 @@
 "Reconnecting" = "正在重新连线";
 "Recording audio" = "正在录音";
 "Refreshing..." = "正在刷新...";
+"Register" = "Register";
+"Register with %@" = "Register with %@";
 "Registering account..." = "注册账号中...";
+"Registration Error" = "Registration Error";
 "Remove %@ from contacts?" = "从联系人中删除 %@？";
 "Remove Account from this Device" = "Remove Account from this Device";
 "Remove Contact" = "删除联系人";
 "Remove Conversation" = "移除对话";
+"Remove from contacts" = "Remove from contacts";
 "Reply" = "回复";
 "ReplyButton" = "回复按钮";
 "Reset OMEMO session" = "重置 OMEMO 会话";
@@ -533,6 +597,7 @@
 "Server: %@" = "服务器: %@";
 "Set a nickname" = "设置昵称";
 "Set a nickname for this contact" = "设置此联系人的昵称";
+"Set up account later" = "Set up account later";
 /* Camera permissions missing warning */
 "Settings" = "设置";
 "Sharing failed" = "分享失败";
@@ -556,6 +621,7 @@
 "Start Using Monal" = "开始使用 Monal";
 "Status" = "状态";
 "Status Message" = "状态信息";
+"Status message:" = "Status message:";
 "Submit A Bug" = "提交错误";
 "Success" = "成功";
 "Success!" = "成功！";
@@ -567,6 +633,7 @@
 "Tell my contacts when I'm typing" = "当我在输入的时候，让我的联系人知道";
 "Temporary failure to enter Group/Channel: %@" = "Temporary failure to enter Group/Channel: %@";
 "Temporary failure to enter groupchat: %@" = "Temporary failure to enter groupchat: %@";
+"Terms of use for %@" = "Terms of use for %@";
 "The account has been deleted" = "该帐号已被删除";
 "The account has been removed" = "The account has been removed";
 "The account has been saved" = "账号已保存";
@@ -575,13 +642,16 @@
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "与服务器的连接已中断，无法获取此聊天的旧消息。 请稍后再试。 %@";
 "The current password is not correct." = "当前密码不正确。";
 "The jid has to be in the form 'user@domain.tld' to be correct." = "jid 必须使用正确的格式“user@domain.tld”。";
+"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "当对方接受的邀请后，将被添加到联系人列表中。";
 "The password has been changed" = "密码已变更";
 /* QR-Code-Scanner: jid scan wrong menu */
 "The qrcode contains a jid. Rescan the qrcode in the add user menu" = "二维码包含一个 jid。 重新扫描添加用户菜单中的二维码";
 /* QR-Code-Scanner: account scan wrong menu */
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "二维码包含帐户的登录凭据。 进入设置并重新扫描二维码";
+"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
 "The server does not support blocking" = "服务器不支持阻止";
+"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
 "The user %@ (%@) wants to add you to his contact list" = "The user %1$@ (%2$@) wants to add you to his contact list";
 "The user %@ (%@) wants to add you to their contact list" = "The user %1$@ (%2$@) wants to add you to their contact list";
 "The username does not need to have an @ symbol. Please try again." = "用户名不需要有 @ 符号。请重试。";
@@ -605,9 +675,15 @@
 "They will see when you are online. They will be able to send you encrypted messages." = "当你在线时他们可以看的到。他们可以向您传送加密消息。";
 "This account already exists in Monal." = "在Monal已经存在这个帐号。";
 "This account already exists on this instance" = "此帐号已存在于此实例中";
+"This account already exists on this instance." = "This account already exists on this instance.";
 "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "APP版本太老了，包括很多安全问题而且可能突然关。请更新软件！";
 "This contact does not appear to have any devices that support encryption." = "此联系人似乎没有任何支持加密的设备。";
 "This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "此联系人可能不支持 OMEMO 加密消息。 请稍后再试。";
+"This jid already exists on this instance." = "This jid already exists on this instance.";
+"This key belongs to this device and cannot be removed or disabled!" = "This key belongs to this device and cannot be removed or disabled!";
+"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
+"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
+"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
 "This message failed to send (%@): %@" = "此消息未能发出 (%1$@): %2$@";
 "This message failed to send." = "此消息发送失败。";
 "This sender will be able to send you messages" = "此联系人能向你发消息";
@@ -633,12 +709,18 @@
 "TLS Error: Unknown root certificate" = "TLS 错误：未知的根证书";
 /* OmemoQrCodeView */
 "To many device keys" = "设备密钥太多";
+"Trust Key" = "Trust Key";
+"Trusted and verified key" = "Trusted and verified key";
+"Trusted but removed key" = "Trusted but removed key";
+"Trusted but unused key" = "Trusted but unused key";
+"Trusted but unverified key" = "Trusted but unverified key";
 /* Join GroupViewController - Join Group HUD */
 "Trying to join group" = "尝试加入群组";
 "Type: %@" = "Type: %@";
 "Typing..." = "打字中...";
 "Unable to connect to server" = "无法连到服务器";
 "Unable to connect to server!" = "无法连接到服务器!";
+"Unblock Contact" = "Unblock Contact";
 "Unblock Sender" = "解除阻止联系人";
 "Unclean appex shutown" = "Unclean appex shutown";
 "Unexpected appex expiration" = "Unexpected appex expiration";
@@ -654,6 +736,7 @@
 "Unnamed" = "未命名";
 "Unpin Chat" = "取消置顶聊天";
 "Unread Messages Below" = "以下为未读消息";
+"Untrusted key" = "Untrusted key";
 "Upload Error" = "上传出错";
 "Upload Error: your account got disconnected while requesting upload slot" = "上传出错：您的帐户在请求上传插槽时断开连接";
 "Upload files to the server to share with others." = "将文件上传到服务器与他人共享。";
@@ -683,6 +766,7 @@
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "我们无法连接您的帐户。 请检查您的凭据并确保您已连接到互联网。\n\n技术错误信息: %@";
 "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs." = "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs.";
 "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs.";
+"Welcome" = "Welcome";
 "Welcome to Monal" = "欢迎使用Monal";
 "When you have some favorite groups, they will be here for you." = "当你有一些喜欢的聊天群组时，他们会出现在这里。";
 "When you start talking to someone,\n they will show up here." = "当你开始和某人聊天时, \n 他们就会出现在这里。";
@@ -714,14 +798,17 @@
 "XMPP protocol extension for communications blocking." = "XMPP 通信阻塞的协议扩展。";
 "XMPP protocol extension for sending application-level pings over XML streams." = "XMPP协议扩展，用于通过XML流发送应用程序级ping。";
 "XMPP Roster Error" = "XMPP 名单错误";
+"XMPP server domain not valid!" = "XMPP server domain not valid!";
 "XMPP stream error %@: %@" = "XMPP 串流错误 %1$@: %2$@";
 "XMPP stream error: %@" = "XMPP串流错误: %@";
 "XMPP: QR-Code" = "XMPP: 二维码";
+"XMPPServer" = "XMPPServer";
 "yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im 是一个公共服务器，不属于 Monal。 提供此页面是为了方便理解。";
 "Yes" = "是";
 "Yes, deactivate encryption" = "Yes, deactivate encryption";
 "You are not trapped in a garden. Talk to anyone else without anyone tracking you." = "您不在监视范围内。 您在没有任何人追踪的情况下与其他人交谈。";
 "You are set up and connected." = "您已设定好并且已连线。";
+"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
 "You can see their keys. They can't see yours" = "你可以看到他们的密钥。他们看不到你的";
 "You did not grant Monal to access your location." = "您没有授权 Monal 访问您的位置。";
 "You got banned from: %@" = "您被: %@ 禁止了";
@@ -737,6 +824,7 @@
 "You will no longer receive messages from this conversation" = "您将不会再收到来自此对话的消息";
 "You will receive subsequent messages from this conversation" = "您将收到来自此对话的后续消息";
 "Your account must be enabled and connected, to be removed from the server!" = "Your account must be enabled and connected, to be removed from the server!";
+"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
 "Your answer" = "你的回答";
 "Your entered XMPP ID is missing the domain" = "您输入的 XMPP ID 缺少域名";
 "Your entered XMPP ID is missing the username" = "您输入的 XMPP ID 缺少使用者名称";
@@ -744,6 +832,7 @@
 "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "您的服务器不支持串流管理（XEP-0198)。这意味着您传出的消息可能会经常丢失！您应该切换服务器或与服务器管理员联系以启用此功能！";
 "Your status" = "您的状态";
 "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "您的 XMPP 帐号应使用格式 user@domain。对于特殊设定，请使用手动设置。";
+"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
 "🎥 A Video" = "🎥 影片";
 "🎵 A Audiomessage" = "🎵 语音消息";
 "📁 A File" = "📁文件";
@@ -751,90 +840,4 @@
 "📍 A Location" = "📍 位置";
 "📷 An Image" = "📷 图片";
 "🔗 A Link" = "🔗 链接";
-"Add to contacts" = "Add to contacts";
-"Apple Push Token" = "Apple Push Token";
-"Apple Push Token is not available!" = "Apple Push Token is not available!";
-"Block Contact" = "Block Contact";
-"Blocking/Unblocking Not Supported" = "Blocking/Unblocking Not Supported";
-"Channel subject:" = "Channel subject:";
-"Clear chat history of this channel" = "Clear chat history of this channel";
-"Clear chat history of this contact" = "Clear chat history of this contact";
-"Clear chat history of this group" = "Clear chat history of this group";
-"Copy to clipboard" = "Copy to clipboard";
-"Debugging" = "Debugging";
-"Delete Key" = "Delete Key";
-"Device ID: " = "Device ID: ";
-"DeviceID: " = "DeviceID: ";
-"Do you really want to block this contact? You won't receive any messages from this contact." = "Do you really want to block this contact? You won't receive any messages from this contact.";
-"Do you really want to delete this key?" = "Do you really want to delete this key?";
-"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
-"Doing a lot of work..." = "Doing a lot of work...";
-"Don't trust Key" = "Don't trust Key";
-"Done" = "Done";
-"Dont' trust Key" = "Dont' trust Key";
-"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
-"Duplicate Account!" = "Duplicate Account!";
-"Duplicate jid!" = "Duplicate jid!";
-"Encrypted session to this device broken beyond repair." = "Encrypted session to this device broken beyond repair.";
-"Entry 1" = "Entry 1";
-"Entry 2" = "Entry 2";
-"Entry 3" = "Entry 3";
-"Error: Account disabled, can not display keys!" = "Error: Account disabled, can not display keys!";
-"Error: No contacts to display keys for!" = "Error: No contacts to display keys for!";
-"Group Members" = "Group Members";
-"Group subject:" = "Group subject:";
-"groupJoin Group" = "groupJoin Group";
-"Invalid Credentials!" = "Invalid Credentials!";
-"Invalid State" = "Invalid State";
-"Invalid Username!" = "Invalid Username!";
-"Keys of %@" = "Keys of %@";
-"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
-"Loading" = "Loading";
-"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings.";
-"Login" = "Login";
-"Manual input" = "Manual input";
-"Migration Assistant" = "Migration Assistant";
-"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
-"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
-"More info?" = "More info?";
-"No accounts set up currently" = "No accounts set up currently";
-"No Empty Values!" = "No Empty Values!";
-"No XMPP server!" = "No XMPP server!";
-"Okay" = "Okay";
-"Own device key" = "Own device key";
-"Passwords don't match!" = "Passwords don't match!";
-"Please make sure you have entered a username and password." = "Please make sure you have entered a username and password.";
-"Please make sure you have entered the same password in both password fields." = "Please make sure you have entered the same password in both password fields.";
-"Please provide a valid XMPP server domain or select one." = "Please provide a valid XMPP server domain or select one.";
-"Please select a XMPP server or provide one." = "Please select a XMPP server or provide one.";
-"Pushserver Region" = "Pushserver Region";
-"QR code: Fingerprints found" = "QR code: Fingerprints found";
-"Register" = "Register";
-"Register with %@" = "Register with %@";
-"Registration Error" = "Registration Error";
-"Remove from contacts" = "Remove from contacts";
-"Set up account later" = "Set up account later";
-"Status message:" = "Status message:";
-"Terms of use for %@" = "Terms of use for %@";
-"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
-"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
-"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
-"This account already exists on this instance." = "This account already exists on this instance.";
-"This jid already exists on this instance." = "This jid already exists on this instance.";
-"This key belongs to this device and cannot be removed or disabled!" = "This key belongs to this device and cannot be removed or disabled!";
-"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
-"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
-"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
-"Trust Key" = "Trust Key";
-"Trusted and verified key" = "Trusted and verified key";
-"Trusted but removed key" = "Trusted but removed key";
-"Trusted but unused key" = "Trusted but unused key";
-"Trusted but unverified key" = "Trusted but unverified key";
-"Unblock Contact" = "Unblock Contact";
-"Untrusted key" = "Untrusted key";
-"Welcome" = "Welcome";
-"XMPP server domain not valid!" = "XMPP server domain not valid!";
-"XMPPServer" = "XMPPServer";
-"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
-"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
-"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
+"Show shared Media and Files" = "Show shared Media and Files";

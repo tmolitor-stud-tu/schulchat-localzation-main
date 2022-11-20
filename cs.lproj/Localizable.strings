@@ -31,6 +31,7 @@
 "Add Group to Favorites" = "Přidat skupinu do oblíbených";
 "Add New Account" = "Přidat nový účet";
 "Add new contacts with the + button above. Your friends will pop up here when they can talk" = "Přidejte nové kontakty pomocí tlačítka \"+\" nahoře. Vaši přátelé se zde objeví ve chvíli, kdy je možné s nimi chatovat.";
+"Add to contacts" = "Add to contacts";
 "Advanced" = "Rozšířené";
 "Advanced Settings" = "Rozšířené nastavení";
 "All messages already present in local history!" = "Všechny zprávy jsou již přítomny v místní historii!";
@@ -44,6 +45,8 @@
 "App" = "Aplikace";
 "Apple Push Service" = "Služba Apple Push";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Služba Apple push by měla být vždy zapnuta. Pokud není, Vaše zařízení nemůže komunikovat se servery Applu.";
+"Apple Push Token" = "Apple Push Token";
+"Apple Push Token is not available!" = "Apple Push Token is not available!";
 "Approve new contact" = "Approve new contact";
 "Appserver error" = "Appserver error";
 "Appserver returned invalid data" = "Appserver returned invalid data";
@@ -67,10 +70,12 @@
 "Backgrounds" = "Pozadí";
 "Block" = "Blokovat";
 "Block %@ from contacting you?" = "Zablokovat kontakt %@?";
+"Block Contact" = "Block Contact";
 "Block Sender" = "Blokovat odesílatele";
 "Blocked Users" = "Blokovaní uživatelé";
 "Blocking is not supported by the server" = "Blokování není podporováno serverem";
 "Blocking not supported" = "Blokování není podporováno";
+"Blocking/Unblocking Not Supported" = "Blocking/Unblocking Not Supported";
 "call screen did disappear" = "Obrazovka hovoru zmizela";
 "Camera" = "Kamera";
 /* Camera permissions missing warning */
@@ -82,6 +87,7 @@
 "Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Cannot share something with disabled/deleted account, destination: %1$@, internal account id: %2$@";
 "Change Password" = "Změnit heslo";
 "Changing Password" = "Změna hesla";
+"Channel subject:" = "Channel subject:";
 "Chat Backgrounds" = "Pozadí chatů";
 "Chat for free with your friends, colleagues and family!" = "Chatuje zdarma se svými přáteli, kolegy a rodinou!";
 "Chat Logs" = "Protokoly chatů";
@@ -93,6 +99,9 @@
 "Choices Galore" = "Spousta možností";
 "Clear Chat History" = "Vymazat historii chatu";
 "Clear chat history for this contact" = "Smazat historii chatu pro tento kontakt";
+"Clear chat history of this channel" = "Clear chat history of this channel";
+"Clear chat history of this contact" = "Clear chat history of this contact";
+"Clear chat history of this group" = "Clear chat history of this group";
 "Clear History" = "Smazat historii";
 /* DEBUG - ContactDetails */
 "Clear omemo session" = "Odstranit relaci OMEMO";
@@ -113,6 +122,7 @@
 "Contacts are usually in the format: username@domain.something" = "Kontakty jsou obvykle ve formátu: uživatel@doména.něco";
 /* Chat msg action */
 "Copy" = "Kopírovat";
+"Copy to clipboard" = "Copy to clipboard";
 /* QR-Code-Scanner: camera not found */
 "Could not access camera" = "Nelze získat přístup ke kameře";
 "Could not access Finder item!" = "Could not access Finder item!";
@@ -137,6 +147,7 @@
 "Could not upload file" = "Soubor nelze odeslat";
 "Current Password" = "Současné heslo";
 "Debug" = "Debug";
+"Debugging" = "Debugging";
 "Decline" = "Odmítnout";
 "Default chat backgrounds are from the Ubuntu project." = "Výchozí pozadí chatů pochází z projektu Ubuntu.";
 "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Definuje navrhovanou úpravu protokolu XMPP roster, která umožňuje verzování seznamů (rosterů) tak, aby server neodesílal rostery klientům, pokud nebyly změněny.";
@@ -145,8 +156,11 @@
 "Delete" = "Smazat";
 "Delete Account" = "Smazat účet";
 "Delete Account on Server" = "Delete Account on Server";
+"Delete Key" = "Delete Key";
 "Delete Locally" = "Smazat lokálně";
 "Deny new contact" = "Deny new contact";
+"Device ID: " = "Device ID: ";
+"DeviceID: " = "DeviceID: ";
 "Devices of %@" = "Zařízení kontaktu %@";
 "Direct TLS" = "Přímé TLS";
 "Disable Encryption" = "Vypnout šifrování";
@@ -158,24 +172,35 @@
 "Display Only Name" = "Zobrazit pouze jméno";
 "Display Only Placeholder" = "Zobrazit pouze zástupce";
 "Display Settings" = "Nastavení zobrazení";
+"Do you really want to block this contact? You won't receive any messages from this contact." = "Do you really want to block this contact? You won't receive any messages from this contact.";
 "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Skutečně chcete smazat všechny zprávy v této konverzaci? Pokud používáte OMEMO, nebude ani možné je znovu stáhnout ze serveru.";
+"Do you really want to delete this key?" = "Do you really want to delete this key?";
 "Do you really want to disable encryption for this contact?" = "Do you really want to disable encryption for this contact?";
 "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Skutečně chcete resetovat relaci OMEMO? Učiňte tak pouze v případě, že přesně víte, co děláte!";
 "Do you want to trust the scanned fingerprints from" = "Chcete důvěřovat naskenovaným otiskům od";
+"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
+"Doing a lot of work..." = "Doing a lot of work...";
 "Domain missing" = "Chybí doména";
+"Don't trust Key" = "Don't trust Key";
+"Done" = "Done";
+"Dont' trust Key" = "Dont' trust Key";
 "Download" = "Stáhnout";
 "Download error" = "Chyba stahování";
 "Draft:" = "Koncept:";
 "Draft: %@" = "Koncept: %@";
 /* hello bartycrouch */
 "Dummy string for triggering bartycrouch" = "Dummy string for triggering bartycrouch";
+"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
 "Duplicate Account" = "Duplikovat účet";
+"Duplicate Account!" = "Duplicate Account!";
+"Duplicate jid!" = "Duplicate jid!";
 /* Chat msg action */
 "Edit" = "Upravit";
 "Email Support" = "E-mailová podpora";
 "Enable OMEMO per default" = "Povolit OMEMO jako výchozí";
 "Enabled" = "Povoleno";
 "Encrypted message was sent in an older format Monal can't decrypt. Please ask them to update their client. (GCM error)" = "Šifrovaná zpráva byla odeslána ve starším formátu, který Monal nemůže dešifrovat. Prosíme, požádejte odesílatele, aby si aktualizoval svého klienta. (GCM error)";
+"Encrypted session to this device broken beyond repair." = "Encrypted session to this device broken beyond repair.";
 "Encryption Keys" = "Šifrovací klíče";
 "Encryption Keys (OMEMO)" = "Šifrovací klíče (OMEMO)";
 "Encryption Not Supported" = "Šifrování není podporováno";
@@ -185,6 +210,9 @@
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "Zadejte nové heslo. Hesla nesmí být prázdná a měla by se řídit zásadami serveru nebo společnosti.";
 "Enter your password here" = "Zadejte své heslo";
 "Enter your XMPP ID here" = "Zadejte své XMPP ID";
+"Entry 1" = "Entry 1";
+"Entry 2" = "Entry 2";
+"Entry 3" = "Entry 3";
 "Error" = "Chyba";
 "Error authenticating server using SASL2, disconnecting!" = "Error authenticating server using SASL2, disconnecting!";
 "Error decrypting message" = "Chyba při dešifrování zprávy";
@@ -195,6 +223,8 @@
 "Error while decrypting" = "Chyba při dešifrování";
 "Error while decrypting: iv.length != 12" = "Error while decrypting: iv.length != 12";
 "Error: %@" = "Chyba: %@";
+"Error: Account disabled, can not display keys!" = "Error: Account disabled, can not display keys!";
+"Error: No contacts to display keys for!" = "Error: No contacts to display keys for!";
 "Error: Received message is empty" = "Chyba: Přijatá zpráva je prázdná";
 "Error: Received OMEMO message is empty" = "Error: Received OMEMO message is empty";
 "Escape The Garden" = "Útěk ze zahrady";
@@ -227,6 +257,8 @@
 "Failed to query newest stanzaid for account %@" = "Chyba při získávání nejnovějšího StanzaID pro účet %@";
 "Failed to query newest stanzaid for Group/Channel %@" = "Failed to query newest stanzaid for Group/Channel %@";
 "Failed to query newest stanzaid for groupchat %@" = "Chyba při získávání nejnovějšího StanzaID pro skupinový chat %@";
+"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
+"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
 "Failed to save groupchat bookmarks" = "Chyba při ukládání záložek skupinových chatů";
 "Failed to share file" = "Chyba při sdílení souboru";
 "Failed to upload file: account was removed" = "Chyba při odesílání souboru: účet byl smazán";
@@ -245,9 +277,11 @@
 "Group Chat" = "Skupinový chat";
 "Group Chat Invite" = "Pozvánka do skupinového chatu";
 "Group Information" = "Informace o skupině";
+"Group Members" = "Group Members";
 /* MLJoinGroupViewController - Group Password Form */
 "Group Password" = "Heslo skupiny";
 "Group requires a password" = "Skupina požaduje heslo";
+"Group subject:" = "Group subject:";
 "Group/Channel error" = "Group/Channel error";
 "Group/Channel error in %@" = "Group/Channel error in %@";
 "Group/Channel got destroyed: %@" = "Group/Channel got destroyed: %@";
@@ -255,6 +289,7 @@
 "Groupchat error" = "Chyba skupinového chatu";
 "Groupchat/channel details" = "Podrobnosti o skupině/kanálu";
 "Groupchat/channel details are currently not implemented in Monal." = "Podrobnosti o skupině/kanálu nejsou v této chvíli v Monalu implementovány.";
+"groupJoin Group" = "groupJoin Group";
 "Hardcoded Hostname" = "Použít vlastní název hostitele";
 "Hide Chat" = "Skrýt chat";
 "Hint" = "Hint";
@@ -276,10 +311,13 @@
 "Indicate when a particular device is active or inactive. Saves battery." = "Zobrazuje, kdy je konkrétní zařízení aktivní nebo neaktivní. Šetří baterii.";
 "Input is not a valid jid" = "Nebylo zadáno platné JID";
 "Invalid Credentials" = "Neplatné přihlašovací údaje";
+"Invalid Credentials!" = "Invalid Credentials!";
 /* QR-Code-Scanner: invalid format */
 "Invalid format" = "Neplatný formát";
 "Invalid Password!" = "Neplatné heslo!";
+"Invalid State" = "Invalid State";
 "Invalid username" = "Neplatné uživatelské jméno";
+"Invalid Username!" = "Invalid Username!";
 /* QR-Code-Scanner: Camera not found */
 "It does not seem as your device has a camera. Please use a device with a camera for scanning" = "Zdá se, že Vaše zařízení nemá kameru. Použijte, prosím, zařízení s kamerou, pokud chcete skenovat.";
 "Jabber ID" = "Jabber ID";
@@ -291,6 +329,7 @@
 /* Join GroupViewController - HUD */
 "Joining Group" = "Připojuji ke skupině";
 "Just seen" = "Právě viděn";
+"Keys of %@" = "Keys of %@";
 "Kicked, because muc is now members-only: %@" = "Vyloučen, tato místnost je nyní jen pro členy: %@";
 "Kicked, because of system shutdown: %@" = "Vyloučen, protože systém byl vypnut: %@";
 "Last seen: %@" = "Naposledy spatřen: %@";
@@ -305,10 +344,12 @@
 "Leave Group" = "Opustit skupinu";
 "Leave this conversation" = "Opustit tuto konverzaci";
 "Leave this converstion?" = "Opustit tuto konverzaci?";
+"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
 "Load over cellular upto" = "Přes mobilní data až do";
 "Load over cellular upto: %.fMB" = "Limit pro mobilní data: %.fMB";
 "Load over WiFi upto" = "Přes WiFi data až do";
 "Load over WiFi upto: %.fMB" = "Limit pro WiFi: %.fMB";
+"Loading" = "Loading";
 "Loading contact list" = "Načítám místní seznam kontaktů";
 "Loading Data" = "Nahrávám data";
 "Loading more Messages from Server" = "Načítání dalších zpráv ze serveru";
@@ -320,9 +361,12 @@
 "Log" = "Protokol";
 "Log Chats" = "Protokolovat chaty";
 "Log Date" = "Datum protokolu";
+"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings.";
 "Logging in" = "Přihlašuji";
+"Login" = "Login";
 "Login error, account disabled: %@" = "Login error, account disabled: %@";
 "Login with a QR-Code" = "Přihlásit se pomocí QR kódu";
+"Manual input" = "Manual input";
 "Mark all messages as read" = "Označit všechny zprávy jako přečtené";
 "Mark as read" = "Označit jako přečtené";
 "Maximum File Transfer Size" = "Maximální velikost přenášených souborů";
@@ -341,11 +385,14 @@
 "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u." = "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u.";
 "Messages never archived by default." = "Zprávy nejsou nikdy archivovány jako výchozí nastavení.";
 "Method: %@" = "Method: %@";
+"Migration Assistant" = "Migration Assistant";
 "Missing permission" = "Chybějící oprávnění";
 "Monal" = "Monal";
 "Monal  uses your location when you send a location message in a conversation." = "Monal využívá Vaši polohu, když v konverzaci posíláte zprávu o poloze.";
+"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
 "Monal did not received a gps location. Please try again later." = "Monal neobdržel polohu GPS. Prosíme, zkuste to později.";
 "Monal does not have access to your location. Please update the location access in your device's Privacy Settings." = "Monal nemá přístup k Vaší poloze. Prosíme, opravte přístup k informacím o poloze v Nastavení (iOS) -> Soukromí.";
+"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
 /* Camera permissions missing warning */
 "Monal is not allowed to access the camera" = "Monal nemá oprávnění pro přístup ke kameře";
 "Monal Push Server" = "Monal Push Server";
@@ -353,6 +400,7 @@
 "Monal uses your location when you send a location message in a conversation." = "Monal používá vaši polohu, když v konverzaci posíláte zprávu o poloze.";
 "Monal was not able to send your attachment!" = "Monal was not able to send your attachment!";
 "Monal was not able to send your attachment: %@" = "Monal was not able to send your attachment: %@";
+"More info?" = "More info?";
 "Muc got destroyed: %@" = "Muc got destroyed: %@";
 "Muc not available anymore: %@" = "Muc not available anymore: %@";
 "Mute" = "Ztišit";
@@ -369,9 +417,11 @@
 "Newest TLS version which is faster than TLS 1.2" = "Newest TLS version which is faster than TLS 1.2";
 "Nickname" = "Přezdívka";
 "No" = "Ne";
+"No accounts set up currently" = "No accounts set up currently";
 "No connected accounts" = "Žádné připojené účty";
 "No Contact Selected" = "Nevybrán žádný kontakt";
 "No Empty Values" = "Žádné prázdné hodnoty";
+"No Empty Values!" = "No Empty Values!";
 "No enabled account found" = "Nenalezen žádný povolený účet";
 "No further error description" = "Žádný další popis chyby";
 "No GPS location received" = "Nebyla přijata žádná poloha GPS";
@@ -382,6 +432,7 @@
 "No supported auth mechanism found, disabling account!" = "No supported auth mechanism found, disabling account!";
 "No supported auth mechanism found, disconnecting!" = "Nebyl nalezen žádný podporovaný ověřovací mechanismus, odpojuji!";
 "no supported auth mechanism, disconnecting!" = "nepodporovaný autentizační mechanizmus, odpojuji!";
+"No XMPP server!" = "No XMPP server!";
 "No, keep encryption activated" = "No, keep encryption activated";
 "None" = "None";
 "Not Authorized. Please check your credentials." = "Neautorizováno. Zkontrolujte, prosím, své přihlašovací údaje.";
@@ -391,10 +442,12 @@
 "Notification Settings" = "Nastavení oznámení";
 "Notifications" = "Oznámení";
 "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old expereince back." = "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old expereince back.";
+"Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back.";
 "now" = "právě teď";
 "Offline Contacts" = "Kontakty offline";
 "Ok" = "OK";
 "OK" = "OK";
+"Okay" = "Okay";
 "Older, slower, but still secure TLS version" = "Older, slower, but still secure TLS version";
 "Online" = "Online";
 "Only contacts" = "Pouze kontakty";
@@ -405,10 +458,12 @@
 "Optional Hardcoded Hostname" = "Vlastní hostname";
 "Optional Port" = "Vlastní port";
 "Os: " = "OS: ";
+"Own device key" = "Own device key";
 "Participants" = "Členové";
 "Password" = "Heslo";
 "Password cannot be empty" = "Heslo nesmí být prázdné";
 "Password missing" = "Chybějící heslo";
+"Passwords don't match!" = "Passwords don't match!";
 "Permission Requested" = "Požadováno oprávnění";
 "Photos" = "Fotky";
 "Pin Chat" = "Připnout chat";
@@ -421,8 +476,12 @@
 "Please make sure at least one account has connected before trying to add a contact." = "Před tím, než se pokusíte přidat kontakt, ujistěte se, prosím, že alespoň jeden z Vašich účtů je připojen.";
 "Please make sure at least one account has connected before trying to message someone." = "Před tím, než se pokusíte napsat někomu zprávu, ujistěte se, prosím, že alespoň jeden z Vašich účtů je připojen.";
 "Please make sure you are connected before changing your password." = "Před tím, než se pokusíte změnit Vaše heslo, ujistěte se, prosím, že jste připojeni.";
+"Please make sure you have entered a username and password." = "Please make sure you have entered a username and password.";
 "Please make sure you have entered a username, password." = "Ujistěte se, prosím, že jste zadali uživatelské jméno a heslo.";
+"Please make sure you have entered the same password in both password fields." = "Please make sure you have entered the same password in both password fields.";
 "Please open the app to retry" = "Otevřete, prosím, aplikaci a zkuste to znovu";
+"Please provide a valid XMPP server domain or select one." = "Please provide a valid XMPP server domain or select one.";
+"Please select a XMPP server or provide one." = "Please select a XMPP server or provide one.";
 "Please update!" = "Please update!";
 "Port" = "Port";
 "Port: %@, Direct TLS: %@, Priority: %@" = "Port: %1$@, Direct TLS: %2$@, Priority: %3$@";
@@ -431,8 +490,10 @@
 "Privacy" = "Soukromí";
 "Privacy Settings" = "Nastavení soukromí";
 "Protocol support of your server (XEPs)" = "Podpora protokolů na Vašem serveru (XEP)";
+"Pushserver Region" = "Pushserver Region";
 /* MLLoginView: QR-Code Button iOS12 only */
 "QR" = "QR";
+"QR code: Fingerprints found" = "QR code: Fingerprints found";
 "QR-Code Scanner" = "Skener QR kódů";
 /* catalina warning */
 "QR-Code scanning is not supported on catalina" = "Skenování QR kódu není podporováno na Catalina";
@@ -470,11 +531,15 @@
 "Reconnecting" = "Obnovuji připojení";
 "Recording audio" = "Nahrávám audio";
 "Refreshing..." = "Aktualizace...";
+"Register" = "Register";
+"Register with %@" = "Register with %@";
 "Registering account..." = "Registruji účet...";
+"Registration Error" = "Registration Error";
 "Remove %@ from contacts?" = "Odstranit %@ z kontaktů?";
 "Remove Account from this Device" = "Remove Account from this Device";
 "Remove Contact" = "Odstranit kontakt";
 "Remove Conversation" = "Odstranit konverzaci";
+"Remove from contacts" = "Remove from contacts";
 "Reply" = "Odpovědět";
 "ReplyButton" = "ReplyButton";
 "Reset OMEMO session" = "Resetovat relaci OMEMO";
@@ -532,6 +597,7 @@
 "Server: %@" = "Server: %@";
 "Set a nickname" = "Nastavte přezdívku";
 "Set a nickname for this contact" = "Nastavit přezdívku pro tento kontakt";
+"Set up account later" = "Set up account later";
 /* Camera permissions missing warning */
 "Settings" = "Nastavení";
 "Sharing failed" = "Sdílení selhalo";
@@ -555,6 +621,7 @@
 "Start Using Monal" = "Začít používat Monal";
 "Status" = "Stav";
 "Status Message" = "Stavová zpráva";
+"Status message:" = "Status message:";
 "Submit A Bug" = "Nahlásit chybu";
 "Success" = "Úspěch";
 "Success!" = "Úspěch!";
@@ -566,6 +633,7 @@
 "Tell my contacts when I'm typing" = "Dát vědět kontaktům, když píšu";
 "Temporary failure to enter Group/Channel: %@" = "Temporary failure to enter Group/Channel: %@";
 "Temporary failure to enter groupchat: %@" = "Temporary failure to enter groupchat: %@";
+"Terms of use for %@" = "Terms of use for %@";
 "The account has been deleted" = "Účet byl smazán";
 "The account has been removed" = "The account has been removed";
 "The account has been saved" = "Účet byl uložen";
@@ -574,13 +642,16 @@
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "Spojení se serverem bylo přerušeno a žádné starší zprávy pro tento chat nebylo možné získat. Zkuste to, prosím, později. %@";
 "The current password is not correct." = "Současné heslo není správné.";
 "The jid has to be in the form 'user@domain.tld' to be correct." = "JID by mělo správně být ve formátu 'uživatel@domé.na'.";
+"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "Nový kontakt bude přidán do Vašeho seznamu, jakmile potvrdí Vaši žádost.";
 "The password has been changed" = "Heslo bylo změněno";
 /* QR-Code-Scanner: jid scan wrong menu */
 "The qrcode contains a jid. Rescan the qrcode in the add user menu" = "Tento QR kó obsahuje JID. Naskenujte ho znovu v menu 'Přidat kontakt'.";
 /* QR-Code-Scanner: account scan wrong menu */
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "Tento QR kód obsahuje přihlašovací údaje k účtu. Jděte do nastavení a tam jej naskenujte znovu";
+"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
 "The server does not support blocking" = "Server nepodporuje blokování";
+"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
 "The user %@ (%@) wants to add you to his contact list" = "The user %1$@ (%2$@) wants to add you to his contact list";
 "The user %@ (%@) wants to add you to their contact list" = "The user %1$@ (%2$@) wants to add you to their contact list";
 "The username does not need to have an @ symbol. Please try again." = "Uživatelské jméno nemusí obsahovat symbol @. Zkuste to, prosím, znovu.";
@@ -604,9 +675,15 @@
 "They will see when you are online. They will be able to send you encrypted messages." = "Uvidí, kdy jste online. Budou Vám moci posílat šifrované zprávy.";
 "This account already exists in Monal." = "Tento účet již v Monalu existuje.";
 "This account already exists on this instance" = "Tento účet již v této instanci existuje";
+"This account already exists on this instance." = "This account already exists on this instance.";
 "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!";
 "This contact does not appear to have any devices that support encryption." = "Zdá se, že tento kontakt nepoužívá žádné zařízení s podporou šifrování.";
 "This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "Tento kontakt nemusí podporovat šifrované zprávy OMEMO. Zkuste to, prosím, znovu za několik sekund.";
+"This jid already exists on this instance." = "This jid already exists on this instance.";
+"This key belongs to this device and cannot be removed or disabled!" = "This key belongs to this device and cannot be removed or disabled!";
+"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
+"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
+"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
 "This message failed to send (%@): %@" = "Tuto zprávu se nepodařilo odeslat (%1$@): %2$@";
 "This message failed to send." = "Chyba při odesílání zprávy.";
 "This sender will be able to send you messages" = "Tento odesílatel Vám bude moci posílat zprávy";
@@ -632,12 +709,18 @@
 "TLS Error: Unknown root certificate" = "Chyba TLS: Neznámý kořenový certifikát";
 /* OmemoQrCodeView */
 "To many device keys" = "Příliš mnoho klíčů zařízení";
+"Trust Key" = "Trust Key";
+"Trusted and verified key" = "Trusted and verified key";
+"Trusted but removed key" = "Trusted but removed key";
+"Trusted but unused key" = "Trusted but unused key";
+"Trusted but unverified key" = "Trusted but unverified key";
 /* Join GroupViewController - Join Group HUD */
 "Trying to join group" = "Pokus o připojení ke skupině";
 "Type: %@" = "Type: %@";
 "Typing..." = "Píše...";
 "Unable to connect to server" = "Nebylo možné se připojit k serveru";
 "Unable to connect to server!" = "Nelze se připojit k serveru!";
+"Unblock Contact" = "Unblock Contact";
 "Unblock Sender" = "Odblokovat odesílatele";
 "Unclean appex shutown" = "Unclean appex shutown";
 "Unexpected appex expiration" = "Unexpected appex expiration";
@@ -653,6 +736,7 @@
 "Unnamed" = "Nepojmenovaný";
 "Unpin Chat" = "Odepnout chat";
 "Unread Messages Below" = "Nepřečtené zprávy níže";
+"Untrusted key" = "Untrusted key";
 "Upload Error" = "Chyba při nahrávání";
 "Upload Error: your account got disconnected while requesting upload slot" = "Chyba při nahrávání: Váš účet se odpojil během žádosti o upload-slot.";
 "Upload files to the server to share with others." = "Nahrajte soubory na server a sdílejte je s ostatními.";
@@ -682,6 +766,7 @@
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Nebylo možné se připojit k Vašemu účtu. Zkontrolujte, prosím, přihlašovací údaje a ujistěte se, že jste připojeni k Internetu.\n\nChybová zpráva: %@";
 "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs." = "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs.";
 "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs.";
+"Welcome" = "Welcome";
 "Welcome to Monal" = "Vítá Vás Monal";
 "When you have some favorite groups, they will be here for you." = "Máte-li nějaké oblíbené skupiny, objeví se zde.";
 "When you start talking to someone,\n they will show up here." = "Jakmile začnete s někým mluvit,\n objeví se zde.";
@@ -713,14 +798,17 @@
 "XMPP protocol extension for communications blocking." = "Rozšíření protokolu XMPP pro blokování komunikace.";
 "XMPP protocol extension for sending application-level pings over XML streams." = "Rozšíření protokolu XMPP pro zasílání pingů na úrovni aplikací přes streamy XML.";
 "XMPP Roster Error" = "Chyba XMPP rosteru";
+"XMPP server domain not valid!" = "XMPP server domain not valid!";
 "XMPP stream error %@: %@" = "Chyba XMPP streamu %1$@: %2$@";
 "XMPP stream error: %@" = "Chyba XMPP streamu: %@";
 "XMPP: QR-Code" = "XMPP: QR kód";
+"XMPPServer" = "XMPPServer";
 "yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im je veřejný server, který není nijak spojen s aplikací Monal. Tato stránka je zobrazena jen pro informaci.";
 "Yes" = "Ano";
 "Yes, deactivate encryption" = "Yes, deactivate encryption";
 "You are not trapped in a garden. Talk to anyone else without anyone tracking you." = "Nejste uvězněni v rozkvetlé zahradě. Mluvte s kýmkoli, aniž by Vás někdo mohl sledovat.";
 "You are set up and connected." = "Monal je nastaven a připojen.";
+"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
 "You can see their keys. They can't see yours" = "Můžete vidět jejich klíče. Oni nemohou vidět Vaše";
 "You did not grant Monal to access your location." = "Neposkytli jste Monalu přístup k Vaší poloze.";
 "You got banned from: %@" = "Dostali jste zákaz od: %@";
@@ -736,6 +824,7 @@
 "You will no longer receive messages from this conversation" = "Z této konverzace již nebudete dostávat zprávy";
 "You will receive subsequent messages from this conversation" = "Z této konverzace obdržíte další zprávy";
 "Your account must be enabled and connected, to be removed from the server!" = "Your account must be enabled and connected, to be removed from the server!";
+"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
 "Your answer" = "Vaše odpověď";
 "Your entered XMPP ID is missing the domain" = "Ve Vámi zadaném XMPP ID chybí doména";
 "Your entered XMPP ID is missing the username" = "Ve Vámi zadaném XMPP ID chybí uživateské jméno";
@@ -743,6 +832,7 @@
 "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Váš server nepodporuje Stream Management (XEP-0198). To znamená, že odchozí zprávy se mohou často ztrácet!! Změňte poskytovatele nebo kontaktujte správce serveru, aby tuto funkci povolil!";
 "Your status" = "Váš status";
 "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Adresa Vašeho účtu XMPP by měla být ve formátu uživatel@doména. Pro zvláštní konfigurace použijte ruční nastavení.";
+"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
 "🎥 A Video" = "🎥 Video";
 "🎵 A Audiomessage" = "🎵 Hlasová zpráva";
 "📁 A File" = "📁 Soubor";
@@ -750,91 +840,4 @@
 "📍 A Location" = "📍 Poloha";
 "📷 An Image" = "📷 Obrázek";
 "🔗 A Link" = "🔗 Odkaz";
-"Add to contacts" = "Add to contacts";
-"Apple Push Token" = "Apple Push Token";
-"Apple Push Token is not available!" = "Apple Push Token is not available!";
-"Block Contact" = "Block Contact";
-"Blocking/Unblocking Not Supported" = "Blocking/Unblocking Not Supported";
-"Channel subject:" = "Channel subject:";
-"Clear chat history of this channel" = "Clear chat history of this channel";
-"Clear chat history of this contact" = "Clear chat history of this contact";
-"Clear chat history of this group" = "Clear chat history of this group";
-"Copy to clipboard" = "Copy to clipboard";
-"Debugging" = "Debugging";
-"Delete Key" = "Delete Key";
-"Device ID: " = "Device ID: ";
-"DeviceID: " = "DeviceID: ";
-"Do you really want to block this contact? You won't receive any messages from this contact." = "Do you really want to block this contact? You won't receive any messages from this contact.";
-"Do you really want to delete this key?" = "Do you really want to delete this key?";
-"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
-"Doing a lot of work..." = "Doing a lot of work...";
-"Don't trust Key" = "Don't trust Key";
-"Done" = "Done";
-"Dont' trust Key" = "Dont' trust Key";
-"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
-"Duplicate Account!" = "Duplicate Account!";
-"Duplicate jid!" = "Duplicate jid!";
-"Encrypted session to this device broken beyond repair." = "Encrypted session to this device broken beyond repair.";
-"Entry 1" = "Entry 1";
-"Entry 2" = "Entry 2";
-"Entry 3" = "Entry 3";
-"Error: Account disabled, can not display keys!" = "Error: Account disabled, can not display keys!";
-"Error: No contacts to display keys for!" = "Error: No contacts to display keys for!";
-"Group Members" = "Group Members";
-"Group subject:" = "Group subject:";
-"groupJoin Group" = "groupJoin Group";
-"Invalid Credentials!" = "Invalid Credentials!";
-"Invalid State" = "Invalid State";
-"Invalid Username!" = "Invalid Username!";
-"Keys of %@" = "Keys of %@";
-"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
-"Loading" = "Loading";
-"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings.";
-"Login" = "Login";
-"Manual input" = "Manual input";
-"Migration Assistant" = "Migration Assistant";
-"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
-"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
-"More info?" = "More info?";
-"No accounts set up currently" = "No accounts set up currently";
-"No Empty Values!" = "No Empty Values!";
-"No XMPP server!" = "No XMPP server!";
-"Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back.";
-"Okay" = "Okay";
-"Own device key" = "Own device key";
-"Passwords don't match!" = "Passwords don't match!";
-"Please make sure you have entered a username and password." = "Please make sure you have entered a username and password.";
-"Please make sure you have entered the same password in both password fields." = "Please make sure you have entered the same password in both password fields.";
-"Please provide a valid XMPP server domain or select one." = "Please provide a valid XMPP server domain or select one.";
-"Please select a XMPP server or provide one." = "Please select a XMPP server or provide one.";
-"Pushserver Region" = "Pushserver Region";
-"QR code: Fingerprints found" = "QR code: Fingerprints found";
-"Register" = "Register";
-"Register with %@" = "Register with %@";
-"Registration Error" = "Registration Error";
-"Remove from contacts" = "Remove from contacts";
-"Set up account later" = "Set up account later";
-"Status message:" = "Status message:";
-"Terms of use for %@" = "Terms of use for %@";
-"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
-"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
-"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
-"This account already exists on this instance." = "This account already exists on this instance.";
-"This jid already exists on this instance." = "This jid already exists on this instance.";
-"This key belongs to this device and cannot be removed or disabled!" = "This key belongs to this device and cannot be removed or disabled!";
-"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
-"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
-"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
-"Trust Key" = "Trust Key";
-"Trusted and verified key" = "Trusted and verified key";
-"Trusted but removed key" = "Trusted but removed key";
-"Trusted but unused key" = "Trusted but unused key";
-"Trusted but unverified key" = "Trusted but unverified key";
-"Unblock Contact" = "Unblock Contact";
-"Untrusted key" = "Untrusted key";
-"Welcome" = "Welcome";
-"XMPP server domain not valid!" = "XMPP server domain not valid!";
-"XMPPServer" = "XMPPServer";
-"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
-"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
-"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
+"Show shared Media and Files" = "Show shared Media and Files";

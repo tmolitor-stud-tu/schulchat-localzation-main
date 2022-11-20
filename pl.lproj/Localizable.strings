@@ -31,6 +31,7 @@
 "Add Group to Favorites" = "Dodaj grupę do ulubionych";
 "Add New Account" = "Dodaj nowe konto";
 "Add new contacts with the + button above. Your friends will pop up here when they can talk" = "Aby dodać nowe kontakty użyj \"+\" na górze. Twoi znajomi będą tu widoczni gdy będziecie mogli rozmawiać";
+"Add to contacts" = "Add to contacts";
 "Advanced" = "Zaawansowane";
 "Advanced Settings" = "Zaawansowane ustawienia";
 "All messages already present in local history!" = "Wszystkie wiadomości już obecne w lokalnej historii!";
@@ -44,6 +45,8 @@
 "App" = "Aplikacja";
 "Apple Push Service" = "Usługi Push Apple";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Usługi Push Apple powinny być zawsze włączone. Jeśli zostaną wyłączone, twoje urządzenie nie będzie mogło komunikować się z serwerami Apple.";
+"Apple Push Token" = "Apple Push Token";
+"Apple Push Token is not available!" = "Apple Push Token is not available!";
 "Approve new contact" = "Zatwierdź nowy kontakt";
 "Appserver error" = "Błąd serwera aplikacji";
 "Appserver returned invalid data" = "Server aplikacji zwrócił nieprawidłowe dane";
@@ -67,10 +70,12 @@
 "Backgrounds" = "Tła";
 "Block" = "Blokować";
 "Block %@ from contacting you?" = "Zablokować %@?";
+"Block Contact" = "Block Contact";
 "Block Sender" = "Zablokuj nadawcę";
 "Blocked Users" = "Zablokowani użytkownicy";
 "Blocking is not supported by the server" = "Blokowanie nie jest obsługiwane przez serwer";
 "Blocking not supported" = "Blokowanie nie jest obsługiwane";
+"Blocking/Unblocking Not Supported" = "Blocking/Unblocking Not Supported";
 "call screen did disappear" = "Ekran dzwonienia zniknął";
 "Camera" = "Aparat";
 /* Camera permissions missing warning */
@@ -82,6 +87,7 @@
 "Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Nie można udostępnić czegoś wyłączonemu/usuniętemu kontu, miejsce docelowe: %1$@, identyfikator konta wewnętrznego: %2$@";
 "Change Password" = "Zmień hasło";
 "Changing Password" = "Zmiana hasła";
+"Channel subject:" = "Channel subject:";
 "Chat Backgrounds" = "Tła rozmów";
 "Chat for free with your friends, colleagues and family!" = "Rozmawiaj ze znajomymi, współpracownikami i rodziną za darmo!";
 "Chat Logs" = "Rejestry rozmów";
@@ -93,6 +99,9 @@
 "Choices Galore" = "Duży wybór";
 "Clear Chat History" = "Wyczyść historię rozmowy";
 "Clear chat history for this contact" = "Wyczyść historię czatu dla tego kontaktu";
+"Clear chat history of this channel" = "Clear chat history of this channel";
+"Clear chat history of this contact" = "Clear chat history of this contact";
+"Clear chat history of this group" = "Clear chat history of this group";
 "Clear History" = "Czysta historia";
 /* DEBUG - ContactDetails */
 "Clear omemo session" = "Wyczyść sesję omemo";
@@ -113,6 +122,7 @@
 "Contacts are usually in the format: username@domain.something" = "Kontakty przeważnie są w formacie: login@domena.coś";
 /* Chat msg action */
 "Copy" = "Kopiuj";
+"Copy to clipboard" = "Copy to clipboard";
 /* QR-Code-Scanner: camera not found */
 "Could not access camera" = "Brak dostępu do kamery";
 "Could not access Finder item!" = "Nie można uzyskać dostępu do elementu Findera!";
@@ -137,6 +147,7 @@
 "Could not upload file" = "Nie można przesłać pliku";
 "Current Password" = "Aktualne hasło";
 "Debug" = "Szukanie błędu";
+"Debugging" = "Debugging";
 "Decline" = "Odrzuć";
 "Default chat backgrounds are from the Ubuntu project." = "Domyślne tła rozmów pochodzą z projektu Ubuntu.";
 "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Definiuje proponowaną modyfikację protokołu rosteru XMPP, która umożliwia wersjonowanie spisów w taki sposób, że serwer nie wyśle spisu do klienta, jeśli spis nie został zmodyfikowany.";
@@ -145,8 +156,11 @@
 "Delete" = "Usuń";
 "Delete Account" = "Usuń konto";
 "Delete Account on Server" = "Delete Account on Server";
+"Delete Key" = "Delete Key";
 "Delete Locally" = "Usuń lokalnie";
 "Deny new contact" = "Odrzuć nowy kontakt";
+"Device ID: " = "Device ID: ";
+"DeviceID: " = "DeviceID: ";
 "Devices of %@" = "Urządzenia %@";
 "Direct TLS" = "Bezpośredni TLS";
 "Disable Encryption" = "Wyłącz szyfrowanie";
@@ -158,24 +172,35 @@
 "Display Only Name" = "Wyświetlaj tylko nazwę";
 "Display Only Placeholder" = "Wyświetl tylko symbol zastępczy";
 "Display Settings" = "Ustawienia wyświetlania";
+"Do you really want to block this contact? You won't receive any messages from this contact." = "Do you really want to block this contact? You won't receive any messages from this contact.";
 "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Czy na pewno chcesz wyczyścić wszystkie wiadomości wymieniane w tej rozmowie? Jeśli korzystasz z OMEMO, nie będziesz w stanie ich ponownie załadować z serwera.";
+"Do you really want to delete this key?" = "Do you really want to delete this key?";
 "Do you really want to disable encryption for this contact?" = "Czy na pewno chcesz wyłączyć szyfrowanie tego kontaktu?";
 "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Czy na pewno chcesz zresetować sesję OMEMO? Powinieneś zresetować połączenie tylko wtedy, gdy wiesz, co robisz!";
 "Do you want to trust the scanned fingerprints from" = "Czy chcesz zaufać zeskanowanym odciskom palców";
+"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
+"Doing a lot of work..." = "Doing a lot of work...";
 "Domain missing" = "Brak domeny";
+"Don't trust Key" = "Don't trust Key";
+"Done" = "Done";
+"Dont' trust Key" = "Dont' trust Key";
 "Download" = "Ściągnij";
 "Download error" = "Błąd pobierania";
 "Draft:" = "Projekt:";
 "Draft: %@" = "Szkic: %@";
 /* hello bartycrouch */
 "Dummy string for triggering bartycrouch" = "Atrapa łancucha do wyzwalania bartycrouch";
+"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
 "Duplicate Account" = "Zduplikowane konto";
+"Duplicate Account!" = "Duplicate Account!";
+"Duplicate jid!" = "Duplicate jid!";
 /* Chat msg action */
 "Edit" = "Edytować";
 "Email Support" = "Wsparcie email";
 "Enable OMEMO per default" = "Włącz OMEMO domyślnie";
 "Enabled" = "Włączony";
 "Encrypted message was sent in an older format Monal can't decrypt. Please ask them to update their client. (GCM error)" = "Zaszyfrowna wiadomość została wysłana w starszym formacie, którego Monal nie wspiera. Poproś kontakt o aktualizację używanego klienta. (GCM error)";
+"Encrypted session to this device broken beyond repair." = "Encrypted session to this device broken beyond repair.";
 "Encryption Keys" = "Klucze szyfrowania";
 "Encryption Keys (OMEMO)" = "Klucze szyfrujące (OMEMO)";
 "Encryption Not Supported" = "Szyfrowanie nie wspierane";
@@ -185,6 +210,9 @@
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "Podaj swoje hasło. Hasła nie mogą być puste. Mogą też musieć spełniać dodatkowe wymogi zdefiniowane przez serwer bądź firmowe polityki.";
 "Enter your password here" = "Wpisz tutaj swoje hasło";
 "Enter your XMPP ID here" = "Wpisz tutaj swój identyfikator XMPP";
+"Entry 1" = "Entry 1";
+"Entry 2" = "Entry 2";
+"Entry 3" = "Entry 3";
 "Error" = "Błąd";
 "Error authenticating server using SASL2, disconnecting!" = "Błąd podczas uwierzytelniania serwera za pomocą SASL2, rozłączanie!";
 "Error decrypting message" = "Bład w trakcie odszyfrowywania wiadomości";
@@ -195,6 +223,8 @@
 "Error while decrypting" = "Błąd podczas odszyfrowywania";
 "Error while decrypting: iv.length != 12" = "Błąd podczas odszyfrowywania: iv.length != 12";
 "Error: %@" = "Błąd: %@";
+"Error: Account disabled, can not display keys!" = "Error: Account disabled, can not display keys!";
+"Error: No contacts to display keys for!" = "Error: No contacts to display keys for!";
 "Error: Received message is empty" = "Błąd: Otrzymana wiadomość jest pusta";
 "Error: Received OMEMO message is empty" = "Error: Received OMEMO message is empty";
 "Escape The Garden" = "Ucieczka z ogrodu";
@@ -227,6 +257,8 @@
 "Failed to query newest stanzaid for account %@" = "Nie udało się wysłać zapytania o najnowszy stanzaid dla konta %@";
 "Failed to query newest stanzaid for Group/Channel %@" = "Nie udało się wysłać zapytania o najnowszy stanzaid dla grupy/kanału %@";
 "Failed to query newest stanzaid for groupchat %@" = "Nie udało się wysłać zapytania o najnowszy stanzaid dla czatu grupowego %@";
+"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
+"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
 "Failed to save groupchat bookmarks" = "Nie udało się zapisać zakładek do czatu grupowego";
 "Failed to share file" = "Nie udało się udostępnić pliku";
 "Failed to upload file: account was removed" = "Nie udało się przesłać pliku: konto zostało usunięte";
@@ -245,9 +277,11 @@
 "Group Chat" = "Rozmowa grupowa";
 "Group Chat Invite" = "Zaproszenie do rozmowy grupowej";
 "Group Information" = "Informacje o grupie";
+"Group Members" = "Group Members";
 /* MLJoinGroupViewController - Group Password Form */
 "Group Password" = "Hasło grupy";
 "Group requires a password" = "Grupa wymaga hasła";
+"Group subject:" = "Group subject:";
 "Group/Channel error" = "Błąd grupy/kanału";
 "Group/Channel error in %@" = "Group/Channel error in %@";
 "Group/Channel got destroyed: %@" = "Grupa/kanał został zniszczony: %@";
@@ -255,6 +289,7 @@
 "Groupchat error" = "Błąd czatu grupowego";
 "Groupchat/channel details" = "Szczegóły czatu grupowego/kanału";
 "Groupchat/channel details are currently not implemented in Monal." = "Szczegóły czatu grupowego/kanału nie są obecnie zaimplementowane w Monal.";
+"groupJoin Group" = "groupJoin Group";
 "Hardcoded Hostname" = "Hostname ustawiony na stałe";
 "Hide Chat" = "Ukryj rozmowę";
 "Hint" = "Wskazówka";
@@ -276,10 +311,13 @@
 "Indicate when a particular device is active or inactive. Saves battery." = "Pokazuj, gdy dane urządznie jest aktywne. Oszczędza baterię.";
 "Input is not a valid jid" = "Dane wejściowe nie są prawidłowym jid";
 "Invalid Credentials" = "Niepoprawne dane uwierzytelniające";
+"Invalid Credentials!" = "Invalid Credentials!";
 /* QR-Code-Scanner: invalid format */
 "Invalid format" = "Niepoprawny format";
 "Invalid Password!" = "Nieprawidłowe hasło!";
+"Invalid State" = "Invalid State";
 "Invalid username" = "Nieporawna nazwa użytkownika";
+"Invalid Username!" = "Invalid Username!";
 /* QR-Code-Scanner: Camera not found */
 "It does not seem as your device has a camera. Please use a device with a camera for scanning" = "Wygląda na to, że Twoje urządzenie nie ma aparatu. Do skanowania użyj urządzenia z aparatem";
 "Jabber ID" = "Identyfikator Jabbera";
@@ -291,6 +329,7 @@
 /* Join GroupViewController - HUD */
 "Joining Group" = "Dołączanie do grupy";
 "Just seen" = "Widziane przed chwilą";
+"Keys of %@" = "Keys of %@";
 "Kicked, because muc is now members-only: %@" = "Wyrzucony, ponieważ muc jest teraz tylko dla członków: %@";
 "Kicked, because of system shutdown: %@" = "Wyrzucony z powodu zamknięcia systemu: %@";
 "Last seen: %@" = "Ostatnio widziany: %@";
@@ -305,10 +344,12 @@
 "Leave Group" = "Opuścić grupę";
 "Leave this conversation" = "Opuść tę rozmowę";
 "Leave this converstion?" = "Opuścić tą rozmowę?";
+"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
 "Load over cellular upto" = "Załaduj przez komórkę do";
 "Load over cellular upto: %.fMB" = "Załaduj przez sieć komórkową do: %.fMB";
 "Load over WiFi upto" = "Załaduj przez Wi-Fi do";
 "Load over WiFi upto: %.fMB" = "Załaduj przez Wi-Fi do: %.fMB";
+"Loading" = "Loading";
 "Loading contact list" = "Wczytuję listę kontaktów";
 "Loading Data" = "Ładowanie danych";
 "Loading more Messages from Server" = "Ładowanie większej liczby wiadomości z serwera";
@@ -320,9 +361,12 @@
 "Log" = "Rejestr";
 "Log Chats" = "Rejestruj rozmowy";
 "Log Date" = "Data rejestru";
+"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings.";
 "Logging in" = "Loguję się";
+"Login" = "Login";
 "Login error, account disabled: %@" = "Błąd logowania, konto wyłączone: %@";
 "Login with a QR-Code" = "Zaloguj się za pomocą kodu QR";
+"Manual input" = "Manual input";
 "Mark all messages as read" = "Oznacz wszystkie wiadomości jako widziane";
 "Mark as read" = "Oznacz jako przeczytane";
 "Maximum File Transfer Size" = "Maksymalny rozmiar przesyłanych plików";
@@ -341,11 +385,14 @@
 "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u." = "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u.";
 "Messages never archived by default." = "Domyślnie wiadomości nie są archiwozowane.";
 "Method: %@" = "Metoda: %@";
+"Migration Assistant" = "Migration Assistant";
 "Missing permission" = "Brak pozwolenia";
 "Monal" = "Monal";
 "Monal  uses your location when you send a location message in a conversation." = "Monal używa Twojej lokalizacji, gdy wysyłasz wiadomość o lokalizacji w rozmowie.";
+"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
 "Monal did not received a gps location. Please try again later." = "Monal nie otrzymał lokacji GPS. Spróbuj ponownie później.";
 "Monal does not have access to your location. Please update the location access in your device's Privacy Settings." = "Monal nie ma dostępu do Twojej lokalizacji. Zaktualizuj dostęp do lokalizacji w ustawieniach prywatności urządzenia.";
+"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
 /* Camera permissions missing warning */
 "Monal is not allowed to access the camera" = "Monal nie ma dostępu do aparatu";
 "Monal Push Server" = "Serwer Push Monal";
@@ -353,6 +400,7 @@
 "Monal uses your location when you send a location message in a conversation." = "Monal używa Twojej lokalizacji, gdy wysyłasz wiadomość o lokalizacji w rozmowie.";
 "Monal was not able to send your attachment!" = "Monal nie mógł wysłać Twojego załącznika!";
 "Monal was not able to send your attachment: %@" = "Monal nie mógł wysłać Twojego załącznika: %@";
+"More info?" = "More info?";
 "Muc got destroyed: %@" = "Muc został zniszczony: %@";
 "Muc not available anymore: %@" = "Muc niedostępny: %@";
 "Mute" = "Wycisz";
@@ -369,9 +417,11 @@
 "Newest TLS version which is faster than TLS 1.2" = "Najnowsza wersja TLS, która jest szybsza niż TLS 1.2";
 "Nickname" = "Pseudonim";
 "No" = "Nie";
+"No accounts set up currently" = "No accounts set up currently";
 "No connected accounts" = "Brak połączonych kont";
 "No Contact Selected" = "Nie wybrano żadnego kontaktu";
 "No Empty Values" = "Brak pustych wartości";
+"No Empty Values!" = "No Empty Values!";
 "No enabled account found" = "Nie znaleziono aktywnego konta";
 "No further error description" = "Brak dalszych opisów błędów";
 "No GPS location received" = "Nie odebrano lokacji GPS";
@@ -382,6 +432,7 @@
 "No supported auth mechanism found, disabling account!" = "Nie znaleziono obsługiwanego mechanizmu uwierzytelniania, wyłączam konto!";
 "No supported auth mechanism found, disconnecting!" = "Nie znaleziono obsługiwanego mechanizmu uwierzytelniania, rozłączam się!";
 "no supported auth mechanism, disconnecting!" = "brak obsługiwanego mechanizmu uwierzytelniania, odłączenie!";
+"No XMPP server!" = "No XMPP server!";
 "No, keep encryption activated" = "Nie, zachowaj szyfrowanie włączone";
 "None" = "Nic";
 "Not Authorized. Please check your credentials." = "Nieautoryzowany. Sprawdź swoje dane uwierzytelniające.";
@@ -396,6 +447,7 @@
 "Offline Contacts" = "Kontakty offline";
 "Ok" = "Ok";
 "OK" = "OK";
+"Okay" = "Okay";
 "Older, slower, but still secure TLS version" = "Starsza, wolniejsza, ale nadal bezpieczna wersja TLS";
 "Online" = "Online";
 "Only contacts" = "Tylko kontakty";
@@ -406,10 +458,12 @@
 "Optional Hardcoded Hostname" = "Opcjonalna zakodowana nazwa hosta";
 "Optional Port" = "Opcjonalny port";
 "Os: " = "System operacyjny: ";
+"Own device key" = "Own device key";
 "Participants" = "Członkowie";
 "Password" = "Hasło";
 "Password cannot be empty" = "Hasło nie może być puste";
 "Password missing" = "Brak hasła";
+"Passwords don't match!" = "Passwords don't match!";
 "Permission Requested" = "Zażądano uprawnienia";
 "Photos" = "Zdjecia";
 "Pin Chat" = "Przypnij czat";
@@ -422,8 +476,12 @@
 "Please make sure at least one account has connected before trying to add a contact." = "Upewnij się że przynajmniej jedno konto jest połączone zanim dodasz kontakt.";
 "Please make sure at least one account has connected before trying to message someone." = "Upewnij się że przynajmniej jedno konto jest połączone zanim wyślesz wiadomość.";
 "Please make sure you are connected before changing your password." = "Upewnij się, że masz połączenie przed zmianą hasła.";
+"Please make sure you have entered a username and password." = "Please make sure you have entered a username and password.";
 "Please make sure you have entered a username, password." = "Upewnij się, że podałeś nazwę użytkownika i hasło.";
+"Please make sure you have entered the same password in both password fields." = "Please make sure you have entered the same password in both password fields.";
 "Please open the app to retry" = "Otwórz aplikację, aby spróbować ponownie";
+"Please provide a valid XMPP server domain or select one." = "Please provide a valid XMPP server domain or select one.";
+"Please select a XMPP server or provide one." = "Please select a XMPP server or provide one.";
 "Please update!" = "Proszę zaktualizować!";
 "Port" = "Port";
 "Port: %@, Direct TLS: %@, Priority: %@" = "Port: %1$@, Bezpośredni TLS: %2$@, Priorytet: %3$@";
@@ -432,8 +490,10 @@
 "Privacy" = "Prywatność";
 "Privacy Settings" = "Ustawienia prywatności";
 "Protocol support of your server (XEPs)" = "Obsługa protokołów Twojego serwera (XEP)";
+"Pushserver Region" = "Pushserver Region";
 /* MLLoginView: QR-Code Button iOS12 only */
 "QR" = "QR";
+"QR code: Fingerprints found" = "QR code: Fingerprints found";
 "QR-Code Scanner" = "Skaner kodów QR";
 /* catalina warning */
 "QR-Code scanning is not supported on catalina" = "Catalina nie obsługuje skanowania kodów QR";
@@ -471,11 +531,15 @@
 "Reconnecting" = "Ponowne łączenie";
 "Recording audio" = "Nagrywanie dźwięku";
 "Refreshing..." = "Odświerzanie...";
+"Register" = "Register";
+"Register with %@" = "Register with %@";
 "Registering account..." = "Rejestruję konto...";
+"Registration Error" = "Registration Error";
 "Remove %@ from contacts?" = "Usuń %@ z kontaktów?";
 "Remove Account from this Device" = "Usuń konto z tego urządzenia";
 "Remove Contact" = "Usuń kontakt";
 "Remove Conversation" = "Usuń rozmowę";
+"Remove from contacts" = "Remove from contacts";
 "Reply" = "Odpowiedź";
 "ReplyButton" = "PrzyciskOdpowiedzi";
 "Reset OMEMO session" = "Zresetuj sesję OMEMO";
@@ -533,6 +597,7 @@
 "Server: %@" = "Serwer: %@";
 "Set a nickname" = "Ustaw pseudonim";
 "Set a nickname for this contact" = "Ustaw pseudonim dla tego kontaktu";
+"Set up account later" = "Set up account later";
 /* Camera permissions missing warning */
 "Settings" = "Ustawienia";
 "Sharing failed" = "Udostępnianie nie powiodło się";
@@ -556,6 +621,7 @@
 "Start Using Monal" = "Zacznij korzystać z Monala";
 "Status" = "Status";
 "Status Message" = "Komunikat o stanie";
+"Status message:" = "Status message:";
 "Submit A Bug" = "Zgłoś błąd";
 "Success" = "Sukces";
 "Success!" = "Sukces!";
@@ -567,6 +633,7 @@
 "Tell my contacts when I'm typing" = "Poinformuj moje kontakty, kiedy piszę";
 "Temporary failure to enter Group/Channel: %@" = "Tymczasowe nieudane wejście do grupy/kanału: %@";
 "Temporary failure to enter groupchat: %@" = "Chwilowy brak wejścia do czatu grupowego: %@";
+"Terms of use for %@" = "Terms of use for %@";
 "The account has been deleted" = "Konto zostało usunięte";
 "The account has been removed" = "Konto zostało usunięte";
 "The account has been saved" = "Konto zostało zapisane";
@@ -575,13 +642,16 @@
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "Połączenie z serwerem zostało przerwane i nie można było pobrać starych wiadomości z tego czatu. Spróbuj ponownie później. %@";
 "The current password is not correct." = "Aktualne hasło jest nieprawidłowe.";
 "The jid has to be in the form 'user@domain.tld' to be correct." = "Jid musi mieć format „użytkownik@domena.tld”, aby był poprawny.";
+"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "Nowy kontakt zostanie dodany do Twojej listy kontaktów, gdy dodana osoba zatwierdzi Twoją prośbę.";
 "The password has been changed" = "Hasło zostało zmienione";
 /* QR-Code-Scanner: jid scan wrong menu */
 "The qrcode contains a jid. Rescan the qrcode in the add user menu" = "Kod QR zawiera jid. Ponownie zeskanuj kod qr w menu dodawania użytkownika";
 /* QR-Code-Scanner: account scan wrong menu */
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "Kod QR zawiera dane logowania do konta. Przejdź do ustawień i ponownie zeskanuj QRCode";
+"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
 "The server does not support blocking" = "Serwer nie obsługuje blokowania";
+"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
 "The user %@ (%@) wants to add you to his contact list" = "Użytkownik %1$@ (%2$@) chce dodać Cię do swojej listy kontaktów";
 "The user %@ (%@) wants to add you to their contact list" = "The user %1$@ (%2$@) wants to add you to their contact list";
 "The username does not need to have an @ symbol. Please try again." = "Nazwa użytkownika nie musi zawierać symbolu @. Proszę spróbuj ponownie.";
@@ -605,9 +675,15 @@
 "They will see when you are online. They will be able to send you encrypted messages." = "Zobaczą, kiedy będziesz online. Będą mogli wysyłać Ci zaszyfrowane wiadomości.";
 "This account already exists in Monal." = "To konto już istnieje w Monal.";
 "This account already exists on this instance" = "To konto już istnieje w tej instancji";
+"This account already exists on this instance." = "This account already exists on this instance.";
 "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "Ta aplikacja jest za stara i może zawierać błędy bezpieczeństwa, a także nagle przestać działać. Uaktualnij!";
 "This contact does not appear to have any devices that support encryption." = "Wygląda na to, że ten kontakt nie ma żadnych urządzeń obsługujących szyfrowanie.";
 "This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "Ten kontakt może nie obsługiwać zaszyfrowanych wiadomości OMEMO. Spróbuj ponownie za kilka sekund.";
+"This jid already exists on this instance." = "This jid already exists on this instance.";
+"This key belongs to this device and cannot be removed or disabled!" = "This key belongs to this device and cannot be removed or disabled!";
+"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
+"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
+"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
 "This message failed to send (%@): %@" = "Nie udało się wysłać tej wiadomości (%1$@): %2$@";
 "This message failed to send." = "Nie udało się wysłać tej wiadomości.";
 "This sender will be able to send you messages" = "Ten nadawca będzie mógł wysyłać Ci wiadomości";
@@ -633,12 +709,18 @@
 "TLS Error: Unknown root certificate" = "Błąd TLS: nieznany certyfikat główny";
 /* OmemoQrCodeView */
 "To many device keys" = "Za wiele kluczy urządzenia";
+"Trust Key" = "Trust Key";
+"Trusted and verified key" = "Trusted and verified key";
+"Trusted but removed key" = "Trusted but removed key";
+"Trusted but unused key" = "Trusted but unused key";
+"Trusted but unverified key" = "Trusted but unverified key";
 /* Join GroupViewController - Join Group HUD */
 "Trying to join group" = "Próbuję dołączyć do grupy";
 "Type: %@" = "Rodzaj: %@";
 "Typing..." = "Pisanie...";
 "Unable to connect to server" = "Niemożna połączyć z serwerem";
 "Unable to connect to server!" = "Niemożna połączyć z serwerem!";
+"Unblock Contact" = "Unblock Contact";
 "Unblock Sender" = "Odblokuj nadawcę";
 "Unclean appex shutown" = "Unclean appex shutown";
 "Unexpected appex expiration" = "Unexpected appex expiration";
@@ -654,6 +736,7 @@
 "Unnamed" = "Anonimowy";
 "Unpin Chat" = "Odepnij czat";
 "Unread Messages Below" = "Nieprzeczytane wiadomości poniżej";
+"Untrusted key" = "Untrusted key";
 "Upload Error" = "Błąd przesyłania";
 "Upload Error: your account got disconnected while requesting upload slot" = "Błąd przesyłania: Twoje konto zostało odłączone podczas prośby o przesłanie miejsca";
 "Upload files to the server to share with others." = "Prześlij pliki na serwer, aby udostępnić je innym.";
@@ -683,6 +766,7 @@
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "Nie udało nam się połączyć Twojego konta. Sprawdź swoje dane uwierzytelniające i upewnij się, że masz połączenie z Internetem.\n\nKomunikat o błędzie technicznym: %@";
 "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs." = "Najsłabszy typ powiązania kanału, nie zabezpieczający przed skradzionymi certyfikatami/kluczami, ale wykrywa błędnie wystawione certyfikaty.";
 "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Najsłabszy typ powiązania kanału, nie zabezpieczający przed skradzionymi certyfikatami/kluczami, ale wykrywa błędnie wystawione certyfikaty.";
+"Welcome" = "Welcome";
 "Welcome to Monal" = "Witamy w Monal";
 "When you have some favorite groups, they will be here for you." = "Kiedy masz jakieś ulubione grupy, będą tu dla Ciebie.";
 "When you start talking to someone,\n they will show up here." = "Kiedy zaczynasz z kimś rozmawiać,\npojawią się tutaj.";
@@ -714,14 +798,17 @@
 "XMPP protocol extension for communications blocking." = "Rozszerzenie protokołu XMPP do blokowania komunikacji.";
 "XMPP protocol extension for sending application-level pings over XML streams." = "Rozszerzenie protokołu XMPP do wysyłania pingów na poziomie aplikacji przez strumienie XML.";
 "XMPP Roster Error" = "Błąd spisu XMPP";
+"XMPP server domain not valid!" = "XMPP server domain not valid!";
 "XMPP stream error %@: %@" = "Błąd strumienia XMPP %1$@: %2$@";
 "XMPP stream error: %@" = "Błąd strumienia XMPP: %@";
 "XMPP: QR-Code" = "XMPP: kod QR";
+"XMPPServer" = "XMPPServer";
 "yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im jest serwerem publicznym, niezwiązanym z Monalem. Ta strona jest przeznaczona dla wygody.";
 "Yes" = "Tak";
 "Yes, deactivate encryption" = "Tak, wyłącz szyfrowanie";
 "You are not trapped in a garden. Talk to anyone else without anyone tracking you." = "Nie jesteś uwięziony w ogrodzie. Rozmawiaj z nikim innym, tak aby nikt Cię nie śledził.";
 "You are set up and connected." = "Jesteś skonfigurowany i połączony.";
+"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
 "You can see their keys. They can't see yours" = "Możesz zobaczyć ich klucze. Nie widzą twojego";
 "You did not grant Monal to access your location." = "Nie przyznałeś Monalowi dostępu do swojej lokalizacji.";
 "You got banned from: %@" = "Zostałeś zbanowany z: %@";
@@ -737,6 +824,7 @@
 "You will no longer receive messages from this conversation" = "Nie będziesz już otrzymywać wiadomości z tej rozmowy";
 "You will receive subsequent messages from this conversation" = "Będziesz otrzymywać kolejne wiadomości z tej rozmowy";
 "Your account must be enabled and connected, to be removed from the server!" = "Twoje konto musi być włączone i połączone, aby zostało usunięte z serwera!";
+"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
 "Your answer" = "Twoja odpowiedź";
 "Your entered XMPP ID is missing the domain" = "W podanym identyfikatorze XMPP brakuje domeny";
 "Your entered XMPP ID is missing the username" = "W podanym identyfikatorze XMPP brakuje nazwy użytkownika";
@@ -744,6 +832,7 @@
 "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Twój serwer nie obsługuje zarządzania strumieniami (XEP-0198). Oznacza to, że Twoje wychodzące wiadomości mogą się często gubić!! Powinieneś zmienić serwer lub porozmawiać z administratorem serwera, aby to włączyć!";
 "Your status" = "Twój status";
 "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Twoje konto XMPP powinno mieć format użytkownik@domena. W przypadku specjalnych konfiguracji użyj ręcznej konfiguracji.";
+"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
 "🎥 A Video" = "🎥 Wideo";
 "🎵 A Audiomessage" = "🎵 Wiadomość audio";
 "📁 A File" = "📁 Plik";
@@ -751,90 +840,4 @@
 "📍 A Location" = "📍 Lokalizacja";
 "📷 An Image" = "📷 Obraz";
 "🔗 A Link" = "🔗 Link";
-"Add to contacts" = "Add to contacts";
-"Apple Push Token" = "Apple Push Token";
-"Apple Push Token is not available!" = "Apple Push Token is not available!";
-"Block Contact" = "Block Contact";
-"Blocking/Unblocking Not Supported" = "Blocking/Unblocking Not Supported";
-"Channel subject:" = "Channel subject:";
-"Clear chat history of this channel" = "Clear chat history of this channel";
-"Clear chat history of this contact" = "Clear chat history of this contact";
-"Clear chat history of this group" = "Clear chat history of this group";
-"Copy to clipboard" = "Copy to clipboard";
-"Debugging" = "Debugging";
-"Delete Key" = "Delete Key";
-"Device ID: " = "Device ID: ";
-"DeviceID: " = "DeviceID: ";
-"Do you really want to block this contact? You won't receive any messages from this contact." = "Do you really want to block this contact? You won't receive any messages from this contact.";
-"Do you really want to delete this key?" = "Do you really want to delete this key?";
-"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
-"Doing a lot of work..." = "Doing a lot of work...";
-"Don't trust Key" = "Don't trust Key";
-"Done" = "Done";
-"Dont' trust Key" = "Dont' trust Key";
-"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
-"Duplicate Account!" = "Duplicate Account!";
-"Duplicate jid!" = "Duplicate jid!";
-"Encrypted session to this device broken beyond repair." = "Encrypted session to this device broken beyond repair.";
-"Entry 1" = "Entry 1";
-"Entry 2" = "Entry 2";
-"Entry 3" = "Entry 3";
-"Error: Account disabled, can not display keys!" = "Error: Account disabled, can not display keys!";
-"Error: No contacts to display keys for!" = "Error: No contacts to display keys for!";
-"Group Members" = "Group Members";
-"Group subject:" = "Group subject:";
-"groupJoin Group" = "groupJoin Group";
-"Invalid Credentials!" = "Invalid Credentials!";
-"Invalid State" = "Invalid State";
-"Invalid Username!" = "Invalid Username!";
-"Keys of %@" = "Keys of %@";
-"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
-"Loading" = "Loading";
-"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings.";
-"Login" = "Login";
-"Manual input" = "Manual input";
-"Migration Assistant" = "Migration Assistant";
-"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
-"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
-"More info?" = "More info?";
-"No accounts set up currently" = "No accounts set up currently";
-"No Empty Values!" = "No Empty Values!";
-"No XMPP server!" = "No XMPP server!";
-"Okay" = "Okay";
-"Own device key" = "Own device key";
-"Passwords don't match!" = "Passwords don't match!";
-"Please make sure you have entered a username and password." = "Please make sure you have entered a username and password.";
-"Please make sure you have entered the same password in both password fields." = "Please make sure you have entered the same password in both password fields.";
-"Please provide a valid XMPP server domain or select one." = "Please provide a valid XMPP server domain or select one.";
-"Please select a XMPP server or provide one." = "Please select a XMPP server or provide one.";
-"Pushserver Region" = "Pushserver Region";
-"QR code: Fingerprints found" = "QR code: Fingerprints found";
-"Register" = "Register";
-"Register with %@" = "Register with %@";
-"Registration Error" = "Registration Error";
-"Remove from contacts" = "Remove from contacts";
-"Set up account later" = "Set up account later";
-"Status message:" = "Status message:";
-"Terms of use for %@" = "Terms of use for %@";
-"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
-"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
-"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
-"This account already exists on this instance." = "This account already exists on this instance.";
-"This jid already exists on this instance." = "This jid already exists on this instance.";
-"This key belongs to this device and cannot be removed or disabled!" = "This key belongs to this device and cannot be removed or disabled!";
-"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
-"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
-"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
-"Trust Key" = "Trust Key";
-"Trusted and verified key" = "Trusted and verified key";
-"Trusted but removed key" = "Trusted but removed key";
-"Trusted but unused key" = "Trusted but unused key";
-"Trusted but unverified key" = "Trusted but unverified key";
-"Unblock Contact" = "Unblock Contact";
-"Untrusted key" = "Untrusted key";
-"Welcome" = "Welcome";
-"XMPP server domain not valid!" = "XMPP server domain not valid!";
-"XMPPServer" = "XMPPServer";
-"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
-"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
-"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
+"Show shared Media and Files" = "Show shared Media and Files";

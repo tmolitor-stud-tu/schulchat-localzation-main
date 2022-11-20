@@ -31,6 +31,7 @@
 "Add Group to Favorites" = "Adăugați grupul la favorite";
 "Add New Account" = "Adaugă un cont nou";
 "Add new contacts with the + button above. Your friends will pop up here when they can talk" = "Adăugați noi contacte cu butonul + de mai sus. Prietenii tăi vor apărea aici când vor putea vorbi";
+"Add to contacts" = "Add to contacts";
 "Advanced" = "Avansate";
 "Advanced Settings" = "Setări avansate";
 "All messages already present in local history!" = "Toate mesajele sunt deja prezente în istoria locală!";
@@ -44,6 +45,8 @@
 "App" = "Aplicație";
 "Apple Push Service" = "Serviciul Apple Push";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Serviciul Apple Push ar trebui să fie întotdeauna activat. Dacă este dezactivat, dispozitivul nu poate comunica cu serverul Apple.";
+"Apple Push Token" = "Apple Push Token";
+"Apple Push Token is not available!" = "Apple Push Token is not available!";
 "Approve new contact" = "Approve new contact";
 "Appserver error" = "Eroare a serverului de aplicație";
 "Appserver returned invalid data" = "Serverului de aplicație a returnat date invalide";
@@ -67,10 +70,12 @@
 "Backgrounds" = "Fundaluri";
 "Block" = "Blocare";
 "Block %@ from contacting you?" = "Blocați pe %@ să vă contacteze?";
+"Block Contact" = "Block Contact";
 "Block Sender" = "Blocare expeditor";
 "Blocked Users" = "Utilizatori blocați";
 "Blocking is not supported by the server" = "Blocarea nu este suportată de server";
 "Blocking not supported" = "Blocarea nu este suportată";
+"Blocking/Unblocking Not Supported" = "Blocking/Unblocking Not Supported";
 "call screen did disappear" = "ecranul de apel a dispărut";
 "Camera" = "Aparat foto";
 /* Camera permissions missing warning */
@@ -82,6 +87,7 @@
 "Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Cannot share something with disabled/deleted account, destination: %1$@, internal account id: %2$@";
 "Change Password" = "Schimbare parolă";
 "Changing Password" = "Schimbare parolă";
+"Channel subject:" = "Channel subject:";
 "Chat Backgrounds" = "Fundaluri discuție";
 "Chat for free with your friends, colleagues and family!" = "Discutați gratuit cu prietenii, colegii și familia!";
 "Chat Logs" = "Jurnalele de discuții";
@@ -93,6 +99,9 @@
 "Choices Galore" = "Alegeri din belșug";
 "Clear Chat History" = "Golire istoric discuție";
 "Clear chat history for this contact" = "Ștergeți istoricul conversațiilor pentru acest contact";
+"Clear chat history of this channel" = "Clear chat history of this channel";
+"Clear chat history of this contact" = "Clear chat history of this contact";
+"Clear chat history of this group" = "Clear chat history of this group";
 "Clear History" = "Șterge istoricul";
 /* DEBUG - ContactDetails */
 "Clear omemo session" = "Ștergere sesiune OMEMO";
@@ -113,6 +122,7 @@
 "Contacts are usually in the format: username@domain.something" = "Contactele sunt, de obicei, în formatul: nume@domeniu.ceva";
 /* Chat msg action */
 "Copy" = "Copiere";
+"Copy to clipboard" = "Copy to clipboard";
 /* QR-Code-Scanner: camera not found */
 "Could not access camera" = "Nu s-a putut accesa camera";
 "Could not access Finder item!" = "Could not access Finder item!";
@@ -137,6 +147,7 @@
 "Could not upload file" = "Nu s-a putut încărca fișierul";
 "Current Password" = "Parola actuală";
 "Debug" = "Depanare";
+"Debugging" = "Debugging";
 "Decline" = "Refuză";
 "Default chat backgrounds are from the Ubuntu project." = "Fundalurile implicite sunt din proiectul Ubuntu.";
 "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified.";
@@ -145,8 +156,11 @@
 "Delete" = "Şterge";
 "Delete Account" = "Ștergere cont";
 "Delete Account on Server" = "Delete Account on Server";
+"Delete Key" = "Delete Key";
 "Delete Locally" = "Ștergere locală";
 "Deny new contact" = "Deny new contact";
+"Device ID: " = "Device ID: ";
+"DeviceID: " = "DeviceID: ";
 "Devices of %@" = "Dispozitivele %@";
 "Direct TLS" = "Direct TLS";
 "Disable Encryption" = "Dezactivare criptare";
@@ -158,22 +172,35 @@
 "Display Only Name" = "Afișare doar nume";
 "Display Only Placeholder" = "Afișare numai înlocuitor";
 "Display Settings" = "Setări de afișare";
+"Do you really want to block this contact? You won't receive any messages from this contact." = "Do you really want to block this contact? You won't receive any messages from this contact.";
 "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again.";
+"Do you really want to delete this key?" = "Do you really want to delete this key?";
 "Do you really want to disable encryption for this contact?" = "Do you really want to disable encryption for this contact?";
 "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!";
 "Do you want to trust the scanned fingerprints from" = "Do you want to trust the scanned fingerprints from";
+"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
+"Doing a lot of work..." = "Doing a lot of work...";
 "Domain missing" = "Nume domeniu lipsă";
+"Don't trust Key" = "Don't trust Key";
+"Done" = "Done";
+"Dont' trust Key" = "Dont' trust Key";
 "Download" = "Descărcare";
 "Download error" = "Eroare la descărcare";
 "Draft:" = "Ciornă:";
 "Draft: %@" = "Ciornă: %@";
+/* hello bartycrouch */
+"Dummy string for triggering bartycrouch" = "Dummy string for triggering bartycrouch";
+"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
 "Duplicate Account" = "Cont duplicat";
+"Duplicate Account!" = "Duplicate Account!";
+"Duplicate jid!" = "Duplicate jid!";
 /* Chat msg action */
 "Edit" = "Editare";
 "Email Support" = "Asistență prin e-mail";
 "Enable OMEMO per default" = "Enable OMEMO per default";
 "Enabled" = "Activat";
 "Encrypted message was sent in an older format Monal can't decrypt. Please ask them to update their client. (GCM error)" = "Mesajul criptat a fost trimis într-un format mai vechi pe care Monal nu îl poate decripta. Vă rugăm să le cereți să își actualizeze clientul. (Eroare GCM)";
+"Encrypted session to this device broken beyond repair." = "Encrypted session to this device broken beyond repair.";
 "Encryption Keys" = "Chei de criptare";
 "Encryption Keys (OMEMO)" = "Chei de criptare (OMEMO)";
 "Encryption Not Supported" = "Criptarea nu este suportată";
@@ -183,6 +210,9 @@
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "Introduceți parola nouă. Parolele nu pot fi goale. Ele pot fi, de asemenea, reglementate de server sau de politicile companiei.";
 "Enter your password here" = "Introduceți parola aici";
 "Enter your XMPP ID here" = "Introduceți adresa voastră XMPP aici";
+"Entry 1" = "Entry 1";
+"Entry 2" = "Entry 2";
+"Entry 3" = "Entry 3";
 "Error" = "Eroare";
 "Error authenticating server using SASL2, disconnecting!" = "Error authenticating server using SASL2, disconnecting!";
 "Error decrypting message" = "Eroare la decriptarea mesajului";
@@ -193,6 +223,8 @@
 "Error while decrypting" = "Eroare la decriptare";
 "Error while decrypting: iv.length != 12" = "Eroare la decriptare: iv.length != 12";
 "Error: %@" = "Error: %@";
+"Error: Account disabled, can not display keys!" = "Error: Account disabled, can not display keys!";
+"Error: No contacts to display keys for!" = "Error: No contacts to display keys for!";
 "Error: Received message is empty" = "Eroare: Mesajul primit este gol";
 "Error: Received OMEMO message is empty" = "Error: Received OMEMO message is empty";
 "Escape The Garden" = "Scapă din grădină";
@@ -225,6 +257,8 @@
 "Failed to query newest stanzaid for account %@" = "Nu s-a reușit interogarea celui mai nou ID stanza pentru contul %@";
 "Failed to query newest stanzaid for Group/Channel %@" = "Failed to query newest stanzaid for Group/Channel %@";
 "Failed to query newest stanzaid for groupchat %@" = "Nu s-a reușit interogarea celui mai nou ID stanza pentru discuția de grup %@";
+"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
+"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
 "Failed to save groupchat bookmarks" = "Nu s-a reușit salvarea discuției de grup în semne de carte";
 "Failed to share file" = "Failed to share file";
 "Failed to upload file: account was removed" = "Failed to upload file: account was removed";
@@ -243,9 +277,11 @@
 "Group Chat" = "Discuție de grup";
 "Group Chat Invite" = "Invitație la discuție de grup";
 "Group Information" = "Informații despre grup";
+"Group Members" = "Group Members";
 /* MLJoinGroupViewController - Group Password Form */
 "Group Password" = "Parolă grup";
 "Group requires a password" = "Grupul necesită o parolă";
+"Group subject:" = "Group subject:";
 "Group/Channel error" = "Group/Channel error";
 "Group/Channel error in %@" = "Group/Channel error in %@";
 "Group/Channel got destroyed: %@" = "Group/Channel got destroyed: %@";
@@ -253,6 +289,7 @@
 "Groupchat error" = "Eroare la discuția de grup";
 "Groupchat/channel details" = "Detalii discuție de grup/canal";
 "Groupchat/channel details are currently not implemented in Monal." = "Detaliile grupului/canalului nu sunt implementate momentan în Monal.";
+"groupJoin Group" = "groupJoin Group";
 "Hardcoded Hostname" = "Nume de gazdă presetat";
 "Hide Chat" = "Ascunde discuție";
 "Hint" = "Indiciu";
@@ -274,10 +311,13 @@
 "Indicate when a particular device is active or inactive. Saves battery." = "Indică atunci când un anumit dispozitiv este activ sau inactiv. Economisește bateria.";
 "Input is not a valid jid" = "Datele introduse nu sunt o adresa XMPP validă";
 "Invalid Credentials" = "Date de autentificare invalide";
+"Invalid Credentials!" = "Invalid Credentials!";
 /* QR-Code-Scanner: invalid format */
 "Invalid format" = "Format invalid";
 "Invalid Password!" = "Parolă invalidă!";
+"Invalid State" = "Invalid State";
 "Invalid username" = "Nume de utilizator invalid";
+"Invalid Username!" = "Invalid Username!";
 /* QR-Code-Scanner: Camera not found */
 "It does not seem as your device has a camera. Please use a device with a camera for scanning" = "Nu pare că dispozitivul dumneavoastră are o cameră. Vă rugăm să utilizați un dispozitiv cu cameră pentru scanare";
 "Jabber ID" = "Adresă XMPP";
@@ -289,6 +329,7 @@
 /* Join GroupViewController - HUD */
 "Joining Group" = "Alăturare grupului";
 "Just seen" = "Văzut(ă) adineauri";
+"Keys of %@" = "Keys of %@";
 "Kicked, because muc is now members-only: %@" = "Ați fost dați afară, grupul este de acum accesibil doar membrilor: %@";
 "Kicked, because of system shutdown: %@" = "Ați fost dați afară, serverul se oprește: %@";
 "Last seen: %@" = "Văzut(ă) ultima dată: %@";
@@ -303,10 +344,12 @@
 "Leave Group" = "Părăsește grupul";
 "Leave this conversation" = "Părăsiți această conversație";
 "Leave this converstion?" = "Părăsiți această conversație?";
+"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
 "Load over cellular upto" = "Încărcare pe date mobile până la";
 "Load over cellular upto: %.fMB" = "Încărcare prin date mobile până la: %.fMB";
 "Load over WiFi upto" = "Încărcare prin Wi-Fi până la";
 "Load over WiFi upto: %.fMB" = "Încărcare prin Wi-Fi până la: %.fMB";
+"Loading" = "Loading";
 "Loading contact list" = "Se încarcă lista de contacte";
 "Loading Data" = "Încărcare date";
 "Loading more Messages from Server" = "Încarcă mai multe mesaje de pe server";
@@ -318,9 +361,12 @@
 "Log" = "Jurnal";
 "Log Chats" = "Jurnal de discuții";
 "Log Date" = "Dată jurnal";
+"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings.";
 "Logging in" = "Autentificare";
+"Login" = "Login";
 "Login error, account disabled: %@" = "Login error, account disabled: %@";
 "Login with a QR-Code" = "Autentificare cu un cod QR";
+"Manual input" = "Manual input";
 "Mark all messages as read" = "Marcarea tuturor mesajelor drept citite";
 "Mark as read" = "Marchează ca citit";
 "Maximum File Transfer Size" = "Dimensiunea maximă transfer de fișiere";
@@ -339,11 +385,14 @@
 "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u." = "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u.";
 "Messages never archived by default." = "Mesajele nu sunt niciodată arhivate în mod implicit.";
 "Method: %@" = "Method: %@";
+"Migration Assistant" = "Migration Assistant";
 "Missing permission" = "Permisiune lipsă";
 "Monal" = "Monal";
 "Monal  uses your location when you send a location message in a conversation." = "Monal vă utilizează locația atunci când trimiteți un mesaj de locație într-o conversație.";
+"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
 "Monal did not received a gps location. Please try again later." = "Monal nu a primit o localizare GPS. Vă rugăm să încercați din nou mai târziu.";
 "Monal does not have access to your location. Please update the location access in your device's Privacy Settings." = "Monal nu are acces la locația dumneavoastră. Actualizați accesul la locație în Setările de confidențialitate ale dispozitivului.";
+"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
 /* Camera permissions missing warning */
 "Monal is not allowed to access the camera" = "Monal nu are voie să acceseze camera";
 "Monal Push Server" = "Serverul Push Monal";
@@ -351,6 +400,7 @@
 "Monal uses your location when you send a location message in a conversation." = "Monal uses your location when you send a location message in a conversation.";
 "Monal was not able to send your attachment!" = "Monal was not able to send your attachment!";
 "Monal was not able to send your attachment: %@" = "Monal was not able to send your attachment: %@";
+"More info?" = "More info?";
 "Muc got destroyed: %@" = "Muc got destroyed: %@";
 "Muc not available anymore: %@" = "Muc not available anymore: %@";
 "Mute" = "Mut";
@@ -367,9 +417,11 @@
 "Newest TLS version which is faster than TLS 1.2" = "Newest TLS version which is faster than TLS 1.2";
 "Nickname" = "Nume";
 "No" = "Nu";
+"No accounts set up currently" = "No accounts set up currently";
 "No connected accounts" = "Nici un cont conectat";
 "No Contact Selected" = "Nici un contact selectat";
 "No Empty Values" = "Nici o valoare goală";
+"No Empty Values!" = "No Empty Values!";
 "No enabled account found" = "Nu s-a găsit niciun cont activat";
 "No further error description" = "Nicio altă descriere a erorii";
 "No GPS location received" = "Nu s-a primit nici o locație GPS";
@@ -380,6 +432,7 @@
 "No supported auth mechanism found, disabling account!" = "No supported auth mechanism found, disabling account!";
 "No supported auth mechanism found, disconnecting!" = "Nu s-a găsit niciun mecanism de autentificare acceptat, deconectare!";
 "no supported auth mechanism, disconnecting!" = "niciun mecanism de autentificare acceptat, deconectare!";
+"No XMPP server!" = "No XMPP server!";
 "No, keep encryption activated" = "No, keep encryption activated";
 "None" = "None";
 "Not Authorized. Please check your credentials." = "Neautorizat. Vă rugăm să vă verificați acreditările.";
@@ -394,6 +447,7 @@
 "Offline Contacts" = "Contacte deconectate";
 "Ok" = "Bine";
 "OK" = "Bine";
+"Okay" = "Okay";
 "Older, slower, but still secure TLS version" = "Older, slower, but still secure TLS version";
 "Online" = "Conectat";
 "Only contacts" = "Numai persoanele de contact";
@@ -404,10 +458,12 @@
 "Optional Hardcoded Hostname" = "Nume de gazdă opțional setat";
 "Optional Port" = "Port opțional";
 "Os: " = "Sistem operare: ";
+"Own device key" = "Own device key";
 "Participants" = "Participanți";
 "Password" = "Parolă";
 "Password cannot be empty" = "Parola nu poate fi goală";
 "Password missing" = "Password missing";
+"Passwords don't match!" = "Passwords don't match!";
 "Permission Requested" = "Permisiune solicitată";
 "Photos" = "Fotografii";
 "Pin Chat" = "Fixează discuția";
@@ -420,8 +476,12 @@
 "Please make sure at least one account has connected before trying to add a contact." = "Vă rugăm să vă asigurați că cel puțin un cont s-a conectat înainte de a încerca să adăugați un contact.";
 "Please make sure at least one account has connected before trying to message someone." = "Vă rugăm să vă asigurați că cel puțin un cont s-a conectat înainte de a încerca să trimiteți un mesaj cuiva.";
 "Please make sure you are connected before changing your password." = "Vă rugăm să vă asigurați că sunteți conectat(ă) înainte de a schimba parola.";
+"Please make sure you have entered a username and password." = "Please make sure you have entered a username and password.";
 "Please make sure you have entered a username, password." = "Vă rugăm să vă asigurați că ați introdus un nume de utilizator, o parolă.";
+"Please make sure you have entered the same password in both password fields." = "Please make sure you have entered the same password in both password fields.";
 "Please open the app to retry" = "Deschideți aplicația pentru a reîncerca";
+"Please provide a valid XMPP server domain or select one." = "Please provide a valid XMPP server domain or select one.";
+"Please select a XMPP server or provide one." = "Please select a XMPP server or provide one.";
 "Please update!" = "Please update!";
 "Port" = "Port";
 "Port: %@, Direct TLS: %@, Priority: %@" = "Port: %1$@, Direct TLS: %2$@, Priority: %3$@";
@@ -430,8 +490,10 @@
 "Privacy" = "Confidențialitate";
 "Privacy Settings" = "Setări confidențialitate";
 "Protocol support of your server (XEPs)" = "Suportul de protocol al serverului dumneavoastră (XEP)";
+"Pushserver Region" = "Pushserver Region";
 /* MLLoginView: QR-Code Button iOS12 only */
 "QR" = "QR";
+"QR code: Fingerprints found" = "QR code: Fingerprints found";
 "QR-Code Scanner" = "Scaner cod QR";
 /* catalina warning */
 "QR-Code scanning is not supported on catalina" = "Scanarea codurilor QR nu este suportată pe Catalina";
@@ -469,11 +531,15 @@
 "Reconnecting" = "Reconectare";
 "Recording audio" = "Înregistrare audio";
 "Refreshing..." = "Actualizare...";
+"Register" = "Register";
+"Register with %@" = "Register with %@";
 "Registering account..." = "Registering account...";
+"Registration Error" = "Registration Error";
 "Remove %@ from contacts?" = "Eliminați pe %@ din persoane de contact?";
 "Remove Account from this Device" = "Remove Account from this Device";
 "Remove Contact" = "Eliminare persoană de contact";
 "Remove Conversation" = "Eliminați conversația";
+"Remove from contacts" = "Remove from contacts";
 "Reply" = "Răspuns";
 "ReplyButton" = "ButonRăspuns";
 "Reset OMEMO session" = "Resetare sesiune OMEMO";
@@ -531,6 +597,7 @@
 "Server: %@" = "Server: %@";
 "Set a nickname" = "Setați un nume";
 "Set a nickname for this contact" = "Setați un nume pentru acest contact";
+"Set up account later" = "Set up account later";
 /* Camera permissions missing warning */
 "Settings" = "Setări";
 "Sharing failed" = "Sharing failed";
@@ -554,6 +621,7 @@
 "Start Using Monal" = "Începeți să utilizați Monal";
 "Status" = "Stare";
 "Status Message" = "Mesaj de stare";
+"Status message:" = "Status message:";
 "Submit A Bug" = "Trimiteți o eroare";
 "Success" = "Succes";
 "Success!" = "Succes!";
@@ -565,6 +633,7 @@
 "Tell my contacts when I'm typing" = "Anunță contactele atunci când tastez";
 "Temporary failure to enter Group/Channel: %@" = "Temporary failure to enter Group/Channel: %@";
 "Temporary failure to enter groupchat: %@" = "Temporary failure to enter groupchat: %@";
+"Terms of use for %@" = "Terms of use for %@";
 "The account has been deleted" = "Contul a fost șters";
 "The account has been removed" = "The account has been removed";
 "The account has been saved" = "Contul a fost salvat";
@@ -573,13 +642,16 @@
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@";
 "The current password is not correct." = "Parola curentă nu este corectă.";
 "The jid has to be in the form 'user@domain.tld' to be correct." = "The jid has to be in the form 'user@domain.tld' to be correct.";
+"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "Noua persoană de contact va fi adăugată în lista dumneavoastră atunci când persoana pe care ați adăugat-o vă aprobă solicitarea.";
 "The password has been changed" = "Parola a fost modificată";
 /* QR-Code-Scanner: jid scan wrong menu */
 "The qrcode contains a jid. Rescan the qrcode in the add user menu" = "The qrcode contains a jid. Rescan the qrcode in the add user menu";
 /* QR-Code-Scanner: account scan wrong menu */
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode";
+"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
 "The server does not support blocking" = "Serverul nu suportă blocarea";
+"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
 "The user %@ (%@) wants to add you to his contact list" = "The user %1$@ (%2$@) wants to add you to his contact list";
 "The user %@ (%@) wants to add you to their contact list" = "The user %1$@ (%2$@) wants to add you to their contact list";
 "The username does not need to have an @ symbol. Please try again." = "Numele de utilizator nu trebuie să aibă un simbol @. Vă rugăm să încercați din nou.";
@@ -603,9 +675,15 @@
 "They will see when you are online. They will be able to send you encrypted messages." = "Ei vor vedea atunci când sunteți conectați. Ei pot să vă trimită mesaje criptate.";
 "This account already exists in Monal." = "Acest cont există deja în Monal.";
 "This account already exists on this instance" = "Acest cont există deja în această instanță";
+"This account already exists on this instance." = "This account already exists on this instance.";
 "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!";
 "This contact does not appear to have any devices that support encryption." = "Această persoană de contact nu pare să aibă nici un dispozitiv care să suporte criptare.";
 "This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "This contact may not support OMEMO encrypted messages. Please try again in a few seconds.";
+"This jid already exists on this instance." = "This jid already exists on this instance.";
+"This key belongs to this device and cannot be removed or disabled!" = "This key belongs to this device and cannot be removed or disabled!";
+"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
+"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
+"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
 "This message failed to send (%@): %@" = "Acest mesaj nu a putut fi trimis (%1$@): %2$@";
 "This message failed to send." = "Acest mesaj nu a putut fi trimis.";
 "This sender will be able to send you messages" = "Acest expeditor vă va putea trimite mesaje";
@@ -631,12 +709,18 @@
 "TLS Error: Unknown root certificate" = "Eroare TLS: certificat rădăcină necunoscut";
 /* OmemoQrCodeView */
 "To many device keys" = "La multe chei de dispozitiv";
+"Trust Key" = "Trust Key";
+"Trusted and verified key" = "Trusted and verified key";
+"Trusted but removed key" = "Trusted but removed key";
+"Trusted but unused key" = "Trusted but unused key";
+"Trusted but unverified key" = "Trusted but unverified key";
 /* Join GroupViewController - Join Group HUD */
 "Trying to join group" = "Încercare să vă alăturați grupului";
 "Type: %@" = "Type: %@";
 "Typing..." = "Tastează...";
 "Unable to connect to server" = "Nu s-a putut face conectarea la server";
 "Unable to connect to server!" = "Nu s-a putut face conectarea la server!";
+"Unblock Contact" = "Unblock Contact";
 "Unblock Sender" = "Deblocare expeditor";
 "Unclean appex shutown" = "Unclean appex shutown";
 "Unexpected appex expiration" = "Unexpected appex expiration";
@@ -652,6 +736,7 @@
 "Unnamed" = "Fără nume";
 "Unpin Chat" = "Anulare fixare";
 "Unread Messages Below" = "Mesaje necitite mai jos";
+"Untrusted key" = "Untrusted key";
 "Upload Error" = "Eroare de încărcare";
 "Upload Error: your account got disconnected while requesting upload slot" = "Upload Error: your account got disconnected while requesting upload slot";
 "Upload files to the server to share with others." = "Încărcați fișiere pe server pentru a le partaja cu ceilalți.";
@@ -681,6 +766,7 @@
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@";
 "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs." = "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs.";
 "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs.";
+"Welcome" = "Welcome";
 "Welcome to Monal" = "Bine ați venit la Monal";
 "When you have some favorite groups, they will be here for you." = "Când aveți unele grupuri favorite, acestea vor fi aici pentru dumneavoastră.";
 "When you start talking to someone,\n they will show up here." = "Când începeți să vorbiți cu cineva,\n vor apărea aici.";
@@ -712,14 +798,17 @@
 "XMPP protocol extension for communications blocking." = "Extensie a protocolului XMPP pentru blocarea comunicațiilor.";
 "XMPP protocol extension for sending application-level pings over XML streams." = "XMPP protocol extension for sending application-level pings over XML streams.";
 "XMPP Roster Error" = "Eroare listă contacte XMPP";
+"XMPP server domain not valid!" = "XMPP server domain not valid!";
 "XMPP stream error %@: %@" = "Eroare flux XMPP %1$@: %2$@";
 "XMPP stream error: %@" = "Eroare flux XMPP: %@";
 "XMPP: QR-Code" = "XMPP: cod QR";
+"XMPPServer" = "XMPPServer";
 "yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im is a public server, not affiliated with Monal. This page is provided for convenience.";
 "Yes" = "Da";
 "Yes, deactivate encryption" = "Yes, deactivate encryption";
 "You are not trapped in a garden. Talk to anyone else without anyone tracking you." = "Nu sunteți prinși într-o grădină. Vorbiți cu oricine altcineva fără să fiți urmăriți de cineva.";
 "You are set up and connected." = "Sunteți configurați și conectați.";
+"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
 "You can see their keys. They can't see yours" = "Puteți să le vedeți cheile. Ei nu le pot vedea pe ale dumneavoastră";
 "You did not grant Monal to access your location." = "You did not grant Monal to access your location.";
 "You got banned from: %@" = "Ați fost excluși din: %@";
@@ -735,6 +824,7 @@
 "You will no longer receive messages from this conversation" = "You will no longer receive messages from this conversation";
 "You will receive subsequent messages from this conversation" = "Veți primi mesaje ulterioare din această conversație";
 "Your account must be enabled and connected, to be removed from the server!" = "Your account must be enabled and connected, to be removed from the server!";
+"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
 "Your answer" = "Răspunsul dumneavoastră";
 "Your entered XMPP ID is missing the domain" = "Adresei XMPP introdusă îi lipsește numele de domeniu";
 "Your entered XMPP ID is missing the username" = "Adresei XMPP introdusă îi lipsește numele de utilizator";
@@ -742,6 +832,7 @@
 "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Serverul nu acceptă Stream Management (XEP-0198). Asta înseamnă că mesajele voastre trimise se pot pierde frecvent!!! Ar trebui să vă schimbați serverul sau să vorbiți cu administratorul serverului pentru a activa acest lucru!";
 "Your status" = "Statusul tău";
 "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Contul XMPP trebuie să fie în formatul nume@domeniu. Pentru configurații speciale, utilizați configurarea manuală.";
+"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
 "🎥 A Video" = "🎥 Un videoclip";
 "🎵 A Audiomessage" = "🎵 Un mesaj audio";
 "📁 A File" = "📁 Un fișier";
@@ -749,92 +840,4 @@
 "📍 A Location" = "📍 O locație";
 "📷 An Image" = "📷 O imagine";
 "🔗 A Link" = "🔗 O legătură";
-"Add to contacts" = "Add to contacts";
-"Apple Push Token" = "Apple Push Token";
-"Apple Push Token is not available!" = "Apple Push Token is not available!";
-"Block Contact" = "Block Contact";
-"Blocking/Unblocking Not Supported" = "Blocking/Unblocking Not Supported";
-"Channel subject:" = "Channel subject:";
-"Clear chat history of this channel" = "Clear chat history of this channel";
-"Clear chat history of this contact" = "Clear chat history of this contact";
-"Clear chat history of this group" = "Clear chat history of this group";
-"Copy to clipboard" = "Copy to clipboard";
-"Debugging" = "Debugging";
-"Delete Key" = "Delete Key";
-"Device ID: " = "Device ID: ";
-"DeviceID: " = "DeviceID: ";
-"Do you really want to block this contact? You won't receive any messages from this contact." = "Do you really want to block this contact? You won't receive any messages from this contact.";
-"Do you really want to delete this key?" = "Do you really want to delete this key?";
-"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
-"Doing a lot of work..." = "Doing a lot of work...";
-"Don't trust Key" = "Don't trust Key";
-"Done" = "Done";
-"Dont' trust Key" = "Dont' trust Key";
-/* hello bartycrouch */
-"Dummy string for triggering bartycrouch" = "Dummy string for triggering bartycrouch";
-"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
-"Duplicate Account!" = "Duplicate Account!";
-"Duplicate jid!" = "Duplicate jid!";
-"Encrypted session to this device broken beyond repair." = "Encrypted session to this device broken beyond repair.";
-"Entry 1" = "Entry 1";
-"Entry 2" = "Entry 2";
-"Entry 3" = "Entry 3";
-"Error: Account disabled, can not display keys!" = "Error: Account disabled, can not display keys!";
-"Error: No contacts to display keys for!" = "Error: No contacts to display keys for!";
-"Group Members" = "Group Members";
-"Group subject:" = "Group subject:";
-"groupJoin Group" = "groupJoin Group";
-"Invalid Credentials!" = "Invalid Credentials!";
-"Invalid State" = "Invalid State";
-"Invalid Username!" = "Invalid Username!";
-"Keys of %@" = "Keys of %@";
-"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
-"Loading" = "Loading";
-"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings.";
-"Login" = "Login";
-"Manual input" = "Manual input";
-"Migration Assistant" = "Migration Assistant";
-"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
-"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
-"More info?" = "More info?";
-"No accounts set up currently" = "No accounts set up currently";
-"No Empty Values!" = "No Empty Values!";
-"No XMPP server!" = "No XMPP server!";
-"Okay" = "Okay";
-"Own device key" = "Own device key";
-"Passwords don't match!" = "Passwords don't match!";
-"Please make sure you have entered a username and password." = "Please make sure you have entered a username and password.";
-"Please make sure you have entered the same password in both password fields." = "Please make sure you have entered the same password in both password fields.";
-"Please provide a valid XMPP server domain or select one." = "Please provide a valid XMPP server domain or select one.";
-"Please select a XMPP server or provide one." = "Please select a XMPP server or provide one.";
-"Pushserver Region" = "Pushserver Region";
-"QR code: Fingerprints found" = "QR code: Fingerprints found";
-"Register" = "Register";
-"Register with %@" = "Register with %@";
-"Registration Error" = "Registration Error";
-"Remove from contacts" = "Remove from contacts";
-"Set up account later" = "Set up account later";
-"Status message:" = "Status message:";
-"Terms of use for %@" = "Terms of use for %@";
-"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
-"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
-"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
-"This account already exists on this instance." = "This account already exists on this instance.";
-"This jid already exists on this instance." = "This jid already exists on this instance.";
-"This key belongs to this device and cannot be removed or disabled!" = "This key belongs to this device and cannot be removed or disabled!";
-"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
-"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
-"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
-"Trust Key" = "Trust Key";
-"Trusted and verified key" = "Trusted and verified key";
-"Trusted but removed key" = "Trusted but removed key";
-"Trusted but unused key" = "Trusted but unused key";
-"Trusted but unverified key" = "Trusted but unverified key";
-"Unblock Contact" = "Unblock Contact";
-"Untrusted key" = "Untrusted key";
-"Welcome" = "Welcome";
-"XMPP server domain not valid!" = "XMPP server domain not valid!";
-"XMPPServer" = "XMPPServer";
-"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
-"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
-"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
+"Show shared Media and Files" = "Show shared Media and Files";

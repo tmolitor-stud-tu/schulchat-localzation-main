@@ -31,6 +31,7 @@
 "Add Group to Favorites" = "Add Group to Favorites";
 "Add New Account" = "Tambah kontak baru";
 "Add new contacts with the + button above. Your friends will pop up here when they can talk" = "Tambahkan kontak baru dengan tombol + di atas. Teman Anda akan terlihat di sini saat mereka bisa berbicara";
+"Add to contacts" = "Add to contacts";
 "Advanced" = "Lanjutan";
 "Advanced Settings" = "Pengaturan lanjutan";
 "All messages already present in local history!" = "All messages already present in local history!";
@@ -44,6 +45,8 @@
 "App" = "Aplikasi";
 "Apple Push Service" = "Layanan Apple Push";
 "Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Layanan push Apple harus selalu aktif. Jika mati, perangkat Anda tidak dapat berbicara ke server Apple.";
+"Apple Push Token" = "Apple Push Token";
+"Apple Push Token is not available!" = "Apple Push Token is not available!";
 "Approve new contact" = "Approve new contact";
 "Appserver error" = "Appserver error";
 "Appserver returned invalid data" = "Appserver returned invalid data";
@@ -67,10 +70,12 @@
 "Backgrounds" = "Latarbelakang";
 "Block" = "Block";
 "Block %@ from contacting you?" = "Blokir %@ dari menghubungi Anda?";
+"Block Contact" = "Block Contact";
 "Block Sender" = "Blokir pengirim";
 "Blocked Users" = "Blocked Users";
 "Blocking is not supported by the server" = "Blocking is not supported by the server";
 "Blocking not supported" = "Blocking not supported";
+"Blocking/Unblocking Not Supported" = "Blocking/Unblocking Not Supported";
 "call screen did disappear" = "layar panggilan menghilang";
 "Camera" = "Kamera";
 /* Camera permissions missing warning */
@@ -82,6 +87,7 @@
 "Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Cannot share something with disabled/deleted account, destination: %1$@, internal account id: %2$@";
 "Change Password" = "Ganti kata sandi";
 "Changing Password" = "Changing Password";
+"Channel subject:" = "Channel subject:";
 "Chat Backgrounds" = "Latar belakang percakapan";
 "Chat for free with your friends, colleagues and family!" = "Ngobrol gratis dengan teman, kolega, dan keluarga Anda!";
 "Chat Logs" = "Log percakapan";
@@ -93,6 +99,9 @@
 "Choices Galore" = "Banyak pilihan";
 "Clear Chat History" = "Clear Chat History";
 "Clear chat history for this contact" = "Clear chat history for this contact";
+"Clear chat history of this channel" = "Clear chat history of this channel";
+"Clear chat history of this contact" = "Clear chat history of this contact";
+"Clear chat history of this group" = "Clear chat history of this group";
 "Clear History" = "Clear History";
 /* DEBUG - ContactDetails */
 "Clear omemo session" = "Clear omemo session";
@@ -113,6 +122,7 @@
 "Contacts are usually in the format: username@domain.something" = "Kontak biasanya dalam format: nama@contoh.com";
 /* Chat msg action */
 "Copy" = "Salin";
+"Copy to clipboard" = "Copy to clipboard";
 /* QR-Code-Scanner: camera not found */
 "Could not access camera" = "Could not access camera";
 "Could not access Finder item!" = "Could not access Finder item!";
@@ -137,6 +147,7 @@
 "Could not upload file" = "Could not upload file";
 "Current Password" = "Current Password";
 "Debug" = "Debug";
+"Debugging" = "Debugging";
 "Decline" = "Tolak";
 "Default chat backgrounds are from the Ubuntu project." = "Latar belakang percakapan berasal dari Ubuntu.";
 "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified." = "Defines a proposed modification to the XMPP roster protocol that enables versioning of rosters such that the server will not send the roster to the client if the roster has not been modified.";
@@ -145,8 +156,11 @@
 "Delete" = "Hapus";
 "Delete Account" = "Hapus akun";
 "Delete Account on Server" = "Delete Account on Server";
+"Delete Key" = "Delete Key";
 "Delete Locally" = "Hapus secara lokal";
 "Deny new contact" = "Deny new contact";
+"Device ID: " = "Device ID: ";
+"DeviceID: " = "DeviceID: ";
 "Devices of %@" = "Devices of %@";
 "Direct TLS" = "TLS langsung";
 "Disable Encryption" = "Nonaktifkan Enkripsi";
@@ -158,24 +172,35 @@
 "Display Only Name" = "Tampailkan nama saja";
 "Display Only Placeholder" = "Tampilkan Hanya Placeholder";
 "Display Settings" = "Pengaturan layar";
+"Do you really want to block this contact? You won't receive any messages from this contact." = "Do you really want to block this contact? You won't receive any messages from this contact.";
 "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again." = "Do you really want to clear all messages exchanged in this conversation? If using OMEMO you won't even be able to load them from your server again.";
+"Do you really want to delete this key?" = "Do you really want to delete this key?";
 "Do you really want to disable encryption for this contact?" = "Do you really want to disable encryption for this contact?";
 "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!" = "Do you really want to reset the OMEMO session? You should only reset the connection if you know what you are doing!";
 "Do you want to trust the scanned fingerprints from" = "Do you want to trust the scanned fingerprints from";
+"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
+"Doing a lot of work..." = "Doing a lot of work...";
 "Domain missing" = "Domain hilang";
+"Don't trust Key" = "Don't trust Key";
+"Done" = "Done";
+"Dont' trust Key" = "Dont' trust Key";
 "Download" = "Download";
 "Download error" = "Download error";
 "Draft:" = "Draft:";
 "Draft: %@" = "Konsep: %@";
 /* hello bartycrouch */
 "Dummy string for triggering bartycrouch" = "Dummy string for triggering bartycrouch";
+"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
 "Duplicate Account" = "Duplicate Account";
+"Duplicate Account!" = "Duplicate Account!";
+"Duplicate jid!" = "Duplicate jid!";
 /* Chat msg action */
 "Edit" = "Sunting";
 "Email Support" = "Email penunjang";
 "Enable OMEMO per default" = "Enable OMEMO per default";
 "Enabled" = "Diaktifkan";
 "Encrypted message was sent in an older format Monal can't decrypt. Please ask them to update their client. (GCM error)" = "Pesan terenkripsi dikirim dalam format lama yang tidak dapat didekripsi oleh Monal. Minta mereka untuk memperbarui aplikasi. (Kesalahan GCM)";
+"Encrypted session to this device broken beyond repair." = "Encrypted session to this device broken beyond repair.";
 "Encryption Keys" = "Kunci enkripsi";
 "Encryption Keys (OMEMO)" = "Encryption Keys (OMEMO)";
 "Encryption Not Supported" = "Tidak Mendukung Enkripsi";
@@ -185,6 +210,9 @@
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "Masukkan kata sandi baru. Kata sandi tidak boleh kosong dan mungkin juga diatur oleh server atau kebijakan penyelenggara.";
 "Enter your password here" = "Enter your password here";
 "Enter your XMPP ID here" = "Enter your XMPP ID here";
+"Entry 1" = "Entry 1";
+"Entry 2" = "Entry 2";
+"Entry 3" = "Entry 3";
 "Error" = "Kesalahan";
 "Error authenticating server using SASL2, disconnecting!" = "Error authenticating server using SASL2, disconnecting!";
 "Error decrypting message" = "Gagal mendekripsi pesan";
@@ -195,6 +223,8 @@
 "Error while decrypting" = "Error while decrypting";
 "Error while decrypting: iv.length != 12" = "Error while decrypting: iv.length != 12";
 "Error: %@" = "Error: %@";
+"Error: Account disabled, can not display keys!" = "Error: Account disabled, can not display keys!";
+"Error: No contacts to display keys for!" = "Error: No contacts to display keys for!";
 "Error: Received message is empty" = "Error: Received message is empty";
 "Error: Received OMEMO message is empty" = "Error: Received OMEMO message is empty";
 "Escape The Garden" = "Keluar dari taman";
@@ -227,6 +257,8 @@
 "Failed to query newest stanzaid for account %@" = "Failed to query newest stanzaid for account %@";
 "Failed to query newest stanzaid for Group/Channel %@" = "Failed to query newest stanzaid for Group/Channel %@";
 "Failed to query newest stanzaid for groupchat %@" = "Failed to query newest stanzaid for groupchat %@";
+"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
+"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
 "Failed to save groupchat bookmarks" = "Failed to save groupchat bookmarks";
 "Failed to share file" = "Failed to share file";
 "Failed to upload file: account was removed" = "Failed to upload file: account was removed";
@@ -245,9 +277,11 @@
 "Group Chat" = "Percakapan Grup";
 "Group Chat Invite" = "Undangan Percakapan Grup";
 "Group Information" = "Informasi Grup";
+"Group Members" = "Group Members";
 /* MLJoinGroupViewController - Group Password Form */
 "Group Password" = "Group Password";
 "Group requires a password" = "Group requires a password";
+"Group subject:" = "Group subject:";
 "Group/Channel error" = "Group/Channel error";
 "Group/Channel error in %@" = "Group/Channel error in %@";
 "Group/Channel got destroyed: %@" = "Group/Channel got destroyed: %@";
@@ -255,6 +289,7 @@
 "Groupchat error" = "Groupchat error";
 "Groupchat/channel details" = "Groupchat/channel details";
 "Groupchat/channel details are currently not implemented in Monal." = "Groupchat/channel details are currently not implemented in Monal.";
+"groupJoin Group" = "groupJoin Group";
 "Hardcoded Hostname" = "Nama host di-Hardcode";
 "Hide Chat" = "Sembunyikan percakapan";
 "Hint" = "Hint";
@@ -276,10 +311,13 @@
 "Indicate when a particular device is active or inactive. Saves battery." = "Tunjukkan kapan perangkat ini aktif atau tidak aktif. Menghemat baterai.";
 "Input is not a valid jid" = "Input is not a valid jid";
 "Invalid Credentials" = "Kredensial tidak valid";
+"Invalid Credentials!" = "Invalid Credentials!";
 /* QR-Code-Scanner: invalid format */
 "Invalid format" = "Invalid format";
 "Invalid Password!" = "Invalid Password!";
+"Invalid State" = "Invalid State";
 "Invalid username" = "Nama pengguna salah";
+"Invalid Username!" = "Invalid Username!";
 /* QR-Code-Scanner: Camera not found */
 "It does not seem as your device has a camera. Please use a device with a camera for scanning" = "It does not seem as your device has a camera. Please use a device with a camera for scanning";
 "Jabber ID" = "ID Jabber";
@@ -291,6 +329,7 @@
 /* Join GroupViewController - HUD */
 "Joining Group" = "Joining Group";
 "Just seen" = "Baru terlihat";
+"Keys of %@" = "Keys of %@";
 "Kicked, because muc is now members-only: %@" = "Kicked, because muc is now members-only: %@";
 "Kicked, because of system shutdown: %@" = "Kicked, because of system shutdown: %@";
 "Last seen: %@" = "Last seen: %@";
@@ -305,10 +344,12 @@
 "Leave Group" = "Leave Group";
 "Leave this conversation" = "Leave this conversation";
 "Leave this converstion?" = "Tinggalkan percakapan?";
+"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
 "Load over cellular upto" = "Load over cellular upto";
 "Load over cellular upto: %.fMB" = "Load over cellular upto: %.fMB";
 "Load over WiFi upto" = "Load over WiFi upto";
 "Load over WiFi upto: %.fMB" = "Load over WiFi upto: %.fMB";
+"Loading" = "Loading";
 "Loading contact list" = "Loading contact list";
 "Loading Data" = "Loading Data";
 "Loading more Messages from Server" = "Memuat lebih banyak Pesan dari Server";
@@ -320,9 +361,12 @@
 "Log" = "Log";
 "Log Chats" = "Log percakapan";
 "Log Date" = "Log Date";
+"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings.";
 "Logging in" = "Masuk";
+"Login" = "Login";
 "Login error, account disabled: %@" = "Login error, account disabled: %@";
 "Login with a QR-Code" = "Login with a QR-Code";
+"Manual input" = "Manual input";
 "Mark all messages as read" = "Tandai semua pesan sebagai sudah dibaca";
 "Mark as read" = "Mark as read";
 "Maximum File Transfer Size" = "Maximum File Transfer Size";
@@ -341,11 +385,14 @@
 "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u." = "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u.";
 "Messages never archived by default." = "Pesan tidak pernah diarsipkan secara default.";
 "Method: %@" = "Method: %@";
+"Migration Assistant" = "Migration Assistant";
 "Missing permission" = "Missing permission";
 "Monal" = "Monal";
 "Monal  uses your location when you send a location message in a conversation." = "Monal  uses your location when you send a location message in a conversation.";
+"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
 "Monal did not received a gps location. Please try again later." = "Monal tidak mendapat lokasi gps. Silakan coba lagi.";
 "Monal does not have access to your location. Please update the location access in your device's Privacy Settings." = "Monal tidak memiliki akses ke lokasi Anda. Harap perbarui akses lokasi di Setelan Privasi perangkat Anda.";
+"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
 /* Camera permissions missing warning */
 "Monal is not allowed to access the camera" = "Monal is not allowed to access the camera";
 "Monal Push Server" = "Monal Push Server";
@@ -353,6 +400,7 @@
 "Monal uses your location when you send a location message in a conversation." = "Monal uses your location when you send a location message in a conversation.";
 "Monal was not able to send your attachment!" = "Monal was not able to send your attachment!";
 "Monal was not able to send your attachment: %@" = "Monal was not able to send your attachment: %@";
+"More info?" = "More info?";
 "Muc got destroyed: %@" = "Muc got destroyed: %@";
 "Muc not available anymore: %@" = "Muc not available anymore: %@";
 "Mute" = "Senyap";
@@ -369,9 +417,11 @@
 "Newest TLS version which is faster than TLS 1.2" = "Newest TLS version which is faster than TLS 1.2";
 "Nickname" = "Nama panggilan";
 "No" = "No";
+"No accounts set up currently" = "No accounts set up currently";
 "No connected accounts" = "Tidak ada akun terhubung";
 "No Contact Selected" = "Tidak Ada Kontak yang Dipilih";
 "No Empty Values" = "Tidak Ada Nilai";
+"No Empty Values!" = "No Empty Values!";
 "No enabled account found" = "No enabled account found";
 "No further error description" = "Tidak ada deskripsi kesalahan lebih lanjut";
 "No GPS location received" = "Tidak ada lokasi GPS yang diterima";
@@ -382,6 +432,7 @@
 "No supported auth mechanism found, disabling account!" = "No supported auth mechanism found, disabling account!";
 "No supported auth mechanism found, disconnecting!" = "No supported auth mechanism found, disconnecting!";
 "no supported auth mechanism, disconnecting!" = "no supported auth mechanism, disconnecting!";
+"No XMPP server!" = "No XMPP server!";
 "No, keep encryption activated" = "No, keep encryption activated";
 "None" = "None";
 "Not Authorized. Please check your credentials." = "Not Authorized. Please check your credentials.";
@@ -396,6 +447,7 @@
 "Offline Contacts" = "Kontak Offline";
 "OK" = "OK";
 "Ok" = "Ok";
+"Okay" = "Okay";
 "Older, slower, but still secure TLS version" = "Older, slower, but still secure TLS version";
 "Online" = "Online";
 "Only contacts" = "Only contacts";
@@ -406,10 +458,12 @@
 "Optional Hardcoded Hostname" = "Optional Hardcoded Hostname";
 "Optional Port" = "Optional Port";
 "Os: " = "OS: ";
+"Own device key" = "Own device key";
 "Participants" = "Partisipan";
 "Password" = "Kata sandi";
 "Password cannot be empty" = "Kata sandi tidak boleh kosong";
 "Password missing" = "Password missing";
+"Passwords don't match!" = "Passwords don't match!";
 "Permission Requested" = "Perijinan diminta";
 "Photos" = "Foto";
 "Pin Chat" = "Pin Chat";
@@ -422,8 +476,12 @@
 "Please make sure at least one account has connected before trying to add a contact." = "Pastikan minimal satu akun telah terhubung sebelum mencoba menambahkan kontak.";
 "Please make sure at least one account has connected before trying to message someone." = "Pastikan minimal satu akun telah terhubung sebelum mencoba mengirim pesan kepada seseorang.";
 "Please make sure you are connected before changing your password." = "Pastikan Anda terhubung sebelum mengubah kata sandi.";
+"Please make sure you have entered a username and password." = "Please make sure you have entered a username and password.";
 "Please make sure you have entered a username, password." = "Pastikan Anda telah memasukkan nama pengguna, kata sandi.";
+"Please make sure you have entered the same password in both password fields." = "Please make sure you have entered the same password in both password fields.";
 "Please open the app to retry" = "Please open the app to retry";
+"Please provide a valid XMPP server domain or select one." = "Please provide a valid XMPP server domain or select one.";
+"Please select a XMPP server or provide one." = "Please select a XMPP server or provide one.";
 "Please update!" = "Please update!";
 "Port" = "Port";
 "Port: %@, Direct TLS: %@, Priority: %@" = "Port: %1$@, Direct TLS: %2$@, Priority: %3$@";
@@ -432,8 +490,10 @@
 "Privacy" = "Privasi";
 "Privacy Settings" = "Pengaturan Privasi";
 "Protocol support of your server (XEPs)" = "Protocol support of your server (XEPs)";
+"Pushserver Region" = "Pushserver Region";
 /* MLLoginView: QR-Code Button iOS12 only */
 "QR" = "QR";
+"QR code: Fingerprints found" = "QR code: Fingerprints found";
 "QR-Code Scanner" = "QR-Code Scanner";
 /* catalina warning */
 "QR-Code scanning is not supported on catalina" = "QR-Code scanning is not supported on catalina";
@@ -471,11 +531,15 @@
 "Reconnecting" = "Menghubungkan kembali";
 "Recording audio" = "Recording audio";
 "Refreshing..." = "Refreshing...";
+"Register" = "Register";
+"Register with %@" = "Register with %@";
 "Registering account..." = "Registering account...";
+"Registration Error" = "Registration Error";
 "Remove %@ from contacts?" = "Hapus %@ dari kontak?";
 "Remove Account from this Device" = "Remove Account from this Device";
 "Remove Contact" = "Hapus kontak";
 "Remove Conversation" = "Remove Conversation";
+"Remove from contacts" = "Remove from contacts";
 "Reply" = "Balas";
 "ReplyButton" = "Tombol balas";
 "Reset OMEMO session" = "Reset OMEMO session";
@@ -533,6 +597,7 @@
 "Server: %@" = "Server: %@";
 "Set a nickname" = "Pilih nama panggilan";
 "Set a nickname for this contact" = "Set a nickname for this contact";
+"Set up account later" = "Set up account later";
 /* Camera permissions missing warning */
 "Settings" = "Settings";
 "Sharing failed" = "Sharing failed";
@@ -556,6 +621,7 @@
 "Start Using Monal" = "Mulai gunakan Monal";
 "Status" = "Status";
 "Status Message" = "Pesan Status";
+"Status message:" = "Status message:";
 "Submit A Bug" = "Kirimkan pesan";
 "Success" = "Sukses";
 "Success!" = "Sukses!";
@@ -567,6 +633,7 @@
 "Tell my contacts when I'm typing" = "Beri tahu kontak saya saat saya mengetik";
 "Temporary failure to enter Group/Channel: %@" = "Temporary failure to enter Group/Channel: %@";
 "Temporary failure to enter groupchat: %@" = "Temporary failure to enter groupchat: %@";
+"Terms of use for %@" = "Terms of use for %@";
 "The account has been deleted" = "Akun telah dihapus";
 "The account has been removed" = "The account has been removed";
 "The account has been saved" = "Akun telah disimpan";
@@ -575,13 +642,16 @@
 "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@" = "The connection to the server was interrupted and no old messages could be fetched for this chat. Please try again later. %@";
 "The current password is not correct." = "The current password is not correct.";
 "The jid has to be in the form 'user@domain.tld' to be correct." = "The jid has to be in the form 'user@domain.tld' to be correct.";
+"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
 "The new contact will be added to your contacts list when the person you've added has approved your request." = "Kontak baru akan ditambahkan ke daftar kontak Anda ketika orang yang Anda tambahkan menyetujui permintaan Anda.";
 "The password has been changed" = "Kata sandi telah diubah";
 /* QR-Code-Scanner: jid scan wrong menu */
 "The qrcode contains a jid. Rescan the qrcode in the add user menu" = "The qrcode contains a jid. Rescan the qrcode in the add user menu";
 /* QR-Code-Scanner: account scan wrong menu */
 "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode" = "The qrcode contains login credentials for a acount. Go to settings and rescan the qrcode";
+"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
 "The server does not support blocking" = "The server does not support blocking";
+"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
 "The user %@ (%@) wants to add you to his contact list" = "The user %1$@ (%2$@) wants to add you to his contact list";
 "The user %@ (%@) wants to add you to their contact list" = "The user %1$@ (%2$@) wants to add you to their contact list";
 "The username does not need to have an @ symbol. Please try again." = "Nama pengguna tidak perlu memiliki simbol @. Silakan coba lagi.";
@@ -605,9 +675,15 @@
 "They will see when you are online. They will be able to send you encrypted messages." = "They will see when you are online. They will be able to send you encrypted messages.";
 "This account already exists in Monal." = "This account already exists in Monal.";
 "This account already exists on this instance" = "This account already exists on this instance";
+"This account already exists on this instance." = "This account already exists on this instance.";
 "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!" = "This app is too old and can contain security bugs as well as suddenly cease operation. Please Upgrade!";
 "This contact does not appear to have any devices that support encryption." = "This contact does not appear to have any devices that support encryption.";
 "This contact may not support OMEMO encrypted messages. Please try again in a few seconds." = "This contact may not support OMEMO encrypted messages. Please try again in a few seconds.";
+"This jid already exists on this instance." = "This jid already exists on this instance.";
+"This key belongs to this device and cannot be removed or disabled!" = "This key belongs to this device and cannot be removed or disabled!";
+"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
+"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
+"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
 "This message failed to send (%@): %@" = "pesan ini gagal dikirim (%1$@): %2$@";
 "This message failed to send." = "Pesan ini gagal dikirim";
 "This sender will be able to send you messages" = "Pengirim ini akan dapat berkirim pesan ke anda";
@@ -633,12 +709,18 @@
 "TLS Error: Unknown root certificate" = "TLS Error: Unknown root certificate";
 /* OmemoQrCodeView */
 "To many device keys" = "To many device keys";
+"Trust Key" = "Trust Key";
+"Trusted and verified key" = "Trusted and verified key";
+"Trusted but removed key" = "Trusted but removed key";
+"Trusted but unused key" = "Trusted but unused key";
+"Trusted but unverified key" = "Trusted but unverified key";
 /* Join GroupViewController - Join Group HUD */
 "Trying to join group" = "Mencoba bergabung dengan grup";
 "Type: %@" = "Type: %@";
 "Typing..." = "Typing...";
 "Unable to connect to server" = "Tidak dapat terhubung ke server";
 "Unable to connect to server!" = "Unable to connect to server!";
+"Unblock Contact" = "Unblock Contact";
 "Unblock Sender" = "Unblock Sender";
 "Unclean appex shutown" = "Unclean appex shutown";
 "Unexpected appex expiration" = "Unexpected appex expiration";
@@ -654,6 +736,7 @@
 "Unnamed" = "Tanpa nama";
 "Unpin Chat" = "Unpin Chat";
 "Unread Messages Below" = "Unread Messages Below";
+"Untrusted key" = "Untrusted key";
 "Upload Error" = "Upload Error";
 "Upload Error: your account got disconnected while requesting upload slot" = "Upload Error: your account got disconnected while requesting upload slot";
 "Upload files to the server to share with others." = "Upload files to the server to share with others.";
@@ -683,6 +766,7 @@
 "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@" = "We were not able to connect your account. Please check your credentials and make sure you are connected to the internet.\n\nTechnical error message: %@";
 "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs." = "Weakest channel-binding type, not securing agains stolen certs/keys, but detects wrongly issued certs.";
 "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs." = "Weakest channel-binding type, not securing against stolen certs/keys, but detects wrongly issued certs.";
+"Welcome" = "Welcome";
 "Welcome to Monal" = "Welcome to Monal";
 "When you have some favorite groups, they will be here for you." = "When you have some favorite groups, they will be here for you.";
 "When you start talking to someone,\n they will show up here." = "When you start talking to someone,\n they will show up here.";
@@ -714,14 +798,17 @@
 "XMPP protocol extension for communications blocking." = "XMPP protocol extension for communications blocking.";
 "XMPP protocol extension for sending application-level pings over XML streams." = "XMPP protocol extension for sending application-level pings over XML streams.";
 "XMPP Roster Error" = "XMPP Roster Error";
+"XMPP server domain not valid!" = "XMPP server domain not valid!";
 "XMPP stream error %@: %@" = "XMPP stream error %1$@: %2$@";
 "XMPP stream error: %@" = "XMPP stream error: %@";
 "XMPP: QR-Code" = "XMPP: QR-Code";
+"XMPPServer" = "XMPPServer";
 "yax.im is a public server, not affiliated with Monal. This page is provided for convenience." = "yax.im is a public server, not affiliated with Monal. This page is provided for convenience.";
 "Yes" = "Yes";
 "Yes, deactivate encryption" = "Yes, deactivate encryption";
 "You are not trapped in a garden. Talk to anyone else without anyone tracking you." = "You are not trapped in a garden. Talk to anyone else without anyone tracking you.";
 "You are set up and connected." = "You are set up and connected.";
+"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
 "You can see their keys. They can't see yours" = "You can see their keys. They can't see yours";
 "You did not grant Monal to access your location." = "You did not grant Monal to access your location.";
 "You got banned from: %@" = "You got banned from: %@";
@@ -737,6 +824,7 @@
 "You will no longer receive messages from this conversation" = "You will no longer receive messages from this conversation";
 "You will receive subsequent messages from this conversation" = "You will receive subsequent messages from this conversation";
 "Your account must be enabled and connected, to be removed from the server!" = "Your account must be enabled and connected, to be removed from the server!";
+"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
 "Your answer" = "Your answer";
 "Your entered XMPP ID is missing the domain" = "Your entered XMPP ID is missing the domain";
 "Your entered XMPP ID is missing the username" = "Your entered XMPP ID is missing the username";
@@ -744,6 +832,7 @@
 "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!" = "Your server does not support Stream Management (XEP-0198). That means your outgoing messages can get lost frequently!! You should switch your server or talk to the server admin to enable this!";
 "Your status" = "Your status";
 "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup." = "Your XMPP account should be in in the format user@domain. For special configurations, use manual setup.";
+"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
 "🎥 A Video" = "🎥 A Video";
 "🎵 A Audiomessage" = "🎵 A Audiomessage";
 "📁 A File" = "📁 sebuah file";
@@ -751,90 +840,4 @@
 "📍 A Location" = "📍 A Location";
 "📷 An Image" = "📷 An Image";
 "🔗 A Link" = "🔗 A Link";
-"Add to contacts" = "Add to contacts";
-"Apple Push Token" = "Apple Push Token";
-"Apple Push Token is not available!" = "Apple Push Token is not available!";
-"Block Contact" = "Block Contact";
-"Blocking/Unblocking Not Supported" = "Blocking/Unblocking Not Supported";
-"Channel subject:" = "Channel subject:";
-"Clear chat history of this channel" = "Clear chat history of this channel";
-"Clear chat history of this contact" = "Clear chat history of this contact";
-"Clear chat history of this group" = "Clear chat history of this group";
-"Copy to clipboard" = "Copy to clipboard";
-"Debugging" = "Debugging";
-"Delete Key" = "Delete Key";
-"Device ID: " = "Device ID: ";
-"DeviceID: " = "DeviceID: ";
-"Do you really want to block this contact? You won't receive any messages from this contact." = "Do you really want to block this contact? You won't receive any messages from this contact.";
-"Do you really want to delete this key?" = "Do you really want to delete this key?";
-"Do you want to trust the scanned fingerprints of contact %@ when using your account %@?" = "Do you want to trust the scanned fingerprints of contact %@ when using your account %@?";
-"Doing a lot of work..." = "Doing a lot of work...";
-"Don't trust Key" = "Don't trust Key";
-"Done" = "Done";
-"Dont' trust Key" = "Dont' trust Key";
-"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
-"Duplicate Account!" = "Duplicate Account!";
-"Duplicate jid!" = "Duplicate jid!";
-"Encrypted session to this device broken beyond repair." = "Encrypted session to this device broken beyond repair.";
-"Entry 1" = "Entry 1";
-"Entry 2" = "Entry 2";
-"Entry 3" = "Entry 3";
-"Error: Account disabled, can not display keys!" = "Error: Account disabled, can not display keys!";
-"Error: No contacts to display keys for!" = "Error: No contacts to display keys for!";
-"Group Members" = "Group Members";
-"Group subject:" = "Group subject:";
-"groupJoin Group" = "groupJoin Group";
-"Invalid Credentials!" = "Invalid Credentials!";
-"Invalid State" = "Invalid State";
-"Invalid Username!" = "Invalid Username!";
-"Keys of %@" = "Keys of %@";
-"Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password." = "Like email, you can register your account on many sites and talk to anyone. You can use this page to register an account with a selected or provided XMPP server. You also have to choose a username and a password.";
-"Loading" = "Loading";
-"Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings." = "Log in to your existing account or register a new account. If required you will find more advanced options in Monal settings.";
-"Login" = "Login";
-"Manual input" = "Manual input";
-"Migration Assistant" = "Migration Assistant";
-"Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!";
-"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key.";
-"More info?" = "More info?";
-"No accounts set up currently" = "No accounts set up currently";
-"No Empty Values!" = "No Empty Values!";
-"No XMPP server!" = "No XMPP server!";
-"Okay" = "Okay";
-"Own device key" = "Own device key";
-"Passwords don't match!" = "Passwords don't match!";
-"Please make sure you have entered a username and password." = "Please make sure you have entered a username and password.";
-"Please make sure you have entered the same password in both password fields." = "Please make sure you have entered the same password in both password fields.";
-"Please provide a valid XMPP server domain or select one." = "Please provide a valid XMPP server domain or select one.";
-"Please select a XMPP server or provide one." = "Please select a XMPP server or provide one.";
-"Pushserver Region" = "Pushserver Region";
-"QR code: Fingerprints found" = "QR code: Fingerprints found";
-"Register" = "Register";
-"Register with %@" = "Register with %@";
-"Registration Error" = "Registration Error";
-"Remove from contacts" = "Remove from contacts";
-"Set up account later" = "Set up account later";
-"Status message:" = "Status message:";
-"Terms of use for %@" = "Terms of use for %@";
-"The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt." = "The key is in a state that is currently not correctly handled. Please contact the developers if you see this prompt.";
-"The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only." = "The selectable XMPP servers are public servers which are not affiliated to Monal. This registration page is provided for convenience only.";
-"The server does not support blocking (XEP-0191)." = "The server does not support blocking (XEP-0191).";
-"This account already exists on this instance." = "This account already exists on this instance.";
-"This jid already exists on this instance." = "This jid already exists on this instance.";
-"This key belongs to this device and cannot be removed or disabled!" = "This key belongs to this device and cannot be removed or disabled!";
-"This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element." = "This key is trusted and verified by manually comparing fingerprints. To stop trusting this key, use the toggle element.";
-"This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key." = "This key is trusted, but the contact does not use it anymore. Consider to disable trust for this key.";
-"This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key" = "This key is trusted, but the contact has not used it for a long time. Consider to disable trust for this key";
-"Trust Key" = "Trust Key";
-"Trusted and verified key" = "Trusted and verified key";
-"Trusted but removed key" = "Trusted but removed key";
-"Trusted but unused key" = "Trusted but unused key";
-"Trusted but unverified key" = "Trusted but unverified key";
-"Unblock Contact" = "Unblock Contact";
-"Untrusted key" = "Untrusted key";
-"Welcome" = "Welcome";
-"XMPP server domain not valid!" = "XMPP server domain not valid!";
-"XMPPServer" = "XMPPServer";
-"You are set up and connected. People can message you at: %@@%@" = "You are set up and connected. People can message you at: %@@%@";
-"Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again." = "Your accounts got deactivated, because you restored an iCloud backup of Monal. Please reenter your passwords to activate them again.";
-"Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup." = "Your XMPP jid should be in in the format user@domain.tld. For special configurations, use manual setup.";
+"Show shared Media and Files" = "Show shared Media and Files";

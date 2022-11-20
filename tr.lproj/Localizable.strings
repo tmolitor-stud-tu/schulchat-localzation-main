@@ -257,8 +257,8 @@
 "Failed to query newest stanzaid for account %@" = "%@ hesabı için en yeni stanzaid sorgulanamadı";
 "Failed to query newest stanzaid for Group/Channel %@" = "Grup/Kanal için en yeni stanzaid sorgulaması başarısız oldu % @";
 "Failed to query newest stanzaid for groupchat %@" = "%@ grup sohbeti için en yeni stanzaid sorgulanamadı";
-"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
-"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
+"Failed to remove bookmark for Group/Channel: %@" = "Grup/Kanal için yer imi kaldırılamadı: %@";
+"Failed to save bookmark for Group/Channel: %@" = "Grup/Kanal için yer imi kaydedilemedi: %@";
 "Failed to save groupchat bookmarks" = "Grup sohbeti yer imleri kaydedilemedi";
 "Failed to share file" = "Dosya paylaşılamadı";
 "Failed to upload file: account was removed" = "Dosya yüklenemedi: hesap kaldırıldı";
@@ -840,4 +840,4 @@
 "📍 A Location" = "📍 Bir Konum";
 "📷 An Image" = "📷 Bir Resim";
 "🔗 A Link" = "🔗 Bir Bağlantı";
-"Show shared Media and Files" = "Show shared Media and Files";
+"Show shared Media and Files" = "Paylaşılan Medya ve Dosyaları Göster";

@@ -375,7 +375,7 @@
 "Message Archive Pref" = "Archiviazione messaggi";
 "Message Archive Preferences" = "Archiviazione messaggi";
 "Message can't be empty" = "Il messaggio non può essere vuoto";
-"Message from %@" = "Messaggio da %@";
+"Message from %@" = "Invia come %@";
 "Message Preview" = "Anteprima del messaggio";
 "Message was encrypted with '%@' which isn't supported by Monal" = "Il messaggio è stato cifrato con '%@' che non è supportato da Monal";
 "Message was encrypted with omemo and can't be decrypted anymore" = "Il messaggio è stato cifrato con OMEMO e non può più essere decifrato";
@@ -443,7 +443,7 @@
 "Notifications" = "Contenuto notifiche";
 "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old expereince back." = "Le notifiche sono cambiate in iOS 13 a causa di alcune modifiche a iOS. Per adesso vedrai solamente qualcosa dire che c'è un nuovo messaggio ma non il contenuto o il mittente. Ho deciso questo per darti una messaggistica affidabile mentre aggiorno Monal per ripristinare la funzionalità precedente.";
 "Notifications have changed in iOS 13 because of some iOS changes. For now you will just see something saying there is a new message and not the text or who sent it. I have decided to do this so you have reliable messaging while I work to update Monal to get the old experience back." = "Le notifiche sono cambiate in iOS 13 a causa di alcune modifiche ad iOS. Per ora vedrai solo qualcosa che dice che c'è un nuovo messaggio ma non il testo o chi lo ha inviato. Ho deciso questo in modo da darti una messaggistica affidabile mentre lavoro per aggiornare Monal e ripristinare la precedente funzionalità.";
-"now" = "adesso";
+"now" = "di recente";
 "Offline Contacts" = "Contatti offline";
 "Ok" = "OK";
 "OK" = "OK";
@@ -748,7 +748,7 @@
 "user@example.org/resource" = "utente@dominio/risorsa";
 "Username missing" = "Nome utente mancante";
 "Uses TLS client certificates for authentication" = "Utilizza certificato TLS per l'autenticazione";
-"Using Account: %@" = "Account usato: %@";
+"Using Account: %@" = "Aggiungi a: %@";
 "Using server '%@' that was provided by the registration link you used." = "Utilizzo il server '%@' che è stato fornito dal link di registrazione che hai usato.";
 "Validate certificate" = "Convalida il certificato";
 "Version" = "Versione";

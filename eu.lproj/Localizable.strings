@@ -87,7 +87,7 @@
 "Cannot share something with disabled/deleted account, destination: %@, internal account id: %@" = "Ezin da ezer partekatu desgaitutako edo ezabatutako kontu batekin; helmuga: %1$@, barneko kontuaren IDa: %2$@";
 "Change Password" = "Aldatu pasahitza";
 "Changing Password" = "Pasahitza aldatzen";
-"Channel subject:" = "Channel subject:";
+"Channel subject:" = "Kanalaren gaia:";
 "Chat Backgrounds" = "Txaten hondoak";
 "Chat for free with your friends, colleagues and family!" = "Txateatu debalde lagun, lankide eta senideekin!";
 "Chat Logs" = "Txaten erregistroa";
@@ -99,7 +99,7 @@
 "Choices Galore" = "Nahi beste aukera";
 "Clear Chat History" = "Garbitu txat historia";
 "Clear chat history for this contact" = "Garbitu kontaktu honen txat historia";
-"Clear chat history of this channel" = "Clear chat history of this channel";
+"Clear chat history of this channel" = "Ezabatu kanal honetako txat-historia";
 "Clear chat history of this contact" = "Garbitu kontaktu honen txataren historia";
 "Clear chat history of this group" = "Clear chat history of this group";
 "Clear History" = "Garbitu historia";
@@ -113,7 +113,7 @@
 "Connected since: %@" = "%@etatik konektatuta";
 "Connecting..." = "Konektatzen…";
 "Connection Details" = "Konexioaren xehetasunak";
-"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Kontaktuek eta JIDek  ondorengo formatua izan ohi dute: izena@domeinua.eus";
+"Contact and Channel Jids  are usually in the format: name@domain.tld" = "Kontaktuen eta kanalen JIDek  ondorengo formatua izan ohi dute: izena@domeinua.eus";
 "Contact Jid" = "Kontaktuaren JIDa";
 "Contact Name" = "Kontaktuaren izena";
 "Contact or Channel Jid" = "Kontaktu edo kanalaren JIDa";
@@ -257,8 +257,8 @@
 "Failed to query newest stanzaid for account %@" = "Ezin izan dira %@ kontuko stanzaid berrienak kontsultatu";
 "Failed to query newest stanzaid for Group/Channel %@" = "%@ talde / kanaleko stanzaid berrienen kontsultak kale egin du";
 "Failed to query newest stanzaid for groupchat %@" = "Ezin izan dira %@ kontuko taldeko txateko stanzaid berrienak kontsultatu";
-"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
-"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
+"Failed to remove bookmark for Group/Channel: %@" = "Ezin izan da Talde edo kanalaren laster-marka kendu: %@";
+"Failed to save bookmark for Group/Channel: %@" = "Ezin izan da talde edo kanalaren laster-marka gorde: %@";
 "Failed to save groupchat bookmarks" = "Talde-txateko laster-markak gordetzeak kale egin du";
 "Failed to share file" = "Fitxategia partekatzeak kale egin du";
 "Failed to upload file: account was removed" = "Fitxategia igotzeak kale egin du: kontua kendu da";

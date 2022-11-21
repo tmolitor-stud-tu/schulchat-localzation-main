@@ -52,7 +52,7 @@
 "Appserver returned invalid data" = "Appserver hat ungültige Daten zurückgegeben";
 "Archive chat" = "Chat archivieren";
 "Archive only if the contact is in contact list" = "Nur archivieren, wenn der Kontakt in der Kontaktliste ist";
-"Archive only if the contact is in roster" = "Nur archivieren, wenn der Kontakt in der Kontaktliste ist";
+"Archive only if the contact is in roster" = "Nur archivieren, wenn der Kontakt in der Kontaktliste ist.";
 "Audio recoder init fail." = "Fehler beim Initialisieren der Sprachaufnahme.";
 "Audio recoder prepareToRecord fail." = "Vorbereitung zur Sprachaufnahme ist fehlgeschlagen.";
 "Audio Recoder recode fail" = "Sprachaufnahme fehlgeschlagen";
@@ -434,7 +434,7 @@
 "no supported auth mechanism, disconnecting!" = "Nicht unterstützter Authentifizierungsmechanismus, Verbindung wird getrennt!";
 "No XMPP server!" = "Kein XMPP-Server!";
 "No, keep encryption activated" = "Nein, Verschlüsselung aktiviert lassen";
-"None" = "Keiner";
+"None" = "Keine";
 "Not Authorized. Please check your credentials." = "Nicht autorisiert. Bitte überprüfe deine Anmeldedaten.";
 "Nothing to see" = "Nichts zu sehen";
 "Notification" = "Benachrichtigung";

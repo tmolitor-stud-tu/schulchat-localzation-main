@@ -694,7 +694,7 @@
 "This server does not support modern SASL2 authentication." = "Questo server non supporta l'autenticazione SASL2.";
 "This should never happen, please contact the developers and provide a logfile!" = "Questo non dovrebbe mai accadere, contatta gli sviluppatori fornendo il log di diagnostica!";
 "This specification defines semantics for using the XMPP publish-subscribe protocol to broadcast state change events associated with an instant messaging and presence account." = "Questa specifica definisce la semantica per usare il protocollo XMPP publish-subscribe per propagare eventi di cambio di stato associati a un account di messaggeria istantanea e presenza.";
-"This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades." = "Fornisce un metodo per mettere in sicurezza l'handshakes di SASL e SASL2 da attacchi mirati al downgrade del Channel-Binding.";
+"This specification provides a way to secure the SASL and SASL2 handshakes against method and channel-binding downgrades." = "Fornisce un metodo per mettere in sicurezza l'handshake di SASL e SASL2 da attacchi mirati al downgrade del Channel-Binding.";
 "This will clear the whole chat history of this account from this device." = "L'azione eliminerà l'intera cronologia della chat di questo account da questo dispositivo.";
 "This will clear the your own omemo session for debugging purposes" = "Questo pulirà la sessione OMEMO a scopo diagnostico";
 "This will clear your own omemo session for debugging purposes" = "Questo pulirà la tua sessione OMEMO a scopo diagnotico";

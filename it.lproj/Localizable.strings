@@ -155,7 +155,7 @@
 /* Chat msg action */
 "Delete" = "Elimina";
 "Delete Account" = "Elimina account";
-"Delete Account on Server" = "Cancella l'account sul server";
+"Delete Account on Server" = "Elimina l'account sul server";
 "Delete Key" = "Cancella la chiave";
 "Delete Locally" = "Elimina localmente";
 "Deny new contact" = "Rifiuta il nuovo contatto";

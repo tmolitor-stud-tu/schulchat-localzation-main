@@ -190,7 +190,7 @@
 "Draft: %@" = "Zirriborroa: %@";
 /* hello bartycrouch */
 "Dummy string for triggering bartycrouch" = "bartycrouch-i dei egiteko haria";
-"Dummy string to test SwiftUI translation support." = "Dummy string to test SwiftUI translation support.";
+"Dummy string to test SwiftUI translation support." = "SwiftUI itzulpenak badabiltzan ikusteko probako katea.";
 "Duplicate Account" = "Bikoiztu kontua";
 "Duplicate Account!" = "Duplicate Account!";
 "Duplicate jid!" = "Duplicate jid!";
@@ -210,9 +210,9 @@
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "Sartu pasahitz berria. Pasahitza ezin da hutsik egon. Gainera, litekeena da zerbitzari- edo enpresa-arauak bete behar izatea.";
 "Enter your password here" = "Sartu zure pasahitza hemen";
 "Enter your XMPP ID here" = "Sartu zure XMPP IDa hemen";
-"Entry 1" = "Entry 1";
-"Entry 2" = "Entry 2";
-"Entry 3" = "Entry 3";
+"Entry 1" = "1. sarrera";
+"Entry 2" = "2. sarrera";
+"Entry 3" = "3. sarrera";
 "Error" = "Errorea";
 "Error authenticating server using SASL2, disconnecting!" = "Errorea SASL2 bidez zerbitzaria autentifikatzean, deskonektatzen!";
 "Error decrypting message" = "Errorea mezua dezifratzerakoan";

@@ -603,6 +603,7 @@
 "Sharing failed" = "Sharing failed";
 "Show Inline Geo Location" = "Show Inline Geo Location";
 "Show Inline Images" = "Show Inline Images";
+"Show shared Media and Files" = "Show shared Media and Files";
 "Show URL previews" = "Forhåndsvis nettadresser";
 "Signing Up" = "Registrering";
 "Skip" = "Hopp over";
@@ -840,4 +841,3 @@
 "📍 A Location" = "📍 En posisjon";
 "📷 An Image" = "📷 Et bilde";
 "🔗 A Link" = "🔗 En lenke";
-"Show shared Media and Files" = "Show shared Media and Files";

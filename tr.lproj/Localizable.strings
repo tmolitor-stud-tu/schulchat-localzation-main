@@ -603,6 +603,7 @@
 "Sharing failed" = "Paylaşım başarısız oldu";
 "Show Inline Geo Location" = "Satır İçi Coğrafi Konumu Göster";
 "Show Inline Images" = "Satır İçi Görüntüleri Göster";
+"Show shared Media and Files" = "Paylaşılan Medya ve Dosyaları Göster";
 "Show URL previews" = "URL önizlemelerini göster";
 "Signing Up" = "Kaydol";
 "Skip" = "Atla";
@@ -840,4 +841,3 @@
 "📍 A Location" = "📍 Bir Konum";
 "📷 An Image" = "📷 Bir Resim";
 "🔗 A Link" = "🔗 Bir Bağlantı";
-"Show shared Media and Files" = "Paylaşılan Medya ve Dosyaları Göster";

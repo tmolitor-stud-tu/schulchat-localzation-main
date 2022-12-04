@@ -603,6 +603,7 @@
 "Sharing failed" = "Delen mislukt";
 "Show Inline Geo Location" = "Geolocatie ingebed tonen";
 "Show Inline Images" = "Afbeeldingen ingebed tonen";
+"Show shared Media and Files" = "Show shared Media and Files";
 "Show URL previews" = "Toon voorbeelden van URL's";
 "Signing Up" = "Registreren";
 "Skip" = "Overslaan";
@@ -840,4 +841,3 @@
 "📍 A Location" = "📍 Een locatie";
 "📷 An Image" = "📷 Een afbeelding";
 "🔗 A Link" = "🔗 Een link";
-"Show shared Media and Files" = "Show shared Media and Files";

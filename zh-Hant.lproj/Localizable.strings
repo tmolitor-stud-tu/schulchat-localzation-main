@@ -603,6 +603,7 @@
 "Sharing failed" = "Sharing failed";
 "Show Inline Geo Location" = "顯示內嵌地理位置";
 "Show Inline Images" = "顯示內嵌圖片";
+"Show shared Media and Files" = "Show shared Media and Files";
 "Show URL previews" = "顯示URL預覽";
 "Signing Up" = "註冊帳號";
 "Skip" = "略過";
@@ -840,4 +841,3 @@
 "📍 A Location" = "📍 位置";
 "📷 An Image" = "📷 An Image";
 "🔗 A Link" = "🔗 A Link";
-"Show shared Media and Files" = "Show shared Media and Files";

@@ -603,6 +603,7 @@
 "Sharing failed" = "Sdílení selhalo";
 "Show Inline Geo Location" = "Zobrazit polohu v chatu";
 "Show Inline Images" = "Zobrazit obrázky v chatu";
+"Show shared Media and Files" = "Show shared Media and Files";
 "Show URL previews" = "Zobrazit náhledy URL";
 "Signing Up" = "Registrace";
 "Skip" = "Přeskočit";
@@ -840,4 +841,3 @@
 "📍 A Location" = "📍 Poloha";
 "📷 An Image" = "📷 Obrázek";
 "🔗 A Link" = "🔗 Odkaz";
-"Show shared Media and Files" = "Show shared Media and Files";

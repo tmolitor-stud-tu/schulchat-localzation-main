@@ -603,6 +603,7 @@
 "Sharing failed" = "Teilen fehlgeschlagen";
 "Show Inline Geo Location" = "Geo-Position im Chat anzeigen";
 "Show Inline Images" = "Bilder im Chat anzeigen";
+"Show shared Media and Files" = "Geteilte Medien und Dateien anzeigen";
 "Show URL previews" = "URL-Vorschau anzeigen";
 "Signing Up" = "Registriere";
 "Skip" = "Überspringen";
@@ -840,4 +841,3 @@
 "📍 A Location" = "📍 Ein Standort";
 "📷 An Image" = "📷 Ein Bild";
 "🔗 A Link" = "🔗 Ein Link";
-"Show shared Media and Files" = "Geteilte Medien und Dateien anzeigen";

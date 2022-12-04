@@ -603,6 +603,7 @@
 "Sharing failed" = "Échec du partage";
 "Show Inline Geo Location" = "Afficher la géolocalisation en ligne";
 "Show Inline Images" = "Afficher les images en ligne";
+"Show shared Media and Files" = "Show shared Media and Files";
 "Show URL previews" = "Afficher l'aperçu des URL";
 "Signing Up" = "Inscription";
 "Skip" = "Ignorer";
@@ -840,4 +841,3 @@
 "📍 A Location" = "📍 Une localisation";
 "📷 An Image" = "📷 Une image";
 "🔗 A Link" = "🔗 Un lien";
-"Show shared Media and Files" = "Show shared Media and Files";

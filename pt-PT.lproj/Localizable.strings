@@ -257,6 +257,8 @@
 "Failed to query newest stanzaid for account %@" = "Failed to query newest stanzaid for account %@";
 "Failed to query newest stanzaid for Group/Channel %@" = "Failed to query newest stanzaid for Group/Channel %@";
 "Failed to query newest stanzaid for groupchat %@" = "Failed to query newest stanzaid for groupchat %@";
+"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
+"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
 "Failed to save groupchat bookmarks" = "Failed to save groupchat bookmarks";
 "Failed to share file" = "Failed to share file";
 "Failed to upload file: account was removed" = "Failed to upload file: account was removed";
@@ -601,6 +603,7 @@
 "Sharing failed" = "Sharing failed";
 "Show Inline Geo Location" = "Show Inline Geo Location";
 "Show Inline Images" = "Show Inline Images";
+"Show shared Media and Files" = "Show shared Media and Files";
 "Show URL previews" = "Show URL previews";
 "Signing Up" = "Signing Up";
 "Skip" = "Skip";
@@ -838,6 +841,3 @@
 "📍 A Location" = "📍 A Location";
 "📷 An Image" = "📷 An Image";
 "🔗 A Link" = "🔗 A Link";
-"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
-"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
-"Show shared Media and Files" = "Show shared Media and Files";

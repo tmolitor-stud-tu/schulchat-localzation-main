@@ -44,7 +44,7 @@
 "Always use direct TLS, not STARTTLS" = "Forza TLS invece di STARTTLS";
 "App" = "Applicazione";
 "Apple Push Service" = "Servizio push di Apple";
-"Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Il servizio push di Apple dovrebbe essere sempre attivo. Se disattivato, il tuo dispositivo non potrà collegarsi con il server Apple.";
+"Apple push service should always be on. If it is off, your device can not talk to Apple's server." = "Il servizio push di Apple dovrebbe essere sempre attivo. Se disattivato, il tuo dispositivo non potrà collegarsi con il server di Apple.";
 "Apple Push Token" = "Token Push di Apple";
 "Apple Push Token is not available!" = "Il Token Push di Apple non è disponibile!";
 "Approve new contact" = "Approva il nuovo contatto";
@@ -208,7 +208,7 @@
 "Enter you password here" = "Inserisci qui la tua password";
 "Enter you XMPP ID here" = "Inserisci qui il tuo XMPP ID";
 "Enter your new password. Passwords may not be empty. They may also be governed by server or company policies." = "Inserisci la nuova password. Le password non possono essere vuote e potrebbero essere regolate da criteri del server o dell'azienda.";
-"Enter your password here" = "Inserisci la password qui";
+"Enter your password here" = "Inserisci qui la tua password";
 "Enter your XMPP ID here" = "Inserisci qui il tuo XMPP ID";
 "Entry 1" = "Voce 1";
 "Entry 2" = "Voce 2";
@@ -257,8 +257,8 @@
 "Failed to query newest stanzaid for account %@" = "Impossibile recuperare lo Stanza ID più recente per l'account %@";
 "Failed to query newest stanzaid for Group/Channel %@" = "Impossibile recuperare gli StanzaID più recenti per il gruppo o canale %@";
 "Failed to query newest stanzaid for groupchat %@" = "Impossibile recuperare lo Stanza ID più recente per la chat di gruppo %@";
-"Failed to remove bookmark for Group/Channel: %@" = "Failed to remove bookmark for Group/Channel: %@";
-"Failed to save bookmark for Group/Channel: %@" = "Failed to save bookmark for Group/Channel: %@";
+"Failed to remove bookmark for Group/Channel: %@" = "Impossibile rimuovere il segnalibro per il gruppo o canale: %@";
+"Failed to save bookmark for Group/Channel: %@" = "Impossibile salvare il segnalibro per il gruppo o canale: %@";
 "Failed to save groupchat bookmarks" = "Impossibile salvare i segnalibri della chat di gruppo";
 "Failed to share file" = "Condivisione file fallita";
 "Failed to upload file: account was removed" = "Upload file fallito: l'account è stato rimosso";
@@ -267,7 +267,7 @@
 "Favorite" = "Preferito";
 "Favorite Group Chats (MUC). Tap to join. " = "Conversazioni di gruppo preferite (MUC). Tocca per unirti. ";
 "Fetching registration form..." = "Recupero il form di registrazione...";
-"File" = "File";
+"File" = "Invia file";
 "Files" = "Files";
 "from" = "da";
 "General" = "Generale";
@@ -404,7 +404,7 @@
 "Muc got destroyed: %@" = "MUC distrutto: %@";
 "Muc not available anymore: %@" = "MUC non più disponibile: %@";
 "Mute" = "Silenzia";
-"My Encryption Keys" = "Le mie chiavi di cifratura";
+"My Encryption Keys" = "Chiavi di cifratura";
 "My Keys" = "Le mie chiavi";
 "My Name/Nickname" = "Il mio nome o soprannome";
 "Name can't be empty" = "Il nome non può essere vuoto";
@@ -458,7 +458,7 @@
 "Optional Hardcoded Hostname" = "Nome host opzionale";
 "Optional Port" = "Porta opzionale";
 "Os: " = "Os: ";
-"Own device key" = "Le chiavi del mio dispositivo";
+"Own device key" = "Chiave del dispositivo";
 "Participants" = "Partecipanti";
 "Password" = "Password";
 "Password cannot be empty" = "La password non può essere vuota";
@@ -603,7 +603,7 @@
 "Sharing failed" = "Condivisione fallita";
 "Show Inline Geo Location" = "Mostra anteprima posizione geografica";
 "Show Inline Images" = "Mostra anteprima immagini";
-"Show shared Media and Files" = "Show shared Media and Files";
+"Show shared Media and Files" = "Mostra media e file condivisi";
 "Show URL previews" = "Mostra anteprima dei link";
 "Signing Up" = "Iscrizione";
 "Skip" = "Salta";
@@ -746,7 +746,7 @@
 "Uploading file to server" = "Caricamento file sul server";
 "Use your existing account or make a new one on the many servers around the world" = "Usa il tuo account esistente o creane uno nuovo sui tanti server sparsi nel mondo";
 /* BlockUserTable - blockJidForm */
-"user@example.org/resource" = "utente@dominio/risorsa";
+"user@example.org/resource" = "nomeutente@dominio";
 "Username missing" = "Nome utente mancante";
 "Uses TLS client certificates for authentication" = "Utilizza certificato TLS per l'autenticazione";
 "Using Account: %@" = "Aggiungi a: %@";

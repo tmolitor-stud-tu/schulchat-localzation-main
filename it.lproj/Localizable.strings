@@ -290,7 +290,7 @@
 "Groupchat/channel details" = "Dettagli della chat di gruppo o del canale";
 "Groupchat/channel details are currently not implemented in Monal." = "I dettagli della chat di gruppo o del canale non sono al momento disponibili in Monal.";
 "groupJoin Group" = "Unisciti al gruppo";
-"Hardcoded Hostname" = "Nome host specifico";
+"Hardcoded Hostname" = "Nome host";
 "Hide Chat" = "Nascondi la chat";
 "Hint" = "Suggerimento";
 "If Monal can't show notifications, you will not see alerts when a message arrives. This happens if you tapped 'Decline' when Monal first asked permission.  Fix it by going to iOS Settings -> Monal -> Notifications and select 'Allow Notifications'. " = "Se Monal non può mostrare le notifiche, non vedrai avvisi quando arriva un messaggio. Questo succede se hai scelto 'Rifiuta' quando Monal ha chiesto il permesso la prima volta.  Puoi cambiare la scelta andando su Impostazioni -> Monal -> Notifiche e abilitare 'Consenti notifiche'. ";
@@ -392,7 +392,7 @@
 "Monal currently trusts this key, but fingerprints were not compared yet. To increase security, please confirm with the contact that the displayed fingerprints do match before trusting this key!" = "Monal al momento si fida di questa chiave, ma le impronte non sono ancora state confrontate. Per aumentare la sicurezza, verifica con il contatto che le impronte corrispondano prima di fidarti di questa chiave!";
 "Monal did not received a gps location. Please try again later." = "Monal non ha ricevuto alcuna posizione GPS. Riprova più tardi.";
 "Monal does not have access to your location. Please update the location access in your device's Privacy Settings." = "Monal non ha accesso alla tua posizione. Consenti l'accesso alla posizione nelle impostazioni della Privacy del tuo dispositivo.";
-"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal non si fida di questa chiave. O è stata disabilitata manualmente o non verificata manualmente mentre altre chiavi di questo contatto sono verificate. Puoi decidere di fidarti di questa chiave tramite il pulsante. Verifica con il contatto che le impronte corrispondano prima di fidarti.";
+"Monal does not trust this key. Either it was manually disabled or not manually verified while other keys of that contact are verified. You can trust this key by using the toggle element. Please ensure with the contact that fingerprints are matching before trusting this key." = "Monal non si fida di questa chiave. Può essere stata disabilitata manualmente o non verificata manualmente mentre altre chiavi di questo contatto sono verificate. Puoi decidere di fidarti tramite il pulsante. Verifica con il contatto che le impronte corrispondano prima di farlo.";
 /* Camera permissions missing warning */
 "Monal is not allowed to access the camera" = "Monal non ha il permesso di accedere alla fotocamera";
 "Monal Push Server" = "Server push di Monal";
@@ -455,7 +455,7 @@
 "Open" = "Apri";
 "Open app to see more" = "Apri Monal per vedere di più";
 "Open Source" = "Codice sorgente aperto";
-"Optional Hardcoded Hostname" = "Nome host opzionale";
+"Optional Hardcoded Hostname" = "Nome host (opzionale)";
 "Optional Port" = "Porta opzionale";
 "Os: " = "Os: ";
 "Own device key" = "Chiave del dispositivo";

@@ -35,7 +35,7 @@
 "Advanced" = "Avanzate";
 "Advanced Settings" = "Impostazioni avanzate";
 "All messages already present in local history!" = "Tutti i messaggi sono già presenti nella cronologia locale!";
-"All messages are archived by default." = "Tutti i nuovi messaggi vengono archiviati.";
+"All messages are archived by default." = "I nuovi messaggi vengono archiviati.";
 "Allow" = "Consenti";
 "Allow %@ to contact you?" = "Consentire a %@ di contattarti?";
 "Allowing someone to add you as a contact lets them see when you are online. It also allows you to send encrypted messages.  Tap to approve. Swipe to reject." = "Se consenti a qualcuno di aggiungerti come contatto potrà vedere quando sei in linea e inviarti messaggi cifrati. Tocca per approvare o scorri per rifiutare.";
@@ -383,7 +383,7 @@
 "Message was encrypted with OMEMO but could not be decrypted" = "Il messaggio è stato cifrato con OMEMO ma potrebbe non essere decifrabile";
 "Message was not encrypted for this device. Please make sure the sender trusts deviceid %d and that they have you as a contact." = "Il messaggio non è stato cifrato per questo dispositivo. Assicurati che il mittente si fidi del dispositivo %d e che ti abbia tra i suoi contatti.";
 "Message was not encrypted for this device. Please make sure the sender trusts deviceid %u." = "Il messaggio non è stato cifrato per questo dispositivo. Assicurati che il mittente si fidi del dispositivo %u.";
-"Messages never archived by default." = "Tutti i nuovi messaggi non vengono archiviati.";
+"Messages never archived by default." = "I nuovi messaggi non vengono archiviati.";
 "Method: %@" = "Metodo: %@";
 "Migration Assistant" = "Assistente migrazione";
 "Missing permission" = "Permesso mancante";
@@ -710,7 +710,7 @@
 "TLS Error: Unknown root certificate" = "Errore TLS: certificato di root sconosciuto";
 /* OmemoQrCodeView */
 "To many device keys" = "Troppe chiavi per questo dispositivo";
-"Trust Key" = "Chiave fidata";
+"Trust Key" = "Fidati";
 "Trusted and verified key" = "Chiave fidata e verificata";
 "Trusted but removed key" = "Chiave fidata ma rimossa";
 "Trusted but unused key" = "Chiave fidata ma inutilizzata";
